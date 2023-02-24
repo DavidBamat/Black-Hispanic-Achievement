@@ -1,0 +1,3241 @@
+Year,Jurisdiction,RaceEth,NSLP,Mean,SE
+2003,Alabama,Black,All,240.27,1.62
+2003,Alabama,Hispanic,All,NA,NA
+2003,Alabama,Black,Eligible,235.19,1.56
+2003,Alabama,Hispanic,Eligible,NA,NA
+2003,Alabama,Black,Not Eligible,256.35,2.7600000000000002
+2003,Alabama,Hispanic,Not Eligible,NA,NA
+2003,Alaska,Black,All,263.12,2.9899999999999998
+2003,Alaska,Hispanic,All,263.01,3.67
+2003,Alaska,Black,Eligible,NA,NA
+2003,Alaska,Hispanic,Eligible,NA,NA
+2003,Alaska,Black,Not Eligible,265.02,3.3
+2003,Alaska,Hispanic,Not Eligible,NA,NA
+2003,Arizona,Black,All,256.42,3.6
+2003,Arizona,Hispanic,All,257.69,1.57
+2003,Arizona,Black,Eligible,248.33,4.430000000000001
+2003,Arizona,Hispanic,Eligible,253.69,1.83
+2003,Arizona,Black,Not Eligible,NA,NA
+2003,Arizona,Hispanic,Not Eligible,266.18,2.98
+2003,Arkansas,Black,All,239.46,2.11
+2003,Arkansas,Hispanic,All,248.45,5.53
+2003,Arkansas,Black,Eligible,237.17,2.56
+2003,Arkansas,Hispanic,Eligible,NA,NA
+2003,Arkansas,Black,Not Eligible,250.67,3.08
+2003,Arkansas,Hispanic,Not Eligible,NA,NA
+2003,California,Black,All,245.78,2.3499999999999996
+2003,California,Hispanic,All,249.84,1.3800000000000001
+2003,California,Black,Eligible,239.82,3.2
+2003,California,Hispanic,Eligible,245.43,1.6
+2003,California,Black,Not Eligible,254.91,4.28
+2003,California,Hispanic,Not Eligible,260.62,2.77
+2003,Colorado,Black,All,255.03,2.9
+2003,Colorado,Hispanic,All,259.48,1.92
+2003,Colorado,Black,Eligible,247.95,3.75
+2003,Colorado,Hispanic,Eligible,252.72,2.4099999999999997
+2003,Colorado,Black,Not Eligible,261.64,3.7800000000000002
+2003,Colorado,Hispanic,Not Eligible,270.35,2.72
+2003,Connecticut,Black,All,254.51,2.16
+2003,Connecticut,Hispanic,All,258.72,1.99
+2003,Connecticut,Black,Eligible,250.27,2.65
+2003,Connecticut,Hispanic,Eligible,253.62,2.05
+2003,Connecticut,Black,Not Eligible,261.92,3.03
+2003,Connecticut,Hispanic,Not Eligible,268.79,4.31
+2003,Delaware,Black,All,260.29,0.9400000000000001
+2003,Delaware,Hispanic,All,257.2,3.8
+2003,Delaware,Black,Eligible,256.41,1.23
+2003,Delaware,Hispanic,Eligible,253.7,4.5
+2003,Delaware,Black,Not Eligible,265.71,2.08
+2003,Delaware,Hispanic,Not Eligible,NA,NA
+2003,District of Columbia,Black,All,239.63,0.7799999999999999
+2003,District of Columbia,Hispanic,All,245.9,3.17
+2003,District of Columbia,Black,Eligible,233.99,1.1400000000000001
+2003,District of Columbia,Hispanic,Eligible,243.91,4.319999999999999
+2003,District of Columbia,Black,Not Eligible,246.38,2.01
+2003,District of Columbia,Hispanic,Not Eligible,249.97,4.21
+2003,DoDEA,Black,All,269.64,1.37
+2003,DoDEA,Hispanic,All,278.1,1.47
+2003,DoDEA,Black,Eligible,NA,NA
+2003,DoDEA,Hispanic,Eligible,NA,NA
+2003,DoDEA,Black,Not Eligible,NA,NA
+2003,DoDEA,Hispanic,Not Eligible,NA,NA
+2003,Florida,Black,All,248.58,1.9
+2003,Florida,Hispanic,All,263.86,2.59
+2003,Florida,Black,Eligible,244.84,2.23
+2003,Florida,Hispanic,Eligible,257.49,2.92
+2003,Florida,Black,Not Eligible,257.95,2.71
+2003,Florida,Hispanic,Not Eligible,277.65,4.29
+2003,Georgia,Black,All,250.13,1.52
+2003,Georgia,Hispanic,All,262.38,3.3499999999999996
+2003,Georgia,Black,Eligible,245.72,1.72
+2003,Georgia,Hispanic,Eligible,258.58,3.4899999999999998
+2003,Georgia,Black,Not Eligible,262.17,2.15
+2003,Georgia,Hispanic,Not Eligible,NA,NA
+2003,Hawaii,Black,All,NA,NA
+2003,Hawaii,Hispanic,All,263.31,4.5
+2003,Hawaii,Black,Eligible,NA,NA
+2003,Hawaii,Hispanic,Eligible,NA,NA
+2003,Hawaii,Black,Not Eligible,NA,NA
+2003,Hawaii,Hispanic,Not Eligible,NA,NA
+2003,Idaho,Black,All,NA,NA
+2003,Idaho,Hispanic,All,250.86,2.8
+2003,Idaho,Black,Eligible,NA,NA
+2003,Idaho,Hispanic,Eligible,245.42,3.4
+2003,Idaho,Black,Not Eligible,NA,NA
+2003,Idaho,Hispanic,Not Eligible,NA,NA
+2003,Illinois,Black,All,249.32,1.6300000000000001
+2003,Illinois,Hispanic,All,258.84,2.02
+2003,Illinois,Black,Eligible,244.15,1.48
+2003,Illinois,Hispanic,Eligible,255.88,1.8900000000000001
+2003,Illinois,Black,Not Eligible,265.2,4.91
+2003,Illinois,Hispanic,Not Eligible,269.39,6.1899999999999995
+2003,Indiana,Black,All,251.02,3.05
+2003,Indiana,Hispanic,All,260.56,4.05
+2003,Indiana,Black,Eligible,247.17,2.8099999999999996
+2003,Indiana,Hispanic,Eligible,NA,NA
+2003,Indiana,Black,Not Eligible,258.48,4.109999999999999
+2003,Indiana,Hispanic,Not Eligible,NA,NA
+2003,Iowa,Black,All,256.65,3.88
+2003,Iowa,Hispanic,All,254.96,4.619999999999999
+2003,Iowa,Black,Eligible,248.88,4.39
+2003,Iowa,Hispanic,Eligible,245.25,4.68
+2003,Iowa,Black,Not Eligible,NA,NA
+2003,Iowa,Hispanic,Not Eligible,NA,NA
+2003,Kansas,Black,All,251.55,3.53
+2003,Kansas,Hispanic,All,263.32,2.61
+2003,Kansas,Black,Eligible,248.06,3.9499999999999997
+2003,Kansas,Hispanic,Eligible,258.12,3.3499999999999996
+2003,Kansas,Black,Not Eligible,258.99,4.48
+2003,Kansas,Hispanic,Not Eligible,272.73,5.34
+2003,Kentucky,Black,All,250.2,2.69
+2003,Kentucky,Hispanic,All,NA,NA
+2003,Kentucky,Black,Eligible,246.11,3.04
+2003,Kentucky,Hispanic,Eligible,NA,NA
+2003,Kentucky,Black,Not Eligible,258.04,4.07
+2003,Kentucky,Hispanic,Not Eligible,NA,NA
+2003,Louisiana,Black,All,249.63,1.83
+2003,Louisiana,Hispanic,All,NA,NA
+2003,Louisiana,Black,Eligible,247.4,1.72
+2003,Louisiana,Hispanic,Eligible,NA,NA
+2003,Louisiana,Black,Not Eligible,259.61,4.44
+2003,Louisiana,Hispanic,Not Eligible,NA,NA
+2003,Maine,Black,All,NA,NA
+2003,Maine,Hispanic,All,NA,NA
+2003,Maine,Black,Eligible,NA,NA
+2003,Maine,Hispanic,Eligible,NA,NA
+2003,Maine,Black,Not Eligible,NA,NA
+2003,Maine,Hispanic,Not Eligible,NA,NA
+2003,Maryland,Black,All,256.25,1.1900000000000002
+2003,Maryland,Hispanic,All,261.79,4.430000000000001
+2003,Maryland,Black,Eligible,248.07,1.72
+2003,Maryland,Hispanic,Eligible,251.61,6.54
+2003,Maryland,Black,Not Eligible,264.63,2.07
+2003,Maryland,Hispanic,Not Eligible,269.59,3.7600000000000002
+2003,Massachusetts,Black,All,259.69,1.52
+2003,Massachusetts,Hispanic,All,255.21,1.75
+2003,Massachusetts,Black,Eligible,253.09,1.3800000000000001
+2003,Massachusetts,Hispanic,Eligible,251.19,2.05
+2003,Massachusetts,Black,Not Eligible,272.5,4.6
+2003,Massachusetts,Hispanic,Not Eligible,269.2,4.2700000000000005
+2003,Michigan,Black,All,244.94,3.4499999999999997
+2003,Michigan,Hispanic,All,266.83,4.22
+2003,Michigan,Black,Eligible,240.24,4.2700000000000005
+2003,Michigan,Hispanic,Eligible,NA,NA
+2003,Michigan,Black,Not Eligible,251.84,3.8699999999999997
+2003,Michigan,Hispanic,Not Eligible,NA,NA
+2003,Minnesota,Black,All,251.31,5.619999999999999
+2003,Minnesota,Hispanic,All,262.49,4.64
+2003,Minnesota,Black,Eligible,240.08,7.359999999999999
+2003,Minnesota,Hispanic,Eligible,NA,NA
+2003,Minnesota,Black,Not Eligible,NA,NA
+2003,Minnesota,Hispanic,Not Eligible,NA,NA
+2003,Mississippi,Black,All,246.29,1.25
+2003,Mississippi,Hispanic,All,NA,NA
+2003,Mississippi,Black,Eligible,244.2,1.1800000000000002
+2003,Mississippi,Hispanic,Eligible,NA,NA
+2003,Mississippi,Black,Not Eligible,255.94,3.65
+2003,Mississippi,Hispanic,Not Eligible,NA,NA
+2003,Missouri,Black,All,250.29,2.11
+2003,Missouri,Hispanic,All,NA,NA
+2003,Missouri,Black,Eligible,246.06,2.52
+2003,Missouri,Hispanic,Eligible,NA,NA
+2003,Missouri,Black,Not Eligible,257.83,2.7
+2003,Missouri,Hispanic,Not Eligible,NA,NA
+2003,Montana,Black,All,NA,NA
+2003,Montana,Hispanic,All,NA,NA
+2003,Montana,Black,Eligible,NA,NA
+2003,Montana,Hispanic,Eligible,NA,NA
+2003,Montana,Black,Not Eligible,NA,NA
+2003,Montana,Hispanic,Not Eligible,NA,NA
+2003,National public,Black,All,251.74,0.54
+2003,National public,Hispanic,All,258.12,0.64
+2003,National public,Black,Eligible,246.58,0.6
+2003,National public,Hispanic,Eligible,253.84,0.77
+2003,National public,Black,Not Eligible,262.17,0.71
+2003,National public,Hispanic,Not Eligible,268.92,1.21
+2003,Nebraska,Black,All,246.73,3.59
+2003,Nebraska,Hispanic,All,254.58,2.98
+2003,Nebraska,Black,Eligible,239.89,3.8299999999999996
+2003,Nebraska,Hispanic,Eligible,250.92,2.98
+2003,Nebraska,Black,Not Eligible,NA,NA
+2003,Nebraska,Hispanic,Not Eligible,NA,NA
+2003,Nevada,Black,All,248.29,2.61
+2003,Nevada,Hispanic,All,249.6,1.75
+2003,Nevada,Black,Eligible,240.07,3.56
+2003,Nevada,Hispanic,Eligible,244.46,2.2
+2003,Nevada,Black,Not Eligible,256.61,3.4699999999999998
+2003,Nevada,Hispanic,Not Eligible,254.25,2.36
+2003,New Hampshire,Black,All,NA,NA
+2003,New Hampshire,Hispanic,All,NA,NA
+2003,New Hampshire,Black,Eligible,NA,NA
+2003,New Hampshire,Hispanic,Eligible,NA,NA
+2003,New Hampshire,Black,Not Eligible,NA,NA
+2003,New Hampshire,Hispanic,Not Eligible,NA,NA
+2003,New Jersey,Black,All,252.98,2.17
+2003,New Jersey,Hispanic,All,261.65,2.61
+2003,New Jersey,Black,Eligible,246.81,2.57
+2003,New Jersey,Hispanic,Eligible,254.67,2.92
+2003,New Jersey,Black,Not Eligible,263.5,2.57
+2003,New Jersey,Hispanic,Not Eligible,269.3,3.29
+2003,New Mexico,Black,All,253.58,4.41
+2003,New Mexico,Hispanic,All,254.33,1.01
+2003,New Mexico,Black,Eligible,NA,NA
+2003,New Mexico,Hispanic,Eligible,249.66,1.26
+2003,New Mexico,Black,Not Eligible,NA,NA
+2003,New Mexico,Hispanic,Not Eligible,263.32,1.56
+2003,New York,Black,All,255.37,2.02
+2003,New York,Hispanic,All,261.8,2.42
+2003,New York,Black,Eligible,252.14,2.27
+2003,New York,Hispanic,Eligible,257.23,1.87
+2003,New York,Black,Not Eligible,268.39,4.4
+2003,New York,Hispanic,Not Eligible,282.06,7.33
+2003,North Carolina,Black,All,259.94,1.24
+2003,North Carolina,Hispanic,All,263.19,3.14
+2003,North Carolina,Black,Eligible,254.1,1.48
+2003,North Carolina,Hispanic,Eligible,259.33,3.44
+2003,North Carolina,Black,Not Eligible,268.82,2.08
+2003,North Carolina,Hispanic,Not Eligible,273.65,6.81
+2003,North Dakota,Black,All,NA,NA
+2003,North Dakota,Hispanic,All,NA,NA
+2003,North Dakota,Black,Eligible,NA,NA
+2003,North Dakota,Hispanic,Eligible,NA,NA
+2003,North Dakota,Black,Not Eligible,NA,NA
+2003,North Dakota,Hispanic,Not Eligible,NA,NA
+2003,Ohio,Black,All,257.12,2.11
+2003,Ohio,Hispanic,All,269.96,5.51
+2003,Ohio,Black,Eligible,253,2.46
+2003,Ohio,Hispanic,Eligible,254.04,4.98
+2003,Ohio,Black,Not Eligible,263.54,3.71
+2003,Ohio,Hispanic,Not Eligible,NA,NA
+2003,Oklahoma,Black,All,249.22,3.3699999999999997
+2003,Oklahoma,Hispanic,All,257.56,3
+2003,Oklahoma,Black,Eligible,243.31,3.6
+2003,Oklahoma,Hispanic,Eligible,252,3.79
+2003,Oklahoma,Black,Not Eligible,265.56,5.3
+2003,Oklahoma,Hispanic,Not Eligible,NA,NA
+2003,Oregon,Black,All,264.76,3.64
+2003,Oregon,Hispanic,All,258.18,2.21
+2003,Oregon,Black,Eligible,NA,NA
+2003,Oregon,Hispanic,Eligible,252.91,2.94
+2003,Oregon,Black,Not Eligible,NA,NA
+2003,Oregon,Hispanic,Not Eligible,262.66,4.71
+2003,Pennsylvania,Black,All,247.14,2.06
+2003,Pennsylvania,Hispanic,All,253.12,3.8299999999999996
+2003,Pennsylvania,Black,Eligible,241.77,2.2800000000000002
+2003,Pennsylvania,Hispanic,Eligible,NA,NA
+2003,Pennsylvania,Black,Not Eligible,257.22,4.13
+2003,Pennsylvania,Hispanic,Not Eligible,NA,NA
+2003,Puerto Rico,Black,All,NA,NA
+2003,Puerto Rico,Hispanic,All,NA,NA
+2003,Puerto Rico,Black,Eligible,NA,NA
+2003,Puerto Rico,Hispanic,Eligible,NA,NA
+2003,Puerto Rico,Black,Not Eligible,NA,NA
+2003,Puerto Rico,Hispanic,Not Eligible,NA,NA
+2003,Rhode Island,Black,All,244,2.77
+2003,Rhode Island,Hispanic,All,244.75,2.05
+2003,Rhode Island,Black,Eligible,240.84,3.46
+2003,Rhode Island,Hispanic,Eligible,245.27,2.65
+2003,Rhode Island,Black,Not Eligible,NA,NA
+2003,Rhode Island,Hispanic,Not Eligible,NA,NA
+2003,South Carolina,Black,All,258.11,1.57
+2003,South Carolina,Hispanic,All,NA,NA
+2003,South Carolina,Black,Eligible,255.65,1.59
+2003,South Carolina,Hispanic,Eligible,NA,NA
+2003,South Carolina,Black,Not Eligible,264.89,3.05
+2003,South Carolina,Hispanic,Not Eligible,NA,NA
+2003,South Dakota,Black,All,NA,NA
+2003,South Dakota,Hispanic,All,NA,NA
+2003,South Dakota,Black,Eligible,NA,NA
+2003,South Dakota,Hispanic,Eligible,NA,NA
+2003,South Dakota,Black,Not Eligible,NA,NA
+2003,South Dakota,Hispanic,Not Eligible,NA,NA
+2003,Tennessee,Black,All,241.68,2.4699999999999998
+2003,Tennessee,Hispanic,All,NA,NA
+2003,Tennessee,Black,Eligible,235.36,2.9299999999999997
+2003,Tennessee,Hispanic,Eligible,NA,NA
+2003,Tennessee,Black,Not Eligible,254.82,3.66
+2003,Tennessee,Hispanic,Not Eligible,NA,NA
+2003,Texas,Black,All,259.75,2.2
+2003,Texas,Hispanic,All,266.85,1.1700000000000002
+2003,Texas,Black,Eligible,253.67,2.4299999999999997
+2003,Texas,Hispanic,Eligible,263.21,1.22
+2003,Texas,Black,Not Eligible,268.62,2.8099999999999996
+2003,Texas,Hispanic,Not Eligible,276.95,2.55
+2003,Utah,Black,All,NA,NA
+2003,Utah,Hispanic,All,248.81,2.9499999999999997
+2003,Utah,Black,Eligible,NA,NA
+2003,Utah,Hispanic,Eligible,245.15,3.07
+2003,Utah,Black,Not Eligible,NA,NA
+2003,Utah,Hispanic,Not Eligible,254.65,4.28
+2003,Vermont,Black,All,NA,NA
+2003,Vermont,Hispanic,All,NA,NA
+2003,Vermont,Black,Eligible,NA,NA
+2003,Vermont,Hispanic,Eligible,NA,NA
+2003,Vermont,Black,Not Eligible,NA,NA
+2003,Vermont,Hispanic,Not Eligible,NA,NA
+2003,Virginia,Black,All,261.88,1.12
+2003,Virginia,Hispanic,All,268.43,3.96
+2003,Virginia,Black,Eligible,253.31,1.76
+2003,Virginia,Hispanic,Eligible,260.88,4.28
+2003,Virginia,Black,Not Eligible,267.98,1.9
+2003,Virginia,Hispanic,Not Eligible,NA,NA
+2003,Washington,Black,All,262.49,3.13
+2003,Washington,Hispanic,All,263.3,2.9699999999999998
+2003,Washington,Black,Eligible,255.69,4.64
+2003,Washington,Hispanic,Eligible,255.45,2.94
+2003,Washington,Black,Not Eligible,NA,NA
+2003,Washington,Hispanic,Not Eligible,282.08,6.21
+2003,West Virginia,Black,All,253.08,3.96
+2003,West Virginia,Hispanic,All,NA,NA
+2003,West Virginia,Black,Eligible,248.44,4.26
+2003,West Virginia,Hispanic,Eligible,NA,NA
+2003,West Virginia,Black,Not Eligible,NA,NA
+2003,West Virginia,Hispanic,Not Eligible,NA,NA
+2003,Wisconsin,Black,All,241.1,3.96
+2003,Wisconsin,Hispanic,All,261.82,3.9899999999999998
+2003,Wisconsin,Black,Eligible,233.26,3.82
+2003,Wisconsin,Hispanic,Eligible,NA,NA
+2003,Wisconsin,Black,Not Eligible,NA,NA
+2003,Wisconsin,Hispanic,Not Eligible,NA,NA
+2003,Wyoming,Black,All,NA,NA
+2003,Wyoming,Hispanic,All,265.33,2.22
+2003,Wyoming,Black,Eligible,NA,NA
+2003,Wyoming,Hispanic,Eligible,263.78,2.71
+2003,Wyoming,Black,Not Eligible,NA,NA
+2003,Wyoming,Hispanic,Not Eligible,267.48,3.4099999999999997
+2005,Alabama,Black,All,239.96,1.77
+2005,Alabama,Hispanic,All,NA,NA
+2005,Alabama,Black,Eligible,237.62,1.93
+2005,Alabama,Hispanic,Eligible,NA,NA
+2005,Alabama,Black,Not Eligible,249.36,3.55
+2005,Alabama,Hispanic,Not Eligible,NA,NA
+2005,Alaska,Black,All,266.19,3.01
+2005,Alaska,Hispanic,All,271.77,3.42
+2005,Alaska,Black,Eligible,NA,NA
+2005,Alaska,Hispanic,Eligible,NA,NA
+2005,Alaska,Black,Not Eligible,270.51,3.52
+2005,Alaska,Hispanic,Not Eligible,281.3,3.7600000000000002
+2005,Arizona,Black,All,260.93,2.71
+2005,Arizona,Hispanic,All,259.97,1.42
+2005,Arizona,Black,Eligible,247.14,2.65
+2005,Arizona,Hispanic,Eligible,255.83,1.77
+2005,Arizona,Black,Not Eligible,NA,NA
+2005,Arizona,Hispanic,Not Eligible,264.96,2.9099999999999997
+2005,Arkansas,Black,All,242.84,1.57
+2005,Arkansas,Hispanic,All,266.32,4.03
+2005,Arkansas,Black,Eligible,238.9,1.6800000000000002
+2005,Arkansas,Hispanic,Eligible,264.55,3.94
+2005,Arkansas,Black,Not Eligible,255.25,2.67
+2005,Arkansas,Hispanic,Not Eligible,NA,NA
+2005,California,Black,All,248.08,1.57
+2005,California,Hispanic,All,254.2,0.69
+2005,California,Black,Eligible,240.97,2.09
+2005,California,Hispanic,Eligible,250.87,0.91
+2005,California,Black,Not Eligible,256.64,2.22
+2005,California,Hispanic,Not Eligible,262.69,1.1700000000000002
+2005,Colorado,Black,All,255.79,3.08
+2005,Colorado,Hispanic,All,260.16,1.91
+2005,Colorado,Black,Eligible,248.65,5.09
+2005,Colorado,Hispanic,Eligible,254.69,2.3
+2005,Colorado,Black,Not Eligible,262.82,3.72
+2005,Colorado,Hispanic,Not Eligible,270.06,2.61
+2005,Connecticut,Black,All,249.47,2.67
+2005,Connecticut,Hispanic,All,254.13,2.7800000000000002
+2005,Connecticut,Black,Eligible,243.84,3.23
+2005,Connecticut,Hispanic,Eligible,251.66,3.59
+2005,Connecticut,Black,Not Eligible,262.22,3.46
+2005,Connecticut,Hispanic,Not Eligible,259.33,4.28
+2005,Delaware,Black,All,264.43,0.97
+2005,Delaware,Hispanic,All,268.03,2.19
+2005,Delaware,Black,Eligible,257.8,1.59
+2005,Delaware,Hispanic,Eligible,263.37,2.68
+2005,Delaware,Black,Not Eligible,272.16,1.56
+2005,Delaware,Hispanic,Not Eligible,274.86,3.7800000000000002
+2005,District of Columbia,Black,All,241.16,0.9500000000000001
+2005,District of Columbia,Hispanic,All,252.06,2.98
+2005,District of Columbia,Black,Eligible,238.06,1.23
+2005,District of Columbia,Hispanic,Eligible,249.09,2.86
+2005,District of Columbia,Black,Not Eligible,252.28,1.93
+2005,District of Columbia,Hispanic,Not Eligible,NA,NA
+2005,DoDEA,Black,All,267.43,1.46
+2005,DoDEA,Hispanic,All,279.86,2.17
+2005,DoDEA,Black,Eligible,NA,NA
+2005,DoDEA,Hispanic,Eligible,NA,NA
+2005,DoDEA,Black,Not Eligible,NA,NA
+2005,DoDEA,Hispanic,Not Eligible,NA,NA
+2005,Florida,Black,All,250.99,1.79
+2005,Florida,Hispanic,All,264.88,1.9
+2005,Florida,Black,Eligible,247.75,1.77
+2005,Florida,Hispanic,Eligible,259.23,1.91
+2005,Florida,Black,Not Eligible,258.86,3.42
+2005,Florida,Hispanic,Not Eligible,276.3,2.94
+2005,Georgia,Black,All,255.29,1.4
+2005,Georgia,Hispanic,All,257.5,3.02
+2005,Georgia,Black,Eligible,250.72,1.6800000000000002
+2005,Georgia,Hispanic,Eligible,253.63,3.4099999999999997
+2005,Georgia,Black,Not Eligible,267.24,1.6700000000000002
+2005,Georgia,Hispanic,Not Eligible,NA,NA
+2005,Hawaii,Black,All,NA,NA
+2005,Hawaii,Hispanic,All,257.13,5.08
+2005,Hawaii,Black,Eligible,NA,NA
+2005,Hawaii,Hispanic,Eligible,NA,NA
+2005,Hawaii,Black,Not Eligible,NA,NA
+2005,Hawaii,Hispanic,Not Eligible,NA,NA
+2005,Idaho,Black,All,NA,NA
+2005,Idaho,Hispanic,All,260.75,2.07
+2005,Idaho,Black,Eligible,NA,NA
+2005,Idaho,Hispanic,Eligible,258.51,2.63
+2005,Idaho,Black,Not Eligible,NA,NA
+2005,Idaho,Hispanic,Not Eligible,267.46,3.9299999999999997
+2005,Illinois,Black,All,248.8,1.6900000000000002
+2005,Illinois,Hispanic,All,265.2,1.46
+2005,Illinois,Black,Eligible,243.95,1.59
+2005,Illinois,Hispanic,Eligible,260.92,1.77
+2005,Illinois,Black,Not Eligible,261.54,4.63
+2005,Illinois,Hispanic,Not Eligible,279.28,3.08
+2005,Indiana,Black,All,256.97,2.63
+2005,Indiana,Hispanic,All,260.86,3.96
+2005,Indiana,Black,Eligible,252.93,2.3499999999999996
+2005,Indiana,Hispanic,Eligible,254.62,4.28
+2005,Indiana,Black,Not Eligible,271.66,4.98
+2005,Indiana,Hispanic,Not Eligible,NA,NA
+2005,Iowa,Black,All,256.19,5.13
+2005,Iowa,Hispanic,All,264.03,3.23
+2005,Iowa,Black,Eligible,252.29,6.07
+2005,Iowa,Hispanic,Eligible,263.96,3.62
+2005,Iowa,Black,Not Eligible,NA,NA
+2005,Iowa,Hispanic,Not Eligible,NA,NA
+2005,Kansas,Black,All,256.07,4.45
+2005,Kansas,Hispanic,All,265.63,2.51
+2005,Kansas,Black,Eligible,249.72,4.79
+2005,Kansas,Hispanic,Eligible,261.32,2.57
+2005,Kansas,Black,Not Eligible,269.85,6.21
+2005,Kansas,Hispanic,Not Eligible,277.45,5.08
+2005,Kentucky,Black,All,255.22,2.42
+2005,Kentucky,Hispanic,All,NA,NA
+2005,Kentucky,Black,Eligible,252.73,2.9699999999999998
+2005,Kentucky,Hispanic,Eligible,NA,NA
+2005,Kentucky,Black,Not Eligible,260.83,3.96
+2005,Kentucky,Hispanic,Not Eligible,NA,NA
+2005,Louisiana,Black,All,251.76,1.6400000000000001
+2005,Louisiana,Hispanic,All,NA,NA
+2005,Louisiana,Black,Eligible,249.58,1.6800000000000002
+2005,Louisiana,Hispanic,Eligible,NA,NA
+2005,Louisiana,Black,Not Eligible,258.27,4.23
+2005,Louisiana,Hispanic,Not Eligible,NA,NA
+2005,Maine,Black,All,NA,NA
+2005,Maine,Hispanic,All,NA,NA
+2005,Maine,Black,Eligible,NA,NA
+2005,Maine,Hispanic,Eligible,NA,NA
+2005,Maine,Black,Not Eligible,NA,NA
+2005,Maine,Hispanic,Not Eligible,NA,NA
+2005,Maryland,Black,All,258.49,1.37
+2005,Maryland,Hispanic,All,262.09,4.859999999999999
+2005,Maryland,Black,Eligible,252.66,1.8
+2005,Maryland,Hispanic,Eligible,NA,NA
+2005,Maryland,Black,Not Eligible,263.71,1.8800000000000001
+2005,Maryland,Hispanic,Not Eligible,NA,NA
+2005,Massachusetts,Black,All,262.53,2.65
+2005,Massachusetts,Hispanic,All,264.66,1.49
+2005,Massachusetts,Black,Eligible,259.63,3.04
+2005,Massachusetts,Hispanic,Eligible,262.2,1.55
+2005,Massachusetts,Black,Not Eligible,267.05,4.49
+2005,Massachusetts,Hispanic,Not Eligible,272.42,3.48
+2005,Michigan,Black,All,247.49,2.02
+2005,Michigan,Hispanic,All,265.02,3.7800000000000002
+2005,Michigan,Black,Eligible,241.23,2.6
+2005,Michigan,Hispanic,Eligible,NA,NA
+2005,Michigan,Black,Not Eligible,254.14,2.84
+2005,Michigan,Hispanic,Not Eligible,NA,NA
+2005,Minnesota,Black,All,250.7,1.98
+2005,Minnesota,Hispanic,All,262.59,4.07
+2005,Minnesota,Black,Eligible,246.44,2.5
+2005,Minnesota,Hispanic,Eligible,255.88,4.05
+2005,Minnesota,Black,Not Eligible,257.63,7.07
+2005,Minnesota,Hispanic,Not Eligible,NA,NA
+2005,Mississippi,Black,All,247.23,1.32
+2005,Mississippi,Hispanic,All,NA,NA
+2005,Mississippi,Black,Eligible,245.1,1.33
+2005,Mississippi,Hispanic,Eligible,NA,NA
+2005,Mississippi,Black,Not Eligible,262.26,2.62
+2005,Mississippi,Hispanic,Not Eligible,NA,NA
+2005,Missouri,Black,All,247.39,1.8800000000000001
+2005,Missouri,Hispanic,All,NA,NA
+2005,Missouri,Black,Eligible,243.4,2.07
+2005,Missouri,Hispanic,Eligible,NA,NA
+2005,Missouri,Black,Not Eligible,253.81,4.1899999999999995
+2005,Missouri,Hispanic,Not Eligible,NA,NA
+2005,Montana,Black,All,NA,NA
+2005,Montana,Hispanic,All,NA,NA
+2005,Montana,Black,Eligible,NA,NA
+2005,Montana,Hispanic,Eligible,NA,NA
+2005,Montana,Black,Not Eligible,NA,NA
+2005,Montana,Hispanic,Not Eligible,NA,NA
+2005,National public,Black,All,254.18,0.41000000000000003
+2005,National public,Hispanic,All,261.08,0.43000000000000005
+2005,National public,Black,Eligible,249.65,0.46
+2005,National public,Hispanic,Eligible,257.39,0.56
+2005,National public,Black,Not Eligible,263.59,0.6699999999999999
+2005,National public,Hispanic,Not Eligible,270.68,0.7
+2005,Nebraska,Black,All,243.39,2.2800000000000002
+2005,Nebraska,Hispanic,All,261.49,2.21
+2005,Nebraska,Black,Eligible,239.74,2.55
+2005,Nebraska,Hispanic,Eligible,259.26,2.2800000000000002
+2005,Nebraska,Black,Not Eligible,NA,NA
+2005,Nebraska,Hispanic,Not Eligible,267.44,4.78
+2005,Nevada,Black,All,247.1,2.5
+2005,Nevada,Hispanic,All,255.9,1.32
+2005,Nevada,Black,Eligible,241.06,2.96
+2005,Nevada,Hispanic,Eligible,252.28,2.03
+2005,Nevada,Black,Not Eligible,254.74,3.52
+2005,Nevada,Hispanic,Not Eligible,259.98,2.13
+2005,New Hampshire,Black,All,NA,NA
+2005,New Hampshire,Hispanic,All,NA,NA
+2005,New Hampshire,Black,Eligible,NA,NA
+2005,New Hampshire,Hispanic,Eligible,NA,NA
+2005,New Hampshire,Black,Not Eligible,NA,NA
+2005,New Hampshire,Hispanic,Not Eligible,NA,NA
+2005,New Jersey,Black,All,259.64,2.5
+2005,New Jersey,Hispanic,All,264.23,2.11
+2005,New Jersey,Black,Eligible,252.11,3.08
+2005,New Jersey,Hispanic,Eligible,260.76,3.06
+2005,New Jersey,Black,Not Eligible,268.91,2.4899999999999998
+2005,New Jersey,Hispanic,Not Eligible,268.48,3.14
+2005,New Mexico,Black,All,256.65,5.619999999999999
+2005,New Mexico,Hispanic,All,255.37,1.28
+2005,New Mexico,Black,Eligible,NA,NA
+2005,New Mexico,Hispanic,Eligible,250.53,1.36
+2005,New Mexico,Black,Not Eligible,NA,NA
+2005,New Mexico,Hispanic,Not Eligible,271.26,2.22
+2005,New York,Black,All,258.72,1.85
+2005,New York,Hispanic,All,262.04,1.76
+2005,New York,Black,Eligible,255.69,2.1
+2005,New York,Hispanic,Eligible,258.5,1.84
+2005,New York,Black,Not Eligible,269.84,3.6
+2005,New York,Hispanic,Not Eligible,278.85,4.2
+2005,North Carolina,Black,All,263.42,1.22
+2005,North Carolina,Hispanic,All,265.4,2.74
+2005,North Carolina,Black,Eligible,258.51,1.34
+2005,North Carolina,Hispanic,Eligible,262.22,3.34
+2005,North Carolina,Black,Not Eligible,273.48,1.87
+2005,North Carolina,Hispanic,Not Eligible,279.24,4.2
+2005,North Dakota,Black,All,NA,NA
+2005,North Dakota,Hispanic,All,NA,NA
+2005,North Dakota,Black,Eligible,NA,NA
+2005,North Dakota,Hispanic,Eligible,NA,NA
+2005,North Dakota,Black,Not Eligible,NA,NA
+2005,North Dakota,Hispanic,Not Eligible,NA,NA
+2005,Ohio,Black,All,255.16,2.12
+2005,Ohio,Hispanic,All,259.38,5.85
+2005,Ohio,Black,Eligible,251.75,2.64
+2005,Ohio,Hispanic,Eligible,248.93,6.5
+2005,Ohio,Black,Not Eligible,265.21,3.24
+2005,Ohio,Hispanic,Not Eligible,NA,NA
+2005,Oklahoma,Black,All,248.73,2.3
+2005,Oklahoma,Hispanic,All,257,3.69
+2005,Oklahoma,Black,Eligible,244.09,2.6
+2005,Oklahoma,Hispanic,Eligible,252.6,4.31
+2005,Oklahoma,Black,Not Eligible,262.98,4.2
+2005,Oklahoma,Hispanic,Not Eligible,NA,NA
+2005,Oregon,Black,All,257.53,5.05
+2005,Oregon,Hispanic,All,256.6,2.36
+2005,Oregon,Black,Eligible,NA,NA
+2005,Oregon,Hispanic,Eligible,259.34,2.34
+2005,Oregon,Black,Not Eligible,NA,NA
+2005,Oregon,Hispanic,Not Eligible,253.36,4.859999999999999
+2005,Pennsylvania,Black,All,249.96,3.3699999999999997
+2005,Pennsylvania,Hispanic,All,267.02,2.88
+2005,Pennsylvania,Black,Eligible,247.04,3.67
+2005,Pennsylvania,Hispanic,Eligible,262.76,3.02
+2005,Pennsylvania,Black,Not Eligible,259.7,4.96
+2005,Pennsylvania,Hispanic,Not Eligible,NA,NA
+2005,Puerto Rico,Black,All,NA,NA
+2005,Puerto Rico,Hispanic,All,NA,NA
+2005,Puerto Rico,Black,Eligible,NA,NA
+2005,Puerto Rico,Hispanic,Eligible,NA,NA
+2005,Puerto Rico,Black,Not Eligible,NA,NA
+2005,Puerto Rico,Hispanic,Not Eligible,NA,NA
+2005,Rhode Island,Black,All,248.78,2.77
+2005,Rhode Island,Hispanic,All,243.53,1.83
+2005,Rhode Island,Black,Eligible,243.25,3.3099999999999996
+2005,Rhode Island,Hispanic,Eligible,243,2.2
+2005,Rhode Island,Black,Not Eligible,259.15,4.28
+2005,Rhode Island,Hispanic,Not Eligible,245.13,4.109999999999999
+2005,South Carolina,Black,All,262.58,1.26
+2005,South Carolina,Hispanic,All,268.9,4.42
+2005,South Carolina,Black,Eligible,260.88,1.36
+2005,South Carolina,Hispanic,Eligible,NA,NA
+2005,South Carolina,Black,Not Eligible,268.27,2.34
+2005,South Carolina,Hispanic,Not Eligible,NA,NA
+2005,South Dakota,Black,All,NA,NA
+2005,South Dakota,Hispanic,All,NA,NA
+2005,South Dakota,Black,Eligible,NA,NA
+2005,South Dakota,Hispanic,Eligible,NA,NA
+2005,South Dakota,Black,Not Eligible,NA,NA
+2005,South Dakota,Hispanic,Not Eligible,NA,NA
+2005,Tennessee,Black,All,246.13,1.84
+2005,Tennessee,Hispanic,All,NA,NA
+2005,Tennessee,Black,Eligible,241.78,1.83
+2005,Tennessee,Hispanic,Eligible,NA,NA
+2005,Tennessee,Black,Not Eligible,260.4,3.36
+2005,Tennessee,Hispanic,Not Eligible,NA,NA
+2005,Texas,Black,All,263.6,1.7
+2005,Texas,Hispanic,All,270.8,1.05
+2005,Texas,Black,Eligible,259.22,1.9
+2005,Texas,Hispanic,Eligible,266.89,1.21
+2005,Texas,Black,Not Eligible,270.33,2.17
+2005,Texas,Hispanic,Not Eligible,282.35,1.6900000000000002
+2005,Utah,Black,All,NA,NA
+2005,Utah,Hispanic,All,255.4,2.3
+2005,Utah,Black,Eligible,NA,NA
+2005,Utah,Hispanic,Eligible,252.7,2.61
+2005,Utah,Black,Not Eligible,NA,NA
+2005,Utah,Hispanic,Not Eligible,262.81,4.17
+2005,Vermont,Black,All,NA,NA
+2005,Vermont,Hispanic,All,NA,NA
+2005,Vermont,Black,Eligible,NA,NA
+2005,Vermont,Hispanic,Eligible,NA,NA
+2005,Vermont,Black,Not Eligible,NA,NA
+2005,Vermont,Hispanic,Not Eligible,NA,NA
+2005,Virginia,Black,All,262.68,1.46
+2005,Virginia,Hispanic,All,269.98,3.27
+2005,Virginia,Black,Eligible,256.74,1.94
+2005,Virginia,Hispanic,Eligible,261.45,6.21
+2005,Virginia,Black,Not Eligible,270.06,1.74
+2005,Virginia,Hispanic,Not Eligible,277.6,4.1
+2005,Washington,Black,All,265.4,4.7700000000000005
+2005,Washington,Hispanic,All,262.3,2.74
+2005,Washington,Black,Eligible,NA,NA
+2005,Washington,Hispanic,Eligible,257.62,3.1
+2005,Washington,Black,Not Eligible,NA,NA
+2005,Washington,Hispanic,Not Eligible,276.1,4.1
+2005,West Virginia,Black,All,251.39,4.18
+2005,West Virginia,Hispanic,All,NA,NA
+2005,West Virginia,Black,Eligible,250.03,4.73
+2005,West Virginia,Hispanic,Eligible,NA,NA
+2005,West Virginia,Black,Not Eligible,NA,NA
+2005,West Virginia,Hispanic,Not Eligible,NA,NA
+2005,Wisconsin,Black,All,246.04,3.94
+2005,Wisconsin,Hispanic,All,265.38,3.55
+2005,Wisconsin,Black,Eligible,242.25,4.6899999999999995
+2005,Wisconsin,Hispanic,Eligible,264.24,4.54
+2005,Wisconsin,Black,Not Eligible,255.04,4.71
+2005,Wisconsin,Hispanic,Not Eligible,NA,NA
+2005,Wyoming,Black,All,NA,NA
+2005,Wyoming,Hispanic,All,264.5,2.82
+2005,Wyoming,Black,Eligible,NA,NA
+2005,Wyoming,Hispanic,Eligible,258.37,3.65
+2005,Wyoming,Black,Not Eligible,NA,NA
+2005,Wyoming,Hispanic,Not Eligible,NA,NA
+2007,Alabama,Black,All,245.78,1.77
+2007,Alabama,Hispanic,All,249.4,3.4699999999999998
+2007,Alabama,Black,Eligible,241.72,1.8800000000000001
+2007,Alabama,Hispanic,Eligible,NA,NA
+2007,Alabama,Black,Not Eligible,259.47,2.4299999999999997
+2007,Alabama,Hispanic,Not Eligible,NA,NA
+2007,Alaska,Black,All,271.28,2.96
+2007,Alaska,Hispanic,All,274.4,3.38
+2007,Alaska,Black,Eligible,267.22,3.58
+2007,Alaska,Hispanic,Eligible,NA,NA
+2007,Alaska,Black,Not Eligible,NA,NA
+2007,Alaska,Hispanic,Not Eligible,NA,NA
+2007,Arizona,Black,All,266.42,3.98
+2007,Arizona,Hispanic,All,261.66,1.6300000000000001
+2007,Arizona,Black,Eligible,NA,NA
+2007,Arizona,Hispanic,Eligible,258.14,1.79
+2007,Arizona,Black,Not Eligible,NA,NA
+2007,Arizona,Hispanic,Not Eligible,268.96,2.18
+2007,Arkansas,Black,All,253.89,1.85
+2007,Arkansas,Hispanic,All,256.31,2.9699999999999998
+2007,Arkansas,Black,Eligible,250.3,2.11
+2007,Arkansas,Hispanic,Eligible,255.63,3.2600000000000002
+2007,Arkansas,Black,Not Eligible,266.87,3.16
+2007,Arkansas,Hispanic,Not Eligible,NA,NA
+2007,California,Black,All,252.58,2.07
+2007,California,Hispanic,All,255.98,0.88
+2007,California,Black,Eligible,246.89,2.66
+2007,California,Hispanic,Eligible,252.92,1.1800000000000002
+2007,California,Black,Not Eligible,260.69,2.67
+2007,California,Hispanic,Not Eligible,263.78,1.61
+2007,Colorado,Black,All,271.77,2.05
+2007,Colorado,Hispanic,All,263.97,1.32
+2007,Colorado,Black,Eligible,265.69,3.07
+2007,Colorado,Hispanic,Eligible,257.75,1.3900000000000001
+2007,Colorado,Black,Not Eligible,278.79,4.430000000000001
+2007,Colorado,Hispanic,Not Eligible,277.43,2.52
+2007,Connecticut,Black,All,254.95,2.52
+2007,Connecticut,Hispanic,All,253.8,3.77
+2007,Connecticut,Black,Eligible,249.77,3.14
+2007,Connecticut,Hispanic,Eligible,248.94,3.69
+2007,Connecticut,Black,Not Eligible,263.29,2.8699999999999997
+2007,Connecticut,Hispanic,Not Eligible,266.81,6.1899999999999995
+2007,Delaware,Black,All,264.85,1.12
+2007,Delaware,Hispanic,All,266.98,2.34
+2007,Delaware,Black,Eligible,262.19,1.98
+2007,Delaware,Hispanic,Eligible,264.02,2.63
+2007,Delaware,Black,Not Eligible,267.61,1.3800000000000001
+2007,Delaware,Hispanic,Not Eligible,273.04,4.319999999999999
+2007,District of Columbia,Black,All,245.47,0.91
+2007,District of Columbia,Hispanic,All,250.88,2.96
+2007,District of Columbia,Black,Eligible,241.26,1.1900000000000002
+2007,District of Columbia,Hispanic,Eligible,248.68,3.8899999999999997
+2007,District of Columbia,Black,Not Eligible,254.02,1.74
+2007,District of Columbia,Hispanic,Not Eligible,NA,NA
+2007,DoDEA,Black,All,271.86,2.11
+2007,DoDEA,Hispanic,All,281.5,2.15
+2007,DoDEA,Black,Eligible,NA,NA
+2007,DoDEA,Hispanic,Eligible,NA,NA
+2007,DoDEA,Black,Not Eligible,NA,NA
+2007,DoDEA,Hispanic,Not Eligible,NA,NA
+2007,Florida,Black,All,259.3,1.54
+2007,Florida,Hispanic,All,270.29,1.84
+2007,Florida,Black,Eligible,255.62,1.83
+2007,Florida,Hispanic,Eligible,263.39,1.76
+2007,Florida,Black,Not Eligible,267.62,2.24
+2007,Florida,Hispanic,Not Eligible,280.79,2.66
+2007,Georgia,Black,All,261.06,1.1
+2007,Georgia,Hispanic,All,265.82,3.8899999999999997
+2007,Georgia,Black,Eligible,257.06,1.25
+2007,Georgia,Hispanic,Eligible,261.64,4.9
+2007,Georgia,Black,Not Eligible,269.83,1.93
+2007,Georgia,Hispanic,Not Eligible,NA,NA
+2007,Hawaii,Black,All,NA,NA
+2007,Hawaii,Hispanic,All,263.83,4.56
+2007,Hawaii,Black,Eligible,NA,NA
+2007,Hawaii,Hispanic,Eligible,NA,NA
+2007,Hawaii,Black,Not Eligible,NA,NA
+2007,Hawaii,Hispanic,Not Eligible,NA,NA
+2007,Idaho,Black,All,NA,NA
+2007,Idaho,Hispanic,All,263.93,2.29
+2007,Idaho,Black,Eligible,NA,NA
+2007,Idaho,Hispanic,Eligible,260.4,2.5
+2007,Idaho,Black,Not Eligible,NA,NA
+2007,Idaho,Hispanic,Not Eligible,274.33,4.41
+2007,Illinois,Black,All,252.75,1.83
+2007,Illinois,Hispanic,All,265.09,1.6600000000000001
+2007,Illinois,Black,Eligible,249.08,2.12
+2007,Illinois,Hispanic,Eligible,263.04,1.8800000000000001
+2007,Illinois,Black,Not Eligible,269.16,3.25
+2007,Illinois,Hispanic,Not Eligible,271.99,2.67
+2007,Indiana,Black,All,258.74,2.3299999999999996
+2007,Indiana,Hispanic,All,267.32,3.4099999999999997
+2007,Indiana,Black,Eligible,255.41,2.4099999999999997
+2007,Indiana,Hispanic,Eligible,261.81,3.4899999999999998
+2007,Indiana,Black,Not Eligible,267.2,3.34
+2007,Indiana,Hispanic,Not Eligible,NA,NA
+2007,Iowa,Black,All,257.07,3.4899999999999998
+2007,Iowa,Hispanic,All,260.85,3.6
+2007,Iowa,Black,Eligible,252.31,3.7600000000000002
+2007,Iowa,Hispanic,Eligible,258.96,3.9099999999999997
+2007,Iowa,Black,Not Eligible,NA,NA
+2007,Iowa,Hispanic,Not Eligible,NA,NA
+2007,Kansas,Black,All,266.87,3.02
+2007,Kansas,Hispanic,All,268.61,2.7800000000000002
+2007,Kansas,Black,Eligible,260.8,2.7
+2007,Kansas,Hispanic,Eligible,263.8,2.92
+2007,Kansas,Black,Not Eligible,NA,NA
+2007,Kansas,Hispanic,Not Eligible,284,4.31
+2007,Kentucky,Black,All,256.89,2.72
+2007,Kentucky,Hispanic,All,NA,NA
+2007,Kentucky,Black,Eligible,253.31,3.32
+2007,Kentucky,Hispanic,Eligible,NA,NA
+2007,Kentucky,Black,Not Eligible,267.36,4.84
+2007,Kentucky,Hispanic,Not Eligible,NA,NA
+2007,Louisiana,Black,All,258.31,1.4
+2007,Louisiana,Hispanic,All,NA,NA
+2007,Louisiana,Black,Eligible,256.8,1.48
+2007,Louisiana,Hispanic,Eligible,NA,NA
+2007,Louisiana,Black,Not Eligible,265.47,2.5
+2007,Louisiana,Hispanic,Not Eligible,NA,NA
+2007,Maine,Black,All,NA,NA
+2007,Maine,Hispanic,All,NA,NA
+2007,Maine,Black,Eligible,NA,NA
+2007,Maine,Hispanic,Eligible,NA,NA
+2007,Maine,Black,Not Eligible,NA,NA
+2007,Maine,Hispanic,Not Eligible,NA,NA
+2007,Maryland,Black,All,264.57,1.25
+2007,Maryland,Hispanic,All,272.33,3
+2007,Maryland,Black,Eligible,260.41,1.6400000000000001
+2007,Maryland,Hispanic,Eligible,264.38,4.31
+2007,Maryland,Black,Not Eligible,268.47,1.53
+2007,Maryland,Hispanic,Not Eligible,279.68,4.2
+2007,Massachusetts,Black,All,264.42,2.09
+2007,Massachusetts,Hispanic,All,269.84,3.8
+2007,Massachusetts,Black,Eligible,262.54,2.4099999999999997
+2007,Massachusetts,Hispanic,Eligible,264.64,4.1
+2007,Massachusetts,Black,Not Eligible,268.52,3.72
+2007,Massachusetts,Hispanic,Not Eligible,284.39,4.03
+2007,Michigan,Black,All,243.89,2.2
+2007,Michigan,Hispanic,All,258.84,3.82
+2007,Michigan,Black,Eligible,240.3,2.64
+2007,Michigan,Hispanic,Eligible,NA,NA
+2007,Michigan,Black,Not Eligible,251.25,3.36
+2007,Michigan,Hispanic,Not Eligible,NA,NA
+2007,Minnesota,Black,All,259.59,3.71
+2007,Minnesota,Hispanic,All,268.65,3.8699999999999997
+2007,Minnesota,Black,Eligible,254.59,4.91
+2007,Minnesota,Hispanic,Eligible,264,4.28
+2007,Minnesota,Black,Not Eligible,268.83,3.65
+2007,Minnesota,Hispanic,Not Eligible,NA,NA
+2007,Mississippi,Black,All,251.28,1.1300000000000001
+2007,Mississippi,Hispanic,All,NA,NA
+2007,Mississippi,Black,Eligible,250.45,1.22
+2007,Mississippi,Hispanic,Eligible,NA,NA
+2007,Mississippi,Black,Not Eligible,257.74,2.63
+2007,Mississippi,Hispanic,Not Eligible,NA,NA
+2007,Missouri,Black,All,253.44,2.01
+2007,Missouri,Hispanic,All,270.33,2.77
+2007,Missouri,Black,Eligible,249.36,2.05
+2007,Missouri,Hispanic,Eligible,NA,NA
+2007,Missouri,Black,Not Eligible,264.61,3.79
+2007,Missouri,Hispanic,Not Eligible,NA,NA
+2007,Montana,Black,All,NA,NA
+2007,Montana,Hispanic,All,NA,NA
+2007,Montana,Black,Eligible,NA,NA
+2007,Montana,Hispanic,Eligible,NA,NA
+2007,Montana,Black,Not Eligible,NA,NA
+2007,Montana,Hispanic,Not Eligible,NA,NA
+2007,National public,Black,All,258.89,0.41000000000000003
+2007,National public,Hispanic,All,264.36,0.43000000000000005
+2007,National public,Black,Eligible,254.57,0.42000000000000004
+2007,National public,Hispanic,Eligible,260.82,0.56
+2007,National public,Black,Not Eligible,268.34,0.69
+2007,National public,Hispanic,Not Eligible,273.35,0.8
+2007,Nebraska,Black,All,239.84,2.7600000000000002
+2007,Nebraska,Hispanic,All,261.38,2.2
+2007,Nebraska,Black,Eligible,232.71,2.77
+2007,Nebraska,Hispanic,Eligible,258.2,2.3699999999999997
+2007,Nebraska,Black,Not Eligible,NA,NA
+2007,Nebraska,Hispanic,Not Eligible,269.71,5.26
+2007,Nevada,Black,All,255.45,3.53
+2007,Nevada,Hispanic,All,256.91,1.21
+2007,Nevada,Black,Eligible,248.41,3.7
+2007,Nevada,Hispanic,Eligible,253.85,1.41
+2007,Nevada,Black,Not Eligible,264.58,5.970000000000001
+2007,Nevada,Hispanic,Not Eligible,261.59,2.22
+2007,New Hampshire,Black,All,NA,NA
+2007,New Hampshire,Hispanic,All,264.43,4.109999999999999
+2007,New Hampshire,Black,Eligible,NA,NA
+2007,New Hampshire,Hispanic,Eligible,NA,NA
+2007,New Hampshire,Black,Not Eligible,NA,NA
+2007,New Hampshire,Hispanic,Not Eligible,NA,NA
+2007,New Jersey,Black,All,263.5,1.98
+2007,New Jersey,Hispanic,All,271.13,2.06
+2007,New Jersey,Black,Eligible,258.33,2.61
+2007,New Jersey,Hispanic,Eligible,265.18,2.79
+2007,New Jersey,Black,Not Eligible,271.48,3.01
+2007,New Jersey,Hispanic,Not Eligible,280.29,2.21
+2007,New Mexico,Black,All,264.07,2.9499999999999997
+2007,New Mexico,Hispanic,All,260.2,1.08
+2007,New Mexico,Black,Eligible,NA,NA
+2007,New Mexico,Hispanic,Eligible,255.64,1.25
+2007,New Mexico,Black,Not Eligible,NA,NA
+2007,New Mexico,Hispanic,Not Eligible,271.85,1.92
+2007,New York,Black,All,258.2,2.32
+2007,New York,Hispanic,All,264.46,2.05
+2007,New York,Black,Eligible,255.52,2.23
+2007,New York,Hispanic,Eligible,261.77,2.22
+2007,New York,Black,Not Eligible,267.76,4.5
+2007,New York,Hispanic,Not Eligible,276.31,3.4699999999999998
+2007,North Carolina,Black,All,265.68,1.55
+2007,North Carolina,Hispanic,All,272.83,2.62
+2007,North Carolina,Black,Eligible,260.68,1.55
+2007,North Carolina,Hispanic,Eligible,269.81,3.21
+2007,North Carolina,Black,Not Eligible,277.01,1.79
+2007,North Carolina,Hispanic,Not Eligible,284.57,5.85
+2007,North Dakota,Black,All,NA,NA
+2007,North Dakota,Hispanic,All,NA,NA
+2007,North Dakota,Black,Eligible,NA,NA
+2007,North Dakota,Hispanic,Eligible,NA,NA
+2007,North Dakota,Black,Not Eligible,NA,NA
+2007,North Dakota,Hispanic,Not Eligible,NA,NA
+2007,Ohio,Black,All,257.81,2.19
+2007,Ohio,Hispanic,All,275.79,5.83
+2007,Ohio,Black,Eligible,255.66,2.4499999999999997
+2007,Ohio,Hispanic,Eligible,268.46,4.63
+2007,Ohio,Black,Not Eligible,263.99,3.94
+2007,Ohio,Hispanic,Not Eligible,NA,NA
+2007,Oklahoma,Black,All,258.23,2.46
+2007,Oklahoma,Hispanic,All,258.93,2.38
+2007,Oklahoma,Black,Eligible,255.15,3.3099999999999996
+2007,Oklahoma,Hispanic,Eligible,254.7,2.8
+2007,Oklahoma,Black,Not Eligible,NA,NA
+2007,Oklahoma,Hispanic,Not Eligible,NA,NA
+2007,Oregon,Black,All,272.35,5.119999999999999
+2007,Oregon,Hispanic,All,261.02,2.44
+2007,Oregon,Black,Eligible,NA,NA
+2007,Oregon,Hispanic,Eligible,257.34,2.73
+2007,Oregon,Black,Not Eligible,NA,NA
+2007,Oregon,Hispanic,Not Eligible,271.67,3.88
+2007,Pennsylvania,Black,All,256.97,2.34
+2007,Pennsylvania,Hispanic,All,264.09,3.86
+2007,Pennsylvania,Black,Eligible,250.92,2.74
+2007,Pennsylvania,Hispanic,Eligible,258.63,3.56
+2007,Pennsylvania,Black,Not Eligible,264.62,4.470000000000001
+2007,Pennsylvania,Hispanic,Not Eligible,NA,NA
+2007,Puerto Rico,Black,All,NA,NA
+2007,Puerto Rico,Hispanic,All,NA,NA
+2007,Puerto Rico,Black,Eligible,NA,NA
+2007,Puerto Rico,Hispanic,Eligible,NA,NA
+2007,Puerto Rico,Black,Not Eligible,NA,NA
+2007,Puerto Rico,Hispanic,Not Eligible,NA,NA
+2007,Rhode Island,Black,All,250.03,3.18
+2007,Rhode Island,Hispanic,All,251.43,2
+2007,Rhode Island,Black,Eligible,252.17,3.4099999999999997
+2007,Rhode Island,Hispanic,Eligible,249.93,2.4699999999999998
+2007,Rhode Island,Black,Not Eligible,246.1,6.25
+2007,Rhode Island,Hispanic,Not Eligible,254.1,3.4699999999999998
+2007,South Carolina,Black,All,265.31,1.26
+2007,South Carolina,Hispanic,All,272.24,5.4
+2007,South Carolina,Black,Eligible,262.19,1.27
+2007,South Carolina,Hispanic,Eligible,NA,NA
+2007,South Carolina,Black,Not Eligible,274.31,2.52
+2007,South Carolina,Hispanic,Not Eligible,NA,NA
+2007,South Dakota,Black,All,NA,NA
+2007,South Dakota,Hispanic,All,268.89,5.75
+2007,South Dakota,Black,Eligible,NA,NA
+2007,South Dakota,Hispanic,Eligible,NA,NA
+2007,South Dakota,Black,Not Eligible,NA,NA
+2007,South Dakota,Hispanic,Not Eligible,NA,NA
+2007,Tennessee,Black,All,253.98,1.6700000000000002
+2007,Tennessee,Hispanic,All,264.25,2.3899999999999997
+2007,Tennessee,Black,Eligible,249.79,1.98
+2007,Tennessee,Hispanic,Eligible,263.78,3.3499999999999996
+2007,Tennessee,Black,Not Eligible,265.22,2.48
+2007,Tennessee,Hispanic,Not Eligible,NA,NA
+2007,Texas,Black,All,270.96,1.52
+2007,Texas,Hispanic,All,277.03,0.97
+2007,Texas,Black,Eligible,266.26,1.45
+2007,Texas,Hispanic,Eligible,274.04,1.12
+2007,Texas,Black,Not Eligible,279,2.67
+2007,Texas,Hispanic,Not Eligible,285.51,1.6600000000000001
+2007,Utah,Black,All,NA,NA
+2007,Utah,Hispanic,All,255.6,2.24
+2007,Utah,Black,Eligible,NA,NA
+2007,Utah,Hispanic,Eligible,251.97,3.08
+2007,Utah,Black,Not Eligible,NA,NA
+2007,Utah,Hispanic,Not Eligible,264.78,4.37
+2007,Vermont,Black,All,NA,NA
+2007,Vermont,Hispanic,All,NA,NA
+2007,Vermont,Black,Eligible,NA,NA
+2007,Vermont,Hispanic,Eligible,NA,NA
+2007,Vermont,Black,Not Eligible,NA,NA
+2007,Vermont,Hispanic,Not Eligible,NA,NA
+2007,Virginia,Black,All,268.28,1.42
+2007,Virginia,Hispanic,All,275.28,3.66
+2007,Virginia,Black,Eligible,261.6,1.6400000000000001
+2007,Virginia,Hispanic,Eligible,267.28,3.84
+2007,Virginia,Black,Not Eligible,274.87,2.01
+2007,Virginia,Hispanic,Not Eligible,283.31,5.03
+2007,Washington,Black,All,264.3,5.09
+2007,Washington,Hispanic,All,263.2,2.3
+2007,Washington,Black,Eligible,259.5,5.57
+2007,Washington,Hispanic,Eligible,257.6,2.66
+2007,Washington,Black,Not Eligible,NA,NA
+2007,Washington,Hispanic,Not Eligible,273.91,5.1499999999999995
+2007,West Virginia,Black,All,249.7,4.46
+2007,West Virginia,Hispanic,All,NA,NA
+2007,West Virginia,Black,Eligible,246.3,5.22
+2007,West Virginia,Hispanic,Eligible,NA,NA
+2007,West Virginia,Black,Not Eligible,NA,NA
+2007,West Virginia,Hispanic,Not Eligible,NA,NA
+2007,Wisconsin,Black,All,246.93,2.25
+2007,Wisconsin,Hispanic,All,267.77,3.8699999999999997
+2007,Wisconsin,Black,Eligible,242.44,1.8900000000000001
+2007,Wisconsin,Hispanic,Eligible,263.08,3.8
+2007,Wisconsin,Black,Not Eligible,NA,NA
+2007,Wisconsin,Hispanic,Not Eligible,NA,NA
+2007,Wyoming,Black,All,NA,NA
+2007,Wyoming,Hispanic,All,273.65,2.73
+2007,Wyoming,Black,Eligible,NA,NA
+2007,Wyoming,Hispanic,Eligible,263.66,3.6
+2007,Wyoming,Black,Not Eligible,NA,NA
+2007,Wyoming,Hispanic,Not Eligible,283.16,3.9299999999999997
+2009,Alabama,Black,All,248,1.97
+2009,Alabama,Hispanic,All,259.92,3.57
+2009,Alabama,Black,Eligible,243.97,1.97
+2009,Alabama,Hispanic,Eligible,NA,NA
+2009,Alabama,Black,Not Eligible,261.63,3.74
+2009,Alabama,Hispanic,Not Eligible,NA,NA
+2009,Alaska,Black,All,267.9,2.92
+2009,Alaska,Hispanic,All,275.44,2.69
+2009,Alaska,Black,Eligible,NA,NA
+2009,Alaska,Hispanic,Eligible,269.73,3.67
+2009,Alaska,Black,Not Eligible,NA,NA
+2009,Alaska,Hispanic,Not Eligible,280.16,3.73
+2009,Arizona,Black,All,268.73,3.9699999999999998
+2009,Arizona,Hispanic,All,265.22,1.28
+2009,Arizona,Black,Eligible,253.1,5.3
+2009,Arizona,Hispanic,Eligible,260.87,1.5
+2009,Arizona,Black,Not Eligible,284.98,5.21
+2009,Arizona,Hispanic,Not Eligible,276.55,2.21
+2009,Arkansas,Black,All,250.51,2.07
+2009,Arkansas,Hispanic,All,269.06,3.19
+2009,Arkansas,Black,Eligible,248.12,2.16
+2009,Arkansas,Hispanic,Eligible,266.51,3.2600000000000002
+2009,Arkansas,Black,Not Eligible,261.62,4.430000000000001
+2009,Arkansas,Hispanic,Not Eligible,NA,NA
+2009,California,Black,All,250.17,2.4
+2009,California,Hispanic,All,256.44,1.09
+2009,California,Black,Eligible,244.61,3.9099999999999997
+2009,California,Hispanic,Eligible,254.37,1.26
+2009,California,Black,Not Eligible,258.44,6.55
+2009,California,Hispanic,Not Eligible,261.98,2.62
+2009,Colorado,Black,All,262.6,3.51
+2009,Colorado,Hispanic,All,266.66,2.1
+2009,Colorado,Black,Eligible,254.37,2.8699999999999997
+2009,Colorado,Hispanic,Eligible,260.83,2.62
+2009,Colorado,Black,Not Eligible,271.56,5.7700000000000005
+2009,Colorado,Hispanic,Not Eligible,279.5,2.5
+2009,Connecticut,Black,All,261.02,3.04
+2009,Connecticut,Hispanic,All,263.4,1.87
+2009,Connecticut,Black,Eligible,255.54,3.3099999999999996
+2009,Connecticut,Hispanic,Eligible,257.58,2.13
+2009,Connecticut,Black,Not Eligible,269.97,3.51
+2009,Connecticut,Hispanic,Not Eligible,276.97,3.32
+2009,Delaware,Black,All,267.05,0.98
+2009,Delaware,Hispanic,All,277.56,1.62
+2009,Delaware,Black,Eligible,260.37,1.34
+2009,Delaware,Hispanic,Eligible,276.17,2.03
+2009,Delaware,Black,Not Eligible,275.72,1.34
+2009,Delaware,Hispanic,Not Eligible,280.99,3.25
+2009,District of Columbia,Black,All,249.06,0.91
+2009,District of Columbia,Hispanic,All,265.42,3.8299999999999996
+2009,District of Columbia,Black,Eligible,244.66,1.01
+2009,District of Columbia,Hispanic,Eligible,263.79,4.06
+2009,District of Columbia,Black,Not Eligible,262.83,1.94
+2009,District of Columbia,Hispanic,Not Eligible,NA,NA
+2009,DoDEA,Black,All,268.63,1.92
+2009,DoDEA,Hispanic,All,280.53,2.12
+2009,DoDEA,Black,Eligible,NA,NA
+2009,DoDEA,Hispanic,Eligible,NA,NA
+2009,DoDEA,Black,Not Eligible,NA,NA
+2009,DoDEA,Hispanic,Not Eligible,NA,NA
+2009,Florida,Black,All,263.57,1.86
+2009,Florida,Hispanic,All,273.97,1.47
+2009,Florida,Black,Eligible,260.72,2.04
+2009,Florida,Hispanic,Eligible,270.13,1.5
+2009,Florida,Black,Not Eligible,270.31,2.52
+2009,Florida,Hispanic,Not Eligible,281.95,2.36
+2009,Georgia,Black,All,262.48,1.1900000000000002
+2009,Georgia,Hispanic,All,270.31,2.11
+2009,Georgia,Black,Eligible,258.08,1.45
+2009,Georgia,Hispanic,Eligible,267.72,2.32
+2009,Georgia,Black,Not Eligible,273.01,2.03
+2009,Georgia,Hispanic,Not Eligible,NA,NA
+2009,Hawaii,Black,All,271.01,4.6899999999999995
+2009,Hawaii,Hispanic,All,276.15,4.79
+2009,Hawaii,Black,Eligible,NA,NA
+2009,Hawaii,Hispanic,Eligible,NA,NA
+2009,Hawaii,Black,Not Eligible,NA,NA
+2009,Hawaii,Hispanic,Not Eligible,NA,NA
+2009,Idaho,Black,All,NA,NA
+2009,Idaho,Hispanic,All,264.12,1.73
+2009,Idaho,Black,Eligible,NA,NA
+2009,Idaho,Hispanic,Eligible,260.88,2.12
+2009,Idaho,Black,Not Eligible,NA,NA
+2009,Idaho,Hispanic,Not Eligible,271.97,3.32
+2009,Illinois,Black,All,254.67,1.6600000000000001
+2009,Illinois,Hispanic,All,268.65,1.6600000000000001
+2009,Illinois,Black,Eligible,251.07,1.97
+2009,Illinois,Hispanic,Eligible,264.89,1.97
+2009,Illinois,Black,Not Eligible,268.35,3.12
+2009,Illinois,Hispanic,Not Eligible,277.9,2.52
+2009,Indiana,Black,All,266.05,3.12
+2009,Indiana,Hispanic,All,272.8,3.09
+2009,Indiana,Black,Eligible,260.63,2.42
+2009,Indiana,Hispanic,Eligible,270.62,3.56
+2009,Indiana,Black,Not Eligible,276.6,5.470000000000001
+2009,Indiana,Hispanic,Not Eligible,NA,NA
+2009,Iowa,Black,All,259.28,3.14
+2009,Iowa,Hispanic,All,266.06,2.3899999999999997
+2009,Iowa,Black,Eligible,253.94,3.58
+2009,Iowa,Hispanic,Eligible,262.74,2.54
+2009,Iowa,Black,Not Eligible,NA,NA
+2009,Iowa,Hispanic,Not Eligible,NA,NA
+2009,Kansas,Black,All,264.09,2.7
+2009,Kansas,Hispanic,All,273.93,2.51
+2009,Kansas,Black,Eligible,260.48,3.2
+2009,Kansas,Hispanic,Eligible,270.14,2.73
+2009,Kansas,Black,Not Eligible,272.19,4.08
+2009,Kansas,Hispanic,Not Eligible,294.8,2.96
+2009,Kentucky,Black,All,257.73,1.54
+2009,Kentucky,Hispanic,All,271.7,4.26
+2009,Kentucky,Black,Eligible,254.64,2.09
+2009,Kentucky,Hispanic,Eligible,268.14,3.86
+2009,Kentucky,Black,Not Eligible,267.79,2.57
+2009,Kentucky,Hispanic,Not Eligible,NA,NA
+2009,Louisiana,Black,All,256.7,1.28
+2009,Louisiana,Hispanic,All,NA,NA
+2009,Louisiana,Black,Eligible,255.37,1.4
+2009,Louisiana,Hispanic,Eligible,NA,NA
+2009,Louisiana,Black,Not Eligible,266.48,3.3
+2009,Louisiana,Hispanic,Not Eligible,NA,NA
+2009,Maine,Black,All,260.5,4.58
+2009,Maine,Hispanic,All,NA,NA
+2009,Maine,Black,Eligible,NA,NA
+2009,Maine,Hispanic,Eligible,NA,NA
+2009,Maine,Black,Not Eligible,NA,NA
+2009,Maine,Hispanic,Not Eligible,NA,NA
+2009,Maryland,Black,All,265.75,1.37
+2009,Maryland,Hispanic,All,274.85,2.17
+2009,Maryland,Black,Eligible,258.53,1.79
+2009,Maryland,Hispanic,Eligible,273.17,2.64
+2009,Maryland,Black,Not Eligible,273.36,1.72
+2009,Maryland,Hispanic,Not Eligible,277.33,3.2600000000000002
+2009,Massachusetts,Black,All,271.86,2.38
+2009,Massachusetts,Hispanic,All,271.08,3.54
+2009,Massachusetts,Black,Eligible,268.43,2.8099999999999996
+2009,Massachusetts,Hispanic,Eligible,265.43,3.8899999999999997
+2009,Massachusetts,Black,Not Eligible,281.42,3.66
+2009,Massachusetts,Hispanic,Not Eligible,286.89,3.9699999999999998
+2009,Michigan,Black,All,245.83,2.05
+2009,Michigan,Hispanic,All,269.49,4.09
+2009,Michigan,Black,Eligible,240.76,2.08
+2009,Michigan,Hispanic,Eligible,256.4,4.04
+2009,Michigan,Black,Not Eligible,256.7,2.44
+2009,Michigan,Hispanic,Not Eligible,NA,NA
+2009,Minnesota,Black,All,263.62,2.92
+2009,Minnesota,Hispanic,All,268.96,3.22
+2009,Minnesota,Black,Eligible,261.98,3.29
+2009,Minnesota,Hispanic,Eligible,259.18,3.17
+2009,Minnesota,Black,Not Eligible,267.47,5.17
+2009,Minnesota,Hispanic,Not Eligible,NA,NA
+2009,Mississippi,Black,All,250.99,1.05
+2009,Mississippi,Hispanic,All,NA,NA
+2009,Mississippi,Black,Eligible,249.11,1.1
+2009,Mississippi,Hispanic,Eligible,NA,NA
+2009,Mississippi,Black,Not Eligible,266.97,2.4099999999999997
+2009,Mississippi,Hispanic,Not Eligible,NA,NA
+2009,Missouri,Black,All,259.65,2.44
+2009,Missouri,Hispanic,All,283.92,4.09
+2009,Missouri,Black,Eligible,254.27,2.2
+2009,Missouri,Hispanic,Eligible,NA,NA
+2009,Missouri,Black,Not Eligible,270.99,4.03
+2009,Missouri,Hispanic,Not Eligible,NA,NA
+2009,Montana,Black,All,NA,NA
+2009,Montana,Hispanic,All,278.39,5.57
+2009,Montana,Black,Eligible,NA,NA
+2009,Montana,Hispanic,Eligible,NA,NA
+2009,Montana,Black,Not Eligible,NA,NA
+2009,Montana,Hispanic,Not Eligible,NA,NA
+2009,National public,Black,All,260.27,0.44
+2009,National public,Hispanic,All,265.9,0.6
+2009,National public,Black,Eligible,255.81,0.48000000000000004
+2009,National public,Hispanic,Eligible,262.76,0.65
+2009,National public,Black,Not Eligible,270.73,0.76
+2009,National public,Hispanic,Not Eligible,274.53,1.21
+2009,Nebraska,Black,All,252.83,2.64
+2009,Nebraska,Hispanic,All,262.04,2.15
+2009,Nebraska,Black,Eligible,247.73,3.3899999999999997
+2009,Nebraska,Hispanic,Eligible,258.53,2.25
+2009,Nebraska,Black,Not Eligible,267.13,5.7
+2009,Nebraska,Hispanic,Not Eligible,274.59,5.1899999999999995
+2009,Nevada,Black,All,255.62,2.02
+2009,Nevada,Hispanic,All,261.69,1.3800000000000001
+2009,Nevada,Black,Eligible,259.05,3.9
+2009,Nevada,Hispanic,Eligible,257.23,1.5
+2009,Nevada,Black,Not Eligible,251.83,3.14
+2009,Nevada,Hispanic,Not Eligible,266.93,2.02
+2009,New Hampshire,Black,All,NA,NA
+2009,New Hampshire,Hispanic,All,270.08,5.06
+2009,New Hampshire,Black,Eligible,NA,NA
+2009,New Hampshire,Hispanic,Eligible,NA,NA
+2009,New Hampshire,Black,Not Eligible,NA,NA
+2009,New Hampshire,Hispanic,Not Eligible,NA,NA
+2009,New Jersey,Black,All,267.17,2.58
+2009,New Jersey,Hispanic,All,271.75,2.82
+2009,New Jersey,Black,Eligible,262.52,2.53
+2009,New Jersey,Hispanic,Eligible,267.98,3.62
+2009,New Jersey,Black,Not Eligible,273.81,3.84
+2009,New Jersey,Hispanic,Not Eligible,278.21,2.59
+2009,New Mexico,Black,All,259.03,6
+2009,New Mexico,Hispanic,All,262.14,1.1600000000000001
+2009,New Mexico,Black,Eligible,NA,NA
+2009,New Mexico,Hispanic,Eligible,258.49,1.1400000000000001
+2009,New Mexico,Black,Not Eligible,NA,NA
+2009,New Mexico,Hispanic,Not Eligible,274.31,1.8
+2009,New York,Black,All,261.51,1.7
+2009,New York,Hispanic,All,262.23,2.01
+2009,New York,Black,Eligible,259.85,2.15
+2009,New York,Hispanic,Eligible,259.65,1.98
+2009,New York,Black,Not Eligible,268.28,2.13
+2009,New York,Hispanic,Not Eligible,271.61,4.76
+2009,North Carolina,Black,All,262.37,1.43
+2009,North Carolina,Hispanic,All,274.09,2.12
+2009,North Carolina,Black,Eligible,257.76,1.41
+2009,North Carolina,Hispanic,Eligible,271.98,2.53
+2009,North Carolina,Black,Not Eligible,273.89,2.4099999999999997
+2009,North Carolina,Hispanic,Not Eligible,283.42,3.86
+2009,North Dakota,Black,All,NA,NA
+2009,North Dakota,Hispanic,All,NA,NA
+2009,North Dakota,Black,Eligible,NA,NA
+2009,North Dakota,Hispanic,Eligible,NA,NA
+2009,North Dakota,Black,Not Eligible,NA,NA
+2009,North Dakota,Hispanic,Not Eligible,NA,NA
+2009,Ohio,Black,All,259.56,2.06
+2009,Ohio,Hispanic,All,267.31,4.859999999999999
+2009,Ohio,Black,Eligible,255.55,1.76
+2009,Ohio,Hispanic,Eligible,267.98,6.96
+2009,Ohio,Black,Not Eligible,268.81,3.56
+2009,Ohio,Hispanic,Not Eligible,NA,NA
+2009,Oklahoma,Black,All,260.64,2.88
+2009,Oklahoma,Hispanic,All,262.64,2.55
+2009,Oklahoma,Black,Eligible,257.89,2.7600000000000002
+2009,Oklahoma,Hispanic,Eligible,259.26,2.8
+2009,Oklahoma,Black,Not Eligible,267.29,5.6
+2009,Oklahoma,Hispanic,Not Eligible,NA,NA
+2009,Oregon,Black,All,264,4.78
+2009,Oregon,Hispanic,All,263.83,1.79
+2009,Oregon,Black,Eligible,NA,NA
+2009,Oregon,Hispanic,Eligible,261,2.12
+2009,Oregon,Black,Not Eligible,NA,NA
+2009,Oregon,Hispanic,Not Eligible,279.43,4.2
+2009,Pennsylvania,Black,All,260.27,1.97
+2009,Pennsylvania,Hispanic,All,266.14,2.7800000000000002
+2009,Pennsylvania,Black,Eligible,254.74,1.53
+2009,Pennsylvania,Hispanic,Eligible,260.88,3.2
+2009,Pennsylvania,Black,Not Eligible,272.91,4.02
+2009,Pennsylvania,Hispanic,Not Eligible,NA,NA
+2009,Puerto Rico,Black,All,NA,NA
+2009,Puerto Rico,Hispanic,All,NA,NA
+2009,Puerto Rico,Black,Eligible,NA,NA
+2009,Puerto Rico,Hispanic,Eligible,NA,NA
+2009,Puerto Rico,Black,Not Eligible,NA,NA
+2009,Puerto Rico,Hispanic,Not Eligible,NA,NA
+2009,Rhode Island,Black,All,256.06,2.18
+2009,Rhode Island,Hispanic,All,255.03,1.59
+2009,Rhode Island,Black,Eligible,253.79,2.4499999999999997
+2009,Rhode Island,Hispanic,Eligible,254.99,1.87
+2009,Rhode Island,Black,Not Eligible,NA,NA
+2009,Rhode Island,Hispanic,Not Eligible,255.2,3.66
+2009,South Carolina,Black,All,263.42,1.46
+2009,South Carolina,Hispanic,All,269.34,2.75
+2009,South Carolina,Black,Eligible,260.11,1.56
+2009,South Carolina,Hispanic,Eligible,266.81,3.3899999999999997
+2009,South Carolina,Black,Not Eligible,274.2,2.08
+2009,South Carolina,Hispanic,Not Eligible,NA,NA
+2009,South Dakota,Black,All,NA,NA
+2009,South Dakota,Hispanic,All,268.09,3.7600000000000002
+2009,South Dakota,Black,Eligible,NA,NA
+2009,South Dakota,Hispanic,Eligible,NA,NA
+2009,South Dakota,Black,Not Eligible,NA,NA
+2009,South Dakota,Hispanic,Not Eligible,NA,NA
+2009,Tennessee,Black,All,253.84,2.36
+2009,Tennessee,Hispanic,All,270.4,3.3899999999999997
+2009,Tennessee,Black,Eligible,247.88,2.3899999999999997
+2009,Tennessee,Hispanic,Eligible,268.13,3.4099999999999997
+2009,Tennessee,Black,Not Eligible,268.32,3.05
+2009,Tennessee,Hispanic,Not Eligible,NA,NA
+2009,Texas,Black,All,272.26,1.8
+2009,Texas,Hispanic,All,277.22,1.5
+2009,Texas,Black,Eligible,267.85,2.2
+2009,Texas,Hispanic,Eligible,274.22,1.6
+2009,Texas,Black,Not Eligible,281.95,2.3099999999999996
+2009,Texas,Hispanic,Not Eligible,286.32,2.18
+2009,Utah,Black,All,NA,NA
+2009,Utah,Hispanic,All,259.23,2.13
+2009,Utah,Black,Eligible,NA,NA
+2009,Utah,Hispanic,Eligible,254.83,1.99
+2009,Utah,Black,Not Eligible,NA,NA
+2009,Utah,Hispanic,Not Eligible,266.04,3.8499999999999996
+2009,Vermont,Black,All,NA,NA
+2009,Vermont,Hispanic,All,NA,NA
+2009,Vermont,Black,Eligible,NA,NA
+2009,Vermont,Hispanic,Eligible,NA,NA
+2009,Vermont,Black,Not Eligible,NA,NA
+2009,Vermont,Hispanic,Not Eligible,NA,NA
+2009,Virginia,Black,All,267.97,1.6
+2009,Virginia,Hispanic,All,274.21,2.17
+2009,Virginia,Black,Eligible,261.46,1.73
+2009,Virginia,Hispanic,Eligible,269.94,2.67
+2009,Virginia,Black,Not Eligible,275.35,2.21
+2009,Virginia,Hispanic,Not Eligible,280.86,3.7
+2009,Washington,Black,All,268.52,4.2
+2009,Washington,Hispanic,All,263.5,1.76
+2009,Washington,Black,Eligible,254.41,4.64
+2009,Washington,Hispanic,Eligible,259.06,2
+2009,Washington,Black,Not Eligible,285.7,4.2
+2009,Washington,Hispanic,Not Eligible,278.36,4.859999999999999
+2009,West Virginia,Black,All,263.31,2.59
+2009,West Virginia,Hispanic,All,NA,NA
+2009,West Virginia,Black,Eligible,258.75,3.21
+2009,West Virginia,Hispanic,Eligible,NA,NA
+2009,West Virginia,Black,Not Eligible,NA,NA
+2009,West Virginia,Hispanic,Not Eligible,NA,NA
+2009,Wisconsin,Black,All,253.64,2.63
+2009,Wisconsin,Hispanic,All,268.43,2.6
+2009,Wisconsin,Black,Eligible,249.16,2.4
+2009,Wisconsin,Hispanic,Eligible,263.79,3.17
+2009,Wisconsin,Black,Not Eligible,270.18,6.41
+2009,Wisconsin,Hispanic,Not Eligible,278.27,4.46
+2009,Wyoming,Black,All,NA,NA
+2009,Wyoming,Hispanic,All,269.09,2.18
+2009,Wyoming,Black,Eligible,NA,NA
+2009,Wyoming,Hispanic,Eligible,264.89,3.12
+2009,Wyoming,Black,Not Eligible,NA,NA
+2009,Wyoming,Hispanic,Not Eligible,274.17,3.57
+2011,Alabama,Black,All,249.81,1.6900000000000002
+2011,Alabama,Hispanic,All,255.01,3.08
+2011,Alabama,Black,Eligible,245.07,1.8900000000000001
+2011,Alabama,Hispanic,Eligible,250.11,3.07
+2011,Alabama,Black,Not Eligible,265.22,2.59
+2011,Alabama,Hispanic,Not Eligible,NA,NA
+2011,Alaska,Black,All,272.91,2.79
+2011,Alaska,Hispanic,All,276.91,2.9099999999999997
+2011,Alaska,Black,Eligible,NA,NA
+2011,Alaska,Hispanic,Eligible,264.5,4.119999999999999
+2011,Alaska,Black,Not Eligible,NA,NA
+2011,Alaska,Hispanic,Not Eligible,289.4,3.66
+2011,Arizona,Black,All,268.98,3.22
+2011,Arizona,Hispanic,All,265.88,1.29
+2011,Arizona,Black,Eligible,265.12,5.159999999999999
+2011,Arizona,Hispanic,Eligible,263.8,1.41
+2011,Arizona,Black,Not Eligible,NA,NA
+2011,Arizona,Hispanic,Not Eligible,272.06,2.44
+2011,Arkansas,Black,All,256.74,1.71
+2011,Arkansas,Hispanic,All,272.18,2.24
+2011,Arkansas,Black,Eligible,253.96,1.53
+2011,Arkansas,Hispanic,Eligible,271.43,2.3499999999999996
+2011,Arkansas,Black,Not Eligible,271.69,5.06
+2011,Arkansas,Hispanic,Not Eligible,NA,NA
+2011,California,Black,All,253.63,3.2
+2011,California,Hispanic,All,259.53,0.99
+2011,California,Black,Eligible,246.32,3.58
+2011,California,Hispanic,Eligible,255.85,1.1700000000000002
+2011,California,Black,Not Eligible,266.91,5.44
+2011,California,Hispanic,Not Eligible,269.76,1.97
+2011,Colorado,Black,All,269.92,2.63
+2011,Colorado,Hispanic,All,270.87,1.55
+2011,Colorado,Black,Eligible,263.66,3.22
+2011,Colorado,Hispanic,Eligible,264.07,1.93
+2011,Colorado,Black,Not Eligible,NA,NA
+2011,Colorado,Hispanic,Not Eligible,287.3,2.36
+2011,Connecticut,Black,All,262.03,1.83
+2011,Connecticut,Hispanic,All,262.48,1.81
+2011,Connecticut,Black,Eligible,257,2.05
+2011,Connecticut,Hispanic,Eligible,257.95,1.97
+2011,Connecticut,Black,Not Eligible,273.69,3.8899999999999997
+2011,Connecticut,Hispanic,Not Eligible,275.8,4.06
+2011,Delaware,Black,All,265.6,1.03
+2011,Delaware,Hispanic,All,274.22,2.03
+2011,Delaware,Black,Eligible,261.43,1.35
+2011,Delaware,Hispanic,Eligible,272.26,2.05
+2011,Delaware,Black,Not Eligible,272.39,1.75
+2011,Delaware,Hispanic,Not Eligible,279.82,4.4
+2011,District of Columbia,Black,All,256.08,0.8300000000000001
+2011,District of Columbia,Hispanic,All,260.61,2.38
+2011,District of Columbia,Black,Eligible,251.53,0.92
+2011,District of Columbia,Hispanic,Eligible,259.95,2.72
+2011,District of Columbia,Black,Not Eligible,269.61,1.62
+2011,District of Columbia,Hispanic,Not Eligible,262.63,5.2700000000000005
+2011,DoDEA,Black,All,274,1.8800000000000001
+2011,DoDEA,Hispanic,All,281.59,1.6800000000000002
+2011,DoDEA,Black,Eligible,NA,NA
+2011,DoDEA,Hispanic,Eligible,NA,NA
+2011,DoDEA,Black,Not Eligible,NA,NA
+2011,DoDEA,Hispanic,Not Eligible,NA,NA
+2011,Florida,Black,All,258.47,1.6600000000000001
+2011,Florida,Hispanic,All,273.76,0.96
+2011,Florida,Black,Eligible,255.82,1.86
+2011,Florida,Hispanic,Eligible,268.82,1.08
+2011,Florida,Black,Not Eligible,267.75,3.18
+2011,Florida,Hispanic,Not Eligible,287.71,2.02
+2011,Georgia,Black,All,262.1,1.1300000000000001
+2011,Georgia,Hispanic,All,277.22,2.2600000000000002
+2011,Georgia,Black,Eligible,258.56,1.1900000000000002
+2011,Georgia,Hispanic,Eligible,272.14,1.96
+2011,Georgia,Black,Not Eligible,275.05,2.59
+2011,Georgia,Hispanic,Not Eligible,297.86,4.88
+2011,Hawaii,Black,All,277.31,4.33
+2011,Hawaii,Hispanic,All,262.64,3.29
+2011,Hawaii,Black,Eligible,NA,NA
+2011,Hawaii,Hispanic,Eligible,256.7,4.430000000000001
+2011,Hawaii,Black,Not Eligible,NA,NA
+2011,Hawaii,Hispanic,Not Eligible,268.26,4.56
+2011,Idaho,Black,All,NA,NA
+2011,Idaho,Hispanic,All,267.28,1.8800000000000001
+2011,Idaho,Black,Eligible,NA,NA
+2011,Idaho,Hispanic,Eligible,264.06,1.98
+2011,Idaho,Black,Not Eligible,NA,NA
+2011,Idaho,Hispanic,Not Eligible,278.82,3.56
+2011,Illinois,Black,All,260.46,1.52
+2011,Illinois,Hispanic,All,271.66,1.49
+2011,Illinois,Black,Eligible,257.47,1.52
+2011,Illinois,Hispanic,Eligible,269.33,1.71
+2011,Illinois,Black,Not Eligible,271.32,3.07
+2011,Illinois,Hispanic,Not Eligible,280.22,2.96
+2011,Indiana,Black,All,263.73,2.2800000000000002
+2011,Indiana,Hispanic,All,274.97,2.4
+2011,Indiana,Black,Eligible,260.56,2.3099999999999996
+2011,Indiana,Hispanic,Eligible,273.62,2.53
+2011,Indiana,Black,Not Eligible,271.28,3.58
+2011,Indiana,Hispanic,Not Eligible,NA,NA
+2011,Iowa,Black,All,257.73,3.27
+2011,Iowa,Hispanic,All,268.66,2.9
+2011,Iowa,Black,Eligible,255.36,3.57
+2011,Iowa,Hispanic,Eligible,265,3.24
+2011,Iowa,Black,Not Eligible,NA,NA
+2011,Iowa,Hispanic,Not Eligible,NA,NA
+2011,Kansas,Black,All,268.92,2.14
+2011,Kansas,Hispanic,All,274.18,1.86
+2011,Kansas,Black,Eligible,263.51,2.71
+2011,Kansas,Hispanic,Eligible,268.96,1.97
+2011,Kansas,Black,Not Eligible,NA,NA
+2011,Kansas,Hispanic,Not Eligible,292.11,3.3099999999999996
+2011,Kentucky,Black,All,260.66,1.76
+2011,Kentucky,Hispanic,All,268.88,3.5
+2011,Kentucky,Black,Eligible,255.26,1.83
+2011,Kentucky,Hispanic,Eligible,263.3,3.9499999999999997
+2011,Kentucky,Black,Not Eligible,275.76,3.4699999999999998
+2011,Kentucky,Hispanic,Not Eligible,NA,NA
+2011,Louisiana,Black,All,258.85,1.6400000000000001
+2011,Louisiana,Hispanic,All,268.9,4.37
+2011,Louisiana,Black,Eligible,257.06,1.58
+2011,Louisiana,Hispanic,Eligible,267.32,5.119999999999999
+2011,Louisiana,Black,Not Eligible,271.64,3.9699999999999998
+2011,Louisiana,Hispanic,Not Eligible,NA,NA
+2011,Maine,Black,All,264.9,5.1
+2011,Maine,Hispanic,All,NA,NA
+2011,Maine,Black,Eligible,258.39,5.95
+2011,Maine,Hispanic,Eligible,NA,NA
+2011,Maine,Black,Not Eligible,NA,NA
+2011,Maine,Hispanic,Not Eligible,NA,NA
+2011,Maryland,Black,All,267.17,1.54
+2011,Maryland,Hispanic,All,272.95,3.06
+2011,Maryland,Black,Eligible,260.21,1.76
+2011,Maryland,Hispanic,Eligible,262.93,3
+2011,Maryland,Black,Not Eligible,275.09,2.24
+2011,Maryland,Hispanic,Not Eligible,290.33,4.06
+2011,Massachusetts,Black,All,275.06,3.03
+2011,Massachusetts,Hispanic,All,272.87,1.72
+2011,Massachusetts,Black,Eligible,271.64,3.68
+2011,Massachusetts,Hispanic,Eligible,267.98,1.98
+2011,Massachusetts,Black,Not Eligible,285.99,3.94
+2011,Massachusetts,Hispanic,Not Eligible,288.53,4.13
+2011,Michigan,Black,All,249.87,2.36
+2011,Michigan,Hispanic,All,273.75,4.3
+2011,Michigan,Black,Eligible,246.09,2.52
+2011,Michigan,Hispanic,Eligible,266.48,4.430000000000001
+2011,Michigan,Black,Not Eligible,259.24,3.4
+2011,Michigan,Hispanic,Not Eligible,NA,NA
+2011,Minnesota,Black,All,266.37,2.8099999999999996
+2011,Minnesota,Hispanic,All,269.88,2.59
+2011,Minnesota,Black,Eligible,262.64,3.14
+2011,Minnesota,Hispanic,Eligible,263.49,2.46
+2011,Minnesota,Black,Not Eligible,276.04,5.56
+2011,Minnesota,Hispanic,Not Eligible,NA,NA
+2011,Mississippi,Black,All,254.68,1.6400000000000001
+2011,Mississippi,Hispanic,All,272.66,4.67
+2011,Mississippi,Black,Eligible,252.68,1.71
+2011,Mississippi,Hispanic,Eligible,NA,NA
+2011,Mississippi,Black,Not Eligible,271.86,3.4099999999999997
+2011,Mississippi,Hispanic,Not Eligible,NA,NA
+2011,Missouri,Black,All,254.41,2.69
+2011,Missouri,Hispanic,All,267.23,2.8699999999999997
+2011,Missouri,Black,Eligible,248.38,2.63
+2011,Missouri,Hispanic,Eligible,265.45,3
+2011,Missouri,Black,Not Eligible,270.75,2.8899999999999997
+2011,Missouri,Hispanic,Not Eligible,NA,NA
+2011,Montana,Black,All,NA,NA
+2011,Montana,Hispanic,All,285.09,4.13
+2011,Montana,Black,Eligible,NA,NA
+2011,Montana,Hispanic,Eligible,NA,NA
+2011,Montana,Black,Not Eligible,NA,NA
+2011,Montana,Hispanic,Not Eligible,NA,NA
+2011,National public,Black,All,261.84,0.48000000000000004
+2011,National public,Hispanic,All,269.45,0.48000000000000004
+2011,National public,Black,Eligible,257.63,0.52
+2011,National public,Hispanic,Eligible,265.9,0.56
+2011,National public,Black,Not Eligible,273.39,0.75
+2011,National public,Hispanic,Not Eligible,280.48,0.89
+2011,Nebraska,Black,All,254.54,3.09
+2011,Nebraska,Hispanic,All,261.09,1.71
+2011,Nebraska,Black,Eligible,249.95,3.14
+2011,Nebraska,Hispanic,Eligible,260.44,1.82
+2011,Nebraska,Black,Not Eligible,NA,NA
+2011,Nebraska,Hispanic,Not Eligible,263.62,5.09
+2011,Nevada,Black,All,259.07,2.23
+2011,Nevada,Hispanic,All,266.27,1.09
+2011,Nevada,Black,Eligible,252.34,3.04
+2011,Nevada,Hispanic,Eligible,264.63,1.46
+2011,Nevada,Black,Not Eligible,269.25,3.23
+2011,Nevada,Hispanic,Not Eligible,270.12,2.14
+2011,New Hampshire,Black,All,NA,NA
+2011,New Hampshire,Hispanic,All,265.72,3.4099999999999997
+2011,New Hampshire,Black,Eligible,NA,NA
+2011,New Hampshire,Hispanic,Eligible,NA,NA
+2011,New Hampshire,Black,Not Eligible,NA,NA
+2011,New Hampshire,Hispanic,Not Eligible,NA,NA
+2011,New Jersey,Black,All,271.52,2.4899999999999998
+2011,New Jersey,Hispanic,All,274.22,2.3099999999999996
+2011,New Jersey,Black,Eligible,264.75,2.71
+2011,New Jersey,Hispanic,Eligible,270.66,2.68
+2011,New Jersey,Black,Not Eligible,280.77,3.2800000000000002
+2011,New Jersey,Hispanic,Not Eligible,281.78,3.27
+2011,New Mexico,Black,All,265.4,4.33
+2011,New Mexico,Hispanic,All,269.41,0.8600000000000001
+2011,New Mexico,Black,Eligible,NA,NA
+2011,New Mexico,Hispanic,Eligible,265.37,0.91
+2011,New Mexico,Black,Not Eligible,NA,NA
+2011,New Mexico,Hispanic,Not Eligible,281.4,1.61
+2011,New York,Black,All,264.29,1.83
+2011,New York,Hispanic,All,262.8,1.34
+2011,New York,Black,Eligible,260.33,1.83
+2011,New York,Hispanic,Eligible,260.43,1.41
+2011,New York,Black,Not Eligible,276.94,2.9699999999999998
+2011,New York,Hispanic,Not Eligible,276.68,3.25
+2011,North Carolina,Black,All,267.1,1.59
+2011,North Carolina,Hispanic,All,275.08,1.8900000000000001
+2011,North Carolina,Black,Eligible,262.88,1.6900000000000002
+2011,North Carolina,Hispanic,Eligible,273.47,2.1
+2011,North Carolina,Black,Not Eligible,280.91,2.84
+2011,North Carolina,Hispanic,Not Eligible,281.84,4.119999999999999
+2011,North Dakota,Black,All,NA,NA
+2011,North Dakota,Hispanic,All,NA,NA
+2011,North Dakota,Black,Eligible,NA,NA
+2011,North Dakota,Hispanic,Eligible,NA,NA
+2011,North Dakota,Black,Not Eligible,NA,NA
+2011,North Dakota,Hispanic,Not Eligible,NA,NA
+2011,Ohio,Black,All,262.53,1.71
+2011,Ohio,Hispanic,All,273.42,4.04
+2011,Ohio,Black,Eligible,259.69,1.6700000000000002
+2011,Ohio,Hispanic,Eligible,267.07,4.7700000000000005
+2011,Ohio,Black,Not Eligible,276.34,4.74
+2011,Ohio,Hispanic,Not Eligible,NA,NA
+2011,Oklahoma,Black,All,262.46,2.6
+2011,Oklahoma,Hispanic,All,264.02,2.8499999999999996
+2011,Oklahoma,Black,Eligible,259.15,2.62
+2011,Oklahoma,Hispanic,Eligible,258.78,2.7800000000000002
+2011,Oklahoma,Black,Not Eligible,270.08,6.78
+2011,Oklahoma,Hispanic,Not Eligible,276.48,5.3
+2011,Oregon,Black,All,263.45,4.609999999999999
+2011,Oregon,Hispanic,All,267.64,1.77
+2011,Oregon,Black,Eligible,NA,NA
+2011,Oregon,Hispanic,Eligible,265.06,1.78
+2011,Oregon,Black,Not Eligible,NA,NA
+2011,Oregon,Hispanic,Not Eligible,281.9,4.96
+2011,Pennsylvania,Black,All,257.07,2.14
+2011,Pennsylvania,Hispanic,All,268.92,3.3499999999999996
+2011,Pennsylvania,Black,Eligible,255.87,2.23
+2011,Pennsylvania,Hispanic,Eligible,263.14,3.61
+2011,Pennsylvania,Black,Not Eligible,260.09,5.84
+2011,Pennsylvania,Hispanic,Not Eligible,NA,NA
+2011,Puerto Rico,Black,All,NA,NA
+2011,Puerto Rico,Hispanic,All,218.41,0.8200000000000001
+2011,Puerto Rico,Black,Eligible,NA,NA
+2011,Puerto Rico,Hispanic,Eligible,218.41,0.8200000000000001
+2011,Puerto Rico,Black,Not Eligible,NA,NA
+2011,Puerto Rico,Hispanic,Not Eligible,NA,NA
+2011,Rhode Island,Black,All,256.44,2.66
+2011,Rhode Island,Hispanic,All,261.26,1.85
+2011,Rhode Island,Black,Eligible,256.07,3.09
+2011,Rhode Island,Hispanic,Eligible,258.57,2.04
+2011,Rhode Island,Black,Not Eligible,NA,NA
+2011,Rhode Island,Hispanic,Not Eligible,273.25,3.7600000000000002
+2011,South Carolina,Black,All,262.95,1.81
+2011,South Carolina,Hispanic,All,272.58,3.5
+2011,South Carolina,Black,Eligible,259.75,1.71
+2011,South Carolina,Hispanic,Eligible,270.34,3.53
+2011,South Carolina,Black,Not Eligible,273.57,2.77
+2011,South Carolina,Hispanic,Not Eligible,NA,NA
+2011,South Dakota,Black,All,269.79,4.1499999999999995
+2011,South Dakota,Hispanic,All,274,3.73
+2011,South Dakota,Black,Eligible,NA,NA
+2011,South Dakota,Hispanic,Eligible,NA,NA
+2011,South Dakota,Black,Not Eligible,NA,NA
+2011,South Dakota,Hispanic,Not Eligible,NA,NA
+2011,Tennessee,Black,All,252.24,2.3699999999999997
+2011,Tennessee,Hispanic,All,265.7,2.8299999999999996
+2011,Tennessee,Black,Eligible,247.08,2.59
+2011,Tennessee,Hispanic,Eligible,261.29,3
+2011,Tennessee,Black,Not Eligible,273.65,4.6899999999999995
+2011,Tennessee,Hispanic,Not Eligible,NA,NA
+2011,Texas,Black,All,276.9,1.74
+2011,Texas,Hispanic,All,283.2,1.21
+2011,Texas,Black,Eligible,273.64,2.07
+2011,Texas,Hispanic,Eligible,279.56,1.27
+2011,Texas,Black,Not Eligible,283.69,2.71
+2011,Texas,Hispanic,Not Eligible,296.39,1.79
+2011,Utah,Black,All,NA,NA
+2011,Utah,Hispanic,All,256.8,1.91
+2011,Utah,Black,Eligible,NA,NA
+2011,Utah,Hispanic,Eligible,253.86,2.01
+2011,Utah,Black,Not Eligible,NA,NA
+2011,Utah,Hispanic,Not Eligible,265.12,4.04
+2011,Vermont,Black,All,NA,NA
+2011,Vermont,Hispanic,All,NA,NA
+2011,Vermont,Black,Eligible,NA,NA
+2011,Vermont,Hispanic,Eligible,NA,NA
+2011,Vermont,Black,Not Eligible,NA,NA
+2011,Vermont,Hispanic,Not Eligible,NA,NA
+2011,Virginia,Black,All,268.13,1.6800000000000002
+2011,Virginia,Hispanic,All,278.57,1.77
+2011,Virginia,Black,Eligible,261.67,1.8800000000000001
+2011,Virginia,Hispanic,Eligible,272.83,2.38
+2011,Virginia,Black,Not Eligible,275.68,2.59
+2011,Virginia,Hispanic,Not Eligible,286.19,3.3499999999999996
+2011,Washington,Black,All,264.5,3.4299999999999997
+2011,Washington,Hispanic,All,269.01,2.44
+2011,Washington,Black,Eligible,259.27,3.88
+2011,Washington,Hispanic,Eligible,265.08,2.3499999999999996
+2011,Washington,Black,Not Eligible,NA,NA
+2011,Washington,Hispanic,Not Eligible,278.23,3.9
+2011,West Virginia,Black,All,259.87,3.05
+2011,West Virginia,Hispanic,All,NA,NA
+2011,West Virginia,Black,Eligible,257.04,3.63
+2011,West Virginia,Hispanic,Eligible,NA,NA
+2011,West Virginia,Black,Not Eligible,NA,NA
+2011,West Virginia,Hispanic,Not Eligible,NA,NA
+2011,Wisconsin,Black,All,255.63,2.9699999999999998
+2011,Wisconsin,Hispanic,All,269.67,2.3
+2011,Wisconsin,Black,Eligible,249.42,2.9099999999999997
+2011,Wisconsin,Hispanic,Eligible,266.31,2.73
+2011,Wisconsin,Black,Not Eligible,271.42,4.7700000000000005
+2011,Wisconsin,Hispanic,Not Eligible,277.57,3.8899999999999997
+2011,Wyoming,Black,All,NA,NA
+2011,Wyoming,Hispanic,All,271.26,2.52
+2011,Wyoming,Black,Eligible,NA,NA
+2011,Wyoming,Hispanic,Eligible,267.27,3.54
+2011,Wyoming,Black,Not Eligible,NA,NA
+2011,Wyoming,Hispanic,Not Eligible,277.85,3.2
+2013,Alabama,Black,All,250.15,1.37
+2013,Alabama,Hispanic,All,257.07,3.5
+2013,Alabama,Black,Eligible,245.94,1.48
+2013,Alabama,Hispanic,Eligible,256.07,3.59
+2013,Alabama,Black,Not Eligible,272.98,2.9699999999999998
+2013,Alabama,Hispanic,Not Eligible,NA,NA
+2013,Alaska,Black,All,269.87,3.8499999999999996
+2013,Alaska,Hispanic,All,276.65,2.36
+2013,Alaska,Black,Eligible,263.7,3.86
+2013,Alaska,Hispanic,Eligible,269.74,2.72
+2013,Alaska,Black,Not Eligible,NA,NA
+2013,Alaska,Hispanic,Not Eligible,285.8,4.2700000000000005
+2013,Arizona,Black,All,265.54,3.9499999999999997
+2013,Arizona,Hispanic,All,269.09,1.33
+2013,Arizona,Black,Eligible,259.45,4.54
+2013,Arizona,Hispanic,Eligible,265.95,1.32
+2013,Arizona,Black,Not Eligible,NA,NA
+2013,Arizona,Hispanic,Not Eligible,279.1,2.73
+2013,Arkansas,Black,All,254.98,1.6800000000000002
+2013,Arkansas,Hispanic,All,273.5,2.3499999999999996
+2013,Arkansas,Black,Eligible,251.76,1.6400000000000001
+2013,Arkansas,Hispanic,Eligible,271.51,2.46
+2013,Arkansas,Black,Not Eligible,271.92,3.8899999999999997
+2013,Arkansas,Hispanic,Not Eligible,NA,NA
+2013,California,Black,All,257.97,2.96
+2013,California,Hispanic,All,263.2,1.06
+2013,California,Black,Eligible,252.45,2.9899999999999998
+2013,California,Hispanic,Eligible,260.19,1.05
+2013,California,Black,Not Eligible,270.51,6.14
+2013,California,Hispanic,Not Eligible,274.72,1.92
+2013,Colorado,Black,All,260.09,3.7600000000000002
+2013,Colorado,Hispanic,All,272.83,1.84
+2013,Colorado,Black,Eligible,251.38,4.59
+2013,Colorado,Hispanic,Eligible,266.16,2.09
+2013,Colorado,Black,Not Eligible,NA,NA
+2013,Colorado,Hispanic,Not Eligible,288.04,2.8099999999999996
+2013,Connecticut,Black,All,260.43,2.61
+2013,Connecticut,Hispanic,All,257.84,2.25
+2013,Connecticut,Black,Eligible,257.23,3.3499999999999996
+2013,Connecticut,Hispanic,Eligible,251.67,2.57
+2013,Connecticut,Black,Not Eligible,268.34,3.62
+2013,Connecticut,Hispanic,Not Eligible,275.09,2.8099999999999996
+2013,Delaware,Black,All,264.41,1.1300000000000001
+2013,Delaware,Hispanic,All,275.92,2.03
+2013,Delaware,Black,Eligible,260.45,1.36
+2013,Delaware,Hispanic,Eligible,272.49,2.32
+2013,Delaware,Black,Not Eligible,272.58,2.09
+2013,Delaware,Hispanic,Not Eligible,286.13,3.4299999999999997
+2013,District of Columbia,Black,All,260.7,0.9500000000000001
+2013,District of Columbia,Hispanic,All,265.02,2.66
+2013,District of Columbia,Black,Eligible,256.69,1.03
+2013,District of Columbia,Hispanic,Eligible,261.46,2.62
+2013,District of Columbia,Black,Not Eligible,283.3,2.4299999999999997
+2013,District of Columbia,Hispanic,Not Eligible,NA,NA
+2013,DoDEA,Black,All,276.39,1.76
+2013,DoDEA,Hispanic,All,283.4,1.6600000000000001
+2013,DoDEA,Black,Eligible,NA,NA
+2013,DoDEA,Hispanic,Eligible,NA,NA
+2013,DoDEA,Black,Not Eligible,NA,NA
+2013,DoDEA,Hispanic,Not Eligible,NA,NA
+2013,Florida,Black,All,263.77,1.73
+2013,Florida,Hispanic,All,274.41,1.01
+2013,Florida,Black,Eligible,261.22,1.77
+2013,Florida,Hispanic,Eligible,269.76,1.26
+2013,Florida,Black,Not Eligible,273.25,2.72
+2013,Florida,Hispanic,Not Eligible,286.92,1.75
+2013,Georgia,Black,All,262.31,1.3900000000000001
+2013,Georgia,Hispanic,All,275.86,2.8
+2013,Georgia,Black,Eligible,257.96,1.34
+2013,Georgia,Hispanic,Eligible,274.13,2.9699999999999998
+2013,Georgia,Black,Not Eligible,279.43,2.48
+2013,Georgia,Hispanic,Not Eligible,NA,NA
+2013,Hawaii,Black,All,NA,NA
+2013,Hawaii,Hispanic,All,279.64,3.13
+2013,Hawaii,Black,Eligible,NA,NA
+2013,Hawaii,Hispanic,Eligible,274.97,4.1899999999999995
+2013,Hawaii,Black,Not Eligible,NA,NA
+2013,Hawaii,Hispanic,Not Eligible,285.89,4.3
+2013,Idaho,Black,All,NA,NA
+2013,Idaho,Hispanic,All,267.53,1.56
+2013,Idaho,Black,Eligible,NA,NA
+2013,Idaho,Hispanic,Eligible,265.69,1.6400000000000001
+2013,Idaho,Black,Not Eligible,NA,NA
+2013,Idaho,Hispanic,Not Eligible,275.21,3.8
+2013,Illinois,Black,All,260.47,1.32
+2013,Illinois,Hispanic,All,272.31,1.43
+2013,Illinois,Black,Eligible,256.11,1.48
+2013,Illinois,Hispanic,Eligible,269.59,1.8
+2013,Illinois,Black,Not Eligible,275.86,2.65
+2013,Illinois,Hispanic,Not Eligible,282.94,3.3499999999999996
+2013,Indiana,Black,All,265.08,2.38
+2013,Indiana,Hispanic,All,278.44,2.4099999999999997
+2013,Indiana,Black,Eligible,261.46,2.8
+2013,Indiana,Hispanic,Eligible,276.19,2.71
+2013,Indiana,Black,Not Eligible,274.29,5.4
+2013,Indiana,Hispanic,Not Eligible,NA,NA
+2013,Iowa,Black,All,254.52,3.13
+2013,Iowa,Hispanic,All,265.35,2.63
+2013,Iowa,Black,Eligible,249.18,3.44
+2013,Iowa,Hispanic,Eligible,262.07,3.25
+2013,Iowa,Black,Not Eligible,NA,NA
+2013,Iowa,Hispanic,Not Eligible,NA,NA
+2013,Kansas,Black,All,267.87,3.22
+2013,Kansas,Hispanic,All,275.79,3.03
+2013,Kansas,Black,Eligible,260.81,3.12
+2013,Kansas,Hispanic,Eligible,272.09,2.84
+2013,Kansas,Black,Not Eligible,NA,NA
+2013,Kansas,Hispanic,Not Eligible,288.98,5.55
+2013,Kentucky,Black,All,260.19,1.56
+2013,Kentucky,Hispanic,All,268.95,2.9899999999999998
+2013,Kentucky,Black,Eligible,256.73,1.6500000000000001
+2013,Kentucky,Hispanic,Eligible,263.96,3.16
+2013,Kentucky,Black,Not Eligible,271.73,3.67
+2013,Kentucky,Hispanic,Not Eligible,NA,NA
+2013,Louisiana,Black,All,259.13,1.1400000000000001
+2013,Louisiana,Hispanic,All,277.18,3.74
+2013,Louisiana,Black,Eligible,257.57,1.03
+2013,Louisiana,Hispanic,Eligible,273.82,4.01
+2013,Louisiana,Black,Not Eligible,269.34,3.4699999999999998
+2013,Louisiana,Hispanic,Not Eligible,NA,NA
+2013,Maine,Black,All,261.81,4.859999999999999
+2013,Maine,Hispanic,All,NA,NA
+2013,Maine,Black,Eligible,254.6,4.73
+2013,Maine,Hispanic,Eligible,NA,NA
+2013,Maine,Black,Not Eligible,NA,NA
+2013,Maine,Hispanic,Not Eligible,NA,NA
+2013,Maryland,Black,All,268.4,1.37
+2013,Maryland,Hispanic,All,279.78,2.2800000000000002
+2013,Maryland,Black,Eligible,263.96,1.49
+2013,Maryland,Hispanic,Eligible,272.1,2.44
+2013,Maryland,Black,Not Eligible,275.52,2.03
+2013,Maryland,Hispanic,Not Eligible,293.58,3
+2013,Massachusetts,Black,All,277.16,1.76
+2013,Massachusetts,Hispanic,All,277.36,2.06
+2013,Massachusetts,Black,Eligible,271.62,2.08
+2013,Massachusetts,Hispanic,Eligible,274.06,2.18
+2013,Massachusetts,Black,Not Eligible,297.36,4.53
+2013,Massachusetts,Hispanic,Not Eligible,295.64,3.9099999999999997
+2013,Michigan,Black,All,251.01,2.17
+2013,Michigan,Hispanic,All,261.09,2.61
+2013,Michigan,Black,Eligible,245.13,2.4
+2013,Michigan,Hispanic,Eligible,255.32,3.57
+2013,Michigan,Black,Not Eligible,267.93,2.75
+2013,Michigan,Hispanic,Not Eligible,NA,NA
+2013,Minnesota,Black,All,260.06,3.48
+2013,Minnesota,Hispanic,All,273.16,3.07
+2013,Minnesota,Black,Eligible,252.91,3.79
+2013,Minnesota,Hispanic,Eligible,267.03,3.1
+2013,Minnesota,Black,Not Eligible,NA,NA
+2013,Minnesota,Hispanic,Not Eligible,NA,NA
+2013,Mississippi,Black,All,254.91,1.11
+2013,Mississippi,Hispanic,All,279.12,3.69
+2013,Mississippi,Black,Eligible,253.6,1.12
+2013,Mississippi,Hispanic,Eligible,278.7,4.25
+2013,Mississippi,Black,Not Eligible,267.94,3.19
+2013,Mississippi,Hispanic,Not Eligible,NA,NA
+2013,Missouri,Black,All,260.4,3.15
+2013,Missouri,Hispanic,All,275.81,2.8899999999999997
+2013,Missouri,Black,Eligible,257.6,3.27
+2013,Missouri,Hispanic,Eligible,268.39,3.62
+2013,Missouri,Black,Not Eligible,270.03,3.72
+2013,Missouri,Hispanic,Not Eligible,NA,NA
+2013,Montana,Black,All,NA,NA
+2013,Montana,Hispanic,All,281.8,3.9499999999999997
+2013,Montana,Black,Eligible,NA,NA
+2013,Montana,Hispanic,Eligible,278.38,5.35
+2013,Montana,Black,Not Eligible,NA,NA
+2013,Montana,Hispanic,Not Eligible,NA,NA
+2013,National public,Black,All,262.73,0.4
+2013,National public,Hispanic,All,271.01,0.43000000000000005
+2013,National public,Black,Eligible,258.46,0.43000000000000005
+2013,National public,Hispanic,Eligible,267.5,0.47000000000000003
+2013,National public,Black,Not Eligible,275.96,0.88
+2013,National public,Hispanic,Not Eligible,282.81,0.81
+2013,Nebraska,Black,All,250.45,4.18
+2013,Nebraska,Hispanic,All,266.88,1.6700000000000002
+2013,Nebraska,Black,Eligible,246.93,4.470000000000001
+2013,Nebraska,Hispanic,Eligible,263.79,1.79
+2013,Nebraska,Black,Not Eligible,NA,NA
+2013,Nebraska,Hispanic,Not Eligible,283.04,4.119999999999999
+2013,Nevada,Black,All,262.74,2.24
+2013,Nevada,Hispanic,All,268.03,1.12
+2013,Nevada,Black,Eligible,258.88,2.2800000000000002
+2013,Nevada,Hispanic,Eligible,265.64,1.1900000000000002
+2013,Nevada,Black,Not Eligible,275.56,5.34
+2013,Nevada,Hispanic,Not Eligible,276.42,2.55
+2013,New Hampshire,Black,All,NA,NA
+2013,New Hampshire,Hispanic,All,270.18,3.68
+2013,New Hampshire,Black,Eligible,NA,NA
+2013,New Hampshire,Hispanic,Eligible,260.59,4.54
+2013,New Hampshire,Black,Not Eligible,NA,NA
+2013,New Hampshire,Hispanic,Not Eligible,NA,NA
+2013,New Jersey,Black,All,274.2,2.58
+2013,New Jersey,Hispanic,All,282.87,2.2600000000000002
+2013,New Jersey,Black,Eligible,267.8,3.15
+2013,New Jersey,Hispanic,Eligible,279.11,2.62
+2013,New Jersey,Black,Not Eligible,286.29,2.88
+2013,New Jersey,Hispanic,Not Eligible,294.27,3.7600000000000002
+2013,New Mexico,Black,All,258.41,4.95
+2013,New Mexico,Hispanic,All,267.78,0.7899999999999999
+2013,New Mexico,Black,Eligible,NA,NA
+2013,New Mexico,Hispanic,Eligible,264.66,0.8200000000000001
+2013,New Mexico,Black,Not Eligible,NA,NA
+2013,New Mexico,Hispanic,Not Eligible,279.38,1.57
+2013,New York,Black,All,261.51,1.94
+2013,New York,Hispanic,All,265.21,1.79
+2013,New York,Black,Eligible,258.91,2.3
+2013,New York,Hispanic,Eligible,262.75,2.12
+2013,New York,Black,Not Eligible,268.91,3.08
+2013,New York,Hispanic,Not Eligible,272.73,3
+2013,North Carolina,Black,All,268.29,1.59
+2013,North Carolina,Hispanic,All,278.87,2.01
+2013,North Carolina,Black,Eligible,265.15,1.71
+2013,North Carolina,Hispanic,Eligible,277.37,2.29
+2013,North Carolina,Black,Not Eligible,279.87,2.2800000000000002
+2013,North Carolina,Hispanic,Not Eligible,285.91,3.94
+2013,North Dakota,Black,All,271.56,4.1
+2013,North Dakota,Hispanic,All,NA,NA
+2013,North Dakota,Black,Eligible,NA,NA
+2013,North Dakota,Hispanic,Eligible,NA,NA
+2013,North Dakota,Black,Not Eligible,NA,NA
+2013,North Dakota,Hispanic,Not Eligible,NA,NA
+2013,Ohio,Black,All,266.71,1.79
+2013,Ohio,Hispanic,All,277.04,3.9
+2013,Ohio,Black,Eligible,264.1,1.8800000000000001
+2013,Ohio,Hispanic,Eligible,267.51,3.75
+2013,Ohio,Black,Not Eligible,276.19,3.62
+2013,Ohio,Hispanic,Not Eligible,NA,NA
+2013,Oklahoma,Black,All,255.62,3.08
+2013,Oklahoma,Hispanic,All,264.87,2.9499999999999997
+2013,Oklahoma,Black,Eligible,253.1,3.4
+2013,Oklahoma,Hispanic,Eligible,262.61,3.55
+2013,Oklahoma,Black,Not Eligible,NA,NA
+2013,Oklahoma,Hispanic,Not Eligible,272.11,3.5
+2013,Oregon,Black,All,NA,NA
+2013,Oregon,Hispanic,All,265.85,1.78
+2013,Oregon,Black,Eligible,NA,NA
+2013,Oregon,Hispanic,Eligible,262.64,1.84
+2013,Oregon,Black,Not Eligible,NA,NA
+2013,Oregon,Hispanic,Not Eligible,289.49,5.359999999999999
+2013,Pennsylvania,Black,All,261.66,2.11
+2013,Pennsylvania,Hispanic,All,264.39,2.3699999999999997
+2013,Pennsylvania,Black,Eligible,257.91,2.2
+2013,Pennsylvania,Hispanic,Eligible,260.16,2.32
+2013,Pennsylvania,Black,Not Eligible,273.76,3.2
+2013,Pennsylvania,Hispanic,Not Eligible,NA,NA
+2013,Puerto Rico,Black,All,NA,NA
+2013,Puerto Rico,Hispanic,All,217.91,0.72
+2013,Puerto Rico,Black,Eligible,NA,NA
+2013,Puerto Rico,Hispanic,Eligible,217.91,0.72
+2013,Puerto Rico,Black,Not Eligible,NA,NA
+2013,Puerto Rico,Hispanic,Not Eligible,NA,NA
+2013,Rhode Island,Black,All,262.83,2.8
+2013,Rhode Island,Hispanic,All,262.88,1.6
+2013,Rhode Island,Black,Eligible,259.61,2.98
+2013,Rhode Island,Hispanic,Eligible,260.99,1.8900000000000001
+2013,Rhode Island,Black,Not Eligible,275.25,5.6899999999999995
+2013,Rhode Island,Hispanic,Not Eligible,271.27,4.159999999999999
+2013,South Carolina,Black,All,260.99,1.6700000000000002
+2013,South Carolina,Hispanic,All,272.24,3.8
+2013,South Carolina,Black,Eligible,257.5,1.71
+2013,South Carolina,Hispanic,Eligible,268.59,4.819999999999999
+2013,South Carolina,Black,Not Eligible,274.57,2.7
+2013,South Carolina,Hispanic,Not Eligible,NA,NA
+2013,South Dakota,Black,All,254.44,5.46
+2013,South Dakota,Hispanic,All,274.42,3.7800000000000002
+2013,South Dakota,Black,Eligible,NA,NA
+2013,South Dakota,Hispanic,Eligible,265.99,5.1499999999999995
+2013,South Dakota,Black,Not Eligible,NA,NA
+2013,South Dakota,Hispanic,Not Eligible,NA,NA
+2013,Tennessee,Black,All,256.74,2.82
+2013,Tennessee,Hispanic,All,270.39,3.32
+2013,Tennessee,Black,Eligible,253.01,2.94
+2013,Tennessee,Hispanic,Eligible,264.96,3.6
+2013,Tennessee,Black,Not Eligible,272.17,3.64
+2013,Tennessee,Hispanic,Not Eligible,NA,NA
+2013,Texas,Black,All,272.51,2.02
+2013,Texas,Hispanic,All,281.36,1.1300000000000001
+2013,Texas,Black,Eligible,267.23,2.2
+2013,Texas,Hispanic,Eligible,278.28,1.1400000000000001
+2013,Texas,Black,Not Eligible,284.42,3.05
+2013,Texas,Hispanic,Not Eligible,290.58,2.36
+2013,Utah,Black,All,NA,NA
+2013,Utah,Hispanic,All,257.88,1.94
+2013,Utah,Black,Eligible,NA,NA
+2013,Utah,Hispanic,Eligible,254.66,1.9
+2013,Utah,Black,Not Eligible,NA,NA
+2013,Utah,Hispanic,Not Eligible,268.42,4.1
+2013,Vermont,Black,All,258.19,5.359999999999999
+2013,Vermont,Hispanic,All,NA,NA
+2013,Vermont,Black,Eligible,NA,NA
+2013,Vermont,Hispanic,Eligible,NA,NA
+2013,Vermont,Black,Not Eligible,NA,NA
+2013,Vermont,Hispanic,Not Eligible,NA,NA
+2013,Virginia,Black,All,266.74,1.76
+2013,Virginia,Hispanic,All,279.21,2.13
+2013,Virginia,Black,Eligible,260.45,1.74
+2013,Virginia,Hispanic,Eligible,271.84,2.3499999999999996
+2013,Virginia,Black,Not Eligible,276.7,2.69
+2013,Virginia,Hispanic,Not Eligible,287.7,2.9899999999999998
+2013,Washington,Black,All,268.66,4.72
+2013,Washington,Hispanic,All,273.21,1.6
+2013,Washington,Black,Eligible,257.91,5.55
+2013,Washington,Hispanic,Eligible,269.16,1.6500000000000001
+2013,Washington,Black,Not Eligible,NA,NA
+2013,Washington,Hispanic,Not Eligible,287.27,3.19
+2013,West Virginia,Black,All,263.73,2.88
+2013,West Virginia,Hispanic,All,NA,NA
+2013,West Virginia,Black,Eligible,259.19,3.3899999999999997
+2013,West Virginia,Hispanic,Eligible,NA,NA
+2013,West Virginia,Black,Not Eligible,NA,NA
+2013,West Virginia,Hispanic,Not Eligible,NA,NA
+2013,Wisconsin,Black,All,252.38,2.29
+2013,Wisconsin,Hispanic,All,272.66,2.24
+2013,Wisconsin,Black,Eligible,249.66,2.55
+2013,Wisconsin,Hispanic,Eligible,267.55,2.55
+2013,Wisconsin,Black,Not Eligible,266.06,5.25
+2013,Wisconsin,Hispanic,Not Eligible,287.76,3.48
+2013,Wyoming,Black,All,NA,NA
+2013,Wyoming,Hispanic,All,277.81,1.6600000000000001
+2013,Wyoming,Black,Eligible,NA,NA
+2013,Wyoming,Hispanic,Eligible,272.27,2.1
+2013,Wyoming,Black,Not Eligible,NA,NA
+2013,Wyoming,Hispanic,Not Eligible,286.2,2.8699999999999997
+2015,Alabama,Black,All,247.79,1.85
+2015,Alabama,Hispanic,All,260.24,3.16
+2015,Alabama,Black,Eligible,244.46,1.9
+2015,Alabama,Hispanic,Eligible,257.18,3.08
+2015,Alabama,Black,Not Eligible,262.97,3.63
+2015,Alabama,Hispanic,Not Eligible,NA,NA
+2015,Alaska,Black,All,268.86,4.53
+2015,Alaska,Hispanic,All,279.05,2.88
+2015,Alaska,Black,Eligible,NA,NA
+2015,Alaska,Hispanic,Eligible,272.78,3.86
+2015,Alaska,Black,Not Eligible,NA,NA
+2015,Alaska,Hispanic,Not Eligible,NA,NA
+2015,Arizona,Black,All,269.1,4.05
+2015,Arizona,Hispanic,All,273.08,1.22
+2015,Arizona,Black,Eligible,264.43,4.63
+2015,Arizona,Hispanic,Eligible,269.75,1.44
+2015,Arizona,Black,Not Eligible,NA,NA
+2015,Arizona,Hispanic,Not Eligible,284.39,2.3499999999999996
+2015,Arkansas,Black,All,255.32,2.21
+2015,Arkansas,Hispanic,All,268.83,2.7800000000000002
+2015,Arkansas,Black,Eligible,253.23,2.09
+2015,Arkansas,Hispanic,Eligible,266.01,2.66
+2015,Arkansas,Black,Not Eligible,268.52,5.71
+2015,Arkansas,Hispanic,Not Eligible,NA,NA
+2015,California,Black,All,260.32,3.29
+2015,California,Hispanic,All,262.58,1.55
+2015,California,Black,Eligible,253.4,2.8
+2015,California,Hispanic,Eligible,259.58,1.42
+2015,California,Black,Not Eligible,276.58,6.25
+2015,California,Hispanic,Not Eligible,276.17,3.3699999999999997
+2015,Colorado,Black,All,260.34,4.92
+2015,Colorado,Hispanic,All,268.89,1.62
+2015,Colorado,Black,Eligible,252.8,4.8
+2015,Colorado,Hispanic,Eligible,262.77,2.19
+2015,Colorado,Black,Not Eligible,NA,NA
+2015,Colorado,Hispanic,Not Eligible,282.85,2.8099999999999996
+2015,Connecticut,Black,All,256.42,2.86
+2015,Connecticut,Hispanic,All,261.41,2.3099999999999996
+2015,Connecticut,Black,Eligible,249.4,3.09
+2015,Connecticut,Hispanic,Eligible,255.7,2.73
+2015,Connecticut,Black,Not Eligible,270.15,4.91
+2015,Connecticut,Hispanic,Not Eligible,277.53,3.7
+2015,Delaware,Black,All,263.37,1.33
+2015,Delaware,Hispanic,All,269.72,2.18
+2015,Delaware,Black,Eligible,258.09,1.83
+2015,Delaware,Hispanic,Eligible,267.29,2.55
+2015,Delaware,Black,Not Eligible,270.1,2.03
+2015,Delaware,Hispanic,Not Eligible,274.01,3.64
+2015,District of Columbia,Black,All,256.66,0.97
+2015,District of Columbia,Hispanic,All,265.32,2.62
+2015,District of Columbia,Black,Eligible,252.45,1.1500000000000001
+2015,District of Columbia,Hispanic,Eligible,259.34,2.7800000000000002
+2015,District of Columbia,Black,Not Eligible,278.93,1.95
+2015,District of Columbia,Hispanic,Not Eligible,284.49,5.35
+2015,DoDEA,Black,All,271.01,2.13
+2015,DoDEA,Hispanic,All,286.52,2.08
+2015,DoDEA,Black,Eligible,NA,NA
+2015,DoDEA,Hispanic,Eligible,NA,NA
+2015,DoDEA,Black,Not Eligible,NA,NA
+2015,DoDEA,Hispanic,Not Eligible,NA,NA
+2015,Florida,Black,All,258.3,2.2
+2015,Florida,Hispanic,All,272.03,1.41
+2015,Florida,Black,Eligible,254.52,2.1
+2015,Florida,Hispanic,Eligible,267.76,1.3800000000000001
+2015,Florida,Black,Not Eligible,274.79,3.66
+2015,Florida,Hispanic,Not Eligible,286.65,2.57
+2015,Georgia,Black,All,263.74,1.53
+2015,Georgia,Hispanic,All,270.22,2.15
+2015,Georgia,Black,Eligible,259.49,1.53
+2015,Georgia,Hispanic,Eligible,264.67,2.18
+2015,Georgia,Black,Not Eligible,285.42,4.39
+2015,Georgia,Hispanic,Not Eligible,294.4,6.17
+2015,Hawaii,Black,All,NA,NA
+2015,Hawaii,Hispanic,All,271.45,2.9299999999999997
+2015,Hawaii,Black,Eligible,NA,NA
+2015,Hawaii,Hispanic,Eligible,261.19,4.05
+2015,Hawaii,Black,Not Eligible,NA,NA
+2015,Hawaii,Hispanic,Not Eligible,284.38,5.3
+2015,Idaho,Black,All,NA,NA
+2015,Idaho,Hispanic,All,263.76,2.17
+2015,Idaho,Black,Eligible,NA,NA
+2015,Idaho,Hispanic,Eligible,260.12,2.51
+2015,Idaho,Black,Not Eligible,NA,NA
+2015,Idaho,Hispanic,Not Eligible,275.38,3.34
+2015,Illinois,Black,All,260.59,2.4099999999999997
+2015,Illinois,Hispanic,All,273.31,1.45
+2015,Illinois,Black,Eligible,257.09,2.2600000000000002
+2015,Illinois,Hispanic,Eligible,271.32,1.37
+2015,Illinois,Black,Not Eligible,276.8,4.81
+2015,Illinois,Hispanic,Not Eligible,280.59,3.54
+2015,Indiana,Black,All,256.94,3.24
+2015,Indiana,Hispanic,All,270.81,3.11
+2015,Indiana,Black,Eligible,253.56,3.23
+2015,Indiana,Hispanic,Eligible,267.25,3.59
+2015,Indiana,Black,Not Eligible,NA,NA
+2015,Indiana,Hispanic,Not Eligible,NA,NA
+2015,Iowa,Black,All,253.6,3.02
+2015,Iowa,Hispanic,All,269.18,3.08
+2015,Iowa,Black,Eligible,251.32,3.29
+2015,Iowa,Hispanic,Eligible,263.66,3.58
+2015,Iowa,Black,Not Eligible,NA,NA
+2015,Iowa,Hispanic,Not Eligible,NA,NA
+2015,Kansas,Black,All,262.7,3.82
+2015,Kansas,Hispanic,All,273.56,2.7800000000000002
+2015,Kansas,Black,Eligible,261.61,3.79
+2015,Kansas,Hispanic,Eligible,269.27,3.06
+2015,Kansas,Black,Not Eligible,NA,NA
+2015,Kansas,Hispanic,Not Eligible,292.91,4.6899999999999995
+2015,Kentucky,Black,All,257.48,2.29
+2015,Kentucky,Hispanic,All,273.86,2.8699999999999997
+2015,Kentucky,Black,Eligible,254.07,2.8499999999999996
+2015,Kentucky,Hispanic,Eligible,268.81,2.9
+2015,Kentucky,Black,Not Eligible,270.78,4.59
+2015,Kentucky,Hispanic,Not Eligible,NA,NA
+2015,Louisiana,Black,All,254.7,1.36
+2015,Louisiana,Hispanic,All,270.67,3.75
+2015,Louisiana,Black,Eligible,252.84,1.37
+2015,Louisiana,Hispanic,Eligible,NA,NA
+2015,Louisiana,Black,Not Eligible,266.86,3.27
+2015,Louisiana,Hispanic,Not Eligible,NA,NA
+2015,Maine,Black,All,NA,NA
+2015,Maine,Hispanic,All,NA,NA
+2015,Maine,Black,Eligible,NA,NA
+2015,Maine,Hispanic,Eligible,NA,NA
+2015,Maine,Black,Not Eligible,NA,NA
+2015,Maine,Hispanic,Not Eligible,NA,NA
+2015,Maryland,Black,All,262.71,1.33
+2015,Maryland,Hispanic,All,273.33,2.44
+2015,Maryland,Black,Eligible,256.43,1.46
+2015,Maryland,Hispanic,Eligible,267.54,3.1
+2015,Maryland,Black,Not Eligible,272.75,2.57
+2015,Maryland,Hispanic,Not Eligible,283.23,4.1899999999999995
+2015,Massachusetts,Black,All,267.99,3.64
+2015,Massachusetts,Hispanic,All,271.03,3.1
+2015,Massachusetts,Black,Eligible,265.86,3.9699999999999998
+2015,Massachusetts,Hispanic,Eligible,269.02,3.6
+2015,Massachusetts,Black,Not Eligible,NA,NA
+2015,Massachusetts,Hispanic,Not Eligible,NA,NA
+2015,Michigan,Black,All,250.57,2.17
+2015,Michigan,Hispanic,All,269.13,3.9899999999999998
+2015,Michigan,Black,Eligible,248.36,2.14
+2015,Michigan,Hispanic,Eligible,256.2,4.72
+2015,Michigan,Black,Not Eligible,257.89,4.45
+2015,Michigan,Hispanic,Not Eligible,286.97,5.92
+2015,Minnesota,Black,All,261.88,2.69
+2015,Minnesota,Hispanic,All,271.53,3.19
+2015,Minnesota,Black,Eligible,257.01,2.56
+2015,Minnesota,Hispanic,Eligible,262.99,3.4699999999999998
+2015,Minnesota,Black,Not Eligible,NA,NA
+2015,Minnesota,Hispanic,Not Eligible,NA,NA
+2015,Mississippi,Black,All,257.12,1.7
+2015,Mississippi,Hispanic,All,269.26,4.85
+2015,Mississippi,Black,Eligible,254.81,1.71
+2015,Mississippi,Hispanic,Eligible,NA,NA
+2015,Mississippi,Black,Not Eligible,283.2,4.2
+2015,Mississippi,Hispanic,Not Eligible,NA,NA
+2015,Missouri,Black,All,257.8,2.67
+2015,Missouri,Hispanic,All,269.74,3.4699999999999998
+2015,Missouri,Black,Eligible,255.42,2.68
+2015,Missouri,Hispanic,Eligible,260.46,4.31
+2015,Missouri,Black,Not Eligible,NA,NA
+2015,Missouri,Hispanic,Not Eligible,NA,NA
+2015,Montana,Black,All,NA,NA
+2015,Montana,Hispanic,All,275.04,4.930000000000001
+2015,Montana,Black,Eligible,NA,NA
+2015,Montana,Hispanic,Eligible,NA,NA
+2015,Montana,Black,Not Eligible,NA,NA
+2015,Montana,Hispanic,Not Eligible,NA,NA
+2015,National public,Black,All,259.84,0.52
+2015,National public,Hispanic,All,269.47,0.56
+2015,National public,Black,Eligible,255.81,0.5
+2015,National public,Hispanic,Eligible,265.85,0.52
+2015,National public,Black,Not Eligible,273.58,0.9500000000000001
+2015,National public,Hispanic,Not Eligible,282.24,1.1700000000000002
+2015,Nebraska,Black,All,253.63,3.58
+2015,Nebraska,Hispanic,All,266.24,2.1
+2015,Nebraska,Black,Eligible,246.88,3.8099999999999996
+2015,Nebraska,Hispanic,Eligible,263.31,1.99
+2015,Nebraska,Black,Not Eligible,NA,NA
+2015,Nebraska,Hispanic,Not Eligible,279.89,4.08
+2015,Nevada,Black,All,255.68,2.46
+2015,Nevada,Hispanic,All,265.7,1.11
+2015,Nevada,Black,Eligible,250.98,2.42
+2015,Nevada,Hispanic,Eligible,263.73,1.29
+2015,Nevada,Black,Not Eligible,265.61,5.81
+2015,Nevada,Hispanic,Not Eligible,271.21,2.4499999999999997
+2015,New Hampshire,Black,All,NA,NA
+2015,New Hampshire,Hispanic,All,270.26,4.29
+2015,New Hampshire,Black,Eligible,NA,NA
+2015,New Hampshire,Hispanic,Eligible,NA,NA
+2015,New Hampshire,Black,Not Eligible,NA,NA
+2015,New Hampshire,Hispanic,Not Eligible,NA,NA
+2015,New Jersey,Black,All,268.7,3.03
+2015,New Jersey,Hispanic,All,272.16,1.96
+2015,New Jersey,Black,Eligible,260.6,3.9299999999999997
+2015,New Jersey,Hispanic,Eligible,266.22,2.2
+2015,New Jersey,Black,Not Eligible,279.78,4.67
+2015,New Jersey,Hispanic,Not Eligible,285.05,3.34
+2015,New Mexico,Black,All,NA,NA
+2015,New Mexico,Hispanic,All,266.49,1.07
+2015,New Mexico,Black,Eligible,NA,NA
+2015,New Mexico,Hispanic,Eligible,263.47,1.1600000000000001
+2015,New Mexico,Black,Not Eligible,NA,NA
+2015,New Mexico,Hispanic,Not Eligible,278.42,2.17
+2015,New York,Black,All,264.07,2.8699999999999997
+2015,New York,Hispanic,All,268.48,1.6700000000000002
+2015,New York,Black,Eligible,263.78,3.05
+2015,New York,Hispanic,Eligible,265.81,1.83
+2015,New York,Black,Not Eligible,263.4,4.930000000000001
+2015,New York,Hispanic,Not Eligible,278.49,3.82
+2015,North Carolina,Black,All,262.94,2.03
+2015,North Carolina,Hispanic,All,272.64,2.48
+2015,North Carolina,Black,Eligible,258.83,2.32
+2015,North Carolina,Hispanic,Eligible,269.69,2.48
+2015,North Carolina,Black,Not Eligible,281.25,3.29
+2015,North Carolina,Hispanic,Not Eligible,NA,NA
+2015,North Dakota,Black,All,263.27,4.72
+2015,North Dakota,Hispanic,All,276.06,3.3099999999999996
+2015,North Dakota,Black,Eligible,NA,NA
+2015,North Dakota,Hispanic,Eligible,NA,NA
+2015,North Dakota,Black,Not Eligible,NA,NA
+2015,North Dakota,Hispanic,Not Eligible,NA,NA
+2015,Ohio,Black,All,259.03,3.14
+2015,Ohio,Hispanic,All,265.52,8.79
+2015,Ohio,Black,Eligible,253.02,3.71
+2015,Ohio,Hispanic,Eligible,259.58,0.48000000000000004
+2015,Ohio,Black,Not Eligible,279.22,2.96
+2015,Ohio,Hispanic,Not Eligible,NA,NA
+2015,Oklahoma,Black,All,259.94,2.71
+2015,Oklahoma,Hispanic,All,265.9,2.9299999999999997
+2015,Oklahoma,Black,Eligible,257.37,3.05
+2015,Oklahoma,Hispanic,Eligible,261.93,2.9699999999999998
+2015,Oklahoma,Black,Not Eligible,NA,NA
+2015,Oklahoma,Hispanic,Not Eligible,281.25,4.28
+2015,Oregon,Black,All,NA,NA
+2015,Oregon,Hispanic,All,266.44,1.71
+2015,Oregon,Black,Eligible,NA,NA
+2015,Oregon,Hispanic,Eligible,262.37,1.77
+2015,Oregon,Black,Not Eligible,NA,NA
+2015,Oregon,Hispanic,Not Eligible,286.03,4.75
+2015,Pennsylvania,Black,All,253.21,2.29
+2015,Pennsylvania,Hispanic,All,261.44,3.72
+2015,Pennsylvania,Black,Eligible,250.84,2.77
+2015,Pennsylvania,Hispanic,Eligible,257.58,4.17
+2015,Pennsylvania,Black,Not Eligible,264.46,4.39
+2015,Pennsylvania,Hispanic,Not Eligible,276.73,6.64
+2015,Puerto Rico,Black,All,NA,NA
+2015,Puerto Rico,Hispanic,All,221.94,1.11
+2015,Puerto Rico,Black,Eligible,NA,NA
+2015,Puerto Rico,Hispanic,Eligible,221.94,1.11
+2015,Puerto Rico,Black,Not Eligible,NA,NA
+2015,Puerto Rico,Hispanic,Not Eligible,NA,NA
+2015,Rhode Island,Black,All,258.3,3.11
+2015,Rhode Island,Hispanic,All,264.51,1.1400000000000001
+2015,Rhode Island,Black,Eligible,256.52,3.9299999999999997
+2015,Rhode Island,Hispanic,Eligible,262.2,1.36
+2015,Rhode Island,Black,Not Eligible,NA,NA
+2015,Rhode Island,Hispanic,Not Eligible,273.61,3.2
+2015,South Carolina,Black,All,256.21,1.8800000000000001
+2015,South Carolina,Hispanic,All,272.3,4.319999999999999
+2015,South Carolina,Black,Eligible,253.61,2
+2015,South Carolina,Hispanic,Eligible,272.42,4.85
+2015,South Carolina,Black,Not Eligible,269.99,3.55
+2015,South Carolina,Hispanic,Not Eligible,NA,NA
+2015,South Dakota,Black,All,NA,NA
+2015,South Dakota,Hispanic,All,271.82,4.46
+2015,South Dakota,Black,Eligible,NA,NA
+2015,South Dakota,Hispanic,Eligible,NA,NA
+2015,South Dakota,Black,Not Eligible,NA,NA
+2015,South Dakota,Hispanic,Not Eligible,NA,NA
+2015,Tennessee,Black,All,253.38,3
+2015,Tennessee,Hispanic,All,273.04,3.98
+2015,Tennessee,Black,Eligible,247.79,3.04
+2015,Tennessee,Hispanic,Eligible,268.75,4.48
+2015,Tennessee,Black,Not Eligible,269.84,5.819999999999999
+2015,Tennessee,Hispanic,Not Eligible,NA,NA
+2015,Texas,Black,All,267.36,2.8699999999999997
+2015,Texas,Hispanic,All,276.67,1.3800000000000001
+2015,Texas,Black,Eligible,262.21,3.4899999999999998
+2015,Texas,Hispanic,Eligible,273.7,1.3
+2015,Texas,Black,Not Eligible,278.3,4.54
+2015,Texas,Hispanic,Not Eligible,285.28,2.74
+2015,Utah,Black,All,NA,NA
+2015,Utah,Hispanic,All,261.58,2.56
+2015,Utah,Black,Eligible,NA,NA
+2015,Utah,Hispanic,Eligible,256.71,3.08
+2015,Utah,Black,Not Eligible,NA,NA
+2015,Utah,Hispanic,Not Eligible,276.11,4.1499999999999995
+2015,Vermont,Black,All,NA,NA
+2015,Vermont,Hispanic,All,NA,NA
+2015,Vermont,Black,Eligible,NA,NA
+2015,Vermont,Hispanic,Eligible,NA,NA
+2015,Vermont,Black,Not Eligible,NA,NA
+2015,Vermont,Hispanic,Not Eligible,NA,NA
+2015,Virginia,Black,All,265.04,1.84
+2015,Virginia,Hispanic,All,279.15,2.36
+2015,Virginia,Black,Eligible,260.28,2.06
+2015,Virginia,Hispanic,Eligible,272.9,2.9099999999999997
+2015,Virginia,Black,Not Eligible,274.22,2.8699999999999997
+2015,Virginia,Hispanic,Not Eligible,293.66,3.7
+2015,Washington,Black,All,257.07,3.3699999999999997
+2015,Washington,Hispanic,All,269.13,2.53
+2015,Washington,Black,Eligible,253.37,3.8099999999999996
+2015,Washington,Hispanic,Eligible,265.48,2.48
+2015,Washington,Black,Not Eligible,NA,NA
+2015,Washington,Hispanic,Not Eligible,285.45,4.76
+2015,West Virginia,Black,All,256.07,3.12
+2015,West Virginia,Hispanic,All,NA,NA
+2015,West Virginia,Black,Eligible,252.54,3.67
+2015,West Virginia,Hispanic,Eligible,NA,NA
+2015,West Virginia,Black,Not Eligible,NA,NA
+2015,West Virginia,Hispanic,Not Eligible,NA,NA
+2015,Wisconsin,Black,All,248.58,4.17
+2015,Wisconsin,Hispanic,All,270.83,2.64
+2015,Wisconsin,Black,Eligible,245.63,4.76
+2015,Wisconsin,Hispanic,Eligible,266.21,2.67
+2015,Wisconsin,Black,Not Eligible,NA,NA
+2015,Wisconsin,Hispanic,Not Eligible,NA,NA
+2015,Wyoming,Black,All,NA,NA
+2015,Wyoming,Hispanic,All,273.08,1.94
+2015,Wyoming,Black,Eligible,NA,NA
+2015,Wyoming,Hispanic,Eligible,266.9,2.68
+2015,Wyoming,Black,Not Eligible,NA,NA
+2015,Wyoming,Hispanic,Not Eligible,282.21,3.2
+2017,Alabama,Black,All,251.55,2.3899999999999997
+2017,Alabama,Hispanic,All,256.71,3.38
+2017,Alabama,Black,Eligible,249.71,2.55
+2017,Alabama,Hispanic,Eligible,251.61,3.2800000000000002
+2017,Alabama,Black,Not Eligible,264.15,3.9699999999999998
+2017,Alabama,Hispanic,Not Eligible,NA,NA
+2017,Alaska,Black,All,254.76,4.6899999999999995
+2017,Alaska,Hispanic,All,273.49,2.61
+2017,Alaska,Black,Eligible,NA,NA
+2017,Alaska,Hispanic,Eligible,267.42,4.119999999999999
+2017,Alaska,Black,Not Eligible,NA,NA
+2017,Alaska,Hispanic,Not Eligible,279.41,3.62
+2017,Arizona,Black,All,272.27,4.04
+2017,Arizona,Hispanic,All,269.16,1.42
+2017,Arizona,Black,Eligible,267.19,4.819999999999999
+2017,Arizona,Hispanic,Eligible,265.43,1.57
+2017,Arizona,Black,Not Eligible,NA,NA
+2017,Arizona,Hispanic,Not Eligible,280.77,2.9299999999999997
+2017,Arkansas,Black,All,248.43,1.94
+2017,Arkansas,Hispanic,All,267.02,1.96
+2017,Arkansas,Black,Eligible,246.65,2.06
+2017,Arkansas,Hispanic,Eligible,264.29,2.06
+2017,Arkansas,Black,Not Eligible,NA,NA
+2017,Arkansas,Hispanic,Not Eligible,NA,NA
+2017,California,Black,All,254.55,3.9299999999999997
+2017,California,Hispanic,All,262.25,1.05
+2017,California,Black,Eligible,247.79,4.18
+2017,California,Hispanic,Eligible,258.09,1.05
+2017,California,Black,Not Eligible,271.1,5.1899999999999995
+2017,California,Hispanic,Not Eligible,273.78,2.3499999999999996
+2017,Colorado,Black,All,262.54,3.74
+2017,Colorado,Hispanic,All,268.1,1.8800000000000001
+2017,Colorado,Black,Eligible,256.65,4.84
+2017,Colorado,Hispanic,Eligible,263.35,2.14
+2017,Colorado,Black,Not Eligible,NA,NA
+2017,Colorado,Hispanic,Not Eligible,279.25,2.32
+2017,Connecticut,Black,All,257.73,2.4699999999999998
+2017,Connecticut,Hispanic,All,263,2.04
+2017,Connecticut,Black,Eligible,253.64,3.12
+2017,Connecticut,Hispanic,Eligible,258.45,2.04
+2017,Connecticut,Black,Not Eligible,266.35,4.01
+2017,Connecticut,Hispanic,Not Eligible,272.16,4.02
+2017,Delaware,Black,All,262.51,1.43
+2017,Delaware,Hispanic,All,267.33,1.81
+2017,Delaware,Black,Eligible,258.62,2.16
+2017,Delaware,Hispanic,Eligible,264.48,2.82
+2017,Delaware,Black,Not Eligible,265.33,1.95
+2017,Delaware,Hispanic,Not Eligible,269.17,2.3099999999999996
+2017,District of Columbia,Black,All,256.98,1.1
+2017,District of Columbia,Hispanic,All,263.44,3.09
+2017,District of Columbia,Black,Eligible,253.12,1.11
+2017,District of Columbia,Hispanic,Eligible,256.78,3.2
+2017,District of Columbia,Black,Not Eligible,281.1,3.5
+2017,District of Columbia,Hispanic,Not Eligible,NA,NA
+2017,DoDEA,Black,All,276.92,2.09
+2017,DoDEA,Hispanic,All,286.71,1.87
+2017,DoDEA,Black,Eligible,NA,NA
+2017,DoDEA,Hispanic,Eligible,NA,NA
+2017,DoDEA,Black,Not Eligible,NA,NA
+2017,DoDEA,Hispanic,Not Eligible,NA,NA
+2017,Florida,Black,All,262.1,1.31
+2017,Florida,Hispanic,All,273.13,1.45
+2017,Florida,Black,Eligible,258.18,1.34
+2017,Florida,Hispanic,Eligible,268.13,1.74
+2017,Florida,Black,Not Eligible,274.75,2.42
+2017,Florida,Hispanic,Not Eligible,285.07,2.07
+2017,Georgia,Black,All,264.02,1.71
+2017,Georgia,Hispanic,All,274.67,2.14
+2017,Georgia,Black,Eligible,259.62,1.6300000000000001
+2017,Georgia,Hispanic,Eligible,271.39,2.48
+2017,Georgia,Black,Not Eligible,279.63,3.44
+2017,Georgia,Hispanic,Not Eligible,287.41,4.84
+2017,Hawaii,Black,All,NA,NA
+2017,Hawaii,Hispanic,All,269.08,2.59
+2017,Hawaii,Black,Eligible,NA,NA
+2017,Hawaii,Hispanic,Eligible,262.61,3.01
+2017,Hawaii,Black,Not Eligible,NA,NA
+2017,Hawaii,Hispanic,Not Eligible,277.7,4.09
+2017,Idaho,Black,All,NA,NA
+2017,Idaho,Hispanic,All,264.72,2.01
+2017,Idaho,Black,Eligible,NA,NA
+2017,Idaho,Hispanic,Eligible,258.6,1.8800000000000001
+2017,Idaho,Black,Not Eligible,NA,NA
+2017,Idaho,Hispanic,Not Eligible,278.48,4
+2017,Illinois,Black,All,256.71,1.74
+2017,Illinois,Hispanic,All,271.61,1.1900000000000002
+2017,Illinois,Black,Eligible,252.58,1.85
+2017,Illinois,Hispanic,Eligible,269.26,1.52
+2017,Illinois,Black,Not Eligible,273.55,4.48
+2017,Illinois,Hispanic,Not Eligible,278.01,3.2
+2017,Indiana,Black,All,270.28,2.8699999999999997
+2017,Indiana,Hispanic,All,275.69,2.77
+2017,Indiana,Black,Eligible,264.97,2.9
+2017,Indiana,Hispanic,Eligible,270.87,2.9899999999999998
+2017,Indiana,Black,Not Eligible,NA,NA
+2017,Indiana,Hispanic,Not Eligible,NA,NA
+2017,Iowa,Black,All,255.22,3.09
+2017,Iowa,Hispanic,All,273.48,2.4
+2017,Iowa,Black,Eligible,252.23,3.58
+2017,Iowa,Hispanic,Eligible,271.73,3.11
+2017,Iowa,Black,Not Eligible,NA,NA
+2017,Iowa,Hispanic,Not Eligible,277.7,4.359999999999999
+2017,Kansas,Black,All,259.31,2.55
+2017,Kansas,Hispanic,All,269.06,1.61
+2017,Kansas,Black,Eligible,254.5,2.84
+2017,Kansas,Hispanic,Eligible,266.23,1.6800000000000002
+2017,Kansas,Black,Not Eligible,NA,NA
+2017,Kansas,Hispanic,Not Eligible,278.77,3.5
+2017,Kentucky,Black,All,252.18,1.8900000000000001
+2017,Kentucky,Hispanic,All,269.33,2.9099999999999997
+2017,Kentucky,Black,Eligible,248.29,2.22
+2017,Kentucky,Hispanic,Eligible,265.55,3.2
+2017,Kentucky,Black,Not Eligible,265.47,3.2600000000000002
+2017,Kentucky,Hispanic,Not Eligible,NA,NA
+2017,Louisiana,Black,All,252.24,1.6
+2017,Louisiana,Hispanic,All,262.55,5.1899999999999995
+2017,Louisiana,Black,Eligible,249.84,1.6300000000000001
+2017,Louisiana,Hispanic,Eligible,255.94,6.85
+2017,Louisiana,Black,Not Eligible,269.76,3.38
+2017,Louisiana,Hispanic,Not Eligible,NA,NA
+2017,Maine,Black,All,NA,NA
+2017,Maine,Hispanic,All,NA,NA
+2017,Maine,Black,Eligible,NA,NA
+2017,Maine,Hispanic,Eligible,NA,NA
+2017,Maine,Black,Not Eligible,NA,NA
+2017,Maine,Hispanic,Not Eligible,NA,NA
+2017,Maryland,Black,All,261.55,1.23
+2017,Maryland,Hispanic,All,267.15,2.22
+2017,Maryland,Black,Eligible,256.1,1.44
+2017,Maryland,Hispanic,Eligible,259.5,2.48
+2017,Maryland,Black,Not Eligible,270.03,2.21
+2017,Maryland,Hispanic,Not Eligible,285.09,4.33
+2017,Massachusetts,Black,All,270.67,3.77
+2017,Massachusetts,Hispanic,All,274.3,2.65
+2017,Massachusetts,Black,Eligible,270.91,4.1
+2017,Massachusetts,Hispanic,Eligible,267.36,4.159999999999999
+2017,Massachusetts,Black,Not Eligible,273.69,4.34
+2017,Massachusetts,Hispanic,Not Eligible,285.07,3.3099999999999996
+2017,Michigan,Black,All,250.15,2.73
+2017,Michigan,Hispanic,All,264.2,3.2600000000000002
+2017,Michigan,Black,Eligible,245.88,2.92
+2017,Michigan,Hispanic,Eligible,258.5,3.8099999999999996
+2017,Michigan,Black,Not Eligible,261.02,3.71
+2017,Michigan,Hispanic,Not Eligible,274.5,4.34
+2017,Minnesota,Black,All,259.02,3.19
+2017,Minnesota,Hispanic,All,268.86,3.84
+2017,Minnesota,Black,Eligible,255.29,3.2600000000000002
+2017,Minnesota,Hispanic,Eligible,262.97,4.55
+2017,Minnesota,Black,Not Eligible,NA,NA
+2017,Minnesota,Hispanic,Not Eligible,NA,NA
+2017,Mississippi,Black,All,257.27,1.23
+2017,Mississippi,Hispanic,All,270.81,4.35
+2017,Mississippi,Black,Eligible,255.84,1.33
+2017,Mississippi,Hispanic,Eligible,267.95,4.430000000000001
+2017,Mississippi,Black,Not Eligible,273.85,3.92
+2017,Mississippi,Hispanic,Not Eligible,NA,NA
+2017,Missouri,Black,All,255.94,2.23
+2017,Missouri,Hispanic,All,272.49,3.16
+2017,Missouri,Black,Eligible,253.08,2.2600000000000002
+2017,Missouri,Hispanic,Eligible,264.34,3.68
+2017,Missouri,Black,Not Eligible,266.94,3.8499999999999996
+2017,Missouri,Hispanic,Not Eligible,NA,NA
+2017,Montana,Black,All,NA,NA
+2017,Montana,Hispanic,All,272.28,3.19
+2017,Montana,Black,Eligible,NA,NA
+2017,Montana,Hispanic,Eligible,NA,NA
+2017,Montana,Black,Not Eligible,NA,NA
+2017,Montana,Hispanic,Not Eligible,NA,NA
+2017,National public,Black,All,259.6,0.48000000000000004
+2017,National public,Hispanic,All,268.49,0.5
+2017,National public,Black,Eligible,255.02,0.59
+2017,National public,Hispanic,Eligible,264.22,0.54
+2017,National public,Black,Not Eligible,272.71,0.73
+2017,National public,Hispanic,Not Eligible,280.21,0.76
+2017,Nebraska,Black,All,259.72,2.9099999999999997
+2017,Nebraska,Hispanic,All,270.47,2.09
+2017,Nebraska,Black,Eligible,257.41,3.4299999999999997
+2017,Nebraska,Hispanic,Eligible,265.8,2.02
+2017,Nebraska,Black,Not Eligible,NA,NA
+2017,Nebraska,Hispanic,Not Eligible,285.58,4.58
+2017,Nevada,Black,All,252.69,2.16
+2017,Nevada,Hispanic,All,266.34,1.01
+2017,Nevada,Black,Eligible,247.62,2.54
+2017,Nevada,Hispanic,Eligible,261.71,1.1700000000000002
+2017,Nevada,Black,Not Eligible,NA,NA
+2017,Nevada,Hispanic,Not Eligible,284.16,2.36
+2017,New Hampshire,Black,All,NA,NA
+2017,New Hampshire,Hispanic,All,268.21,3.64
+2017,New Hampshire,Black,Eligible,NA,NA
+2017,New Hampshire,Hispanic,Eligible,257.67,4.33
+2017,New Hampshire,Black,Not Eligible,NA,NA
+2017,New Hampshire,Hispanic,Not Eligible,NA,NA
+2017,New Jersey,Black,All,268.44,2.3499999999999996
+2017,New Jersey,Hispanic,All,272.72,2.11
+2017,New Jersey,Black,Eligible,261.37,2.6
+2017,New Jersey,Hispanic,Eligible,267.28,2.4499999999999997
+2017,New Jersey,Black,Not Eligible,285.02,3.57
+2017,New Jersey,Hispanic,Not Eligible,281.85,3.4299999999999997
+2017,New Mexico,Black,All,NA,NA
+2017,New Mexico,Hispanic,All,264.01,0.97
+2017,New Mexico,Black,Eligible,NA,NA
+2017,New Mexico,Hispanic,Eligible,260.61,1.03
+2017,New Mexico,Black,Not Eligible,NA,NA
+2017,New Mexico,Hispanic,Not Eligible,278.6,2.4099999999999997
+2017,New York,Black,All,260.49,3.2600000000000002
+2017,New York,Hispanic,All,265.46,1.81
+2017,New York,Black,Eligible,256.01,4.54
+2017,New York,Hispanic,Eligible,261.16,1.8800000000000001
+2017,New York,Black,Not Eligible,271.43,4.159999999999999
+2017,New York,Hispanic,Not Eligible,277.09,3.6
+2017,North Carolina,Black,All,258.4,1.81
+2017,North Carolina,Hispanic,All,271.86,2.3
+2017,North Carolina,Black,Eligible,252.83,1.84
+2017,North Carolina,Hispanic,Eligible,268.2,2.72
+2017,North Carolina,Black,Not Eligible,269.85,3.3
+2017,North Carolina,Hispanic,Not Eligible,280.86,3.27
+2017,North Dakota,Black,All,251.94,4.39
+2017,North Dakota,Hispanic,All,270.07,3.7
+2017,North Dakota,Black,Eligible,NA,NA
+2017,North Dakota,Hispanic,Eligible,NA,NA
+2017,North Dakota,Black,Not Eligible,NA,NA
+2017,North Dakota,Hispanic,Not Eligible,NA,NA
+2017,Ohio,Black,All,254.17,3.92
+2017,Ohio,Hispanic,All,278.62,3.8299999999999996
+2017,Ohio,Black,Eligible,249.99,3.15
+2017,Ohio,Hispanic,Eligible,270.18,4.31
+2017,Ohio,Black,Not Eligible,NA,NA
+2017,Ohio,Hispanic,Not Eligible,NA,NA
+2017,Oklahoma,Black,All,256.91,2.74
+2017,Oklahoma,Hispanic,All,262.95,2.23
+2017,Oklahoma,Black,Eligible,253.57,2.84
+2017,Oklahoma,Hispanic,Eligible,261.34,2.3899999999999997
+2017,Oklahoma,Black,Not Eligible,NA,NA
+2017,Oklahoma,Hispanic,Not Eligible,270.07,5.2700000000000005
+2017,Oregon,Black,All,NA,NA
+2017,Oregon,Hispanic,All,265.7,1.95
+2017,Oregon,Black,Eligible,NA,NA
+2017,Oregon,Hispanic,Eligible,262.9,2.22
+2017,Oregon,Black,Not Eligible,NA,NA
+2017,Oregon,Hispanic,Not Eligible,285.75,3.69
+2017,Pennsylvania,Black,All,260.54,1.96
+2017,Pennsylvania,Hispanic,All,261.9,3.18
+2017,Pennsylvania,Black,Eligible,256.12,2.44
+2017,Pennsylvania,Hispanic,Eligible,256.59,3.4099999999999997
+2017,Pennsylvania,Black,Not Eligible,274.68,4.29
+2017,Pennsylvania,Hispanic,Not Eligible,279.3,9.06
+2017,Puerto Rico,Black,All,NA,NA
+2017,Puerto Rico,Hispanic,All,224.77,0.97
+2017,Puerto Rico,Black,Eligible,NA,NA
+2017,Puerto Rico,Hispanic,Eligible,224.77,0.97
+2017,Puerto Rico,Black,Not Eligible,NA,NA
+2017,Puerto Rico,Hispanic,Not Eligible,NA,NA
+2017,Rhode Island,Black,All,260.77,3
+2017,Rhode Island,Hispanic,All,256.86,1.46
+2017,Rhode Island,Black,Eligible,255.65,3.4099999999999997
+2017,Rhode Island,Hispanic,Eligible,253.84,1.6500000000000001
+2017,Rhode Island,Black,Not Eligible,NA,NA
+2017,Rhode Island,Hispanic,Not Eligible,270.42,3.96
+2017,South Carolina,Black,All,253.09,1.42
+2017,South Carolina,Hispanic,All,271.75,2.3099999999999996
+2017,South Carolina,Black,Eligible,249.44,1.45
+2017,South Carolina,Hispanic,Eligible,272.71,2.9
+2017,South Carolina,Black,Not Eligible,267.84,2.8099999999999996
+2017,South Carolina,Hispanic,Not Eligible,270.06,4.18
+2017,South Dakota,Black,All,257.72,4.94
+2017,South Dakota,Hispanic,All,268.5,3.8
+2017,South Dakota,Black,Eligible,NA,NA
+2017,South Dakota,Hispanic,Eligible,262.18,3.65
+2017,South Dakota,Black,Not Eligible,NA,NA
+2017,South Dakota,Hispanic,Not Eligible,NA,NA
+2017,Tennessee,Black,All,258.06,1.58
+2017,Tennessee,Hispanic,All,269.01,2.68
+2017,Tennessee,Black,Eligible,255.25,1.72
+2017,Tennessee,Hispanic,Eligible,267.36,2.9499999999999997
+2017,Tennessee,Black,Not Eligible,262.03,2.66
+2017,Tennessee,Hispanic,Not Eligible,272.05,5.04
+2017,Texas,Black,All,265.81,2.04
+2017,Texas,Hispanic,All,273.53,1.24
+2017,Texas,Black,Eligible,263.03,2.53
+2017,Texas,Hispanic,Eligible,269.87,1.41
+2017,Texas,Black,Not Eligible,270.45,3.72
+2017,Texas,Hispanic,Not Eligible,284.96,2.03
+2017,Utah,Black,All,NA,NA
+2017,Utah,Hispanic,All,262.82,2.04
+2017,Utah,Black,Eligible,NA,NA
+2017,Utah,Hispanic,Eligible,255.61,2.66
+2017,Utah,Black,Not Eligible,NA,NA
+2017,Utah,Hispanic,Not Eligible,277.38,4
+2017,Vermont,Black,All,NA,NA
+2017,Vermont,Hispanic,All,NA,NA
+2017,Vermont,Black,Eligible,NA,NA
+2017,Vermont,Hispanic,Eligible,NA,NA
+2017,Vermont,Black,Not Eligible,NA,NA
+2017,Vermont,Hispanic,Not Eligible,NA,NA
+2017,Virginia,Black,All,270.82,2.2600000000000002
+2017,Virginia,Hispanic,All,279.98,2.2800000000000002
+2017,Virginia,Black,Eligible,263.41,2.71
+2017,Virginia,Hispanic,Eligible,272.95,3.1
+2017,Virginia,Black,Not Eligible,281.13,2.62
+2017,Virginia,Hispanic,Not Eligible,291.82,3.74
+2017,Washington,Black,All,258.54,5.81
+2017,Washington,Hispanic,All,270.53,2.1
+2017,Washington,Black,Eligible,251,7.25
+2017,Washington,Hispanic,Eligible,264.51,2.58
+2017,Washington,Black,Not Eligible,NA,NA
+2017,Washington,Hispanic,Not Eligible,284.47,3.3499999999999996
+2017,West Virginia,Black,All,253.54,3.5
+2017,West Virginia,Hispanic,All,NA,NA
+2017,West Virginia,Black,Eligible,252.87,3.8499999999999996
+2017,West Virginia,Hispanic,Eligible,NA,NA
+2017,West Virginia,Black,Not Eligible,NA,NA
+2017,West Virginia,Hispanic,Not Eligible,NA,NA
+2017,Wisconsin,Black,All,253.03,2.9299999999999997
+2017,Wisconsin,Hispanic,All,267.12,2.19
+2017,Wisconsin,Black,Eligible,245.41,2.62
+2017,Wisconsin,Hispanic,Eligible,262.81,2.3499999999999996
+2017,Wisconsin,Black,Not Eligible,NA,NA
+2017,Wisconsin,Hispanic,Not Eligible,278.79,4.22
+2017,Wyoming,Black,All,NA,NA
+2017,Wyoming,Hispanic,All,275.24,1.54
+2017,Wyoming,Black,Eligible,NA,NA
+2017,Wyoming,Hispanic,Eligible,268.13,1.96
+2017,Wyoming,Black,Not Eligible,NA,NA
+2017,Wyoming,Hispanic,Not Eligible,287.65,2.67
+2019,Alabama,Black,All,248.88,1.99
+2019,Alabama,Hispanic,All,262.09,2.9099999999999997
+2019,Alabama,Black,Eligible,242.57,2.01
+2019,Alabama,Hispanic,Eligible,261.06,2.7800000000000002
+2019,Alabama,Black,Not Eligible,265.54,2.7600000000000002
+2019,Alabama,Hispanic,Not Eligible,NA,NA
+2019,Alaska,Black,All,253.59,4.24
+2019,Alaska,Hispanic,All,274.05,2.98
+2019,Alaska,Black,Eligible,NA,NA
+2019,Alaska,Hispanic,Eligible,267.75,3.86
+2019,Alaska,Black,Not Eligible,NA,NA
+2019,Alaska,Hispanic,Not Eligible,280.79,5.109999999999999
+2019,Arizona,Black,All,266.87,3.36
+2019,Arizona,Hispanic,All,269.04,1.44
+2019,Arizona,Black,Eligible,258.63,3.82
+2019,Arizona,Hispanic,Eligible,266.61,1.74
+2019,Arizona,Black,Not Eligible,NA,NA
+2019,Arizona,Hispanic,Not Eligible,276.76,2.64
+2019,Arkansas,Black,All,248.82,1.97
+2019,Arkansas,Hispanic,All,268.78,2.68
+2019,Arkansas,Black,Eligible,247.02,2.11
+2019,Arkansas,Hispanic,Eligible,265.85,3.09
+2019,Arkansas,Black,Not Eligible,NA,NA
+2019,Arkansas,Hispanic,Not Eligible,NA,NA
+2019,California,Black,All,252.32,3.58
+2019,California,Hispanic,All,262,1.2
+2019,California,Black,Eligible,246.3,3.65
+2019,California,Hispanic,Eligible,258.62,1.37
+2019,California,Black,Not Eligible,271.5,8.06
+2019,California,Hispanic,Not Eligible,275.58,2.18
+2019,Colorado,Black,All,261.01,2.92
+2019,Colorado,Hispanic,All,268.09,1.53
+2019,Colorado,Black,Eligible,253.2,4.63
+2019,Colorado,Hispanic,Eligible,260.68,1.85
+2019,Colorado,Black,Not Eligible,NA,NA
+2019,Colorado,Hispanic,Not Eligible,282,2.3
+2019,Connecticut,Black,All,256.44,3
+2019,Connecticut,Hispanic,All,262.52,2.18
+2019,Connecticut,Black,Eligible,249.47,3.67
+2019,Connecticut,Hispanic,Eligible,256.23,2.58
+2019,Connecticut,Black,Not Eligible,269.68,4.53
+2019,Connecticut,Hispanic,Not Eligible,281.11,2.9099999999999997
+2019,Delaware,Black,All,260.02,1.53
+2019,Delaware,Hispanic,All,266.48,2.04
+2019,Delaware,Black,Eligible,250.77,2.12
+2019,Delaware,Hispanic,Eligible,259.5,3.56
+2019,Delaware,Black,Not Eligible,266.43,1.82
+2019,Delaware,Hispanic,Not Eligible,270.31,2.18
+2019,District of Columbia,Black,All,260.12,1.12
+2019,District of Columbia,Hispanic,All,266.99,2.02
+2019,District of Columbia,Black,Eligible,255.58,1.21
+2019,District of Columbia,Hispanic,Eligible,260.78,2.12
+2019,District of Columbia,Black,Not Eligible,282.43,2.56
+2019,District of Columbia,Hispanic,Not Eligible,280.04,3.8499999999999996
+2019,DoDEA,Black,All,276.39,2.1
+2019,DoDEA,Hispanic,All,285.4,1.52
+2019,DoDEA,Black,Eligible,NA,NA
+2019,DoDEA,Hispanic,Eligible,NA,NA
+2019,DoDEA,Black,Not Eligible,NA,NA
+2019,DoDEA,Hispanic,Not Eligible,NA,NA
+2019,Florida,Black,All,259.49,1.9
+2019,Florida,Hispanic,All,275.61,1.3900000000000001
+2019,Florida,Black,Eligible,255.05,2.14
+2019,Florida,Hispanic,Eligible,269.42,1.3
+2019,Florida,Black,Not Eligible,274.56,3.29
+2019,Florida,Hispanic,Not Eligible,289.05,2.6
+2019,Georgia,Black,All,262.04,1.23
+2019,Georgia,Hispanic,All,275.29,1.8800000000000001
+2019,Georgia,Black,Eligible,256.71,1.29
+2019,Georgia,Hispanic,Eligible,270.2,2.17
+2019,Georgia,Black,Not Eligible,283.06,2.8499999999999996
+2019,Georgia,Hispanic,Not Eligible,290.93,3.25
+2019,Hawaii,Black,All,NA,NA
+2019,Hawaii,Hispanic,All,275.37,2.4699999999999998
+2019,Hawaii,Black,Eligible,NA,NA
+2019,Hawaii,Hispanic,Eligible,267.62,3.42
+2019,Hawaii,Black,Not Eligible,NA,NA
+2019,Hawaii,Hispanic,Not Eligible,282.98,3.73
+2019,Idaho,Black,All,NA,NA
+2019,Idaho,Hispanic,All,265.61,1.7
+2019,Idaho,Black,Eligible,NA,NA
+2019,Idaho,Hispanic,Eligible,260.98,1.84
+2019,Idaho,Black,Not Eligible,NA,NA
+2019,Idaho,Hispanic,Not Eligible,278.56,3.51
+2019,Illinois,Black,All,261.7,2.34
+2019,Illinois,Hispanic,All,273.23,1.6300000000000001
+2019,Illinois,Black,Eligible,258.63,2.46
+2019,Illinois,Hispanic,Eligible,270.01,1.82
+2019,Illinois,Black,Not Eligible,273.39,3.58
+2019,Illinois,Hispanic,Not Eligible,281.18,3.8099999999999996
+2019,Indiana,Black,All,261.84,3.73
+2019,Indiana,Hispanic,All,273.51,2.86
+2019,Indiana,Black,Eligible,255.99,4.04
+2019,Indiana,Hispanic,Eligible,268.84,3.3099999999999996
+2019,Indiana,Black,Not Eligible,276.11,4.78
+2019,Indiana,Hispanic,Not Eligible,283.98,4.54
+2019,Iowa,Black,All,248.86,3.3299999999999996
+2019,Iowa,Hispanic,All,268.75,2.3699999999999997
+2019,Iowa,Black,Eligible,246.78,3.4899999999999998
+2019,Iowa,Hispanic,Eligible,262.82,2.18
+2019,Iowa,Black,Not Eligible,NA,NA
+2019,Iowa,Hispanic,Not Eligible,285,4.85
+2019,Kansas,Black,All,256.9,3.44
+2019,Kansas,Hispanic,All,268.4,1.6600000000000001
+2019,Kansas,Black,Eligible,253.61,4.01
+2019,Kansas,Hispanic,Eligible,264.41,1.93
+2019,Kansas,Black,Not Eligible,NA,NA
+2019,Kansas,Hispanic,Not Eligible,285.82,3.61
+2019,Kentucky,Black,All,255.74,1.99
+2019,Kentucky,Hispanic,All,269.84,2.9499999999999997
+2019,Kentucky,Black,Eligible,251.6,2.14
+2019,Kentucky,Hispanic,Eligible,265.03,3.13
+2019,Kentucky,Black,Not Eligible,271.2,3.14
+2019,Kentucky,Hispanic,Not Eligible,NA,NA
+2019,Louisiana,Black,All,255.06,1.52
+2019,Louisiana,Hispanic,All,267.64,4.53
+2019,Louisiana,Black,Eligible,252.35,1.6900000000000002
+2019,Louisiana,Hispanic,Eligible,262.55,4.7
+2019,Louisiana,Black,Not Eligible,272.42,3.36
+2019,Louisiana,Hispanic,Not Eligible,NA,NA
+2019,Maine,Black,All,254.65,5.22
+2019,Maine,Hispanic,All,NA,NA
+2019,Maine,Black,Eligible,NA,NA
+2019,Maine,Hispanic,Eligible,NA,NA
+2019,Maine,Black,Not Eligible,NA,NA
+2019,Maine,Hispanic,Not Eligible,NA,NA
+2019,Maryland,Black,All,260.7,1.48
+2019,Maryland,Hispanic,All,260.68,2.27
+2019,Maryland,Black,Eligible,254.36,1.92
+2019,Maryland,Hispanic,Eligible,255.58,2.7
+2019,Maryland,Black,Not Eligible,269.38,2.02
+2019,Maryland,Hispanic,Not Eligible,275.41,3.53
+2019,Massachusetts,Black,All,266.94,3.34
+2019,Massachusetts,Hispanic,All,268.99,3.07
+2019,Massachusetts,Black,Eligible,260,5.01
+2019,Massachusetts,Hispanic,Eligible,260.58,3.5
+2019,Massachusetts,Black,Not Eligible,275.18,4.37
+2019,Massachusetts,Hispanic,Not Eligible,278.74,3.82
+2019,Michigan,Black,All,252.67,2.74
+2019,Michigan,Hispanic,All,268.49,2.62
+2019,Michigan,Black,Eligible,249.09,2.64
+2019,Michigan,Hispanic,Eligible,264.13,2.8099999999999996
+2019,Michigan,Black,Not Eligible,263.5,4.06
+2019,Michigan,Hispanic,Not Eligible,277.76,4.23
+2019,Minnesota,Black,All,254.73,3.3899999999999997
+2019,Minnesota,Hispanic,All,267.84,3.05
+2019,Minnesota,Black,Eligible,250.58,3.77
+2019,Minnesota,Hispanic,Eligible,261.28,3.58
+2019,Minnesota,Black,Not Eligible,NA,NA
+2019,Minnesota,Hispanic,Not Eligible,282.97,4.9
+2019,Mississippi,Black,All,258.44,1.1
+2019,Mississippi,Hispanic,All,276.6,4.659999999999999
+2019,Mississippi,Black,Eligible,257.2,1.06
+2019,Mississippi,Hispanic,Eligible,275.74,4.08
+2019,Mississippi,Black,Not Eligible,273.53,4.59
+2019,Mississippi,Hispanic,Not Eligible,NA,NA
+2019,Missouri,Black,All,257.53,2.11
+2019,Missouri,Hispanic,All,268.25,3.3
+2019,Missouri,Black,Eligible,254.53,2.3699999999999997
+2019,Missouri,Hispanic,Eligible,261.49,3.63
+2019,Missouri,Black,Not Eligible,NA,NA
+2019,Missouri,Hispanic,Not Eligible,NA,NA
+2019,Montana,Black,All,NA,NA
+2019,Montana,Hispanic,All,280.68,3.01
+2019,Montana,Black,Eligible,NA,NA
+2019,Montana,Hispanic,Eligible,277.04,4.609999999999999
+2019,Montana,Black,Not Eligible,NA,NA
+2019,Montana,Hispanic,Not Eligible,NA,NA
+2019,National public,Black,All,259.21,0.44
+2019,National public,Hispanic,All,267.96,0.44
+2019,National public,Black,Eligible,254.12,0.5
+2019,National public,Hispanic,Eligible,263.77,0.51
+2019,National public,Black,Not Eligible,273.42,0.75
+2019,National public,Hispanic,Not Eligible,280.18,0.8200000000000001
+2019,Nebraska,Black,All,251.64,2.8899999999999997
+2019,Nebraska,Hispanic,All,267.52,1.7
+2019,Nebraska,Black,Eligible,247.05,3.2
+2019,Nebraska,Hispanic,Eligible,263.78,1.8900000000000001
+2019,Nebraska,Black,Not Eligible,NA,NA
+2019,Nebraska,Hispanic,Not Eligible,276.09,3.67
+2019,Nevada,Black,All,253.54,2.4
+2019,Nevada,Hispanic,All,265.63,1.08
+2019,Nevada,Black,Eligible,250.4,3.2
+2019,Nevada,Hispanic,Eligible,263.03,1.1600000000000001
+2019,Nevada,Black,Not Eligible,NA,NA
+2019,Nevada,Hispanic,Not Eligible,274.83,2.4099999999999997
+2019,New Hampshire,Black,All,267.49,5
+2019,New Hampshire,Hispanic,All,266.95,3.9099999999999997
+2019,New Hampshire,Black,Eligible,NA,NA
+2019,New Hampshire,Hispanic,Eligible,NA,NA
+2019,New Hampshire,Black,Not Eligible,NA,NA
+2019,New Hampshire,Hispanic,Not Eligible,NA,NA
+2019,New Jersey,Black,All,265.72,3.34
+2019,New Jersey,Hispanic,All,268.65,2.68
+2019,New Jersey,Black,Eligible,259.59,3.96
+2019,New Jersey,Hispanic,Eligible,264.32,3.67
+2019,New Jersey,Black,Not Eligible,277.14,4.41
+2019,New Jersey,Hispanic,Not Eligible,279.38,3.14
+2019,New Mexico,Black,All,NA,NA
+2019,New Mexico,Hispanic,All,263.77,1.08
+2019,New Mexico,Black,Eligible,NA,NA
+2019,New Mexico,Hispanic,Eligible,259.99,1.09
+2019,New Mexico,Black,Not Eligible,NA,NA
+2019,New Mexico,Hispanic,Not Eligible,280.47,2.66
+2019,New York,Black,All,258.23,2.9099999999999997
+2019,New York,Hispanic,All,263.27,1.72
+2019,New York,Black,Eligible,253.93,3.22
+2019,New York,Hispanic,Eligible,259.13,1.8900000000000001
+2019,New York,Black,Not Eligible,269.8,5.359999999999999
+2019,New York,Hispanic,Not Eligible,275.12,3.2
+2019,North Carolina,Black,All,264.06,2.05
+2019,North Carolina,Hispanic,All,272.52,2.15
+2019,North Carolina,Black,Eligible,256.61,2.15
+2019,North Carolina,Hispanic,Eligible,268.92,1.98
+2019,North Carolina,Black,Not Eligible,275.75,3.51
+2019,North Carolina,Hispanic,Not Eligible,278.5,3.88
+2019,North Dakota,Black,All,253.93,3.4099999999999997
+2019,North Dakota,Hispanic,All,275.96,4.37
+2019,North Dakota,Black,Eligible,246.39,3.84
+2019,North Dakota,Hispanic,Eligible,NA,NA
+2019,North Dakota,Black,Not Eligible,NA,NA
+2019,North Dakota,Hispanic,Not Eligible,NA,NA
+2019,Ohio,Black,All,258.6,2.65
+2019,Ohio,Hispanic,All,274.28,4.17
+2019,Ohio,Black,Eligible,253.62,2.74
+2019,Ohio,Hispanic,Eligible,264.23,5.71
+2019,Ohio,Black,Not Eligible,284.72,4.46
+2019,Ohio,Hispanic,Not Eligible,NA,NA
+2019,Oklahoma,Black,All,252.63,2.67
+2019,Oklahoma,Hispanic,All,271.1,2
+2019,Oklahoma,Black,Eligible,249.89,3.16
+2019,Oklahoma,Hispanic,Eligible,268.18,2.25
+2019,Oklahoma,Black,Not Eligible,NA,NA
+2019,Oklahoma,Hispanic,Not Eligible,283.37,4.76
+2019,Oregon,Black,All,NA,NA
+2019,Oregon,Hispanic,All,258.24,1.85
+2019,Oregon,Black,Eligible,NA,NA
+2019,Oregon,Hispanic,Eligible,255.51,2.09
+2019,Oregon,Black,Not Eligible,NA,NA
+2019,Oregon,Hispanic,Not Eligible,275.6,4.26
+2019,Pennsylvania,Black,All,255.06,2.27
+2019,Pennsylvania,Hispanic,All,257.59,3.18
+2019,Pennsylvania,Black,Eligible,250.41,2.3699999999999997
+2019,Pennsylvania,Hispanic,Eligible,250.57,3.23
+2019,Pennsylvania,Black,Not Eligible,273.69,3.29
+2019,Pennsylvania,Hispanic,Not Eligible,278.59,5.75
+2019,Puerto Rico,Black,All,NA,NA
+2019,Puerto Rico,Hispanic,All,221.57,0.8600000000000001
+2019,Puerto Rico,Black,Eligible,NA,NA
+2019,Puerto Rico,Hispanic,Eligible,221.62,0.8600000000000001
+2019,Puerto Rico,Black,Not Eligible,NA,NA
+2019,Puerto Rico,Hispanic,Not Eligible,NA,NA
+2019,Rhode Island,Black,All,258.28,3.3699999999999997
+2019,Rhode Island,Hispanic,All,254.75,1.6600000000000001
+2019,Rhode Island,Black,Eligible,254.53,3.3499999999999996
+2019,Rhode Island,Hispanic,Eligible,251.87,1.96
+2019,Rhode Island,Black,Not Eligible,NA,NA
+2019,Rhode Island,Hispanic,Not Eligible,267.97,4.78
+2019,South Carolina,Black,All,255.51,1.56
+2019,South Carolina,Hispanic,All,269.64,2.66
+2019,South Carolina,Black,Eligible,250.92,1.62
+2019,South Carolina,Hispanic,Eligible,266.98,3.05
+2019,South Carolina,Black,Not Eligible,276.39,2.9499999999999997
+2019,South Carolina,Hispanic,Not Eligible,276.91,4.7700000000000005
+2019,South Dakota,Black,All,NA,NA
+2019,South Dakota,Hispanic,All,270.02,3.12
+2019,South Dakota,Black,Eligible,NA,NA
+2019,South Dakota,Hispanic,Eligible,NA,NA
+2019,South Dakota,Black,Not Eligible,NA,NA
+2019,South Dakota,Hispanic,Not Eligible,272.62,3.03
+2019,Tennessee,Black,All,260.24,1.77
+2019,Tennessee,Hispanic,All,267.45,2.82
+2019,Tennessee,Black,Eligible,254.73,1.81
+2019,Tennessee,Hispanic,Eligible,263.75,3.7800000000000002
+2019,Tennessee,Black,Not Eligible,266.49,2.61
+2019,Tennessee,Hispanic,Not Eligible,269.74,3.01
+2019,Texas,Black,All,264.98,2.12
+2019,Texas,Hispanic,All,272.3,1.1500000000000001
+2019,Texas,Black,Eligible,259.87,2.3
+2019,Texas,Hispanic,Eligible,269.3,1.23
+2019,Texas,Black,Not Eligible,276.77,4.26
+2019,Texas,Hispanic,Not Eligible,281.25,2.69
+2019,Utah,Black,All,NA,NA
+2019,Utah,Hispanic,All,262.54,2.22
+2019,Utah,Black,Eligible,NA,NA
+2019,Utah,Hispanic,Eligible,257.29,2.64
+2019,Utah,Black,Not Eligible,NA,NA
+2019,Utah,Hispanic,Not Eligible,276.13,3.48
+2019,Vermont,Black,All,NA,NA
+2019,Vermont,Hispanic,All,NA,NA
+2019,Vermont,Black,Eligible,NA,NA
+2019,Vermont,Hispanic,Eligible,NA,NA
+2019,Vermont,Black,Not Eligible,NA,NA
+2019,Vermont,Hispanic,Not Eligible,NA,NA
+2019,Virginia,Black,All,267.55,1.95
+2019,Virginia,Hispanic,All,278.22,2.2600000000000002
+2019,Virginia,Black,Eligible,262.62,2.44
+2019,Virginia,Hispanic,Eligible,271.85,2.57
+2019,Virginia,Black,Not Eligible,274.71,2.72
+2019,Virginia,Hispanic,Not Eligible,290.47,3.44
+2019,Washington,Black,All,258.74,5.4
+2019,Washington,Hispanic,All,267.42,1.51
+2019,Washington,Black,Eligible,NA,NA
+2019,Washington,Hispanic,Eligible,261,1.8900000000000001
+2019,Washington,Black,Not Eligible,NA,NA
+2019,Washington,Hispanic,Not Eligible,287.92,4.159999999999999
+2019,West Virginia,Black,All,261.2,3.5
+2019,West Virginia,Hispanic,All,NA,NA
+2019,West Virginia,Black,Eligible,254.4,4.57
+2019,West Virginia,Hispanic,Eligible,NA,NA
+2019,West Virginia,Black,Not Eligible,NA,NA
+2019,West Virginia,Hispanic,Not Eligible,NA,NA
+2019,Wisconsin,Black,All,249.66,3.16
+2019,Wisconsin,Hispanic,All,273.47,2.62
+2019,Wisconsin,Black,Eligible,241.9,2.61
+2019,Wisconsin,Hispanic,Eligible,268.8,2.67
+2019,Wisconsin,Black,Not Eligible,280.61,6.04
+2019,Wisconsin,Hispanic,Not Eligible,287.75,5.359999999999999
+2019,Wyoming,Black,All,NA,NA
+2019,Wyoming,Hispanic,All,273.65,2.46
+2019,Wyoming,Black,Eligible,NA,NA
+2019,Wyoming,Hispanic,Eligible,266.56,3.21
+2019,Wyoming,Black,Not Eligible,NA,NA
+2019,Wyoming,Hispanic,Not Eligible,284.03,3.09
+2022,Alabama,Black,All,245.73,2.8099999999999996
+2022,Alabama,Hispanic,All,256.9,2.62
+2022,Alabama,Black,Eligible,238.48,2.3099999999999996
+2022,Alabama,Hispanic,Eligible,250.36,4.18
+2022,Alabama,Black,Not Eligible,260.07,4.76
+2022,Alabama,Hispanic,Not Eligible,264.04,4.1499999999999995
+2022,Alaska,Black,All,NA,NA
+2022,Alaska,Hispanic,All,265.81,3.55
+2022,Alaska,Black,Eligible,NA,NA
+2022,Alaska,Hispanic,Eligible,253.6,3.72
+2022,Alaska,Black,Not Eligible,NA,NA
+2022,Alaska,Hispanic,Not Eligible,278.25,4.49
+2022,Arizona,Black,All,252.73,5.359999999999999
+2022,Arizona,Hispanic,All,261.42,1.72
+2022,Arizona,Black,Eligible,NA,NA
+2022,Arizona,Hispanic,Eligible,255.82,1.8
+2022,Arizona,Black,Not Eligible,NA,NA
+2022,Arizona,Hispanic,Not Eligible,270.4,2.58
+2022,Arkansas,Black,All,247.72,2.12
+2022,Arkansas,Hispanic,All,260.08,2.53
+2022,Arkansas,Black,Eligible,245.78,2.2
+2022,Arkansas,Hispanic,Eligible,257.14,2.7
+2022,Arkansas,Black,Not Eligible,NA,NA
+2022,Arkansas,Hispanic,Not Eligible,NA,NA
+2022,California,Black,All,248.02,4.91
+2022,California,Hispanic,All,256.99,1.37
+2022,California,Black,Eligible,240.48,5.31
+2022,California,Hispanic,Eligible,252.83,1.46
+2022,California,Black,Not Eligible,NA,NA
+2022,California,Hispanic,Not Eligible,271.52,3.24
+2022,Colorado,Black,All,255.08,4.67
+2022,Colorado,Hispanic,All,254.54,1.99
+2022,Colorado,Black,Eligible,244.56,4.01
+2022,Colorado,Hispanic,Eligible,245.92,2.08
+2022,Colorado,Black,Not Eligible,268.28,6.55
+2022,Colorado,Hispanic,Not Eligible,267.44,2.75
+2022,Connecticut,Black,All,248.88,3.03
+2022,Connecticut,Hispanic,All,257.19,2.51
+2022,Connecticut,Black,Eligible,242.74,3.2800000000000002
+2022,Connecticut,Hispanic,Eligible,250.87,2.84
+2022,Connecticut,Black,Not Eligible,261.15,5.28
+2022,Connecticut,Hispanic,Not Eligible,269.8,3.7600000000000002
+2022,Delaware,Black,All,246.08,1.6300000000000001
+2022,Delaware,Hispanic,All,257.01,1.62
+2022,Delaware,Black,Eligible,234.67,2.32
+2022,Delaware,Hispanic,Eligible,246.9,3.3699999999999997
+2022,Delaware,Black,Not Eligible,251.65,1.87
+2022,Delaware,Hispanic,Not Eligible,260.29,1.8800000000000001
+2022,District of Columbia,Black,All,250.19,1.29
+2022,District of Columbia,Hispanic,All,256.9,2.29
+2022,District of Columbia,Black,Eligible,248.17,1.3
+2022,District of Columbia,Hispanic,Eligible,252.96,2.4299999999999997
+2022,District of Columbia,Black,Not Eligible,269.39,3.3699999999999997
+2022,District of Columbia,Hispanic,Not Eligible,NA,NA
+2022,DoDEA,Black,All,272.15,2.4699999999999998
+2022,DoDEA,Hispanic,All,284.16,1.59
+2022,DoDEA,Black,Eligible,NA,NA
+2022,DoDEA,Hispanic,Eligible,NA,NA
+2022,DoDEA,Black,Not Eligible,NA,NA
+2022,DoDEA,Hispanic,Not Eligible,NA,NA
+2022,Florida,Black,All,254.87,2.3699999999999997
+2022,Florida,Hispanic,All,266.78,1.21
+2022,Florida,Black,Eligible,252.04,2.6
+2022,Florida,Hispanic,Eligible,261.44,1.86
+2022,Florida,Black,Not Eligible,262.53,3.08
+2022,Florida,Hispanic,Not Eligible,275.77,2.27
+2022,Georgia,Black,All,256.3,1.47
+2022,Georgia,Hispanic,All,263.95,1.93
+2022,Georgia,Black,Eligible,251.58,1.8900000000000001
+2022,Georgia,Hispanic,Eligible,260.62,2.4899999999999998
+2022,Georgia,Black,Not Eligible,269.27,3.27
+2022,Georgia,Hispanic,Not Eligible,270.61,3.01
+2022,Hawaii,Black,All,NA,NA
+2022,Hawaii,Hispanic,All,261.9,2.07
+2022,Hawaii,Black,Eligible,NA,NA
+2022,Hawaii,Hispanic,Eligible,254.99,3.55
+2022,Hawaii,Black,Not Eligible,NA,NA
+2022,Hawaii,Hispanic,Not Eligible,270.86,2.54
+2022,Idaho,Black,All,NA,NA
+2022,Idaho,Hispanic,All,261.1,2.02
+2022,Idaho,Black,Eligible,NA,NA
+2022,Idaho,Hispanic,Eligible,255.84,2.3
+2022,Idaho,Black,Not Eligible,NA,NA
+2022,Idaho,Hispanic,Not Eligible,271.42,3.96
+2022,Illinois,Black,All,253.67,1.98
+2022,Illinois,Hispanic,All,262.38,1.95
+2022,Illinois,Black,Eligible,248.19,1.8900000000000001
+2022,Illinois,Hispanic,Eligible,258.1,2.5
+2022,Illinois,Black,Not Eligible,270.82,4.859999999999999
+2022,Illinois,Hispanic,Not Eligible,271.06,2.66
+2022,Indiana,Black,All,249.08,2.86
+2022,Indiana,Hispanic,All,267.29,3.3299999999999996
+2022,Indiana,Black,Eligible,246.91,3.04
+2022,Indiana,Hispanic,Eligible,265.26,4.1499999999999995
+2022,Indiana,Black,Not Eligible,NA,NA
+2022,Indiana,Hispanic,Not Eligible,272,5.01
+2022,Iowa,Black,All,247.77,4.71
+2022,Iowa,Hispanic,All,256.1,2.2600000000000002
+2022,Iowa,Black,Eligible,238.58,4.55
+2022,Iowa,Hispanic,Eligible,252.18,3.04
+2022,Iowa,Black,Not Eligible,NA,NA
+2022,Iowa,Hispanic,Not Eligible,263.42,3.9299999999999997
+2022,Kansas,Black,All,249.9,3.16
+2022,Kansas,Hispanic,All,258.95,2.5
+2022,Kansas,Black,Eligible,247.6,3.4299999999999997
+2022,Kansas,Hispanic,Eligible,251.08,2.66
+2022,Kansas,Black,Not Eligible,NA,NA
+2022,Kansas,Hispanic,Not Eligible,275.86,3.74
+2022,Kentucky,Black,All,248.17,2.3099999999999996
+2022,Kentucky,Hispanic,All,259.27,2.6
+2022,Kentucky,Black,Eligible,246.56,2.74
+2022,Kentucky,Hispanic,Eligible,255.85,3.4699999999999998
+2022,Kentucky,Black,Not Eligible,256.84,3.9099999999999997
+2022,Kentucky,Hispanic,Not Eligible,NA,NA
+2022,Louisiana,Black,All,252.22,1.95
+2022,Louisiana,Hispanic,All,256.98,2.7
+2022,Louisiana,Black,Eligible,248.91,1.93
+2022,Louisiana,Hispanic,Eligible,255.77,3.17
+2022,Louisiana,Black,Not Eligible,270.89,4.54
+2022,Louisiana,Hispanic,Not Eligible,NA,NA
+2022,Maine,Black,All,NA,NA
+2022,Maine,Hispanic,All,NA,NA
+2022,Maine,Black,Eligible,NA,NA
+2022,Maine,Hispanic,Eligible,NA,NA
+2022,Maine,Black,Not Eligible,NA,NA
+2022,Maine,Hispanic,Not Eligible,NA,NA
+2022,Maryland,Black,All,250.46,1.6900000000000002
+2022,Maryland,Hispanic,All,249.66,1.98
+2022,Maryland,Black,Eligible,246.14,1.84
+2022,Maryland,Hispanic,Eligible,244.56,2.08
+2022,Maryland,Black,Not Eligible,256.07,2.67
+2022,Maryland,Hispanic,Not Eligible,257.94,4.39
+2022,Massachusetts,Black,All,259.62,2.7800000000000002
+2022,Massachusetts,Hispanic,All,261.8,2.3
+2022,Massachusetts,Black,Eligible,255.76,3.73
+2022,Massachusetts,Hispanic,Eligible,256.59,2.4
+2022,Massachusetts,Black,Not Eligible,266.68,4.68
+2022,Massachusetts,Hispanic,Not Eligible,279.05,4.46
+2022,Michigan,Black,All,245.46,1.93
+2022,Michigan,Hispanic,All,261.39,3.44
+2022,Michigan,Black,Eligible,241.19,1.94
+2022,Michigan,Hispanic,Eligible,255.21,3.09
+2022,Michigan,Black,Not Eligible,257.55,4.54
+2022,Michigan,Hispanic,Not Eligible,273.1,5.89
+2022,Minnesota,Black,All,253.53,4.64
+2022,Minnesota,Hispanic,All,253.03,3.6
+2022,Minnesota,Black,Eligible,249.01,5.95
+2022,Minnesota,Hispanic,Eligible,246.08,3.73
+2022,Minnesota,Black,Not Eligible,NA,NA
+2022,Minnesota,Hispanic,Not Eligible,261.89,4.470000000000001
+2022,Mississippi,Black,All,251.94,1.85
+2022,Mississippi,Hispanic,All,260.16,4.74
+2022,Mississippi,Black,Eligible,250.71,1.8900000000000001
+2022,Mississippi,Hispanic,Eligible,256.57,5.04
+2022,Mississippi,Black,Not Eligible,NA,NA
+2022,Mississippi,Hispanic,Not Eligible,NA,NA
+2022,Missouri,Black,All,245.46,2.86
+2022,Missouri,Hispanic,All,262.93,3.03
+2022,Missouri,Black,Eligible,240.54,2.66
+2022,Missouri,Hispanic,Eligible,255.32,3.84
+2022,Missouri,Black,Not Eligible,NA,NA
+2022,Missouri,Hispanic,Not Eligible,273.66,4.91
+2022,Montana,Black,All,NA,NA
+2022,Montana,Hispanic,All,270.67,4.59
+2022,Montana,Black,Eligible,NA,NA
+2022,Montana,Hispanic,Eligible,NA,NA
+2022,Montana,Black,Not Eligible,NA,NA
+2022,Montana,Hispanic,Not Eligible,NA,NA
+2022,National public,Black,All,252.08,0.52
+2022,National public,Hispanic,All,260.8,0.52
+2022,National public,Black,Eligible,247.64,0.58
+2022,National public,Hispanic,Eligible,256.64,0.5700000000000001
+2022,National public,Black,Not Eligible,263.37,0.9
+2022,National public,Hispanic,Not Eligible,271.01,0.8300000000000001
+2022,Nebraska,Black,All,251.09,4.81
+2022,Nebraska,Hispanic,All,261.12,2.3099999999999996
+2022,Nebraska,Black,Eligible,241.73,3.63
+2022,Nebraska,Hispanic,Eligible,257.81,2.74
+2022,Nebraska,Black,Not Eligible,NA,NA
+2022,Nebraska,Hispanic,Not Eligible,267.9,3.2
+2022,Nevada,Black,All,246.5,2.86
+2022,Nevada,Hispanic,All,261.14,1.61
+2022,Nevada,Black,Eligible,244.46,2.72
+2022,Nevada,Hispanic,Eligible,259.12,1.61
+2022,Nevada,Black,Not Eligible,NA,NA
+2022,Nevada,Hispanic,Not Eligible,272.8,4.26
+2022,New Hampshire,Black,All,NA,NA
+2022,New Hampshire,Hispanic,All,252.03,4.79
+2022,New Hampshire,Black,Eligible,NA,NA
+2022,New Hampshire,Hispanic,Eligible,NA,NA
+2022,New Hampshire,Black,Not Eligible,NA,NA
+2022,New Hampshire,Hispanic,Not Eligible,NA,NA
+2022,New Jersey,Black,All,250.92,3.69
+2022,New Jersey,Hispanic,All,263.98,1.83
+2022,New Jersey,Black,Eligible,246.68,4.6899999999999995
+2022,New Jersey,Hispanic,Eligible,259.07,2.72
+2022,New Jersey,Black,Not Eligible,259.82,4.3
+2022,New Jersey,Hispanic,Not Eligible,270.68,2.74
+2022,New Mexico,Black,All,NA,NA
+2022,New Mexico,Hispanic,All,254.35,1.04
+2022,New Mexico,Black,Eligible,NA,NA
+2022,New Mexico,Hispanic,Eligible,251.47,1.1700000000000002
+2022,New Mexico,Black,Not Eligible,NA,NA
+2022,New Mexico,Hispanic,Not Eligible,266.13,2.61
+2022,New York,Black,All,250.6,2.8699999999999997
+2022,New York,Hispanic,All,259.85,1.8
+2022,New York,Black,Eligible,247.55,3.21
+2022,New York,Hispanic,Eligible,255.56,1.9
+2022,New York,Black,Not Eligible,257.21,4.67
+2022,New York,Hispanic,Not Eligible,275.53,3.9099999999999997
+2022,North Carolina,Black,All,254.51,2.24
+2022,North Carolina,Hispanic,All,265.82,1.55
+2022,North Carolina,Black,Eligible,248.93,2.4
+2022,North Carolina,Hispanic,Eligible,262.51,2.4699999999999998
+2022,North Carolina,Black,Not Eligible,261.81,3.21
+2022,North Carolina,Hispanic,Not Eligible,268.04,1.59
+2022,North Dakota,Black,All,251.64,3.88
+2022,North Dakota,Hispanic,All,259.32,3.73
+2022,North Dakota,Black,Eligible,NA,NA
+2022,North Dakota,Hispanic,Eligible,NA,NA
+2022,North Dakota,Black,Not Eligible,NA,NA
+2022,North Dakota,Hispanic,Not Eligible,NA,NA
+2022,Ohio,Black,All,248.19,2.27
+2022,Ohio,Hispanic,All,263.59,3.9299999999999997
+2022,Ohio,Black,Eligible,243.18,2.7
+2022,Ohio,Hispanic,Eligible,256.86,5.01
+2022,Ohio,Black,Not Eligible,NA,NA
+2022,Ohio,Hispanic,Not Eligible,NA,NA
+2022,Oklahoma,Black,All,241.44,2.9299999999999997
+2022,Oklahoma,Hispanic,All,252.19,2.21
+2022,Oklahoma,Black,Eligible,238.04,3.61
+2022,Oklahoma,Hispanic,Eligible,250.23,2.7800000000000002
+2022,Oklahoma,Black,Not Eligible,NA,NA
+2022,Oklahoma,Hispanic,Not Eligible,258.83,3.72
+2022,Oregon,Black,All,NA,NA
+2022,Oregon,Hispanic,All,255.57,2.17
+2022,Oregon,Black,Eligible,NA,NA
+2022,Oregon,Hispanic,Eligible,255.57,2.17
+2022,Oregon,Black,Not Eligible,NA,NA
+2022,Oregon,Hispanic,Not Eligible,NA,NA
+2022,Pennsylvania,Black,All,246.57,2.77
+2022,Pennsylvania,Hispanic,All,252.82,3.11
+2022,Pennsylvania,Black,Eligible,241.99,3.4
+2022,Pennsylvania,Hispanic,Eligible,249.79,3.19
+2022,Pennsylvania,Black,Not Eligible,263.19,4.08
+2022,Pennsylvania,Hispanic,Not Eligible,262.75,5.609999999999999
+2022,Puerto Rico,Black,All,NA,NA
+2022,Puerto Rico,Hispanic,All,215.68,0.8
+2022,Puerto Rico,Black,Eligible,NA,NA
+2022,Puerto Rico,Hispanic,Eligible,213.3,0.8400000000000001
+2022,Puerto Rico,Black,Not Eligible,NA,NA
+2022,Puerto Rico,Hispanic,Not Eligible,227.24,1.61
+2022,Rhode Island,Black,All,247.64,3.25
+2022,Rhode Island,Hispanic,All,254.15,1.4
+2022,Rhode Island,Black,Eligible,243.33,3.84
+2022,Rhode Island,Hispanic,Eligible,249.15,1.5
+2022,Rhode Island,Black,Not Eligible,NA,NA
+2022,Rhode Island,Hispanic,Not Eligible,266.37,3.3299999999999996
+2022,South Carolina,Black,All,250.03,2.1
+2022,South Carolina,Hispanic,All,263.84,2.82
+2022,South Carolina,Black,Eligible,244.87,1.6500000000000001
+2022,South Carolina,Hispanic,Eligible,262.85,3.02
+2022,South Carolina,Black,Not Eligible,268.95,4.72
+2022,South Carolina,Hispanic,Not Eligible,NA,NA
+2022,South Dakota,Black,All,255.08,4.609999999999999
+2022,South Dakota,Hispanic,All,256.61,2.96
+2022,South Dakota,Black,Eligible,NA,NA
+2022,South Dakota,Hispanic,Eligible,255.7,4.2
+2022,South Dakota,Black,Not Eligible,NA,NA
+2022,South Dakota,Hispanic,Not Eligible,258.12,4.22
+2022,Tennessee,Black,All,250.2,2.27
+2022,Tennessee,Hispanic,All,258.62,2.67
+2022,Tennessee,Black,Eligible,242,2.22
+2022,Tennessee,Hispanic,Eligible,250,4.109999999999999
+2022,Tennessee,Black,Not Eligible,258.41,2.72
+2022,Tennessee,Hispanic,Not Eligible,261.76,3.16
+2022,Texas,Black,All,259.85,2.64
+2022,Texas,Hispanic,All,265.17,1.42
+2022,Texas,Black,Eligible,256.02,2.86
+2022,Texas,Hispanic,Eligible,262.54,1.43
+2022,Texas,Black,Not Eligible,269.71,3.73
+2022,Texas,Hispanic,Not Eligible,273.48,2.69
+2022,Utah,Black,All,NA,NA
+2022,Utah,Hispanic,All,261.2,2.3899999999999997
+2022,Utah,Black,Eligible,NA,NA
+2022,Utah,Hispanic,Eligible,252.66,2.96
+2022,Utah,Black,Not Eligible,NA,NA
+2022,Utah,Hispanic,Not Eligible,272.57,3.24
+2022,Vermont,Black,All,NA,NA
+2022,Vermont,Hispanic,All,NA,NA
+2022,Vermont,Black,Eligible,NA,NA
+2022,Vermont,Hispanic,Eligible,NA,NA
+2022,Vermont,Black,Not Eligible,NA,NA
+2022,Vermont,Hispanic,Not Eligible,NA,NA
+2022,Virginia,Black,All,255.87,1.91
+2022,Virginia,Hispanic,All,264.18,2.25
+2022,Virginia,Black,Eligible,250.68,2.4099999999999997
+2022,Virginia,Hispanic,Eligible,258.83,2.84
+2022,Virginia,Black,Not Eligible,266.22,3.57
+2022,Virginia,Hispanic,Not Eligible,273.94,4.06
+2022,Washington,Black,All,256.75,4.63
+2022,Washington,Hispanic,All,255.99,1.85
+2022,Washington,Black,Eligible,NA,NA
+2022,Washington,Hispanic,Eligible,252.51,1.98
+2022,Washington,Black,Not Eligible,NA,NA
+2022,Washington,Hispanic,Not Eligible,266.36,3.9699999999999998
+2022,West Virginia,Black,All,NA,NA
+2022,West Virginia,Hispanic,All,NA,NA
+2022,West Virginia,Black,Eligible,NA,NA
+2022,West Virginia,Hispanic,Eligible,NA,NA
+2022,West Virginia,Black,Not Eligible,NA,NA
+2022,West Virginia,Hispanic,Not Eligible,NA,NA
+2022,Wisconsin,Black,All,237.21,2.7800000000000002
+2022,Wisconsin,Hispanic,All,263.72,2.17
+2022,Wisconsin,Black,Eligible,235.14,2.64
+2022,Wisconsin,Hispanic,Eligible,259.01,2.1
+2022,Wisconsin,Black,Not Eligible,244.11,7.859999999999999
+2022,Wisconsin,Hispanic,Not Eligible,272.68,4.54
+2022,Wyoming,Black,All,NA,NA
+2022,Wyoming,Hispanic,All,269.38,2.44
+2022,Wyoming,Black,Eligible,NA,NA
+2022,Wyoming,Hispanic,Eligible,263.24,4.08
+2022,Wyoming,Black,Not Eligible,NA,NA
+2022,Wyoming,Hispanic,Not Eligible,274.73,3.6
