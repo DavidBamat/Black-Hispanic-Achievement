@@ -1,0 +1,3181 @@
+Year,Jurisdiction,RaceEth,Gender,Mean,SE
+2003,Alabama,Black,All,236.9,1.96
+2003,Alabama,Hispanic,All,NA,NA
+2003,Alabama,Black,Female,245.41,2.52
+2003,Alabama,Hispanic,Female,NA,NA
+2003,Alabama,Black,Male,228.08,2.34
+2003,Alabama,Hispanic,Male,NA,NA
+2003,Alaska,Black,All,248.92,3.58
+2003,Alaska,Hispanic,All,246.43,3.58
+2003,Alaska,Black,Female,NA,NA
+2003,Alaska,Hispanic,Female,NA,NA
+2003,Alaska,Black,Male,NA,NA
+2003,Alaska,Hispanic,Male,NA,NA
+2003,Arizona,Black,All,244.8,3.9699999999999998
+2003,Arizona,Hispanic,All,240.03,1.94
+2003,Arizona,Black,Female,248.12,5.48
+2003,Arizona,Hispanic,Female,244.1,2.63
+2003,Arizona,Black,Male,NA,NA
+2003,Arizona,Hispanic,Male,236.06,2.22
+2003,Arkansas,Black,All,232.28,2.11
+2003,Arkansas,Hispanic,All,256.8,4.76
+2003,Arkansas,Black,Female,238.35,2.25
+2003,Arkansas,Hispanic,Female,NA,NA
+2003,Arkansas,Black,Male,225.6,2.6
+2003,Arkansas,Hispanic,Male,NA,NA
+2003,California,Black,All,239.19,2.48
+2003,California,Hispanic,All,236.53,1.6400000000000001
+2003,California,Black,Female,243.21,3.67
+2003,California,Hispanic,Female,239.89,1.74
+2003,California,Black,Male,234.91,3.53
+2003,California,Hispanic,Male,233.38,1.91
+2003,Colorado,Black,All,248.56,3.16
+2003,Colorado,Hispanic,All,247.37,2.13
+2003,Colorado,Black,Female,253.71,3.4099999999999997
+2003,Colorado,Hispanic,Female,250.96,2.9699999999999998
+2003,Colorado,Black,Male,242.51,6.33
+2003,Colorado,Hispanic,Male,243.62,2.53
+2003,Connecticut,Black,All,244.21,2.25
+2003,Connecticut,Hispanic,All,243.8,3.1
+2003,Connecticut,Black,Female,246.95,3.2
+2003,Connecticut,Hispanic,Female,248.82,3.8
+2003,Connecticut,Black,Male,240.8,3.13
+2003,Connecticut,Hispanic,Male,239.15,3.54
+2003,Delaware,Black,All,248.44,1.74
+2003,Delaware,Hispanic,All,245.96,3.22
+2003,Delaware,Black,Female,253.4,2.03
+2003,Delaware,Hispanic,Female,249.69,4.33
+2003,Delaware,Black,Male,243.17,2.08
+2003,Delaware,Hispanic,Male,242.1,4.46
+2003,District of Columbia,Black,All,236.06,0.72
+2003,District of Columbia,Hispanic,All,239.72,2.72
+2003,District of Columbia,Black,Female,243.01,1.1600000000000001
+2003,District of Columbia,Hispanic,Female,246.45,4.4
+2003,District of Columbia,Black,Male,228.3,1.23
+2003,District of Columbia,Hispanic,Male,233.84,3.9099999999999997
+2003,DoDEA,Black,All,258.46,1.48
+2003,DoDEA,Hispanic,All,268.33,1.84
+2003,DoDEA,Black,Female,264.11,2.14
+2003,DoDEA,Hispanic,Female,271.58,2.34
+2003,DoDEA,Black,Male,253.08,1.6700000000000002
+2003,DoDEA,Hispanic,Male,264.9,2.98
+2003,Florida,Black,All,239.16,2.13
+2003,Florida,Hispanic,All,251.09,2.34
+2003,Florida,Black,Female,246.57,2.9299999999999997
+2003,Florida,Hispanic,Female,255.69,3.1
+2003,Florida,Black,Male,231.38,2.2800000000000002
+2003,Florida,Hispanic,Male,245.97,3.3499999999999996
+2003,Georgia,Black,All,243.75,1.71
+2003,Georgia,Hispanic,All,244.87,3.94
+2003,Georgia,Black,Female,251.68,2.02
+2003,Georgia,Hispanic,Female,NA,NA
+2003,Georgia,Black,Male,235.23,1.92
+2003,Georgia,Hispanic,Male,244.37,4.78
+2003,Hawaii,Black,All,NA,NA
+2003,Hawaii,Hispanic,All,248.79,7.6
+2003,Hawaii,Black,Female,NA,NA
+2003,Hawaii,Hispanic,Female,NA,NA
+2003,Hawaii,Black,Male,NA,NA
+2003,Hawaii,Hispanic,Male,NA,NA
+2003,Idaho,Black,All,NA,NA
+2003,Idaho,Hispanic,All,242.49,2.7600000000000002
+2003,Idaho,Black,Female,NA,NA
+2003,Idaho,Hispanic,Female,251.45,3.54
+2003,Idaho,Black,Male,NA,NA
+2003,Idaho,Hispanic,Male,235.4,3.4099999999999997
+2003,Illinois,Black,All,246.79,1.6500000000000001
+2003,Illinois,Hispanic,All,249.76,1.6700000000000002
+2003,Illinois,Black,Female,248.85,1.94
+2003,Illinois,Hispanic,Female,251.97,2.4
+2003,Illinois,Black,Male,244.25,2.17
+2003,Illinois,Hispanic,Male,247.43,1.75
+2003,Indiana,Black,All,244.36,3.2600000000000002
+2003,Indiana,Hispanic,All,246.55,5.07
+2003,Indiana,Black,Female,249.64,3.27
+2003,Indiana,Hispanic,Female,NA,NA
+2003,Indiana,Black,Male,238.04,4.76
+2003,Indiana,Hispanic,Male,NA,NA
+2003,Iowa,Black,All,244.95,3.2800000000000002
+2003,Iowa,Hispanic,All,244.22,4.1
+2003,Iowa,Black,Female,NA,NA
+2003,Iowa,Hispanic,Female,NA,NA
+2003,Iowa,Black,Male,NA,NA
+2003,Iowa,Hispanic,Male,NA,NA
+2003,Kansas,Black,All,243.21,3.14
+2003,Kansas,Hispanic,All,244.77,3.77
+2003,Kansas,Black,Female,248.61,4.48
+2003,Kansas,Hispanic,Female,253.35,4.64
+2003,Kansas,Black,Male,238.62,3.68
+2003,Kansas,Hispanic,Male,234.36,4.33
+2003,Kentucky,Black,All,244.57,2.73
+2003,Kentucky,Hispanic,All,NA,NA
+2003,Kentucky,Black,Female,248.02,3.59
+2003,Kentucky,Hispanic,Female,NA,NA
+2003,Kentucky,Black,Male,241.1,3.69
+2003,Kentucky,Hispanic,Male,NA,NA
+2003,Louisiana,Black,All,238.36,2.01
+2003,Louisiana,Hispanic,All,NA,NA
+2003,Louisiana,Black,Female,243.58,2.3099999999999996
+2003,Louisiana,Hispanic,Female,NA,NA
+2003,Louisiana,Black,Male,232.36,2.38
+2003,Louisiana,Hispanic,Male,NA,NA
+2003,Maine,Black,All,NA,NA
+2003,Maine,Hispanic,All,NA,NA
+2003,Maine,Black,Female,NA,NA
+2003,Maine,Hispanic,Female,NA,NA
+2003,Maine,Black,Male,NA,NA
+2003,Maine,Hispanic,Male,NA,NA
+2003,Maryland,Black,All,245.01,1.9
+2003,Maryland,Hispanic,All,250.91,3.8899999999999997
+2003,Maryland,Black,Female,253.04,2.3
+2003,Maryland,Hispanic,Female,256.95,5.37
+2003,Maryland,Black,Male,237,2.3099999999999996
+2003,Maryland,Hispanic,Male,245.21,4.430000000000001
+2003,Massachusetts,Black,All,251.74,2.38
+2003,Massachusetts,Hispanic,All,246.26,2.84
+2003,Massachusetts,Black,Female,255.75,3.79
+2003,Massachusetts,Hispanic,Female,253.24,2.96
+2003,Massachusetts,Black,Male,247.2,2.61
+2003,Massachusetts,Hispanic,Male,238.07,4.24
+2003,Michigan,Black,All,241.67,4.54
+2003,Michigan,Hispanic,All,256.53,3.4099999999999997
+2003,Michigan,Black,Female,247.89,4.2700000000000005
+2003,Michigan,Hispanic,Female,NA,NA
+2003,Michigan,Black,Male,235.34,5.31
+2003,Michigan,Hispanic,Male,NA,NA
+2003,Minnesota,Black,All,243.02,3.68
+2003,Minnesota,Hispanic,All,240.22,5.26
+2003,Minnesota,Black,Female,246.57,4.5
+2003,Minnesota,Hispanic,Female,NA,NA
+2003,Minnesota,Black,Male,239.19,4.54
+2003,Minnesota,Hispanic,Male,NA,NA
+2003,Mississippi,Black,All,242.51,1.47
+2003,Mississippi,Hispanic,All,NA,NA
+2003,Mississippi,Black,Female,247.8,1.56
+2003,Mississippi,Hispanic,Female,NA,NA
+2003,Mississippi,Black,Male,236.67,1.77
+2003,Mississippi,Hispanic,Male,NA,NA
+2003,Missouri,Black,All,243.45,1.75
+2003,Missouri,Hispanic,All,NA,NA
+2003,Missouri,Black,Female,246.92,2.92
+2003,Missouri,Hispanic,Female,NA,NA
+2003,Missouri,Black,Male,239.89,2.12
+2003,Missouri,Hispanic,Male,NA,NA
+2003,Montana,Black,All,NA,NA
+2003,Montana,Hispanic,All,NA,NA
+2003,Montana,Black,Female,NA,NA
+2003,Montana,Hispanic,Female,NA,NA
+2003,Montana,Black,Male,NA,NA
+2003,Montana,Hispanic,Male,NA,NA
+2003,National public,Black,All,243.6,0.51
+2003,National public,Hispanic,All,243.8,0.73
+2003,National public,Black,Female,249.24,0.5700000000000001
+2003,National public,Hispanic,Female,247.89,0.81
+2003,National public,Black,Male,237.6,0.63
+2003,National public,Hispanic,Male,239.86,0.8400000000000001
+2003,Nebraska,Black,All,239.02,3.11
+2003,Nebraska,Hispanic,All,240.69,3.11
+2003,Nebraska,Black,Female,245.94,4.34
+2003,Nebraska,Hispanic,Female,243.79,4.34
+2003,Nebraska,Black,Male,232.05,4.53
+2003,Nebraska,Hispanic,Male,237.02,3.68
+2003,Nevada,Black,All,232.99,2.68
+2003,Nevada,Hispanic,All,236.97,1.22
+2003,Nevada,Black,Female,239.77,3.68
+2003,Nevada,Hispanic,Female,239.37,1.73
+2003,Nevada,Black,Male,226.62,3.36
+2003,Nevada,Hispanic,Male,234.43,2.07
+2003,New Hampshire,Black,All,NA,NA
+2003,New Hampshire,Hispanic,All,NA,NA
+2003,New Hampshire,Black,Female,NA,NA
+2003,New Hampshire,Hispanic,Female,NA,NA
+2003,New Hampshire,Black,Male,NA,NA
+2003,New Hampshire,Hispanic,Male,NA,NA
+2003,New Jersey,Black,All,247.65,2.06
+2003,New Jersey,Hispanic,All,248.43,2.4299999999999997
+2003,New Jersey,Black,Female,254.39,2.3499999999999996
+2003,New Jersey,Hispanic,Female,250.03,3.15
+2003,New Jersey,Black,Male,240.29,2.6
+2003,New Jersey,Hispanic,Male,246.91,3.73
+2003,New Mexico,Black,All,246.32,3.3899999999999997
+2003,New Mexico,Hispanic,All,242.89,1.04
+2003,New Mexico,Black,Female,NA,NA
+2003,New Mexico,Hispanic,Female,248.85,1.35
+2003,New Mexico,Black,Male,NA,NA
+2003,New Mexico,Hispanic,Male,236.84,1.47
+2003,New York,Black,All,245.7,2.13
+2003,New York,Hispanic,All,249.64,2.44
+2003,New York,Black,Female,251.19,2.44
+2003,New York,Hispanic,Female,254.48,2.73
+2003,New York,Black,Male,239.64,2.51
+2003,New York,Hispanic,Male,244,3.2
+2003,North Carolina,Black,All,246.92,1.37
+2003,North Carolina,Hispanic,All,243.79,3.69
+2003,North Carolina,Black,Female,252.34,1.55
+2003,North Carolina,Hispanic,Female,250.62,7.31
+2003,North Carolina,Black,Male,240.98,1.99
+2003,North Carolina,Hispanic,Male,239.8,3.92
+2003,North Dakota,Black,All,NA,NA
+2003,North Dakota,Hispanic,All,NA,NA
+2003,North Dakota,Black,Female,NA,NA
+2003,North Dakota,Hispanic,Female,NA,NA
+2003,North Dakota,Black,Male,NA,NA
+2003,North Dakota,Hispanic,Male,NA,NA
+2003,Ohio,Black,All,248.85,1.6400000000000001
+2003,Ohio,Hispanic,All,267.98,5.14
+2003,Ohio,Black,Female,252.7,1.98
+2003,Ohio,Hispanic,Female,NA,NA
+2003,Ohio,Black,Male,244.16,2.08
+2003,Ohio,Hispanic,Male,NA,NA
+2003,Oklahoma,Black,All,240.33,4.02
+2003,Oklahoma,Hispanic,All,250.44,2.8
+2003,Oklahoma,Black,Female,245.76,4.859999999999999
+2003,Oklahoma,Hispanic,Female,255.79,3.11
+2003,Oklahoma,Black,Male,234.88,4.54
+2003,Oklahoma,Hispanic,Male,244.98,4.18
+2003,Oregon,Black,All,251.45,4.2
+2003,Oregon,Hispanic,All,249.25,2.74
+2003,Oregon,Black,Female,NA,NA
+2003,Oregon,Hispanic,Female,254.04,3.82
+2003,Oregon,Black,Male,NA,NA
+2003,Oregon,Hispanic,Male,243.83,3.5
+2003,Pennsylvania,Black,All,243.25,2.52
+2003,Pennsylvania,Hispanic,All,257.35,6.03
+2003,Pennsylvania,Black,Female,247.55,2.8
+2003,Pennsylvania,Hispanic,Female,NA,NA
+2003,Pennsylvania,Black,Male,238.95,3.5
+2003,Pennsylvania,Hispanic,Male,NA,NA
+2003,Rhode Island,Black,All,241.25,2.77
+2003,Rhode Island,Hispanic,All,237.87,1.94
+2003,Rhode Island,Black,Female,244.82,3.7
+2003,Rhode Island,Hispanic,Female,245.39,2.8499999999999996
+2003,Rhode Island,Black,Male,236.39,4.1
+2003,Rhode Island,Hispanic,Male,230.03,2.54
+2003,South Carolina,Black,All,243.8,1.6500000000000001
+2003,South Carolina,Hispanic,All,NA,NA
+2003,South Carolina,Black,Female,246.47,2.18
+2003,South Carolina,Hispanic,Female,NA,NA
+2003,South Carolina,Black,Male,241.08,2.06
+2003,South Carolina,Hispanic,Male,NA,NA
+2003,South Dakota,Black,All,NA,NA
+2003,South Dakota,Hispanic,All,NA,NA
+2003,South Dakota,Black,Female,NA,NA
+2003,South Dakota,Hispanic,Female,NA,NA
+2003,South Dakota,Black,Male,NA,NA
+2003,South Dakota,Hispanic,Male,NA,NA
+2003,Tennessee,Black,All,238.82,2.02
+2003,Tennessee,Hispanic,All,NA,NA
+2003,Tennessee,Black,Female,246.49,2.12
+2003,Tennessee,Hispanic,Female,NA,NA
+2003,Tennessee,Black,Male,231.15,2.73
+2003,Tennessee,Hispanic,Male,NA,NA
+2003,Texas,Black,All,246.53,2.16
+2003,Texas,Hispanic,All,247.39,1.3
+2003,Texas,Black,Female,254.08,2.73
+2003,Texas,Hispanic,Female,251.67,1.47
+2003,Texas,Black,Male,239.49,2.8699999999999997
+2003,Texas,Hispanic,Male,243.47,1.8800000000000001
+2003,Utah,Black,All,NA,NA
+2003,Utah,Hispanic,All,241.03,2.92
+2003,Utah,Black,Female,NA,NA
+2003,Utah,Hispanic,Female,244,4.58
+2003,Utah,Black,Male,NA,NA
+2003,Utah,Hispanic,Male,238.39,3.67
+2003,Vermont,Black,All,NA,NA
+2003,Vermont,Hispanic,All,NA,NA
+2003,Vermont,Black,Female,NA,NA
+2003,Vermont,Hispanic,Female,NA,NA
+2003,Vermont,Black,Male,NA,NA
+2003,Vermont,Hispanic,Male,NA,NA
+2003,Virginia,Black,All,250.32,1.42
+2003,Virginia,Hispanic,All,265.56,3.19
+2003,Virginia,Black,Female,253.53,1.84
+2003,Virginia,Hispanic,Female,NA,NA
+2003,Virginia,Black,Male,246.88,2.08
+2003,Virginia,Hispanic,Male,NA,NA
+2003,Washington,Black,All,250.56,3.3299999999999996
+2003,Washington,Hispanic,All,246.09,2.59
+2003,Washington,Black,Female,257.14,4.1899999999999995
+2003,Washington,Hispanic,Female,244.54,3.1
+2003,Washington,Black,Male,243.88,4.31
+2003,Washington,Hispanic,Male,247.53,4.54
+2003,West Virginia,Black,All,248.31,2.9099999999999997
+2003,West Virginia,Hispanic,All,NA,NA
+2003,West Virginia,Black,Female,NA,NA
+2003,West Virginia,Hispanic,Female,NA,NA
+2003,West Virginia,Black,Male,NA,NA
+2003,West Virginia,Hispanic,Male,NA,NA
+2003,Wisconsin,Black,All,233.84,4.38
+2003,Wisconsin,Hispanic,All,243.94,5.04
+2003,Wisconsin,Black,Female,243.46,4.6499999999999995
+2003,Wisconsin,Hispanic,Female,NA,NA
+2003,Wisconsin,Black,Male,226.65,4.53
+2003,Wisconsin,Hispanic,Male,NA,NA
+2003,Wyoming,Black,All,NA,NA
+2003,Wyoming,Hispanic,All,254.98,2.71
+2003,Wyoming,Black,Female,NA,NA
+2003,Wyoming,Hispanic,Female,264.21,4.119999999999999
+2003,Wyoming,Black,Male,NA,NA
+2003,Wyoming,Hispanic,Male,246.52,3.16
+2005,Alabama,Black,All,234.7,1.91
+2005,Alabama,Hispanic,All,NA,NA
+2005,Alabama,Black,Female,243.76,2.25
+2005,Alabama,Hispanic,Female,NA,NA
+2005,Alabama,Black,Male,225.36,2.38
+2005,Alabama,Hispanic,Male,NA,NA
+2005,Alaska,Black,All,248.85,3.7600000000000002
+2005,Alaska,Hispanic,All,253.82,4.13
+2005,Alaska,Black,Female,258.2,4.56
+2005,Alaska,Hispanic,Female,NA,NA
+2005,Alaska,Black,Male,239.06,4.6499999999999995
+2005,Alaska,Hispanic,Male,NA,NA
+2005,Arizona,Black,All,242.27,4.05
+2005,Arizona,Hispanic,All,242.07,1.5
+2005,Arizona,Black,Female,255.34,4.22
+2005,Arizona,Hispanic,Female,246.29,1.99
+2005,Arizona,Black,Male,230.88,5.18
+2005,Arizona,Hispanic,Male,238.28,2.18
+2005,Arkansas,Black,All,236.24,1.95
+2005,Arkansas,Hispanic,All,249.96,3.7
+2005,Arkansas,Black,Female,242.28,2.38
+2005,Arkansas,Hispanic,Female,NA,NA
+2005,Arkansas,Black,Male,230.02,2.36
+2005,Arkansas,Hispanic,Male,NA,NA
+2005,California,Black,All,240.06,1.62
+2005,California,Hispanic,All,238.57,0.77
+2005,California,Black,Female,242.85,2.14
+2005,California,Hispanic,Female,242.78,0.91
+2005,California,Black,Male,237.41,2.02
+2005,California,Hispanic,Male,234.27,1.03
+2005,Colorado,Black,All,254.16,3.8699999999999997
+2005,Colorado,Hispanic,All,246.51,1.8800000000000001
+2005,Colorado,Black,Female,257.7,4.52
+2005,Colorado,Hispanic,Female,249.67,2.52
+2005,Colorado,Black,Male,250.33,4.95
+2005,Colorado,Hispanic,Male,243.59,1.99
+2005,Connecticut,Black,All,240.15,3.3099999999999996
+2005,Connecticut,Hispanic,All,244.6,3.86
+2005,Connecticut,Black,Female,246.91,3.4299999999999997
+2005,Connecticut,Hispanic,Female,246.76,3.94
+2005,Connecticut,Black,Male,233.78,4.159999999999999
+2005,Connecticut,Hispanic,Male,242.69,4.46
+2005,Delaware,Black,All,252.39,1.1600000000000001
+2005,Delaware,Hispanic,All,253.43,2.7
+2005,Delaware,Black,Female,257.88,1.6800000000000002
+2005,Delaware,Hispanic,Female,258.29,3.59
+2005,Delaware,Black,Male,246.1,1.83
+2005,Delaware,Hispanic,Male,247.42,4.49
+2005,District of Columbia,Black,All,234.94,0.9
+2005,District of Columbia,Hispanic,All,247.47,3.21
+2005,District of Columbia,Black,Female,241.97,1.43
+2005,District of Columbia,Hispanic,Female,251.49,4.18
+2005,District of Columbia,Black,Male,227.14,1.41
+2005,District of Columbia,Hispanic,Male,NA,NA
+2005,DoDEA,Black,All,258.18,1.58
+2005,DoDEA,Hispanic,All,267.53,2.25
+2005,DoDEA,Black,Female,265.23,2.46
+2005,DoDEA,Hispanic,Female,273.5,3.11
+2005,DoDEA,Black,Male,252.42,2.19
+2005,DoDEA,Hispanic,Male,261.25,2.84
+2005,Florida,Black,All,238.22,1.74
+2005,Florida,Hispanic,All,251.66,1.91
+2005,Florida,Black,Female,245.37,2.34
+2005,Florida,Hispanic,Female,259.74,2.3299999999999996
+2005,Florida,Black,Male,230.69,2.04
+2005,Florida,Hispanic,Male,243.79,2.44
+2005,Georgia,Black,All,240.74,1.3
+2005,Georgia,Hispanic,All,247.46,3.42
+2005,Georgia,Black,Female,248.12,1.46
+2005,Georgia,Hispanic,Female,250.12,3.8699999999999997
+2005,Georgia,Black,Male,233.18,1.6800000000000002
+2005,Georgia,Hispanic,Male,244.13,5.05
+2005,Hawaii,Black,All,NA,NA
+2005,Hawaii,Hispanic,All,241.83,4.359999999999999
+2005,Hawaii,Black,Female,NA,NA
+2005,Hawaii,Hispanic,Female,NA,NA
+2005,Hawaii,Black,Male,NA,NA
+2005,Hawaii,Hispanic,Male,NA,NA
+2005,Idaho,Black,All,NA,NA
+2005,Idaho,Hispanic,All,246.47,2.06
+2005,Idaho,Black,Female,NA,NA
+2005,Idaho,Hispanic,Female,252.64,2.51
+2005,Idaho,Black,Male,NA,NA
+2005,Idaho,Hispanic,Male,239.84,2.55
+2005,Illinois,Black,All,243.85,2.01
+2005,Illinois,Hispanic,All,253.3,1.61
+2005,Illinois,Black,Female,248.58,2.1
+2005,Illinois,Hispanic,Female,259.42,2.1
+2005,Illinois,Black,Male,238.91,2.64
+2005,Illinois,Hispanic,Male,247.41,2.23
+2005,Indiana,Black,All,240.51,2.8099999999999996
+2005,Indiana,Hispanic,All,246.68,4.94
+2005,Indiana,Black,Female,243.21,3.27
+2005,Indiana,Hispanic,Female,NA,NA
+2005,Indiana,Black,Male,237.41,3.71
+2005,Indiana,Hispanic,Male,NA,NA
+2005,Iowa,Black,All,245.59,3.42
+2005,Iowa,Hispanic,All,255.6,3.92
+2005,Iowa,Black,Female,NA,NA
+2005,Iowa,Hispanic,Female,NA,NA
+2005,Iowa,Black,Male,NA,NA
+2005,Iowa,Hispanic,Male,NA,NA
+2005,Kansas,Black,All,246.91,2.23
+2005,Kansas,Hispanic,All,248.64,2.59
+2005,Kansas,Black,Female,250.74,3.7
+2005,Kansas,Hispanic,Female,251.45,3.3
+2005,Kansas,Black,Male,243.01,2.51
+2005,Kansas,Hispanic,Male,245.9,3.54
+2005,Kentucky,Black,All,247.65,3.07
+2005,Kentucky,Hispanic,All,NA,NA
+2005,Kentucky,Black,Female,253.57,3.2800000000000002
+2005,Kentucky,Hispanic,Female,NA,NA
+2005,Kentucky,Black,Male,241.54,3.66
+2005,Kentucky,Hispanic,Male,NA,NA
+2005,Louisiana,Black,All,239.8,1.93
+2005,Louisiana,Hispanic,All,NA,NA
+2005,Louisiana,Black,Female,245.16,1.93
+2005,Louisiana,Hispanic,Female,NA,NA
+2005,Louisiana,Black,Male,234.11,2.36
+2005,Louisiana,Hispanic,Male,NA,NA
+2005,Maine,Black,All,NA,NA
+2005,Maine,Hispanic,All,NA,NA
+2005,Maine,Black,Female,NA,NA
+2005,Maine,Hispanic,Female,NA,NA
+2005,Maine,Black,Male,NA,NA
+2005,Maine,Hispanic,Male,NA,NA
+2005,Maryland,Black,All,243.82,1.78
+2005,Maryland,Hispanic,All,256.48,4.7700000000000005
+2005,Maryland,Black,Female,249.69,1.85
+2005,Maryland,Hispanic,Female,NA,NA
+2005,Maryland,Black,Male,237.43,2.3
+2005,Maryland,Hispanic,Male,254.19,6.35
+2005,Massachusetts,Black,All,253.06,1.99
+2005,Massachusetts,Hispanic,All,246.44,2.59
+2005,Massachusetts,Black,Female,255.45,3.25
+2005,Massachusetts,Hispanic,Female,251.36,3.58
+2005,Massachusetts,Black,Male,250.56,2.18
+2005,Massachusetts,Hispanic,Male,241.13,3.3099999999999996
+2005,Michigan,Black,All,238.55,2.1
+2005,Michigan,Hispanic,All,249.84,4.1499999999999995
+2005,Michigan,Black,Female,244.99,2.4699999999999998
+2005,Michigan,Hispanic,Female,NA,NA
+2005,Michigan,Black,Male,231.39,2.84
+2005,Michigan,Hispanic,Male,NA,NA
+2005,Minnesota,Black,All,239.14,4.05
+2005,Minnesota,Hispanic,All,244.06,5.119999999999999
+2005,Minnesota,Black,Female,249.33,5.04
+2005,Minnesota,Hispanic,Female,NA,NA
+2005,Minnesota,Black,Male,229.27,5.1
+2005,Minnesota,Hispanic,Male,NA,NA
+2005,Mississippi,Black,All,236.88,1.48
+2005,Mississippi,Hispanic,All,NA,NA
+2005,Mississippi,Black,Female,241.25,1.92
+2005,Mississippi,Hispanic,Female,NA,NA
+2005,Mississippi,Black,Male,232.11,1.73
+2005,Mississippi,Hispanic,Male,NA,NA
+2005,Missouri,Black,All,242.13,1.82
+2005,Missouri,Hispanic,All,257.57,6.01
+2005,Missouri,Black,Female,248.65,2.3899999999999997
+2005,Missouri,Hispanic,Female,NA,NA
+2005,Missouri,Black,Male,235.21,2.8699999999999997
+2005,Missouri,Hispanic,Male,NA,NA
+2005,Montana,Black,All,NA,NA
+2005,Montana,Hispanic,All,NA,NA
+2005,Montana,Black,Female,NA,NA
+2005,Montana,Hispanic,Female,NA,NA
+2005,Montana,Black,Male,NA,NA
+2005,Montana,Hispanic,Male,NA,NA
+2005,National public,Black,All,242.03,0.44
+2005,National public,Hispanic,All,244.94,0.44
+2005,National public,Black,Female,248.07,0.49
+2005,National public,Hispanic,Female,249.3,0.58
+2005,National public,Black,Male,235.73,0.51
+2005,National public,Hispanic,Male,240.58,0.51
+2005,Nebraska,Black,All,243.03,2.4899999999999998
+2005,Nebraska,Hispanic,All,245.19,2.02
+2005,Nebraska,Black,Female,248.93,3.3899999999999997
+2005,Nebraska,Hispanic,Female,250.45,2.7800000000000002
+2005,Nebraska,Black,Male,236.42,4.1499999999999995
+2005,Nebraska,Hispanic,Male,239,3.56
+2005,Nevada,Black,All,239.83,3.58
+2005,Nevada,Hispanic,All,241.26,1.1400000000000001
+2005,Nevada,Black,Female,249.44,4.24
+2005,Nevada,Hispanic,Female,243.89,1.55
+2005,Nevada,Black,Male,230.53,4.76
+2005,Nevada,Hispanic,Male,238.79,2.06
+2005,New Hampshire,Black,All,NA,NA
+2005,New Hampshire,Hispanic,All,NA,NA
+2005,New Hampshire,Black,Female,NA,NA
+2005,New Hampshire,Hispanic,Female,NA,NA
+2005,New Hampshire,Black,Male,NA,NA
+2005,New Hampshire,Hispanic,Male,NA,NA
+2005,New Jersey,Black,All,250.51,2.77
+2005,New Jersey,Hispanic,All,251.28,2.11
+2005,New Jersey,Black,Female,255.19,3.08
+2005,New Jersey,Hispanic,Female,252.96,2.57
+2005,New Jersey,Black,Male,245.02,2.9499999999999997
+2005,New Jersey,Hispanic,Male,249.64,2.98
+2005,New Mexico,Black,All,NA,NA
+2005,New Mexico,Hispanic,All,244.68,1.1400000000000001
+2005,New Mexico,Black,Female,NA,NA
+2005,New Mexico,Hispanic,Female,247.98,1.36
+2005,New Mexico,Black,Male,NA,NA
+2005,New Mexico,Hispanic,Male,241.6,1.56
+2005,New York,Black,All,242.47,2.05
+2005,New York,Hispanic,All,250.48,1.76
+2005,New York,Black,Female,247.75,2.24
+2005,New York,Hispanic,Female,255.87,1.84
+2005,New York,Black,Male,237.13,2.64
+2005,New York,Hispanic,Male,245.08,2.4699999999999998
+2005,North Carolina,Black,All,239.82,1.62
+2005,North Carolina,Hispanic,All,247.5,2.9499999999999997
+2005,North Carolina,Black,Female,247.61,2
+2005,North Carolina,Hispanic,Female,255.62,4.21
+2005,North Carolina,Black,Male,232.68,2.06
+2005,North Carolina,Hispanic,Male,240.7,4.619999999999999
+2005,North Dakota,Black,All,NA,NA
+2005,North Dakota,Hispanic,All,NA,NA
+2005,North Dakota,Black,Female,NA,NA
+2005,North Dakota,Hispanic,Female,NA,NA
+2005,North Dakota,Black,Male,NA,NA
+2005,North Dakota,Hispanic,Male,NA,NA
+2005,Ohio,Black,All,242.7,2.6
+2005,Ohio,Hispanic,All,245.2,4.49
+2005,Ohio,Black,Female,248.68,2.98
+2005,Ohio,Hispanic,Female,NA,NA
+2005,Ohio,Black,Male,236.18,2.7800000000000002
+2005,Ohio,Hispanic,Male,NA,NA
+2005,Oklahoma,Black,All,242.97,2.71
+2005,Oklahoma,Hispanic,All,246.87,2.44
+2005,Oklahoma,Black,Female,251.11,3.4299999999999997
+2005,Oklahoma,Hispanic,Female,252.3,3.19
+2005,Oklahoma,Black,Male,234.23,2.9
+2005,Oklahoma,Hispanic,Male,241.91,3.9099999999999997
+2005,Oregon,Black,All,244.89,3.8
+2005,Oregon,Hispanic,All,244.65,3.09
+2005,Oregon,Black,Female,NA,NA
+2005,Oregon,Hispanic,Female,249.87,4
+2005,Oregon,Black,Male,NA,NA
+2005,Oregon,Hispanic,Male,239.67,4.24
+2005,Pennsylvania,Black,All,239.38,3.9
+2005,Pennsylvania,Hispanic,All,246.09,6.79
+2005,Pennsylvania,Black,Female,247.35,3.8299999999999996
+2005,Pennsylvania,Hispanic,Female,252.77,6.21
+2005,Pennsylvania,Black,Male,231.22,4.159999999999999
+2005,Pennsylvania,Hispanic,Male,NA,NA
+2005,Rhode Island,Black,All,242.91,2.36
+2005,Rhode Island,Hispanic,All,236.57,2.58
+2005,Rhode Island,Black,Female,248.05,3.32
+2005,Rhode Island,Hispanic,Female,238.42,3.15
+2005,Rhode Island,Black,Male,237.84,3.57
+2005,Rhode Island,Hispanic,Male,234.21,3.42
+2005,South Carolina,Black,All,242.45,1.28
+2005,South Carolina,Hispanic,All,NA,NA
+2005,South Carolina,Black,Female,246.99,1.47
+2005,South Carolina,Hispanic,Female,NA,NA
+2005,South Carolina,Black,Male,237,1.96
+2005,South Carolina,Hispanic,Male,NA,NA
+2005,South Dakota,Black,All,NA,NA
+2005,South Dakota,Hispanic,All,NA,NA
+2005,South Dakota,Black,Female,NA,NA
+2005,South Dakota,Hispanic,Female,NA,NA
+2005,South Dakota,Black,Male,NA,NA
+2005,South Dakota,Hispanic,Male,NA,NA
+2005,Tennessee,Black,All,240.07,1.84
+2005,Tennessee,Hispanic,All,NA,NA
+2005,Tennessee,Black,Female,244.18,2.2800000000000002
+2005,Tennessee,Hispanic,Female,NA,NA
+2005,Tennessee,Black,Male,235.64,2.16
+2005,Tennessee,Hispanic,Male,NA,NA
+2005,Texas,Black,All,246.13,1.71
+2005,Texas,Hispanic,All,248.08,0.88
+2005,Texas,Black,Female,253.83,2.22
+2005,Texas,Hispanic,Female,251.43,1.02
+2005,Texas,Black,Male,238.2,2.01
+2005,Texas,Hispanic,Male,244.54,1.27
+2005,Utah,Black,All,NA,NA
+2005,Utah,Hispanic,All,242.82,2.5
+2005,Utah,Black,Female,NA,NA
+2005,Utah,Hispanic,Female,250.72,3.67
+2005,Utah,Black,Male,NA,NA
+2005,Utah,Hispanic,Male,235.11,3.4299999999999997
+2005,Vermont,Black,All,NA,NA
+2005,Vermont,Hispanic,All,NA,NA
+2005,Vermont,Black,Female,NA,NA
+2005,Vermont,Hispanic,Female,NA,NA
+2005,Vermont,Black,Male,NA,NA
+2005,Vermont,Hispanic,Male,NA,NA
+2005,Virginia,Black,All,251.41,1.85
+2005,Virginia,Hispanic,All,258.81,2.27
+2005,Virginia,Black,Female,257.33,2.38
+2005,Virginia,Hispanic,Female,261.15,3.62
+2005,Virginia,Black,Male,245.36,2.36
+2005,Virginia,Hispanic,Male,256.64,3.16
+2005,Washington,Black,All,255.04,4.06
+2005,Washington,Hispanic,All,245.26,3.34
+2005,Washington,Black,Female,260.32,5.55
+2005,Washington,Hispanic,Female,242.28,5.859999999999999
+2005,Washington,Black,Male,249.65,5.38
+2005,Washington,Hispanic,Male,248.36,2.94
+2005,West Virginia,Black,All,236.07,3.7
+2005,West Virginia,Hispanic,All,NA,NA
+2005,West Virginia,Black,Female,NA,NA
+2005,West Virginia,Hispanic,Female,NA,NA
+2005,West Virginia,Black,Male,NA,NA
+2005,West Virginia,Hispanic,Male,NA,NA
+2005,Wisconsin,Black,All,236.37,4.06
+2005,Wisconsin,Hispanic,All,247.46,5.119999999999999
+2005,Wisconsin,Black,Female,238.99,3.96
+2005,Wisconsin,Hispanic,Female,255.77,5.75
+2005,Wisconsin,Black,Male,233.73,5.31
+2005,Wisconsin,Hispanic,Male,241.09,6.609999999999999
+2005,Wyoming,Black,All,NA,NA
+2005,Wyoming,Hispanic,All,255.68,3.06
+2005,Wyoming,Black,Female,NA,NA
+2005,Wyoming,Hispanic,Female,253.44,4.7
+2005,Wyoming,Black,Male,NA,NA
+2005,Wyoming,Hispanic,Male,257.72,3.4499999999999997
+2007,Alabama,Black,All,235.89,1.3900000000000001
+2007,Alabama,Hispanic,All,249.97,4.76
+2007,Alabama,Black,Female,242.08,2.11
+2007,Alabama,Hispanic,Female,NA,NA
+2007,Alabama,Black,Male,229.57,1.6400000000000001
+2007,Alabama,Hispanic,Male,NA,NA
+2007,Alaska,Black,All,250.46,3.19
+2007,Alaska,Hispanic,All,257.18,3.4499999999999997
+2007,Alaska,Black,Female,258.07,4.13
+2007,Alaska,Hispanic,Female,NA,NA
+2007,Alaska,Black,Male,242.54,4.56
+2007,Alaska,Hispanic,Male,253.41,4.4
+2007,Arizona,Black,All,247.86,3.3899999999999997
+2007,Arizona,Hispanic,All,241.14,1.8
+2007,Arizona,Black,Female,256,4.64
+2007,Arizona,Hispanic,Female,245.43,2.07
+2007,Arizona,Black,Male,NA,NA
+2007,Arizona,Hispanic,Male,236.79,2.17
+2007,Arkansas,Black,All,235.76,2.04
+2007,Arkansas,Hispanic,All,248.73,3.57
+2007,Arkansas,Black,Female,242.78,2.62
+2007,Arkansas,Hispanic,Female,257.66,4.38
+2007,Arkansas,Black,Male,227.26,2.8
+2007,Arkansas,Hispanic,Male,NA,NA
+2007,California,Black,All,237.01,2
+2007,California,Hispanic,All,239.49,0.8
+2007,California,Black,Female,240.27,2.98
+2007,California,Hispanic,Female,244.83,1.03
+2007,California,Black,Male,234.01,3.29
+2007,California,Hispanic,Male,234.28,0.93
+2007,Colorado,Black,All,252.38,3.17
+2007,Colorado,Hispanic,All,249.4,1.9
+2007,Colorado,Black,Female,258.37,5.56
+2007,Colorado,Hispanic,Female,253.15,2.94
+2007,Colorado,Black,Male,247.44,3.4699999999999998
+2007,Colorado,Hispanic,Male,245.66,2.05
+2007,Connecticut,Black,All,246.12,3.13
+2007,Connecticut,Hispanic,All,242.63,2.64
+2007,Connecticut,Black,Female,247.54,3.8699999999999997
+2007,Connecticut,Hispanic,Female,246.47,2.8699999999999997
+2007,Connecticut,Black,Male,244.53,3.9299999999999997
+2007,Connecticut,Hispanic,Male,238.57,3.6
+2007,Delaware,Black,All,250.47,1.09
+2007,Delaware,Hispanic,All,256.74,2.24
+2007,Delaware,Black,Female,255.94,1.49
+2007,Delaware,Hispanic,Female,261.81,3.4299999999999997
+2007,Delaware,Black,Male,244.55,1.35
+2007,Delaware,Hispanic,Male,251.97,3.21
+2007,District of Columbia,Black,All,237.91,0.8600000000000001
+2007,District of Columbia,Hispanic,All,249.06,3.21
+2007,District of Columbia,Black,Female,242.6,1.22
+2007,District of Columbia,Hispanic,Female,252.69,5.42
+2007,District of Columbia,Black,Male,231.95,1.57
+2007,District of Columbia,Hispanic,Male,244.69,4.02
+2007,DoDEA,Black,All,258.85,2.12
+2007,DoDEA,Hispanic,All,272.9,1.6800000000000002
+2007,DoDEA,Black,Female,265.33,2.63
+2007,DoDEA,Hispanic,Female,278.19,2.7800000000000002
+2007,DoDEA,Black,Male,253.24,2.8099999999999996
+2007,DoDEA,Hispanic,Male,267.77,2.92
+2007,Florida,Black,All,243.76,1.6900000000000002
+2007,Florida,Hispanic,All,255.85,1.82
+2007,Florida,Black,Female,252.83,2.25
+2007,Florida,Hispanic,Female,260.31,2.14
+2007,Florida,Black,Male,234.56,1.98
+2007,Florida,Hispanic,Male,251.82,2.21
+2007,Georgia,Black,All,245.95,1.54
+2007,Georgia,Hispanic,All,249.87,3.23
+2007,Georgia,Black,Female,251.61,1.71
+2007,Georgia,Hispanic,Female,254.12,4.48
+2007,Georgia,Black,Male,239.99,2.16
+2007,Georgia,Hispanic,Male,245.89,4.119999999999999
+2007,Hawaii,Black,All,254.72,5.6499999999999995
+2007,Hawaii,Hispanic,All,248.91,4.5
+2007,Hawaii,Black,Female,NA,NA
+2007,Hawaii,Hispanic,Female,NA,NA
+2007,Hawaii,Black,Male,NA,NA
+2007,Hawaii,Hispanic,Male,NA,NA
+2007,Idaho,Black,All,NA,NA
+2007,Idaho,Hispanic,All,243.2,2.3899999999999997
+2007,Idaho,Black,Female,NA,NA
+2007,Idaho,Hispanic,Female,249.69,3.38
+2007,Idaho,Black,Male,NA,NA
+2007,Idaho,Hispanic,Male,238.15,3.32
+2007,Illinois,Black,All,243.55,1.84
+2007,Illinois,Hispanic,All,250.2,1.94
+2007,Illinois,Black,Female,250.17,1.85
+2007,Illinois,Hispanic,Female,253.92,2.44
+2007,Illinois,Black,Male,235.79,2.79
+2007,Illinois,Hispanic,Male,246.31,2.4299999999999997
+2007,Indiana,Black,All,242.29,1.94
+2007,Indiana,Hispanic,All,255.24,3.62
+2007,Indiana,Black,Female,247.66,3.2800000000000002
+2007,Indiana,Hispanic,Female,262.82,5.42
+2007,Indiana,Black,Male,236.43,1.77
+2007,Indiana,Hispanic,Male,NA,NA
+2007,Iowa,Black,All,247.14,5.46
+2007,Iowa,Hispanic,All,250.41,3.09
+2007,Iowa,Black,Female,250.12,8.18
+2007,Iowa,Hispanic,Female,253.3,5.83
+2007,Iowa,Black,Male,244.16,4.98
+2007,Iowa,Hispanic,Male,247.62,3.75
+2007,Kansas,Black,All,245.69,3.14
+2007,Kansas,Hispanic,All,248.13,3.3699999999999997
+2007,Kansas,Black,Female,257.73,3.14
+2007,Kansas,Hispanic,Female,255.56,3.8099999999999996
+2007,Kansas,Black,Male,232.04,3.98
+2007,Kansas,Hispanic,Male,241.32,3.9299999999999997
+2007,Kentucky,Black,All,246.84,2.3299999999999996
+2007,Kentucky,Hispanic,All,NA,NA
+2007,Kentucky,Black,Female,254.49,2.82
+2007,Kentucky,Hispanic,Female,NA,NA
+2007,Kentucky,Black,Male,238.73,3.23
+2007,Kentucky,Hispanic,Male,NA,NA
+2007,Louisiana,Black,All,240.46,1.34
+2007,Louisiana,Hispanic,All,NA,NA
+2007,Louisiana,Black,Female,245.83,1.59
+2007,Louisiana,Hispanic,Female,NA,NA
+2007,Louisiana,Black,Male,234.63,1.87
+2007,Louisiana,Hispanic,Male,NA,NA
+2007,Maine,Black,All,NA,NA
+2007,Maine,Hispanic,All,NA,NA
+2007,Maine,Black,Female,NA,NA
+2007,Maine,Hispanic,Female,NA,NA
+2007,Maine,Black,Male,NA,NA
+2007,Maine,Hispanic,Male,NA,NA
+2007,Maryland,Black,All,249.02,1.6900000000000002
+2007,Maryland,Hispanic,All,257.57,4.430000000000001
+2007,Maryland,Black,Female,254.21,1.94
+2007,Maryland,Hispanic,Female,262.92,5.05
+2007,Maryland,Black,Male,243.32,2.4699999999999998
+2007,Maryland,Hispanic,Male,253.02,6.59
+2007,Massachusetts,Black,All,253.07,2.23
+2007,Massachusetts,Hispanic,All,250.61,2.27
+2007,Massachusetts,Black,Female,256.04,3.11
+2007,Massachusetts,Hispanic,Female,253.47,2.9
+2007,Massachusetts,Black,Male,250.03,2.9299999999999997
+2007,Massachusetts,Hispanic,Male,247.97,2.8099999999999996
+2007,Michigan,Black,All,235.92,2.53
+2007,Michigan,Hispanic,All,240.54,4.72
+2007,Michigan,Black,Female,239.12,3.19
+2007,Michigan,Hispanic,Female,NA,NA
+2007,Michigan,Black,Male,232.82,2.8299999999999996
+2007,Michigan,Hispanic,Male,NA,NA
+2007,Minnesota,Black,All,244.59,3.15
+2007,Minnesota,Hispanic,All,244.5,4.57
+2007,Minnesota,Black,Female,252.45,3.3
+2007,Minnesota,Hispanic,Female,248.06,5.319999999999999
+2007,Minnesota,Black,Male,236.35,5.58
+2007,Minnesota,Hispanic,Male,240.72,6.119999999999999
+2007,Mississippi,Black,All,238.41,1.1700000000000002
+2007,Mississippi,Hispanic,All,NA,NA
+2007,Mississippi,Black,Female,243.67,1.43
+2007,Mississippi,Hispanic,Female,NA,NA
+2007,Mississippi,Black,Male,233.19,1.44
+2007,Mississippi,Hispanic,Male,NA,NA
+2007,Missouri,Black,All,241.96,2.15
+2007,Missouri,Hispanic,All,247.74,5.1499999999999995
+2007,Missouri,Black,Female,246.79,2.56
+2007,Missouri,Hispanic,Female,NA,NA
+2007,Missouri,Black,Male,237.32,2.88
+2007,Missouri,Hispanic,Male,NA,NA
+2007,Montana,Black,All,NA,NA
+2007,Montana,Hispanic,All,NA,NA
+2007,Montana,Black,Female,NA,NA
+2007,Montana,Hispanic,Female,NA,NA
+2007,Montana,Black,Male,NA,NA
+2007,Montana,Hispanic,Male,NA,NA
+2007,National public,Black,All,243.83,0.39
+2007,National public,Hispanic,All,245.77,0.43000000000000005
+2007,National public,Black,Female,249.72,0.53
+2007,National public,Hispanic,Female,250.29,0.56
+2007,National public,Black,Male,237.68,0.48000000000000004
+2007,National public,Hispanic,Male,241.29,0.59
+2007,Nebraska,Black,All,242.86,3.16
+2007,Nebraska,Hispanic,All,254.81,2.53
+2007,Nebraska,Black,Female,243.35,3.9699999999999998
+2007,Nebraska,Hispanic,Female,260.09,3.3899999999999997
+2007,Nebraska,Black,Male,242.32,4.58
+2007,Nebraska,Hispanic,Male,249.05,3.15
+2007,Nevada,Black,All,247.57,3.02
+2007,Nevada,Hispanic,All,238.48,1.3900000000000001
+2007,Nevada,Black,Female,254.76,4.79
+2007,Nevada,Hispanic,Female,244.93,1.8
+2007,Nevada,Black,Male,239.34,3.9499999999999997
+2007,Nevada,Hispanic,Male,232.14,1.93
+2007,New Hampshire,Black,All,NA,NA
+2007,New Hampshire,Hispanic,All,251.65,5.2700000000000005
+2007,New Hampshire,Black,Female,NA,NA
+2007,New Hampshire,Hispanic,Female,NA,NA
+2007,New Hampshire,Black,Male,NA,NA
+2007,New Hampshire,Hispanic,Male,NA,NA
+2007,New Jersey,Black,All,249.12,2.4099999999999997
+2007,New Jersey,Hispanic,All,256.52,2.02
+2007,New Jersey,Black,Female,257.08,2.9699999999999998
+2007,New Jersey,Hispanic,Female,259.54,2.24
+2007,New Jersey,Black,Male,240.04,2.71
+2007,New Jersey,Hispanic,Male,253.8,2.79
+2007,New Mexico,Black,All,248.24,4.18
+2007,New Mexico,Hispanic,All,245.53,1.06
+2007,New Mexico,Black,Female,NA,NA
+2007,New Mexico,Hispanic,Female,249.3,1.37
+2007,New Mexico,Black,Male,NA,NA
+2007,New Mexico,Hispanic,Male,241.91,1.56
+2007,New York,Black,All,245.56,2.24
+2007,New York,Hispanic,All,245.81,2.3
+2007,New York,Black,Female,251.38,2.58
+2007,New York,Hispanic,Female,252.44,2.82
+2007,New York,Black,Male,239.52,2.3899999999999997
+2007,New York,Hispanic,Male,238.12,2.36
+2007,North Carolina,Black,All,240.92,1.87
+2007,North Carolina,Hispanic,All,245.89,3.3099999999999996
+2007,North Carolina,Black,Female,247.68,1.9
+2007,North Carolina,Hispanic,Female,251.19,4.3
+2007,North Carolina,Black,Male,234.89,2.56
+2007,North Carolina,Hispanic,Male,241.29,4.13
+2007,North Dakota,Black,All,NA,NA
+2007,North Dakota,Hispanic,All,NA,NA
+2007,North Dakota,Black,Female,NA,NA
+2007,North Dakota,Hispanic,Female,NA,NA
+2007,North Dakota,Black,Male,NA,NA
+2007,North Dakota,Hispanic,Male,NA,NA
+2007,Ohio,Black,All,246.35,1.72
+2007,Ohio,Hispanic,All,259.64,5.99
+2007,Ohio,Black,Female,251.75,2.25
+2007,Ohio,Hispanic,Female,267.43,6.85
+2007,Ohio,Black,Male,241.29,1.94
+2007,Ohio,Hispanic,Male,NA,NA
+2007,Oklahoma,Black,All,243.37,2.66
+2007,Oklahoma,Hispanic,All,241.11,2.8299999999999996
+2007,Oklahoma,Black,Female,246.95,3.4499999999999997
+2007,Oklahoma,Hispanic,Female,246.81,3.53
+2007,Oklahoma,Black,Male,239.55,3.12
+2007,Oklahoma,Hispanic,Male,234.99,3.6
+2007,Oregon,Black,All,249.73,5.68
+2007,Oregon,Hispanic,All,243.49,2.36
+2007,Oregon,Black,Female,NA,NA
+2007,Oregon,Hispanic,Female,250.42,3.25
+2007,Oregon,Black,Male,NA,NA
+2007,Oregon,Hispanic,Male,236.75,2.82
+2007,Pennsylvania,Black,All,247.7,3.3099999999999996
+2007,Pennsylvania,Hispanic,All,244.39,5.04
+2007,Pennsylvania,Black,Female,250.62,4.109999999999999
+2007,Pennsylvania,Hispanic,Female,243.02,6.1
+2007,Pennsylvania,Black,Male,244.16,3.44
+2007,Pennsylvania,Hispanic,Male,245.7,5.42
+2007,Rhode Island,Black,All,238.74,3.23
+2007,Rhode Island,Hispanic,All,233.35,1.77
+2007,Rhode Island,Black,Female,243.5,3.44
+2007,Rhode Island,Hispanic,Female,234.39,2.59
+2007,Rhode Island,Black,Male,233.62,4.52
+2007,Rhode Island,Hispanic,Male,232.24,2.3099999999999996
+2007,South Carolina,Black,All,241.76,1.48
+2007,South Carolina,Hispanic,All,243.68,4.55
+2007,South Carolina,Black,Female,247.03,2.09
+2007,South Carolina,Hispanic,Female,NA,NA
+2007,South Carolina,Black,Male,235.87,1.6700000000000002
+2007,South Carolina,Hispanic,Male,NA,NA
+2007,South Dakota,Black,All,NA,NA
+2007,South Dakota,Hispanic,All,NA,NA
+2007,South Dakota,Black,Female,NA,NA
+2007,South Dakota,Hispanic,Female,NA,NA
+2007,South Dakota,Black,Male,NA,NA
+2007,South Dakota,Hispanic,Male,NA,NA
+2007,Tennessee,Black,All,239.78,1.85
+2007,Tennessee,Hispanic,All,251.96,5.24
+2007,Tennessee,Black,Female,246.87,2.1
+2007,Tennessee,Hispanic,Female,NA,NA
+2007,Tennessee,Black,Male,232.07,2.11
+2007,Tennessee,Hispanic,Male,NA,NA
+2007,Texas,Black,All,248.65,1.82
+2007,Texas,Hispanic,All,250.9,0.92
+2007,Texas,Black,Female,255.72,1.9
+2007,Texas,Hispanic,Female,254.14,1.1600000000000001
+2007,Texas,Black,Male,240.74,2.4299999999999997
+2007,Texas,Hispanic,Male,247.68,1.3900000000000001
+2007,Utah,Black,All,NA,NA
+2007,Utah,Hispanic,All,241.88,2.63
+2007,Utah,Black,Female,NA,NA
+2007,Utah,Hispanic,Female,245.1,3.14
+2007,Utah,Black,Male,NA,NA
+2007,Utah,Hispanic,Male,238.38,3.7800000000000002
+2007,Vermont,Black,All,NA,NA
+2007,Vermont,Hispanic,All,NA,NA
+2007,Vermont,Black,Female,NA,NA
+2007,Vermont,Hispanic,Female,NA,NA
+2007,Vermont,Black,Male,NA,NA
+2007,Vermont,Hispanic,Male,NA,NA
+2007,Virginia,Black,All,252.22,1.1
+2007,Virginia,Hispanic,All,258.42,3.3
+2007,Virginia,Black,Female,257.28,1.74
+2007,Virginia,Hispanic,Female,267.1,3.3099999999999996
+2007,Virginia,Black,Male,247.08,1.59
+2007,Virginia,Hispanic,Male,249.79,5.07
+2007,Washington,Black,All,247,3.42
+2007,Washington,Hispanic,All,246.91,2.4899999999999998
+2007,Washington,Black,Female,250.72,4.619999999999999
+2007,Washington,Hispanic,Female,249.95,2.9099999999999997
+2007,Washington,Black,Male,243.19,4.72
+2007,Washington,Hispanic,Male,243.18,4
+2007,West Virginia,Black,All,240.73,2.8299999999999996
+2007,West Virginia,Hispanic,All,NA,NA
+2007,West Virginia,Black,Female,NA,NA
+2007,West Virginia,Hispanic,Female,NA,NA
+2007,West Virginia,Black,Male,237.38,4.35
+2007,West Virginia,Hispanic,Male,NA,NA
+2007,Wisconsin,Black,All,231.32,4.41
+2007,Wisconsin,Hispanic,All,247.44,2.75
+2007,Wisconsin,Black,Female,236.2,5.63
+2007,Wisconsin,Hispanic,Female,258.57,4.5
+2007,Wisconsin,Black,Male,226.63,5.22
+2007,Wisconsin,Hispanic,Male,238.41,2.74
+2007,Wyoming,Black,All,NA,NA
+2007,Wyoming,Hispanic,All,248.26,2.9299999999999997
+2007,Wyoming,Black,Female,NA,NA
+2007,Wyoming,Hispanic,Female,252.88,3.63
+2007,Wyoming,Black,Male,NA,NA
+2007,Wyoming,Hispanic,Male,243.98,4.24
+2009,Alabama,Black,All,237.79,1.74
+2009,Alabama,Hispanic,All,245.05,6.2
+2009,Alabama,Black,Female,246.57,1.85
+2009,Alabama,Hispanic,Female,NA,NA
+2009,Alabama,Black,Male,229.16,2.18
+2009,Alabama,Hispanic,Male,NA,NA
+2009,Alaska,Black,All,248.94,3.46
+2009,Alaska,Hispanic,All,260.33,3.03
+2009,Alaska,Black,Female,NA,NA
+2009,Alaska,Hispanic,Female,267.89,3.23
+2009,Alaska,Black,Male,NA,NA
+2009,Alaska,Hispanic,Male,250.74,4.319999999999999
+2009,Arizona,Black,All,248.91,4.49
+2009,Arizona,Hispanic,All,245.97,1.4
+2009,Arizona,Black,Female,249.86,5.46
+2009,Arizona,Hispanic,Female,247.69,1.86
+2009,Arizona,Black,Male,NA,NA
+2009,Arizona,Hispanic,Male,244.21,1.71
+2009,Arkansas,Black,All,233.76,2.3699999999999997
+2009,Arkansas,Hispanic,All,249.08,3.59
+2009,Arkansas,Black,Female,237.31,3.03
+2009,Arkansas,Hispanic,Female,254.27,5.37
+2009,Arkansas,Black,Male,230.3,2.92
+2009,Arkansas,Hispanic,Male,244.45,3.62
+2009,California,Black,All,242.62,3
+2009,California,Hispanic,All,241.42,1.1700000000000002
+2009,California,Black,Female,246.33,3.65
+2009,California,Hispanic,Female,245.96,1.51
+2009,California,Black,Male,238.98,3.9
+2009,California,Hispanic,Male,236.72,1.42
+2009,Colorado,Black,All,250.17,3.09
+2009,Colorado,Hispanic,All,249.65,1.41
+2009,Colorado,Black,Female,252.16,4.51
+2009,Colorado,Hispanic,Female,252.37,2.2
+2009,Colorado,Black,Male,248.46,4.470000000000001
+2009,Colorado,Hispanic,Male,246.91,1.91
+2009,Connecticut,Black,All,244.89,2.23
+2009,Connecticut,Hispanic,All,252.11,2.09
+2009,Connecticut,Black,Female,250.35,2.9299999999999997
+2009,Connecticut,Hispanic,Female,256.28,2.6
+2009,Connecticut,Black,Male,239.12,2.8499999999999996
+2009,Connecticut,Hispanic,Male,248.46,2.4699999999999998
+2009,Delaware,Black,All,253.69,1.1800000000000002
+2009,Delaware,Hispanic,All,256.49,2.42
+2009,Delaware,Black,Female,259,1.58
+2009,Delaware,Hispanic,Female,258.63,3.2
+2009,Delaware,Black,Male,248.26,1.83
+2009,Delaware,Hispanic,Male,254.08,2.88
+2009,District of Columbia,Black,All,239.11,0.98
+2009,District of Columbia,Hispanic,All,248.74,2.96
+2009,District of Columbia,Black,Female,244.92,1.29
+2009,District of Columbia,Hispanic,Female,252.07,3.94
+2009,District of Columbia,Black,Male,232.57,1.41
+2009,District of Columbia,Hispanic,Male,NA,NA
+2009,DoDEA,Black,All,262.38,2.11
+2009,DoDEA,Hispanic,All,269.3,1.76
+2009,DoDEA,Black,Female,264.92,2.9899999999999998
+2009,DoDEA,Hispanic,Female,274.38,2.34
+2009,DoDEA,Black,Male,259.89,2.42
+2009,DoDEA,Hispanic,Male,263.64,2.77
+2009,Florida,Black,All,250.37,1.98
+2009,Florida,Hispanic,All,260.14,1.41
+2009,Florida,Black,Female,255.71,1.81
+2009,Florida,Hispanic,Female,266.27,1.91
+2009,Florida,Black,Male,244.96,2.7600000000000002
+2009,Florida,Hispanic,Male,254.12,1.8900000000000001
+2009,Georgia,Black,All,248.93,1.09
+2009,Georgia,Hispanic,All,254.19,2.96
+2009,Georgia,Black,Female,255.53,1.6500000000000001
+2009,Georgia,Hispanic,Female,256.93,3.63
+2009,Georgia,Black,Male,242.31,1.55
+2009,Georgia,Hispanic,Male,251.7,4.37
+2009,Hawaii,Black,All,255.77,5.07
+2009,Hawaii,Hispanic,All,251.84,4.88
+2009,Hawaii,Black,Female,NA,NA
+2009,Hawaii,Hispanic,Female,NA,NA
+2009,Hawaii,Black,Male,NA,NA
+2009,Hawaii,Hispanic,Male,NA,NA
+2009,Idaho,Black,All,NA,NA
+2009,Idaho,Hispanic,All,240.98,1.79
+2009,Idaho,Black,Female,NA,NA
+2009,Idaho,Hispanic,Female,247.74,2.8499999999999996
+2009,Idaho,Black,Male,NA,NA
+2009,Idaho,Hispanic,Male,234.4,2.8899999999999997
+2009,Illinois,Black,All,243.13,1.53
+2009,Illinois,Hispanic,All,252.31,1.62
+2009,Illinois,Black,Female,248.22,1.95
+2009,Illinois,Hispanic,Female,256.22,2.06
+2009,Illinois,Black,Male,237.56,2.1
+2009,Illinois,Hispanic,Male,248.48,2.02
+2009,Indiana,Black,All,249.78,2.36
+2009,Indiana,Hispanic,All,251.14,2.6
+2009,Indiana,Black,Female,253.94,2.3299999999999996
+2009,Indiana,Hispanic,Female,252.36,4.29
+2009,Indiana,Black,Male,244.77,3.24
+2009,Indiana,Hispanic,Male,249.97,3.6
+2009,Iowa,Black,All,240.62,3.82
+2009,Iowa,Hispanic,All,249.27,3.8
+2009,Iowa,Black,Female,245.6,6.03
+2009,Iowa,Hispanic,Female,252.04,6.659999999999999
+2009,Iowa,Black,Male,235.62,4.85
+2009,Iowa,Hispanic,Male,245.75,4.04
+2009,Kansas,Black,All,248.11,2.5
+2009,Kansas,Hispanic,All,250.04,2.72
+2009,Kansas,Black,Female,252.63,3.11
+2009,Kansas,Hispanic,Female,253.78,3.02
+2009,Kansas,Black,Male,243.01,3.57
+2009,Kansas,Hispanic,Male,246.89,3.19
+2009,Kentucky,Black,All,249.04,2.06
+2009,Kentucky,Hispanic,All,265.48,4.04
+2009,Kentucky,Black,Female,252.79,2.65
+2009,Kentucky,Hispanic,Female,NA,NA
+2009,Kentucky,Black,Male,245.14,2.54
+2009,Kentucky,Hispanic,Male,NA,NA
+2009,Louisiana,Black,All,240.53,1.87
+2009,Louisiana,Hispanic,All,NA,NA
+2009,Louisiana,Black,Female,244.05,2.24
+2009,Louisiana,Hispanic,Female,NA,NA
+2009,Louisiana,Black,Male,237.02,2.12
+2009,Louisiana,Hispanic,Male,NA,NA
+2009,Maine,Black,All,253.79,5.470000000000001
+2009,Maine,Hispanic,All,NA,NA
+2009,Maine,Black,Female,NA,NA
+2009,Maine,Hispanic,Female,NA,NA
+2009,Maine,Black,Male,NA,NA
+2009,Maine,Hispanic,Male,NA,NA
+2009,Maryland,Black,All,250.41,1.93
+2009,Maryland,Hispanic,All,258.33,3.27
+2009,Maryland,Black,Female,255.77,2.34
+2009,Maryland,Hispanic,Female,264.5,3.23
+2009,Maryland,Black,Male,244.77,2.09
+2009,Maryland,Hispanic,Male,253.15,4.4
+2009,Massachusetts,Black,All,251.4,2.69
+2009,Massachusetts,Hispanic,All,250.4,2.7800000000000002
+2009,Massachusetts,Black,Female,260.81,2.46
+2009,Massachusetts,Hispanic,Female,252.94,3.4299999999999997
+2009,Massachusetts,Black,Male,240.76,3.7800000000000002
+2009,Massachusetts,Hispanic,Male,247.91,3.69
+2009,Michigan,Black,All,238.29,2.1
+2009,Michigan,Hispanic,All,253.08,4.73
+2009,Michigan,Black,Female,246.29,2.44
+2009,Michigan,Hispanic,Female,259.09,8.09
+2009,Michigan,Black,Male,230.67,2.72
+2009,Michigan,Hispanic,Male,249.85,5.319999999999999
+2009,Minnesota,Black,All,243.99,3.6
+2009,Minnesota,Hispanic,All,246.97,3.5
+2009,Minnesota,Black,Female,253.94,5.1899999999999995
+2009,Minnesota,Hispanic,Female,NA,NA
+2009,Minnesota,Black,Male,235,3.79
+2009,Minnesota,Hispanic,Male,243.28,4.54
+2009,Mississippi,Black,All,238.72,1.04
+2009,Mississippi,Hispanic,All,NA,NA
+2009,Mississippi,Black,Female,244.53,1.48
+2009,Mississippi,Hispanic,Female,NA,NA
+2009,Mississippi,Black,Male,232.2,1.1400000000000001
+2009,Mississippi,Hispanic,Male,NA,NA
+2009,Missouri,Black,All,245.94,2.53
+2009,Missouri,Hispanic,All,260.14,4.25
+2009,Missouri,Black,Female,251.31,3.06
+2009,Missouri,Hispanic,Female,NA,NA
+2009,Missouri,Black,Male,240.78,3.14
+2009,Missouri,Hispanic,Male,NA,NA
+2009,Montana,Black,All,NA,NA
+2009,Montana,Hispanic,All,NA,NA
+2009,Montana,Black,Female,NA,NA
+2009,Montana,Hispanic,Female,NA,NA
+2009,Montana,Black,Male,NA,NA
+2009,Montana,Hispanic,Male,NA,NA
+2009,National public,Black,All,245.45,0.39
+2009,National public,Hispanic,All,247.83,0.61
+2009,National public,Black,Female,250.79,0.48000000000000004
+2009,National public,Hispanic,Female,252.19,0.73
+2009,National public,Black,Male,239.93,0.46
+2009,National public,Hispanic,Male,243.47,0.75
+2009,Nebraska,Black,All,241.56,2.96
+2009,Nebraska,Hispanic,All,252.67,2.27
+2009,Nebraska,Black,Female,246.77,3.55
+2009,Nebraska,Hispanic,Female,256.94,3.05
+2009,Nebraska,Black,Male,235.68,4.74
+2009,Nebraska,Hispanic,Male,248.73,3.4
+2009,Nevada,Black,All,241.3,2.27
+2009,Nevada,Hispanic,All,242.45,1.3
+2009,Nevada,Black,Female,249.36,2.4499999999999997
+2009,Nevada,Hispanic,Female,247.81,1.45
+2009,Nevada,Black,Male,233.34,3.51
+2009,Nevada,Hispanic,Male,236.68,2.03
+2009,New Hampshire,Black,All,NA,NA
+2009,New Hampshire,Hispanic,All,256.92,4.6
+2009,New Hampshire,Black,Female,NA,NA
+2009,New Hampshire,Hispanic,Female,NA,NA
+2009,New Hampshire,Black,Male,NA,NA
+2009,New Hampshire,Hispanic,Male,NA,NA
+2009,New Jersey,Black,All,249.76,3.08
+2009,New Jersey,Hispanic,All,256.09,2.22
+2009,New Jersey,Black,Female,255.29,2.9299999999999997
+2009,New Jersey,Hispanic,Female,258.54,2.74
+2009,New Jersey,Black,Male,244.77,4.2
+2009,New Jersey,Hispanic,Male,253.62,2.9699999999999998
+2009,New Mexico,Black,All,245.61,4.98
+2009,New Mexico,Hispanic,All,247.55,1.33
+2009,New Mexico,Black,Female,NA,NA
+2009,New Mexico,Hispanic,Female,249.69,1.79
+2009,New Mexico,Black,Male,NA,NA
+2009,New Mexico,Hispanic,Male,245.44,1.55
+2009,New York,Black,All,245.92,2.04
+2009,New York,Hispanic,All,247.35,1.81
+2009,New York,Black,Female,249.29,2.03
+2009,New York,Hispanic,Female,252.81,2.59
+2009,New York,Black,Male,242.2,2.77
+2009,New York,Hispanic,Male,242.34,1.83
+2009,North Carolina,Black,All,242.65,1.51
+2009,North Carolina,Hispanic,All,248.6,2.59
+2009,North Carolina,Black,Female,251.03,1.85
+2009,North Carolina,Hispanic,Female,254.02,4.25
+2009,North Carolina,Black,Male,234.84,1.8
+2009,North Carolina,Hispanic,Male,243.72,3.13
+2009,North Dakota,Black,All,NA,NA
+2009,North Dakota,Hispanic,All,NA,NA
+2009,North Dakota,Black,Female,NA,NA
+2009,North Dakota,Hispanic,Female,NA,NA
+2009,North Dakota,Black,Male,NA,NA
+2009,North Dakota,Hispanic,Male,NA,NA
+2009,Ohio,Black,All,247.04,2.03
+2009,Ohio,Hispanic,All,251.12,4.31
+2009,Ohio,Black,Female,252.35,2.4899999999999998
+2009,Ohio,Hispanic,Female,258.53,5.659999999999999
+2009,Ohio,Black,Male,241.04,2.3899999999999997
+2009,Ohio,Hispanic,Male,NA,NA
+2009,Oklahoma,Black,All,246.63,3.02
+2009,Oklahoma,Hispanic,All,245.85,2.68
+2009,Oklahoma,Black,Female,251.12,3.77
+2009,Oklahoma,Hispanic,Female,250.13,4.33
+2009,Oklahoma,Black,Male,242.82,3.4099999999999997
+2009,Oklahoma,Hispanic,Male,241.35,3.15
+2009,Oregon,Black,All,NA,NA
+2009,Oregon,Hispanic,All,246.95,1.5
+2009,Oregon,Black,Female,NA,NA
+2009,Oregon,Hispanic,Female,250.68,1.78
+2009,Oregon,Black,Male,NA,NA
+2009,Oregon,Hispanic,Male,242.87,2.68
+2009,Pennsylvania,Black,All,249.49,1.71
+2009,Pennsylvania,Hispanic,All,247.47,2.4699999999999998
+2009,Pennsylvania,Black,Female,252.83,2.63
+2009,Pennsylvania,Hispanic,Female,250.8,3.2
+2009,Pennsylvania,Black,Male,246.16,2.32
+2009,Pennsylvania,Hispanic,Male,244.42,3.61
+2009,Rhode Island,Black,All,238.07,3.1
+2009,Rhode Island,Hispanic,All,240.86,1.81
+2009,Rhode Island,Black,Female,244.85,2.69
+2009,Rhode Island,Hispanic,Female,246.26,2.48
+2009,Rhode Island,Black,Male,233.03,4.7
+2009,Rhode Island,Hispanic,Male,235.44,2.46
+2009,South Carolina,Black,All,242.84,1.5
+2009,South Carolina,Hispanic,All,258.73,3.4499999999999997
+2009,South Carolina,Black,Female,248.39,1.7
+2009,South Carolina,Hispanic,Female,266.09,6.13
+2009,South Carolina,Black,Male,236.82,2.05
+2009,South Carolina,Hispanic,Male,251.17,3.9899999999999998
+2009,South Dakota,Black,All,NA,NA
+2009,South Dakota,Hispanic,All,NA,NA
+2009,South Dakota,Black,Female,NA,NA
+2009,South Dakota,Hispanic,Female,NA,NA
+2009,South Dakota,Black,Male,NA,NA
+2009,South Dakota,Hispanic,Male,NA,NA
+2009,Tennessee,Black,All,243.11,2.06
+2009,Tennessee,Hispanic,All,251.84,4.39
+2009,Tennessee,Black,Female,246.96,2.4099999999999997
+2009,Tennessee,Hispanic,Female,NA,NA
+2009,Tennessee,Black,Male,238.83,2.24
+2009,Tennessee,Hispanic,Male,NA,NA
+2009,Texas,Black,All,248.86,1.97
+2009,Texas,Hispanic,All,251.37,1.2
+2009,Texas,Black,Female,252.55,3.15
+2009,Texas,Hispanic,Female,256.17,1.5
+2009,Texas,Black,Male,244.68,2.14
+2009,Texas,Hispanic,Male,246.56,1.51
+2009,Utah,Black,All,NA,NA
+2009,Utah,Hispanic,All,245.98,1.8
+2009,Utah,Black,Female,NA,NA
+2009,Utah,Hispanic,Female,249,2.4299999999999997
+2009,Utah,Black,Male,NA,NA
+2009,Utah,Hispanic,Male,243.26,2.61
+2009,Vermont,Black,All,NA,NA
+2009,Vermont,Hispanic,All,NA,NA
+2009,Vermont,Black,Female,NA,NA
+2009,Vermont,Hispanic,Female,NA,NA
+2009,Vermont,Black,Male,NA,NA
+2009,Vermont,Hispanic,Male,NA,NA
+2009,Virginia,Black,All,249.51,1.97
+2009,Virginia,Hispanic,All,256.09,2.75
+2009,Virginia,Black,Female,254.56,1.9
+2009,Virginia,Hispanic,Female,258.24,3.8499999999999996
+2009,Virginia,Black,Male,244.03,2.53
+2009,Virginia,Hispanic,Male,253.77,3.74
+2009,Washington,Black,All,244.66,4.319999999999999
+2009,Washington,Hispanic,All,248.36,2.57
+2009,Washington,Black,Female,250.49,4
+2009,Washington,Hispanic,Female,253.02,2.65
+2009,Washington,Black,Male,239.71,5.819999999999999
+2009,Washington,Hispanic,Male,244.03,3.4499999999999997
+2009,West Virginia,Black,All,250.02,3.4299999999999997
+2009,West Virginia,Hispanic,All,NA,NA
+2009,West Virginia,Black,Female,257.58,5.4
+2009,West Virginia,Hispanic,Female,NA,NA
+2009,West Virginia,Black,Male,243.32,3.96
+2009,West Virginia,Hispanic,Male,NA,NA
+2009,Wisconsin,Black,All,237.56,2.59
+2009,Wisconsin,Hispanic,All,250.13,2.02
+2009,Wisconsin,Black,Female,241.71,3.32
+2009,Wisconsin,Hispanic,Female,254.53,3.03
+2009,Wisconsin,Black,Male,233.44,3.25
+2009,Wisconsin,Hispanic,Male,245.09,3.09
+2009,Wyoming,Black,All,NA,NA
+2009,Wyoming,Hispanic,All,258.71,2.21
+2009,Wyoming,Black,Female,NA,NA
+2009,Wyoming,Hispanic,Female,258.53,3.32
+2009,Wyoming,Black,Male,NA,NA
+2009,Wyoming,Hispanic,Male,258.9,3.09
+2011,Alabama,Black,All,242.83,1.52
+2011,Alabama,Hispanic,All,246.46,3.84
+2011,Alabama,Black,Female,248.34,1.87
+2011,Alabama,Hispanic,Female,253.51,4.79
+2011,Alabama,Black,Male,237.02,2.11
+2011,Alabama,Hispanic,Male,NA,NA
+2011,Alaska,Black,All,251.69,3.32
+2011,Alaska,Hispanic,All,260.01,3.18
+2011,Alaska,Black,Female,NA,NA
+2011,Alaska,Hispanic,Female,264.22,4.1
+2011,Alaska,Black,Male,247.08,4.23
+2011,Alaska,Hispanic,Male,256.53,3.8299999999999996
+2011,Arizona,Black,All,248.08,3.21
+2011,Arizona,Hispanic,All,251.08,1.56
+2011,Arizona,Black,Female,256.97,4.470000000000001
+2011,Arizona,Hispanic,Female,255.52,2.11
+2011,Arizona,Black,Male,239.94,4.05
+2011,Arizona,Hispanic,Male,246.78,1.8800000000000001
+2011,Arkansas,Black,All,237.82,1.52
+2011,Arkansas,Hispanic,All,253.43,2.07
+2011,Arkansas,Black,Female,245.05,2.3299999999999996
+2011,Arkansas,Hispanic,Female,255.35,3.1
+2011,Arkansas,Black,Male,231.09,2.46
+2011,Arkansas,Hispanic,Male,251.16,3.42
+2011,California,Black,All,242.83,3.3699999999999997
+2011,California,Hispanic,All,245.22,1.02
+2011,California,Black,Female,253.56,4.42
+2011,California,Hispanic,Female,248.94,1.3
+2011,California,Black,Male,232.38,3.57
+2011,California,Hispanic,Male,241.71,1.35
+2011,Colorado,Black,All,256.95,3.24
+2011,Colorado,Hispanic,All,254.25,2.22
+2011,Colorado,Black,Female,262.23,4.51
+2011,Colorado,Hispanic,Female,254.59,2.9899999999999998
+2011,Colorado,Black,Male,252.03,4.94
+2011,Colorado,Hispanic,Male,253.92,2.38
+2011,Connecticut,Black,All,254.88,2.62
+2011,Connecticut,Hispanic,All,254.57,1.58
+2011,Connecticut,Black,Female,258.05,3.32
+2011,Connecticut,Hispanic,Female,258.56,2.4099999999999997
+2011,Connecticut,Black,Male,251.46,3.8299999999999996
+2011,Connecticut,Hispanic,Male,249.84,2.4699999999999998
+2011,Delaware,Black,All,254.24,0.9400000000000001
+2011,Delaware,Hispanic,All,259.27,2.4499999999999997
+2011,Delaware,Black,Female,259.89,1.55
+2011,Delaware,Hispanic,Female,261.04,3.2800000000000002
+2011,Delaware,Black,Male,248.41,1.6900000000000002
+2011,Delaware,Hispanic,Male,257.34,3.88
+2011,District of Columbia,Black,All,238.53,0.8700000000000001
+2011,District of Columbia,Hispanic,All,239.05,2.86
+2011,District of Columbia,Black,Female,245.9,0.93
+2011,District of Columbia,Hispanic,Female,245.48,3.9099999999999997
+2011,District of Columbia,Black,Male,230.65,1.43
+2011,District of Columbia,Hispanic,Male,232.59,4.3
+2011,DoDEA,Black,All,263.22,2.13
+2011,DoDEA,Hispanic,All,268.09,1.81
+2011,DoDEA,Black,Female,270.64,2.6
+2011,DoDEA,Hispanic,Female,269.49,2.4299999999999997
+2011,DoDEA,Black,Male,254.85,2.7600000000000002
+2011,DoDEA,Hispanic,Male,266.53,2.69
+2011,Florida,Black,All,247.59,1.58
+2011,Florida,Hispanic,All,259.05,1.35
+2011,Florida,Black,Female,253.09,2.34
+2011,Florida,Hispanic,Female,264.76,1.8800000000000001
+2011,Florida,Black,Male,241.84,2.18
+2011,Florida,Hispanic,Male,253.83,1.99
+2011,Georgia,Black,All,250.53,1.55
+2011,Georgia,Hispanic,All,257.64,2.5
+2011,Georgia,Black,Female,255.67,1.83
+2011,Georgia,Hispanic,Female,264.77,2.7800000000000002
+2011,Georgia,Black,Male,245.1,1.81
+2011,Georgia,Hispanic,Male,250.42,3.38
+2011,Hawaii,Black,All,261.04,4.56
+2011,Hawaii,Hispanic,All,246.41,4.06
+2011,Hawaii,Black,Female,NA,NA
+2011,Hawaii,Hispanic,Female,NA,NA
+2011,Hawaii,Black,Male,NA,NA
+2011,Hawaii,Hispanic,Male,238.46,6.17
+2011,Idaho,Black,All,NA,NA
+2011,Idaho,Hispanic,All,253.86,1.85
+2011,Idaho,Black,Female,NA,NA
+2011,Idaho,Hispanic,Female,256.4,2.54
+2011,Idaho,Black,Male,NA,NA
+2011,Idaho,Hispanic,Male,251.51,2.32
+2011,Illinois,Black,All,249.42,1.49
+2011,Illinois,Hispanic,All,257.09,1.44
+2011,Illinois,Black,Female,255.45,1.6900000000000002
+2011,Illinois,Hispanic,Female,259.29,1.6600000000000001
+2011,Illinois,Black,Male,243.84,1.94
+2011,Illinois,Hispanic,Male,255.12,1.98
+2011,Indiana,Black,All,246.52,3.18
+2011,Indiana,Hispanic,All,255.37,3.24
+2011,Indiana,Black,Female,255.39,3.48
+2011,Indiana,Hispanic,Female,259.54,3.9099999999999997
+2011,Indiana,Black,Male,237.56,3.7600000000000002
+2011,Indiana,Hispanic,Male,250.19,4.659999999999999
+2011,Iowa,Black,All,246.52,2.9899999999999998
+2011,Iowa,Hispanic,All,251.13,3.3
+2011,Iowa,Black,Female,NA,NA
+2011,Iowa,Hispanic,Female,256.96,4.14
+2011,Iowa,Black,Male,246.19,5.109999999999999
+2011,Iowa,Hispanic,Male,244.84,3.69
+2011,Kansas,Black,All,247.7,3.08
+2011,Kansas,Hispanic,All,254.19,2.02
+2011,Kansas,Black,Female,254.8,4.23
+2011,Kansas,Hispanic,Female,256.75,2.9299999999999997
+2011,Kansas,Black,Male,240.59,3.9699999999999998
+2011,Kansas,Hispanic,Male,252.09,3.22
+2011,Kentucky,Black,All,248.36,1.8900000000000001
+2011,Kentucky,Hispanic,All,263.59,3.69
+2011,Kentucky,Black,Female,253.01,2.24
+2011,Kentucky,Hispanic,Female,270.75,4.23
+2011,Kentucky,Black,Male,244.68,2.32
+2011,Kentucky,Hispanic,Male,NA,NA
+2011,Louisiana,Black,All,241.39,2.01
+2011,Louisiana,Hispanic,All,248.83,4.34
+2011,Louisiana,Black,Female,245.56,2.03
+2011,Louisiana,Hispanic,Female,NA,NA
+2011,Louisiana,Black,Male,237.32,2.69
+2011,Louisiana,Hispanic,Male,NA,NA
+2011,Maine,Black,All,247.97,5.8
+2011,Maine,Hispanic,All,NA,NA
+2011,Maine,Black,Female,NA,NA
+2011,Maine,Hispanic,Female,NA,NA
+2011,Maine,Black,Male,NA,NA
+2011,Maine,Hispanic,Male,NA,NA
+2011,Maryland,Black,All,255.35,1.62
+2011,Maryland,Hispanic,All,261.71,4.1499999999999995
+2011,Maryland,Black,Female,259.48,2.07
+2011,Maryland,Hispanic,Female,263.46,5.22
+2011,Maryland,Black,Male,250.29,2.08
+2011,Maryland,Hispanic,Male,260.09,4.84
+2011,Massachusetts,Black,All,254.65,2.7
+2011,Massachusetts,Hispanic,All,247.91,3.04
+2011,Massachusetts,Black,Female,260.54,3.4699999999999998
+2011,Massachusetts,Hispanic,Female,253.73,3.32
+2011,Massachusetts,Black,Male,249.6,3.3099999999999996
+2011,Massachusetts,Hispanic,Male,242.03,3.54
+2011,Michigan,Black,All,244.13,2.92
+2011,Michigan,Hispanic,All,260.32,3.52
+2011,Michigan,Black,Female,249.77,3.3299999999999996
+2011,Michigan,Hispanic,Female,268.57,4.659999999999999
+2011,Michigan,Black,Male,238.36,3.38
+2011,Michigan,Hispanic,Male,251.74,5.26
+2011,Minnesota,Black,All,246.27,3.05
+2011,Minnesota,Hispanic,All,257.3,3.67
+2011,Minnesota,Black,Female,250.49,3.9099999999999997
+2011,Minnesota,Hispanic,Female,261.7,4.8
+2011,Minnesota,Black,Male,241.28,4.42
+2011,Minnesota,Hispanic,Male,252.88,4.45
+2011,Mississippi,Black,All,240.4,1.29
+2011,Mississippi,Hispanic,All,NA,NA
+2011,Mississippi,Black,Female,245.76,2
+2011,Mississippi,Hispanic,Female,NA,NA
+2011,Mississippi,Black,Male,234.98,1.49
+2011,Mississippi,Hispanic,Male,NA,NA
+2011,Missouri,Black,All,243.79,2.79
+2011,Missouri,Hispanic,All,257.74,5.41
+2011,Missouri,Black,Female,249.27,3.77
+2011,Missouri,Hispanic,Female,NA,NA
+2011,Missouri,Black,Male,238.7,2.84
+2011,Missouri,Hispanic,Male,NA,NA
+2011,Montana,Black,All,NA,NA
+2011,Montana,Hispanic,All,262.23,4.71
+2011,Montana,Black,Female,NA,NA
+2011,Montana,Hispanic,Female,NA,NA
+2011,Montana,Black,Male,NA,NA
+2011,Montana,Hispanic,Male,NA,NA
+2011,National public,Black,All,247.61,0.48000000000000004
+2011,National public,Hispanic,All,251.3,0.46
+2011,National public,Black,Female,253.46,0.53
+2011,National public,Hispanic,Female,254.81,0.63
+2011,National public,Black,Male,241.7,0.6
+2011,National public,Hispanic,Male,247.85,0.56
+2011,Nebraska,Black,All,250.1,3.61
+2011,Nebraska,Hispanic,All,251.75,1.96
+2011,Nebraska,Black,Female,254.69,4.430000000000001
+2011,Nebraska,Hispanic,Female,254.79,2.7800000000000002
+2011,Nebraska,Black,Male,244.88,5.02
+2011,Nebraska,Hispanic,Male,248.46,3.03
+2011,Nevada,Black,All,250.12,2.44
+2011,Nevada,Hispanic,All,247.19,1.31
+2011,Nevada,Black,Female,257.43,3.8499999999999996
+2011,Nevada,Hispanic,Female,252.66,1.93
+2011,Nevada,Black,Male,243.15,3.05
+2011,Nevada,Hispanic,Male,242.11,1.6800000000000002
+2011,New Hampshire,Black,All,NA,NA
+2011,New Hampshire,Hispanic,All,253.42,4.31
+2011,New Hampshire,Black,Female,NA,NA
+2011,New Hampshire,Hispanic,Female,NA,NA
+2011,New Hampshire,Black,Male,NA,NA
+2011,New Hampshire,Hispanic,Male,NA,NA
+2011,New Jersey,Black,All,255.68,2.53
+2011,New Jersey,Hispanic,All,257.24,2.2
+2011,New Jersey,Black,Female,263.27,2.8099999999999996
+2011,New Jersey,Hispanic,Female,262.18,2.66
+2011,New Jersey,Black,Male,247.66,3.04
+2011,New Jersey,Hispanic,Male,252.5,2.84
+2011,New Mexico,Black,All,247.54,5.35
+2011,New Mexico,Hispanic,All,251.15,1.01
+2011,New Mexico,Black,Female,NA,NA
+2011,New Mexico,Hispanic,Female,253.76,1.25
+2011,New Mexico,Black,Male,NA,NA
+2011,New Mexico,Hispanic,Male,248.51,1.3
+2011,New York,Black,All,251.24,1.97
+2011,New York,Hispanic,All,250.59,2.04
+2011,New York,Black,Female,256.34,2.36
+2011,New York,Hispanic,Female,252.63,2.9699999999999998
+2011,New York,Black,Male,246.08,2.62
+2011,New York,Hispanic,Male,248.68,1.93
+2011,North Carolina,Black,All,247.04,1.47
+2011,North Carolina,Hispanic,All,255.63,2.2800000000000002
+2011,North Carolina,Black,Female,256.33,1.82
+2011,North Carolina,Hispanic,Female,261.39,2.7800000000000002
+2011,North Carolina,Black,Male,237.24,1.83
+2011,North Carolina,Hispanic,Male,249.92,3.8499999999999996
+2011,North Dakota,Black,All,NA,NA
+2011,North Dakota,Hispanic,All,NA,NA
+2011,North Dakota,Black,Female,NA,NA
+2011,North Dakota,Hispanic,Female,NA,NA
+2011,North Dakota,Black,Male,NA,NA
+2011,North Dakota,Hispanic,Male,NA,NA
+2011,Ohio,Black,All,246.94,1.85
+2011,Ohio,Hispanic,All,251.51,4.109999999999999
+2011,Ohio,Black,Female,255.94,2.16
+2011,Ohio,Hispanic,Female,262.94,4.8
+2011,Ohio,Black,Male,238.52,2.67
+2011,Ohio,Hispanic,Male,239.05,5.1499999999999995
+2011,Oklahoma,Black,All,246.87,2.94
+2011,Oklahoma,Hispanic,All,250.67,2.29
+2011,Oklahoma,Black,Female,249.7,3.75
+2011,Oklahoma,Hispanic,Female,252.41,2.7800000000000002
+2011,Oklahoma,Black,Male,243.95,4.13
+2011,Oklahoma,Hispanic,Male,249.12,3.4499999999999997
+2011,Oregon,Black,All,247.71,5.470000000000001
+2011,Oregon,Hispanic,All,249.84,1.55
+2011,Oregon,Black,Female,NA,NA
+2011,Oregon,Hispanic,Female,254.19,2.1
+2011,Oregon,Black,Male,NA,NA
+2011,Oregon,Hispanic,Male,245.35,2.34
+2011,Pennsylvania,Black,All,243.72,2.6
+2011,Pennsylvania,Hispanic,All,250.18,3.15
+2011,Pennsylvania,Black,Female,245.96,3.3299999999999996
+2011,Pennsylvania,Hispanic,Female,256.35,4.02
+2011,Pennsylvania,Black,Male,241.4,2.88
+2011,Pennsylvania,Hispanic,Male,243.87,3.94
+2011,Rhode Island,Black,All,248.13,4.22
+2011,Rhode Island,Hispanic,All,247.6,1.95
+2011,Rhode Island,Black,Female,257.06,5.39
+2011,Rhode Island,Hispanic,Female,251.82,3.3899999999999997
+2011,Rhode Island,Black,Male,240.18,4.74
+2011,Rhode Island,Hispanic,Male,243.48,2.3299999999999996
+2011,South Carolina,Black,All,245.63,1.35
+2011,South Carolina,Hispanic,All,256.71,3.48
+2011,South Carolina,Black,Female,252.24,1.43
+2011,South Carolina,Hispanic,Female,258.6,5.24
+2011,South Carolina,Black,Male,239.12,2.1
+2011,South Carolina,Hispanic,Male,NA,NA
+2011,South Dakota,Black,All,256.37,3.58
+2011,South Dakota,Hispanic,All,256.49,3.7800000000000002
+2011,South Dakota,Black,Female,NA,NA
+2011,South Dakota,Hispanic,Female,NA,NA
+2011,South Dakota,Black,Male,NA,NA
+2011,South Dakota,Hispanic,Male,NA,NA
+2011,Tennessee,Black,All,240.28,1.6800000000000002
+2011,Tennessee,Hispanic,All,254.83,4.07
+2011,Tennessee,Black,Female,245.36,2.3
+2011,Tennessee,Hispanic,Female,257.77,5.6499999999999995
+2011,Tennessee,Black,Male,235.48,2.3099999999999996
+2011,Tennessee,Hispanic,Male,NA,NA
+2011,Texas,Black,All,252.1,1.81
+2011,Texas,Hispanic,All,254.18,1.11
+2011,Texas,Black,Female,254.98,2.14
+2011,Texas,Hispanic,Female,256.02,1.57
+2011,Texas,Black,Male,249.16,2.27
+2011,Texas,Hispanic,Male,252.22,1.49
+2011,Utah,Black,All,NA,NA
+2011,Utah,Hispanic,All,247.31,2.03
+2011,Utah,Black,Female,NA,NA
+2011,Utah,Hispanic,Female,249.32,2.8699999999999997
+2011,Utah,Black,Male,NA,NA
+2011,Utah,Hispanic,Male,245.51,3.3
+2011,Vermont,Black,All,NA,NA
+2011,Vermont,Hispanic,All,NA,NA
+2011,Vermont,Black,Female,NA,NA
+2011,Vermont,Hispanic,Female,NA,NA
+2011,Vermont,Black,Male,NA,NA
+2011,Vermont,Hispanic,Male,NA,NA
+2011,Virginia,Black,All,251,1.6400000000000001
+2011,Virginia,Hispanic,All,258.99,2.77
+2011,Virginia,Black,Female,255.71,2.15
+2011,Virginia,Hispanic,Female,261.31,3.4099999999999997
+2011,Virginia,Black,Male,246.13,2.1
+2011,Virginia,Hispanic,Male,256.56,4.05
+2011,Washington,Black,All,254.36,4.06
+2011,Washington,Hispanic,All,249.53,1.6
+2011,Washington,Black,Female,267.19,4.59
+2011,Washington,Hispanic,Female,253.82,2.42
+2011,Washington,Black,Male,243.75,6.03
+2011,Washington,Hispanic,Male,245.19,2.3099999999999996
+2011,West Virginia,Black,All,248.76,3.3099999999999996
+2011,West Virginia,Hispanic,All,NA,NA
+2011,West Virginia,Black,Female,253.95,4.8
+2011,West Virginia,Hispanic,Female,NA,NA
+2011,West Virginia,Black,Male,243.01,5.83
+2011,West Virginia,Hispanic,Male,NA,NA
+2011,Wisconsin,Black,All,240.22,1.92
+2011,Wisconsin,Hispanic,All,248.35,2.59
+2011,Wisconsin,Black,Female,245.45,2.8099999999999996
+2011,Wisconsin,Hispanic,Female,254.26,3.66
+2011,Wisconsin,Black,Male,235.93,2.24
+2011,Wisconsin,Hispanic,Male,242.63,3.72
+2011,Wyoming,Black,All,NA,NA
+2011,Wyoming,Hispanic,All,258.31,2.6
+2011,Wyoming,Black,Female,NA,NA
+2011,Wyoming,Hispanic,Female,260.67,2.79
+2011,Wyoming,Black,Male,NA,NA
+2011,Wyoming,Hispanic,Male,256.24,3.44
+2013,Alabama,Black,All,241.34,1.42
+2013,Alabama,Hispanic,All,248.88,3.96
+2013,Alabama,Black,Female,244.33,1.77
+2013,Alabama,Hispanic,Female,NA,NA
+2013,Alabama,Black,Male,238.34,2.11
+2013,Alabama,Hispanic,Male,NA,NA
+2013,Alaska,Black,All,253.07,3.66
+2013,Alaska,Hispanic,All,261.51,2.6
+2013,Alaska,Black,Female,NA,NA
+2013,Alaska,Hispanic,Female,270.35,3.94
+2013,Alaska,Black,Male,NA,NA
+2013,Alaska,Hispanic,Male,253.25,3.8899999999999997
+2013,Arizona,Black,All,248.21,3.56
+2013,Arizona,Hispanic,All,252.06,1.2
+2013,Arizona,Black,Female,257.29,4.359999999999999
+2013,Arizona,Hispanic,Female,256.77,1.6900000000000002
+2013,Arizona,Black,Male,239.82,5.03
+2013,Arizona,Hispanic,Male,247.42,1.44
+2013,Arkansas,Black,All,243.65,1.76
+2013,Arkansas,Hispanic,All,255.67,2.23
+2013,Arkansas,Black,Female,251.18,2.22
+2013,Arkansas,Hispanic,Female,256.89,3.1
+2013,Arkansas,Black,Male,235.84,2.15
+2013,Arkansas,Hispanic,Male,254.38,3.07
+2013,California,Black,All,247,2.3099999999999996
+2013,California,Hispanic,All,252.07,1.06
+2013,California,Black,Female,254.18,3.42
+2013,California,Hispanic,Female,256.73,1.41
+2013,California,Black,Male,241.17,3.15
+2013,California,Hispanic,Male,247.62,1.29
+2013,Colorado,Black,All,247.05,3.9099999999999997
+2013,Colorado,Hispanic,All,256.84,1.76
+2013,Colorado,Black,Female,249.02,4.56
+2013,Colorado,Hispanic,Female,261.31,2.62
+2013,Colorado,Black,Male,NA,NA
+2013,Colorado,Hispanic,Male,252.7,1.85
+2013,Connecticut,Black,All,256.35,2.9099999999999997
+2013,Connecticut,Hispanic,All,255.94,2.36
+2013,Connecticut,Black,Female,264.18,3.32
+2013,Connecticut,Hispanic,Female,260.43,2.9299999999999997
+2013,Connecticut,Black,Male,248.38,3.58
+2013,Connecticut,Hispanic,Male,251.51,2.9699999999999998
+2013,Delaware,Black,All,252.82,1.1900000000000002
+2013,Delaware,Hispanic,All,260.77,1.93
+2013,Delaware,Black,Female,257.29,1.6500000000000001
+2013,Delaware,Hispanic,Female,265.13,2.3499999999999996
+2013,Delaware,Black,Male,248.69,1.81
+2013,Delaware,Hispanic,Male,255.42,3.36
+2013,District of Columbia,Black,All,243.3,0.89
+2013,District of Columbia,Hispanic,All,248.3,2.8
+2013,District of Columbia,Black,Female,250.84,1.33
+2013,District of Columbia,Hispanic,Female,254.89,4.04
+2013,District of Columbia,Black,Male,235.26,1.34
+2013,District of Columbia,Hispanic,Male,240.6,4.1499999999999995
+2013,DoDEA,Black,All,266.24,1.59
+2013,DoDEA,Hispanic,All,274.29,1.34
+2013,DoDEA,Black,Female,268.16,2.48
+2013,DoDEA,Hispanic,Female,276.91,2.42
+2013,DoDEA,Black,Male,264.29,2.13
+2013,DoDEA,Hispanic,Male,271.83,1.8900000000000001
+2013,Florida,Black,All,253.78,1.8
+2013,Florida,Hispanic,All,260.43,1.28
+2013,Florida,Black,Female,260.91,2.57
+2013,Florida,Hispanic,Female,266.22,1.58
+2013,Florida,Black,Male,245.89,2.13
+2013,Florida,Hispanic,Male,254.99,1.6500000000000001
+2013,Georgia,Black,All,252.41,1.76
+2013,Georgia,Hispanic,All,260.38,2.4699999999999998
+2013,Georgia,Black,Female,256.96,2.19
+2013,Georgia,Hispanic,Female,264.44,2.8499999999999996
+2013,Georgia,Black,Male,248,1.84
+2013,Georgia,Hispanic,Male,256.49,3.74
+2013,Hawaii,Black,All,258.16,3.38
+2013,Hawaii,Hispanic,All,258.38,3.03
+2013,Hawaii,Black,Female,NA,NA
+2013,Hawaii,Hispanic,Female,262.59,4.98
+2013,Hawaii,Black,Male,NA,NA
+2013,Hawaii,Hispanic,Male,254.25,4.31
+2013,Idaho,Black,All,NA,NA
+2013,Idaho,Hispanic,All,253.71,1.83
+2013,Idaho,Black,Female,NA,NA
+2013,Idaho,Hispanic,Female,260.62,2.67
+2013,Idaho,Black,Male,NA,NA
+2013,Idaho,Hispanic,Male,247.07,2.54
+2013,Illinois,Black,All,246.31,1.85
+2013,Illinois,Hispanic,All,256.56,1.3900000000000001
+2013,Illinois,Black,Female,250.31,2.25
+2013,Illinois,Hispanic,Female,258.9,2.02
+2013,Illinois,Black,Male,242.16,2.3
+2013,Illinois,Hispanic,Male,254.43,1.86
+2013,Indiana,Black,All,246.16,2.51
+2013,Indiana,Hispanic,All,258.96,2.53
+2013,Indiana,Black,Female,250.77,3.9299999999999997
+2013,Indiana,Hispanic,Female,262.37,3.46
+2013,Indiana,Black,Male,241.87,3.3
+2013,Indiana,Hispanic,Male,255.15,3.25
+2013,Iowa,Black,All,248.17,3.23
+2013,Iowa,Hispanic,All,255.88,2.51
+2013,Iowa,Black,Female,254.49,4.06
+2013,Iowa,Hispanic,Female,256.42,3.9499999999999997
+2013,Iowa,Black,Male,240.73,4.92
+2013,Iowa,Hispanic,Male,255.33,3.4699999999999998
+2013,Kansas,Black,All,243.93,3.9499999999999997
+2013,Kansas,Hispanic,All,254.13,1.92
+2013,Kansas,Black,Female,247.08,5.63
+2013,Kansas,Hispanic,Female,257.8,2.22
+2013,Kansas,Black,Male,241.1,3.86
+2013,Kansas,Hispanic,Male,250.05,3.11
+2013,Kentucky,Black,All,246.98,2.11
+2013,Kentucky,Hispanic,All,263.27,3.52
+2013,Kentucky,Black,Female,251.84,2.57
+2013,Kentucky,Hispanic,Female,256.93,5.6
+2013,Kentucky,Black,Male,241.72,2.75
+2013,Kentucky,Hispanic,Male,268.92,5.28
+2013,Louisiana,Black,All,245.38,1.33
+2013,Louisiana,Hispanic,All,259.83,3.56
+2013,Louisiana,Black,Female,250.79,1.58
+2013,Louisiana,Hispanic,Female,NA,NA
+2013,Louisiana,Black,Male,239.74,1.76
+2013,Louisiana,Hispanic,Male,NA,NA
+2013,Maine,Black,All,NA,NA
+2013,Maine,Hispanic,All,NA,NA
+2013,Maine,Black,Female,NA,NA
+2013,Maine,Hispanic,Female,NA,NA
+2013,Maine,Black,Male,NA,NA
+2013,Maine,Hispanic,Male,NA,NA
+2013,Maryland,Black,All,259.4,1.37
+2013,Maryland,Hispanic,All,265.63,3.01
+2013,Maryland,Black,Female,265.87,1.86
+2013,Maryland,Hispanic,Female,266.37,3.4499999999999997
+2013,Maryland,Black,Male,252.09,1.51
+2013,Maryland,Hispanic,Male,264.9,3.65
+2013,Massachusetts,Black,All,254.65,2.5
+2013,Massachusetts,Hispanic,All,252.77,1.75
+2013,Massachusetts,Black,Female,261.21,3.3499999999999996
+2013,Massachusetts,Hispanic,Female,256.59,2.53
+2013,Massachusetts,Black,Male,247.75,3.3099999999999996
+2013,Massachusetts,Hispanic,Male,248.85,2.4899999999999998
+2013,Michigan,Black,All,245.5,2.4699999999999998
+2013,Michigan,Hispanic,All,256.87,3.16
+2013,Michigan,Black,Female,249.61,3.05
+2013,Michigan,Hispanic,Female,258.63,4.09
+2013,Michigan,Black,Male,241.77,2.7800000000000002
+2013,Michigan,Hispanic,Male,254.89,4.14
+2013,Minnesota,Black,All,247.89,3.09
+2013,Minnesota,Hispanic,All,250.96,3.36
+2013,Minnesota,Black,Female,252.29,3.55
+2013,Minnesota,Hispanic,Female,254.12,3.61
+2013,Minnesota,Black,Male,242.82,3.9899999999999998
+2013,Minnesota,Hispanic,Male,246.78,5.07
+2013,Mississippi,Black,All,238.97,1.35
+2013,Mississippi,Hispanic,All,251.7,4.74
+2013,Mississippi,Black,Female,245.8,1.58
+2013,Mississippi,Hispanic,Female,NA,NA
+2013,Mississippi,Black,Male,232.33,1.8
+2013,Mississippi,Hispanic,Male,NA,NA
+2013,Missouri,Black,All,244.86,3.3
+2013,Missouri,Hispanic,All,266.48,3.77
+2013,Missouri,Black,Female,251.44,3.4899999999999998
+2013,Missouri,Hispanic,Female,NA,NA
+2013,Missouri,Black,Male,238.98,3.64
+2013,Missouri,Hispanic,Male,NA,NA
+2013,Montana,Black,All,NA,NA
+2013,Montana,Hispanic,All,262.53,3.75
+2013,Montana,Black,Female,NA,NA
+2013,Montana,Hispanic,Female,NA,NA
+2013,Montana,Black,Male,NA,NA
+2013,Montana,Hispanic,Male,NA,NA
+2013,National public,Black,All,249.56,0.42000000000000004
+2013,National public,Hispanic,All,254.65,0.45
+2013,National public,Black,Female,255.27,0.5
+2013,National public,Hispanic,Female,258.66,0.61
+2013,National public,Black,Male,243.88,0.59
+2013,National public,Hispanic,Male,250.82,0.52
+2013,Nebraska,Black,All,250.65,2.73
+2013,Nebraska,Hispanic,All,253.95,1.71
+2013,Nebraska,Black,Female,254.88,3.4299999999999997
+2013,Nebraska,Hispanic,Female,259.16,2.4499999999999997
+2013,Nebraska,Black,Male,246.03,3.88
+2013,Nebraska,Hispanic,Male,249.15,2.56
+2013,Nevada,Black,All,247.81,2.4299999999999997
+2013,Nevada,Hispanic,All,251.91,1.21
+2013,Nevada,Black,Female,253.01,3.27
+2013,Nevada,Hispanic,Female,257.19,1.58
+2013,Nevada,Black,Male,242.48,3.8299999999999996
+2013,Nevada,Hispanic,Male,246.92,1.6800000000000002
+2013,New Hampshire,Black,All,NA,NA
+2013,New Hampshire,Hispanic,All,250.63,3.84
+2013,New Hampshire,Black,Female,NA,NA
+2013,New Hampshire,Hispanic,Female,NA,NA
+2013,New Hampshire,Black,Male,NA,NA
+2013,New Hampshire,Hispanic,Male,NA,NA
+2013,New Jersey,Black,All,259.55,2.15
+2013,New Jersey,Hispanic,All,264.41,2.3699999999999997
+2013,New Jersey,Black,Female,265.79,2.9899999999999998
+2013,New Jersey,Hispanic,Female,265.13,2.7
+2013,New Jersey,Black,Male,253.64,2.62
+2013,New Jersey,Hispanic,Male,263.76,3.2800000000000002
+2013,New Mexico,Black,All,245.21,4.89
+2013,New Mexico,Hispanic,All,251.67,0.76
+2013,New Mexico,Black,Female,NA,NA
+2013,New Mexico,Hispanic,Female,254.6,1.12
+2013,New Mexico,Black,Male,NA,NA
+2013,New Mexico,Hispanic,Male,248.89,1.09
+2013,New York,Black,All,251.87,1.94
+2013,New York,Hispanic,All,251.88,1.6800000000000002
+2013,New York,Black,Female,256.97,2.3099999999999996
+2013,New York,Hispanic,Female,257.97,2.11
+2013,New York,Black,Male,246.56,2.51
+2013,New York,Hispanic,Male,246.4,2.1
+2013,North Carolina,Black,All,250.67,1.6600000000000001
+2013,North Carolina,Hispanic,All,257.86,2.06
+2013,North Carolina,Black,Female,256.81,2.19
+2013,North Carolina,Hispanic,Female,260.58,2.54
+2013,North Carolina,Black,Male,244.56,1.82
+2013,North Carolina,Hispanic,Male,255.06,3.13
+2013,North Dakota,Black,All,254.81,4.359999999999999
+2013,North Dakota,Hispanic,All,NA,NA
+2013,North Dakota,Black,Female,NA,NA
+2013,North Dakota,Hispanic,Female,NA,NA
+2013,North Dakota,Black,Male,NA,NA
+2013,North Dakota,Hispanic,Male,NA,NA
+2013,Ohio,Black,All,247.03,2.79
+2013,Ohio,Hispanic,All,265.79,3.86
+2013,Ohio,Black,Female,252.42,2.4699999999999998
+2013,Ohio,Hispanic,Female,273.7,4.91
+2013,Ohio,Black,Male,241.75,5.24
+2013,Ohio,Hispanic,Male,255.13,6.55
+2013,Oklahoma,Black,All,245.33,2.88
+2013,Oklahoma,Hispanic,All,251.68,2.32
+2013,Oklahoma,Black,Female,251.62,4.23
+2013,Oklahoma,Hispanic,Female,254.27,3.14
+2013,Oklahoma,Black,Male,240.15,3.18
+2013,Oklahoma,Hispanic,Male,248.72,3.17
+2013,Oregon,Black,All,NA,NA
+2013,Oregon,Hispanic,All,252.72,1.59
+2013,Oregon,Black,Female,NA,NA
+2013,Oregon,Hispanic,Female,254.93,2.2600000000000002
+2013,Oregon,Black,Male,NA,NA
+2013,Oregon,Hispanic,Male,250.7,2.09
+2013,Pennsylvania,Black,All,249.71,2.17
+2013,Pennsylvania,Hispanic,All,249.22,3.14
+2013,Pennsylvania,Black,Female,254.69,2.9
+2013,Pennsylvania,Hispanic,Female,249.59,3.4
+2013,Pennsylvania,Black,Male,244.9,2.4899999999999998
+2013,Pennsylvania,Hispanic,Male,248.85,4.63
+2013,Rhode Island,Black,All,249.32,2.54
+2013,Rhode Island,Hispanic,All,248.73,1.55
+2013,Rhode Island,Black,Female,257.42,3.3
+2013,Rhode Island,Hispanic,Female,254.79,2.2600000000000002
+2013,Rhode Island,Black,Male,242.16,3.77
+2013,Rhode Island,Hispanic,Male,243.03,2.3099999999999996
+2013,South Carolina,Black,All,246.67,1.6500000000000001
+2013,South Carolina,Hispanic,All,256.91,3.42
+2013,South Carolina,Black,Female,253.72,1.8800000000000001
+2013,South Carolina,Hispanic,Female,259.37,5.26
+2013,South Carolina,Black,Male,238.99,2.27
+2013,South Carolina,Hispanic,Male,254.77,4.48
+2013,South Dakota,Black,All,NA,NA
+2013,South Dakota,Hispanic,All,258.98,3.3299999999999996
+2013,South Dakota,Black,Female,NA,NA
+2013,South Dakota,Hispanic,Female,NA,NA
+2013,South Dakota,Black,Male,NA,NA
+2013,South Dakota,Hispanic,Male,NA,NA
+2013,Tennessee,Black,All,250.58,2.7
+2013,Tennessee,Hispanic,All,261.68,3.75
+2013,Tennessee,Black,Female,256.22,2.8899999999999997
+2013,Tennessee,Hispanic,Female,260.31,4.89
+2013,Tennessee,Black,Male,244.49,3.03
+2013,Tennessee,Hispanic,Male,263.28,5.04
+2013,Texas,Black,All,252.8,2.4899999999999998
+2013,Texas,Hispanic,All,254.75,1.43
+2013,Texas,Black,Female,257.96,2.55
+2013,Texas,Hispanic,Female,257.98,1.51
+2013,Texas,Black,Male,247.92,3.55
+2013,Texas,Hispanic,Male,251.76,1.76
+2013,Utah,Black,All,NA,NA
+2013,Utah,Hispanic,All,255.87,2.2600000000000002
+2013,Utah,Black,Female,NA,NA
+2013,Utah,Hispanic,Female,259.89,2.34
+2013,Utah,Black,Male,NA,NA
+2013,Utah,Hispanic,Male,251.93,3.29
+2013,Vermont,Black,All,257.36,4.48
+2013,Vermont,Hispanic,All,NA,NA
+2013,Vermont,Black,Female,NA,NA
+2013,Vermont,Hispanic,Female,NA,NA
+2013,Vermont,Black,Male,NA,NA
+2013,Vermont,Hispanic,Male,NA,NA
+2013,Virginia,Black,All,249.12,2.14
+2013,Virginia,Hispanic,All,262.12,2.12
+2013,Virginia,Black,Female,255.19,2.4699999999999998
+2013,Virginia,Hispanic,Female,267.02,3.01
+2013,Virginia,Black,Male,242.48,2.7600000000000002
+2013,Virginia,Hispanic,Male,257.83,2.63
+2013,Washington,Black,All,257.57,3.86
+2013,Washington,Hispanic,All,253.26,2.3499999999999996
+2013,Washington,Black,Female,NA,NA
+2013,Washington,Hispanic,Female,257.56,2.65
+2013,Washington,Black,Male,NA,NA
+2013,Washington,Hispanic,Male,249.18,2.9299999999999997
+2013,West Virginia,Black,All,254.69,3.13
+2013,West Virginia,Hispanic,All,NA,NA
+2013,West Virginia,Black,Female,260.15,4.59
+2013,West Virginia,Hispanic,Female,NA,NA
+2013,West Virginia,Black,Male,249.23,3.84
+2013,West Virginia,Hispanic,Male,NA,NA
+2013,Wisconsin,Black,All,237.33,1.6700000000000002
+2013,Wisconsin,Hispanic,All,257.64,1.87
+2013,Wisconsin,Black,Female,243.04,2.11
+2013,Wisconsin,Hispanic,Female,261.11,2.65
+2013,Wisconsin,Black,Male,232.17,2.65
+2013,Wisconsin,Hispanic,Male,254,3.07
+2013,Wyoming,Black,All,NA,NA
+2013,Wyoming,Hispanic,All,261.13,1.86
+2013,Wyoming,Black,Female,NA,NA
+2013,Wyoming,Hispanic,Female,266.58,2.8
+2013,Wyoming,Black,Male,NA,NA
+2013,Wyoming,Hispanic,Male,256.44,2.8
+2015,Alabama,Black,All,243.24,2.03
+2015,Alabama,Hispanic,All,252.48,3.86
+2015,Alabama,Black,Female,249.9,2.32
+2015,Alabama,Hispanic,Female,NA,NA
+2015,Alabama,Black,Male,236.28,2.8499999999999996
+2015,Alabama,Hispanic,Male,NA,NA
+2015,Alaska,Black,All,247.98,4.08
+2015,Alaska,Hispanic,All,262.72,3.03
+2015,Alaska,Black,Female,NA,NA
+2015,Alaska,Hispanic,Female,269.62,3.75
+2015,Alaska,Black,Male,NA,NA
+2015,Alaska,Hispanic,Male,256.33,4.53
+2015,Arizona,Black,All,249.47,3.98
+2015,Arizona,Hispanic,All,254.21,1.28
+2015,Arizona,Black,Female,NA,NA
+2015,Arizona,Hispanic,Female,256.98,1.6300000000000001
+2015,Arizona,Black,Male,NA,NA
+2015,Arizona,Hispanic,Male,251.67,1.56
+2015,Arkansas,Black,All,238.35,1.8800000000000001
+2015,Arkansas,Hispanic,All,254.92,2.73
+2015,Arkansas,Black,Female,246.04,2.52
+2015,Arkansas,Hispanic,Female,256.56,3.86
+2015,Arkansas,Black,Male,230.76,2.4699999999999998
+2015,Arkansas,Hispanic,Male,253.25,3.3099999999999996
+2015,California,Black,All,248.19,2.59
+2015,California,Hispanic,All,248.55,1.1900000000000002
+2015,California,Black,Female,247.65,4.13
+2015,California,Hispanic,Female,253.89,1.6400000000000001
+2015,California,Black,Male,248.88,3.7800000000000002
+2015,California,Hispanic,Male,243.32,1.46
+2015,Colorado,Black,All,254.96,3.7800000000000002
+2015,Colorado,Hispanic,All,253.41,1.72
+2015,Colorado,Black,Female,NA,NA
+2015,Colorado,Hispanic,Female,258.94,2.25
+2015,Colorado,Black,Male,NA,NA
+2015,Colorado,Hispanic,Male,247.91,2.14
+2015,Connecticut,Black,All,250.86,2.53
+2015,Connecticut,Hispanic,All,255.65,2.63
+2015,Connecticut,Black,Female,262.72,3.2600000000000002
+2015,Connecticut,Hispanic,Female,260.34,3.2600000000000002
+2015,Connecticut,Black,Male,239.71,3.73
+2015,Connecticut,Hispanic,Male,250.69,3.32
+2015,Delaware,Black,All,248.88,1.36
+2015,Delaware,Hispanic,All,252.85,2.25
+2015,Delaware,Black,Female,255.08,1.71
+2015,Delaware,Hispanic,Female,259.82,3.2600000000000002
+2015,Delaware,Black,Male,242.44,1.94
+2015,Delaware,Hispanic,Male,246.39,2.98
+2015,District of Columbia,Black,All,241.62,1.07
+2015,District of Columbia,Hispanic,All,248.61,2.9099999999999997
+2015,District of Columbia,Black,Female,246.39,1.45
+2015,District of Columbia,Hispanic,Female,253.43,3.72
+2015,District of Columbia,Black,Male,236.61,1.5
+2015,District of Columbia,Hispanic,Male,243.86,3.98
+2015,DoDEA,Black,All,272.69,1.93
+2015,DoDEA,Hispanic,All,273.42,1.77
+2015,DoDEA,Black,Female,275.88,2.9
+2015,DoDEA,Hispanic,Female,279.22,2.8299999999999996
+2015,DoDEA,Black,Male,269.57,2.84
+2015,DoDEA,Hispanic,Male,268.15,2.2800000000000002
+2015,Florida,Black,All,251.14,1.83
+2015,Florida,Hispanic,All,259.82,1.35
+2015,Florida,Black,Female,258.55,2.68
+2015,Florida,Hispanic,Female,264.16,1.7
+2015,Florida,Black,Male,243.34,1.99
+2015,Florida,Hispanic,Male,255.84,1.58
+2015,Georgia,Black,All,248.34,1.73
+2015,Georgia,Hispanic,All,256.5,2.13
+2015,Georgia,Black,Female,255.26,2.14
+2015,Georgia,Hispanic,Female,257.4,2.8499999999999996
+2015,Georgia,Black,Male,241.54,2.03
+2015,Georgia,Hispanic,Male,255.73,2.79
+2015,Hawaii,Black,All,257.72,4.21
+2015,Hawaii,Hispanic,All,257.64,3.11
+2015,Hawaii,Black,Female,NA,NA
+2015,Hawaii,Hispanic,Female,264.8,3.42
+2015,Hawaii,Black,Male,NA,NA
+2015,Hawaii,Hispanic,Male,248.88,4.67
+2015,Idaho,Black,All,NA,NA
+2015,Idaho,Hispanic,All,253.02,2.2600000000000002
+2015,Idaho,Black,Female,NA,NA
+2015,Idaho,Hispanic,Female,258.14,3.16
+2015,Idaho,Black,Male,NA,NA
+2015,Idaho,Hispanic,Male,247.87,2.63
+2015,Illinois,Black,All,246.54,1.55
+2015,Illinois,Hispanic,All,256.52,1.8
+2015,Illinois,Black,Female,254.73,2.3
+2015,Illinois,Hispanic,Female,258.81,2.22
+2015,Illinois,Black,Male,238.57,1.84
+2015,Illinois,Hispanic,Male,254.35,2.15
+2015,Indiana,Black,All,252.18,2.53
+2015,Indiana,Hispanic,All,257.33,2.9499999999999997
+2015,Indiana,Black,Female,255.4,3.8899999999999997
+2015,Indiana,Hispanic,Female,262.8,4.06
+2015,Indiana,Black,Male,248.62,3.67
+2015,Indiana,Hispanic,Male,252.4,4.09
+2015,Iowa,Black,All,245.2,3.1
+2015,Iowa,Hispanic,All,255.7,2.74
+2015,Iowa,Black,Female,243.72,4.01
+2015,Iowa,Hispanic,Female,254.49,3.8499999999999996
+2015,Iowa,Black,Male,NA,NA
+2015,Iowa,Hispanic,Male,256.85,3.32
+2015,Kansas,Black,All,246.46,3.7800000000000002
+2015,Kansas,Hispanic,All,254.29,2.55
+2015,Kansas,Black,Female,251.38,4.53
+2015,Kansas,Hispanic,Female,258.48,3.18
+2015,Kansas,Black,Male,242.52,4.63
+2015,Kansas,Hispanic,Male,249.74,2.82
+2015,Kentucky,Black,All,246.82,2.01
+2015,Kentucky,Hispanic,All,266.28,3.05
+2015,Kentucky,Black,Female,252.2,1.98
+2015,Kentucky,Hispanic,Female,267.77,4.4
+2015,Kentucky,Black,Male,242.23,3.02
+2015,Kentucky,Hispanic,Male,264.96,4.14
+2015,Louisiana,Black,All,243.21,1.56
+2015,Louisiana,Hispanic,All,257.59,3.62
+2015,Louisiana,Black,Female,247.36,1.99
+2015,Louisiana,Hispanic,Female,NA,NA
+2015,Louisiana,Black,Male,238.97,1.93
+2015,Louisiana,Hispanic,Male,NA,NA
+2015,Maine,Black,All,246.29,4.71
+2015,Maine,Hispanic,All,NA,NA
+2015,Maine,Black,Female,NA,NA
+2015,Maine,Hispanic,Female,NA,NA
+2015,Maine,Black,Male,NA,NA
+2015,Maine,Hispanic,Male,NA,NA
+2015,Maryland,Black,All,251.18,1.51
+2015,Maryland,Hispanic,All,258.24,2.3
+2015,Maryland,Black,Female,258.79,1.98
+2015,Maryland,Hispanic,Female,263.93,3.27
+2015,Maryland,Black,Male,243.24,2.02
+2015,Maryland,Hispanic,Male,252.82,3.4099999999999997
+2015,Massachusetts,Black,All,251.97,2.63
+2015,Massachusetts,Hispanic,All,248.98,2.32
+2015,Massachusetts,Black,Female,256.93,3.34
+2015,Massachusetts,Hispanic,Female,253.62,2.73
+2015,Massachusetts,Black,Male,246.26,3.27
+2015,Massachusetts,Hispanic,Male,244.14,3.82
+2015,Michigan,Black,All,243.02,1.83
+2015,Michigan,Hispanic,All,262.69,3.66
+2015,Michigan,Black,Female,247.96,2.29
+2015,Michigan,Hispanic,Female,270.43,5.17
+2015,Michigan,Black,Male,238.71,2.27
+2015,Michigan,Hispanic,Male,254.78,5.1499999999999995
+2015,Minnesota,Black,All,246.82,3
+2015,Minnesota,Hispanic,All,259.98,3.3
+2015,Minnesota,Black,Female,250.43,4.02
+2015,Minnesota,Hispanic,Female,266.77,4.02
+2015,Minnesota,Black,Male,243.33,3.67
+2015,Minnesota,Hispanic,Male,252.39,4.25
+2015,Mississippi,Black,All,239.85,1.36
+2015,Mississippi,Hispanic,All,NA,NA
+2015,Mississippi,Black,Female,244.8,1.73
+2015,Mississippi,Hispanic,Female,NA,NA
+2015,Mississippi,Black,Male,234.97,1.74
+2015,Mississippi,Hispanic,Male,NA,NA
+2015,Missouri,Black,All,245.98,1.96
+2015,Missouri,Hispanic,All,258.32,4.79
+2015,Missouri,Black,Female,253.93,2.52
+2015,Missouri,Hispanic,Female,NA,NA
+2015,Missouri,Black,Male,237.32,3.21
+2015,Missouri,Hispanic,Male,NA,NA
+2015,Montana,Black,All,NA,NA
+2015,Montana,Hispanic,All,256.9,3.88
+2015,Montana,Black,Female,NA,NA
+2015,Montana,Hispanic,Female,NA,NA
+2015,Montana,Black,Male,NA,NA
+2015,Montana,Hispanic,Male,NA,NA
+2015,National public,Black,All,247.17,0.47000000000000003
+2015,National public,Hispanic,All,252.52,0.43000000000000005
+2015,National public,Black,Female,253.24,0.5700000000000001
+2015,National public,Hispanic,Female,256.63,0.58
+2015,National public,Black,Male,241,0.56
+2015,National public,Hispanic,Male,248.49,0.53
+2015,Nebraska,Black,All,245.38,3.46
+2015,Nebraska,Hispanic,All,256.77,1.86
+2015,Nebraska,Black,Female,NA,NA
+2015,Nebraska,Hispanic,Female,257.49,3.27
+2015,Nebraska,Black,Male,237.14,4.659999999999999
+2015,Nebraska,Hispanic,Male,256.16,2.53
+2015,Nevada,Black,All,248.59,2.3699999999999997
+2015,Nevada,Hispanic,All,250,1.08
+2015,Nevada,Black,Female,255.77,3.21
+2015,Nevada,Hispanic,Female,255.24,1.54
+2015,Nevada,Black,Male,240.87,3.3299999999999996
+2015,Nevada,Hispanic,Male,245,1.74
+2015,New Hampshire,Black,All,NA,NA
+2015,New Hampshire,Hispanic,All,262.48,4.6499999999999995
+2015,New Hampshire,Black,Female,NA,NA
+2015,New Hampshire,Hispanic,Female,NA,NA
+2015,New Hampshire,Black,Male,NA,NA
+2015,New Hampshire,Hispanic,Male,NA,NA
+2015,New Jersey,Black,All,252.9,2.2800000000000002
+2015,New Jersey,Hispanic,All,254.44,2.05
+2015,New Jersey,Black,Female,261.57,3.24
+2015,New Jersey,Hispanic,Female,256.65,2.92
+2015,New Jersey,Black,Male,243.67,2.79
+2015,New Jersey,Hispanic,Male,252.33,2.7
+2015,New Mexico,Black,All,NA,NA
+2015,New Mexico,Hispanic,All,249.2,0.99
+2015,New Mexico,Black,Female,NA,NA
+2015,New Mexico,Hispanic,Female,254.04,1.28
+2015,New Mexico,Black,Male,NA,NA
+2015,New Mexico,Hispanic,Male,244.3,1.47
+2015,New York,Black,All,247.96,2.14
+2015,New York,Hispanic,All,253.65,2.04
+2015,New York,Black,Female,255.27,2.74
+2015,New York,Hispanic,Female,256.86,2.77
+2015,New York,Black,Male,240.73,2.8
+2015,New York,Hispanic,Male,250.21,2.62
+2015,North Carolina,Black,All,243.22,1.96
+2015,North Carolina,Hispanic,All,251.95,1.9
+2015,North Carolina,Black,Female,250.01,2.19
+2015,North Carolina,Hispanic,Female,256.27,2.98
+2015,North Carolina,Black,Male,236.31,2.52
+2015,North Carolina,Hispanic,Male,247.28,2.7800000000000002
+2015,North Dakota,Black,All,254.64,2.86
+2015,North Dakota,Hispanic,All,260.68,3.3699999999999997
+2015,North Dakota,Black,Female,NA,NA
+2015,North Dakota,Hispanic,Female,NA,NA
+2015,North Dakota,Black,Male,NA,NA
+2015,North Dakota,Hispanic,Male,NA,NA
+2015,Ohio,Black,All,245.24,3.25
+2015,Ohio,Hispanic,All,255.49,6.02
+2015,Ohio,Black,Female,247.27,4.3
+2015,Ohio,Hispanic,Female,262.98,5.58
+2015,Ohio,Black,Male,243.32,2.9299999999999997
+2015,Ohio,Hispanic,Male,248.12,8.719999999999999
+2015,Oklahoma,Black,All,244.31,3.16
+2015,Oklahoma,Hispanic,All,256.87,1.95
+2015,Oklahoma,Black,Female,250.35,3.3099999999999996
+2015,Oklahoma,Hispanic,Female,260.05,3.01
+2015,Oklahoma,Black,Male,237.95,4.35
+2015,Oklahoma,Hispanic,Male,253.64,2.9899999999999998
+2015,Oregon,Black,All,NA,NA
+2015,Oregon,Hispanic,All,252.1,1.8900000000000001
+2015,Oregon,Black,Female,NA,NA
+2015,Oregon,Hispanic,Female,256.87,2.34
+2015,Oregon,Black,Male,NA,NA
+2015,Oregon,Hispanic,Male,247.78,2.5
+2015,Pennsylvania,Black,All,244.72,2.71
+2015,Pennsylvania,Hispanic,All,249.59,4.24
+2015,Pennsylvania,Black,Female,249.86,2.44
+2015,Pennsylvania,Hispanic,Female,254.18,6.07
+2015,Pennsylvania,Black,Male,239.48,3.51
+2015,Pennsylvania,Hispanic,Male,245.72,4.5
+2015,Rhode Island,Black,All,247.51,2.9899999999999998
+2015,Rhode Island,Hispanic,All,244.87,1.48
+2015,Rhode Island,Black,Female,252.12,4.859999999999999
+2015,Rhode Island,Hispanic,Female,250.28,2.17
+2015,Rhode Island,Black,Male,243.62,3.34
+2015,Rhode Island,Hispanic,Male,239.6,2.21
+2015,South Carolina,Black,All,243.59,1.58
+2015,South Carolina,Hispanic,All,249.42,3.58
+2015,South Carolina,Black,Female,250.3,1.87
+2015,South Carolina,Hispanic,Female,NA,NA
+2015,South Carolina,Black,Male,236.9,2.14
+2015,South Carolina,Hispanic,Male,241.07,4.49
+2015,South Dakota,Black,All,259.26,3.68
+2015,South Dakota,Hispanic,All,260.12,3.15
+2015,South Dakota,Black,Female,NA,NA
+2015,South Dakota,Hispanic,Female,NA,NA
+2015,South Dakota,Black,Male,NA,NA
+2015,South Dakota,Hispanic,Male,NA,NA
+2015,Tennessee,Black,All,246.86,2.29
+2015,Tennessee,Hispanic,All,256.76,3.19
+2015,Tennessee,Black,Female,251.56,2.7600000000000002
+2015,Tennessee,Hispanic,Female,260.13,5.01
+2015,Tennessee,Black,Male,241.5,3
+2015,Tennessee,Hispanic,Male,253.71,3.4299999999999997
+2015,Texas,Black,All,251.26,2.24
+2015,Texas,Hispanic,All,252.49,1.1600000000000001
+2015,Texas,Black,Female,259.37,2.82
+2015,Texas,Hispanic,Female,255.6,1.3
+2015,Texas,Black,Male,242.86,3.65
+2015,Texas,Hispanic,Male,249.25,1.58
+2015,Utah,Black,All,NA,NA
+2015,Utah,Hispanic,All,251.67,2.3699999999999997
+2015,Utah,Black,Female,NA,NA
+2015,Utah,Hispanic,Female,257.61,3.34
+2015,Utah,Black,Male,NA,NA
+2015,Utah,Hispanic,Male,245.74,3.51
+2015,Vermont,Black,All,NA,NA
+2015,Vermont,Hispanic,All,NA,NA
+2015,Vermont,Black,Female,NA,NA
+2015,Vermont,Hispanic,Female,NA,NA
+2015,Vermont,Black,Male,NA,NA
+2015,Vermont,Hispanic,Male,NA,NA
+2015,Virginia,Black,All,249.3,2.08
+2015,Virginia,Hispanic,All,257.45,2.68
+2015,Virginia,Black,Female,256.45,2.51
+2015,Virginia,Hispanic,Female,257.29,3.4899999999999998
+2015,Virginia,Black,Male,242.27,2.75
+2015,Virginia,Hispanic,Male,257.59,3.4
+2015,Washington,Black,All,250,4.57
+2015,Washington,Hispanic,All,250.02,2.13
+2015,Washington,Black,Female,NA,NA
+2015,Washington,Hispanic,Female,256.05,2.4699999999999998
+2015,Washington,Black,Male,NA,NA
+2015,Washington,Hispanic,Male,244.07,3.3499999999999996
+2015,West Virginia,Black,All,250.18,3.14
+2015,West Virginia,Hispanic,All,NA,NA
+2015,West Virginia,Black,Female,NA,NA
+2015,West Virginia,Hispanic,Female,NA,NA
+2015,West Virginia,Black,Male,NA,NA
+2015,West Virginia,Hispanic,Male,NA,NA
+2015,Wisconsin,Black,All,240.86,2.6
+2015,Wisconsin,Hispanic,All,254.83,2.44
+2015,Wisconsin,Black,Female,246.63,3.62
+2015,Wisconsin,Hispanic,Female,260.79,4.58
+2015,Wisconsin,Black,Male,236.06,3.24
+2015,Wisconsin,Hispanic,Male,249.72,2.9099999999999997
+2015,Wyoming,Black,All,NA,NA
+2015,Wyoming,Hispanic,All,258.22,2.17
+2015,Wyoming,Black,Female,NA,NA
+2015,Wyoming,Hispanic,Female,263.52,3.46
+2015,Wyoming,Black,Male,NA,NA
+2015,Wyoming,Hispanic,Male,253.85,2.86
+2017,Alabama,Black,All,241.15,2.01
+2017,Alabama,Hispanic,All,243.22,4.14
+2017,Alabama,Black,Female,246.15,2.58
+2017,Alabama,Hispanic,Female,243.57,5.48
+2017,Alabama,Black,Male,236.38,2.3299999999999996
+2017,Alabama,Hispanic,Male,242.91,4.71
+2017,Alaska,Black,All,245.62,4.22
+2017,Alaska,Hispanic,All,262.13,2.77
+2017,Alaska,Black,Female,NA,NA
+2017,Alaska,Hispanic,Female,264.2,3.62
+2017,Alaska,Black,Male,NA,NA
+2017,Alaska,Hispanic,Male,260.24,3.86
+2017,Arizona,Black,All,253.99,3.23
+2017,Arizona,Hispanic,All,253.7,1.36
+2017,Arizona,Black,Female,255.71,3.9099999999999997
+2017,Arizona,Hispanic,Female,258.59,1.7
+2017,Arizona,Black,Male,NA,NA
+2017,Arizona,Hispanic,Male,248.64,1.74
+2017,Arkansas,Black,All,241.11,1.87
+2017,Arkansas,Hispanic,All,254.96,2.23
+2017,Arkansas,Black,Female,248.78,2.4899999999999998
+2017,Arkansas,Hispanic,Female,259.11,2.77
+2017,Arkansas,Black,Male,233.12,2.69
+2017,Arkansas,Hispanic,Male,250.65,3.19
+2017,California,Black,All,249.95,3.2
+2017,California,Hispanic,All,251.24,0.99
+2017,California,Black,Female,257.82,3.7600000000000002
+2017,California,Hispanic,Female,256.47,1.28
+2017,California,Black,Male,243.21,4.37
+2017,California,Hispanic,Male,246.4,1.4
+2017,Colorado,Black,All,250.43,3.66
+2017,Colorado,Hispanic,All,256.96,1.75
+2017,Colorado,Black,Female,254.88,5.619999999999999
+2017,Colorado,Hispanic,Female,261.96,2.07
+2017,Colorado,Black,Male,246.92,4.78
+2017,Colorado,Hispanic,Male,252.04,2.3099999999999996
+2017,Connecticut,Black,All,249.47,3.02
+2017,Connecticut,Hispanic,All,252.89,2.1
+2017,Connecticut,Black,Female,253.3,5.5
+2017,Connecticut,Hispanic,Female,253.88,2.36
+2017,Connecticut,Black,Male,246.39,3.2
+2017,Connecticut,Hispanic,Male,251.9,2.9899999999999998
+2017,Delaware,Black,All,248.36,1.3800000000000001
+2017,Delaware,Hispanic,All,253.66,2.11
+2017,Delaware,Black,Female,253.18,2.1
+2017,Delaware,Hispanic,Female,259.87,3.06
+2017,Delaware,Black,Male,243.63,2.2
+2017,Delaware,Hispanic,Male,247.69,2.9299999999999997
+2017,District of Columbia,Black,All,239.61,1.21
+2017,District of Columbia,Hispanic,All,241.5,3.22
+2017,District of Columbia,Black,Female,244.99,1.77
+2017,District of Columbia,Hispanic,Female,243.53,4.23
+2017,District of Columbia,Black,Male,234.22,1.53
+2017,District of Columbia,Hispanic,Male,239.16,4.85
+2017,DoDEA,Black,All,267.74,2.1
+2017,DoDEA,Hispanic,All,277.41,1.78
+2017,DoDEA,Black,Female,273.62,2.4699999999999998
+2017,DoDEA,Hispanic,Female,281.47,2.36
+2017,DoDEA,Black,Male,261.47,2.8499999999999996
+2017,DoDEA,Hispanic,Male,272.83,2.72
+2017,Florida,Black,All,253.51,1.8900000000000001
+2017,Florida,Hispanic,All,262.41,1.49
+2017,Florida,Black,Female,258.46,2.27
+2017,Florida,Hispanic,Female,265.08,2.12
+2017,Florida,Black,Male,248.7,2.59
+2017,Florida,Hispanic,Male,260.07,1.8
+2017,Georgia,Black,All,254.55,1.45
+2017,Georgia,Hispanic,All,259.7,2.08
+2017,Georgia,Black,Female,260.94,1.91
+2017,Georgia,Hispanic,Female,264.78,2.94
+2017,Georgia,Black,Male,248.46,1.96
+2017,Georgia,Hispanic,Male,254.62,2.96
+2017,Hawaii,Black,All,NA,NA
+2017,Hawaii,Hispanic,All,264.63,2.4299999999999997
+2017,Hawaii,Black,Female,NA,NA
+2017,Hawaii,Hispanic,Female,271.2,3.69
+2017,Hawaii,Black,Male,NA,NA
+2017,Hawaii,Hispanic,Male,256.89,3.4299999999999997
+2017,Idaho,Black,All,NA,NA
+2017,Idaho,Hispanic,All,254.66,1.52
+2017,Idaho,Black,Female,NA,NA
+2017,Idaho,Hispanic,Female,254.59,2.3
+2017,Idaho,Black,Male,NA,NA
+2017,Idaho,Hispanic,Male,254.74,2.1
+2017,Illinois,Black,All,245.64,1.49
+2017,Illinois,Hispanic,All,258.36,1.45
+2017,Illinois,Black,Female,251.9,2.7800000000000002
+2017,Illinois,Hispanic,Female,263.71,1.98
+2017,Illinois,Black,Male,239.86,1.95
+2017,Illinois,Hispanic,Male,253.45,2
+2017,Indiana,Black,All,255.11,2.8699999999999997
+2017,Indiana,Hispanic,All,265.43,2.73
+2017,Indiana,Black,Female,262.13,2.84
+2017,Indiana,Hispanic,Female,269.7,4.13
+2017,Indiana,Black,Male,246.95,3.52
+2017,Indiana,Hispanic,Male,261.74,3.32
+2017,Iowa,Black,All,242.51,4.159999999999999
+2017,Iowa,Hispanic,All,258.3,2.4
+2017,Iowa,Black,Female,NA,NA
+2017,Iowa,Hispanic,Female,260.88,3.48
+2017,Iowa,Black,Male,238.39,5.6499999999999995
+2017,Iowa,Hispanic,Male,255.93,3.64
+2017,Kansas,Black,All,245.73,3.69
+2017,Kansas,Hispanic,All,257.19,2.12
+2017,Kansas,Black,Female,251.6,4.95
+2017,Kansas,Hispanic,Female,262.71,2.74
+2017,Kansas,Black,Male,240.74,4.68
+2017,Kansas,Hispanic,Male,251.5,2.77
+2017,Kentucky,Black,All,246.35,2.7
+2017,Kentucky,Hispanic,All,261.34,3.4899999999999998
+2017,Kentucky,Black,Female,251.2,3.67
+2017,Kentucky,Hispanic,Female,266.85,4.18
+2017,Kentucky,Black,Male,241.25,3.36
+2017,Kentucky,Hispanic,Male,256.38,4.71
+2017,Louisiana,Black,All,242.27,1.93
+2017,Louisiana,Hispanic,All,253.35,4.51
+2017,Louisiana,Black,Female,247.19,2.25
+2017,Louisiana,Hispanic,Female,NA,NA
+2017,Louisiana,Black,Male,237.51,2.2
+2017,Louisiana,Hispanic,Male,NA,NA
+2017,Maine,Black,All,235.17,5.319999999999999
+2017,Maine,Hispanic,All,NA,NA
+2017,Maine,Black,Female,NA,NA
+2017,Maine,Hispanic,Female,NA,NA
+2017,Maine,Black,Male,NA,NA
+2017,Maine,Hispanic,Male,NA,NA
+2017,Maryland,Black,All,251.01,1.2
+2017,Maryland,Hispanic,All,254.74,2.72
+2017,Maryland,Black,Female,256.82,1.79
+2017,Maryland,Hispanic,Female,259.92,3.72
+2017,Maryland,Black,Male,245.21,1.43
+2017,Maryland,Hispanic,Male,250.37,3.44
+2017,Massachusetts,Black,All,258.01,2.65
+2017,Massachusetts,Hispanic,All,258.62,2.2800000000000002
+2017,Massachusetts,Black,Female,261.75,3.24
+2017,Massachusetts,Hispanic,Female,262.52,3.09
+2017,Massachusetts,Black,Male,254.31,3.48
+2017,Massachusetts,Hispanic,Male,254.44,2.79
+2017,Michigan,Black,All,245.35,2.12
+2017,Michigan,Hispanic,All,259.05,2.84
+2017,Michigan,Black,Female,249.98,2.9099999999999997
+2017,Michigan,Hispanic,Female,262.92,3.8899999999999997
+2017,Michigan,Black,Male,240.76,2.24
+2017,Michigan,Hispanic,Male,255.15,3.44
+2017,Minnesota,Black,All,244.89,3.21
+2017,Minnesota,Hispanic,All,252.23,3.38
+2017,Minnesota,Black,Female,254.29,4.109999999999999
+2017,Minnesota,Hispanic,Female,257.84,4.08
+2017,Minnesota,Black,Male,233.6,3.29
+2017,Minnesota,Hispanic,Male,246.82,4.83
+2017,Mississippi,Black,All,241.95,1.1800000000000002
+2017,Mississippi,Hispanic,All,252.9,5.13
+2017,Mississippi,Black,Female,243.92,1.6800000000000002
+2017,Mississippi,Hispanic,Female,NA,NA
+2017,Mississippi,Black,Male,240.06,1.34
+2017,Mississippi,Hispanic,Male,NA,NA
+2017,Missouri,Black,All,249.65,3.09
+2017,Missouri,Hispanic,All,257.43,3.84
+2017,Missouri,Black,Female,256.1,3.24
+2017,Missouri,Hispanic,Female,NA,NA
+2017,Missouri,Black,Male,243.15,4.5
+2017,Missouri,Hispanic,Male,252.67,4.95
+2017,Montana,Black,All,NA,NA
+2017,Montana,Hispanic,All,259.39,4.25
+2017,Montana,Black,Female,NA,NA
+2017,Montana,Hispanic,Female,NA,NA
+2017,Montana,Black,Male,NA,NA
+2017,Montana,Hispanic,Male,NA,NA
+2017,National public,Black,All,248.37,0.48000000000000004
+2017,National public,Hispanic,All,254.59,0.5
+2017,National public,Black,Female,254.03,0.62
+2017,National public,Hispanic,Female,259.25,0.64
+2017,National public,Black,Male,242.66,0.58
+2017,National public,Hispanic,Male,250.2,0.59
+2017,Nebraska,Black,All,245.09,2.63
+2017,Nebraska,Hispanic,All,254.11,2.14
+2017,Nebraska,Black,Female,245.29,3.9899999999999998
+2017,Nebraska,Hispanic,Female,256.58,3.1
+2017,Nebraska,Black,Male,244.91,4.26
+2017,Nebraska,Hispanic,Male,251.72,2.8699999999999997
+2017,Nevada,Black,All,246.01,2.3699999999999997
+2017,Nevada,Hispanic,All,253.29,1.06
+2017,Nevada,Black,Female,254.97,3.21
+2017,Nevada,Hispanic,Female,256.69,1.78
+2017,Nevada,Black,Male,237.22,4.18
+2017,Nevada,Hispanic,Male,250.11,1.47
+2017,New Hampshire,Black,All,NA,NA
+2017,New Hampshire,Hispanic,All,261.05,3.92
+2017,New Hampshire,Black,Female,NA,NA
+2017,New Hampshire,Hispanic,Female,NA,NA
+2017,New Hampshire,Black,Male,NA,NA
+2017,New Hampshire,Hispanic,Male,NA,NA
+2017,New Jersey,Black,All,256.95,2.82
+2017,New Jersey,Hispanic,All,258.76,2.13
+2017,New Jersey,Black,Female,261.58,3.07
+2017,New Jersey,Hispanic,Female,266.04,2.56
+2017,New Jersey,Black,Male,250.75,4.24
+2017,New Jersey,Hispanic,Male,252.43,2.65
+2017,New Mexico,Black,All,NA,NA
+2017,New Mexico,Hispanic,All,251.26,0.93
+2017,New Mexico,Black,Female,NA,NA
+2017,New Mexico,Hispanic,Female,255.11,1.47
+2017,New Mexico,Black,Male,NA,NA
+2017,New Mexico,Hispanic,Male,247.41,1.41
+2017,New York,Black,All,251.26,2.32
+2017,New York,Hispanic,All,252.8,2.04
+2017,New York,Black,Female,256.17,3.24
+2017,New York,Hispanic,Female,257.89,2.22
+2017,New York,Black,Male,245.36,2.79
+2017,New York,Hispanic,Male,247.97,2.9
+2017,North Carolina,Black,All,247.87,1.59
+2017,North Carolina,Hispanic,All,254.98,2.2800000000000002
+2017,North Carolina,Black,Female,255.93,2.25
+2017,North Carolina,Hispanic,Female,259.04,2.98
+2017,North Carolina,Black,Male,240.94,2.02
+2017,North Carolina,Hispanic,Male,250.62,3.18
+2017,North Dakota,Black,All,251.75,4.39
+2017,North Dakota,Hispanic,All,259.31,3.8699999999999997
+2017,North Dakota,Black,Female,NA,NA
+2017,North Dakota,Hispanic,Female,NA,NA
+2017,North Dakota,Black,Male,NA,NA
+2017,North Dakota,Hispanic,Male,NA,NA
+2017,Ohio,Black,All,243.99,3.3
+2017,Ohio,Hispanic,All,259.6,4.1899999999999995
+2017,Ohio,Black,Female,248,4.5
+2017,Ohio,Hispanic,Female,268.59,4.89
+2017,Ohio,Black,Male,239.67,3.3
+2017,Ohio,Hispanic,Male,251.25,6.18
+2017,Oklahoma,Black,All,246.56,3.4299999999999997
+2017,Oklahoma,Hispanic,All,254.83,2.03
+2017,Oklahoma,Black,Female,253.65,4.430000000000001
+2017,Oklahoma,Hispanic,Female,258.44,2.67
+2017,Oklahoma,Black,Male,239.77,4.03
+2017,Oklahoma,Hispanic,Male,250.97,2.79
+2017,Oregon,Black,All,NA,NA
+2017,Oregon,Hispanic,All,249.95,1.6500000000000001
+2017,Oregon,Black,Female,NA,NA
+2017,Oregon,Hispanic,Female,257.16,2.23
+2017,Oregon,Black,Male,NA,NA
+2017,Oregon,Hispanic,Male,242.45,2.6
+2017,Pennsylvania,Black,All,249.57,2.15
+2017,Pennsylvania,Hispanic,All,244.8,2.63
+2017,Pennsylvania,Black,Female,254.37,3.14
+2017,Pennsylvania,Hispanic,Female,250.41,4.609999999999999
+2017,Pennsylvania,Black,Male,244.44,2.02
+2017,Pennsylvania,Hispanic,Male,240.08,3.34
+2017,Rhode Island,Black,All,247.91,2.4099999999999997
+2017,Rhode Island,Hispanic,All,247.16,1.6300000000000001
+2017,Rhode Island,Black,Female,253.11,3.2
+2017,Rhode Island,Hispanic,Female,253.1,2.3499999999999996
+2017,Rhode Island,Black,Male,241.88,3.73
+2017,Rhode Island,Hispanic,Male,241.93,2.56
+2017,South Carolina,Black,All,240.89,1.31
+2017,South Carolina,Hispanic,All,255.98,3.46
+2017,South Carolina,Black,Female,246,1.91
+2017,South Carolina,Hispanic,Female,266.25,3.67
+2017,South Carolina,Black,Male,235.77,2.14
+2017,South Carolina,Hispanic,Male,247.56,4.819999999999999
+2017,South Dakota,Black,All,NA,NA
+2017,South Dakota,Hispanic,All,255.13,3.86
+2017,South Dakota,Black,Female,NA,NA
+2017,South Dakota,Hispanic,Female,NA,NA
+2017,South Dakota,Black,Male,NA,NA
+2017,South Dakota,Hispanic,Male,NA,NA
+2017,Tennessee,Black,All,242.98,1.3900000000000001
+2017,Tennessee,Hispanic,All,250.91,2.7600000000000002
+2017,Tennessee,Black,Female,250.4,1.76
+2017,Tennessee,Hispanic,Female,252.43,3.64
+2017,Tennessee,Black,Male,235.83,1.78
+2017,Tennessee,Hispanic,Male,249.32,3.88
+2017,Texas,Black,All,247.19,1.82
+2017,Texas,Hispanic,All,254.39,1.3800000000000001
+2017,Texas,Black,Female,252.23,2.7
+2017,Texas,Hispanic,Female,258.3,1.86
+2017,Texas,Black,Male,241.22,2.32
+2017,Texas,Hispanic,Male,250.68,1.62
+2017,Utah,Black,All,NA,NA
+2017,Utah,Hispanic,All,251.51,2.01
+2017,Utah,Black,Female,NA,NA
+2017,Utah,Hispanic,Female,256.93,2.73
+2017,Utah,Black,Male,NA,NA
+2017,Utah,Hispanic,Male,246.75,2.68
+2017,Vermont,Black,All,NA,NA
+2017,Vermont,Hispanic,All,NA,NA
+2017,Vermont,Black,Female,NA,NA
+2017,Vermont,Hispanic,Female,NA,NA
+2017,Vermont,Black,Male,NA,NA
+2017,Vermont,Hispanic,Male,NA,NA
+2017,Virginia,Black,All,250.61,2.23
+2017,Virginia,Hispanic,All,259.43,2.58
+2017,Virginia,Black,Female,256.19,2.67
+2017,Virginia,Hispanic,Female,267.07,3.51
+2017,Virginia,Black,Male,244.79,2.88
+2017,Virginia,Hispanic,Male,252.45,3.3699999999999997
+2017,Washington,Black,All,255.17,3.9299999999999997
+2017,Washington,Hispanic,All,257.64,1.99
+2017,Washington,Black,Female,NA,NA
+2017,Washington,Hispanic,Female,262.42,2.27
+2017,Washington,Black,Male,NA,NA
+2017,Washington,Hispanic,Male,253.43,2.9899999999999998
+2017,West Virginia,Black,All,245.34,4.109999999999999
+2017,West Virginia,Hispanic,All,NA,NA
+2017,West Virginia,Black,Female,NA,NA
+2017,West Virginia,Hispanic,Female,NA,NA
+2017,West Virginia,Black,Male,NA,NA
+2017,West Virginia,Hispanic,Male,NA,NA
+2017,Wisconsin,Black,All,238.64,2.04
+2017,Wisconsin,Hispanic,All,255.2,2.75
+2017,Wisconsin,Black,Female,246.79,2.64
+2017,Wisconsin,Hispanic,Female,265.54,3.08
+2017,Wisconsin,Black,Male,232.1,2.79
+2017,Wisconsin,Hispanic,Male,243.71,4.01
+2017,Wyoming,Black,All,NA,NA
+2017,Wyoming,Hispanic,All,260.7,1.79
+2017,Wyoming,Black,Female,NA,NA
+2017,Wyoming,Hispanic,Female,264.67,2.79
+2017,Wyoming,Black,Male,NA,NA
+2017,Wyoming,Hispanic,Male,256.56,2.68
+2019,Alabama,Black,All,239.32,2.4499999999999997
+2019,Alabama,Hispanic,All,246.19,5.159999999999999
+2019,Alabama,Black,Female,248.55,3.17
+2019,Alabama,Hispanic,Female,260.12,4.76
+2019,Alabama,Black,Male,229.99,2.51
+2019,Alabama,Hispanic,Male,231.23,6.6499999999999995
+2019,Alaska,Black,All,243.08,4.76
+2019,Alaska,Hispanic,All,250.96,4.07
+2019,Alaska,Black,Female,NA,NA
+2019,Alaska,Hispanic,Female,NA,NA
+2019,Alaska,Black,Male,NA,NA
+2019,Alaska,Hispanic,Male,246.96,5.930000000000001
+2019,Arizona,Black,All,238.94,4.44
+2019,Arizona,Hispanic,All,251.16,1.56
+2019,Arizona,Black,Female,NA,NA
+2019,Arizona,Hispanic,Female,255.21,1.95
+2019,Arizona,Black,Male,228.18,6.1
+2019,Arizona,Hispanic,Male,246.98,1.8
+2019,Arkansas,Black,All,237.1,1.9
+2019,Arkansas,Hispanic,All,255.62,3.03
+2019,Arkansas,Black,Female,247.02,2.4099999999999997
+2019,Arkansas,Hispanic,Female,260.29,3.9899999999999998
+2019,Arkansas,Black,Male,228.71,2.7600000000000002
+2019,Arkansas,Hispanic,Male,251.51,4.23
+2019,California,Black,All,235.53,4.03
+2019,California,Hispanic,All,249.16,1.6600000000000001
+2019,California,Black,Female,238.6,5.34
+2019,California,Hispanic,Female,254.75,1.83
+2019,California,Black,Male,231.76,5.18
+2019,California,Hispanic,Male,243.52,2.25
+2019,Colorado,Black,All,246.09,4.33
+2019,Colorado,Hispanic,All,251.45,1.5
+2019,Colorado,Black,Female,250.61,7.21
+2019,Colorado,Hispanic,Female,255.92,1.9
+2019,Colorado,Black,Male,241.73,4.6899999999999995
+2019,Colorado,Hispanic,Male,247.1,2.06
+2019,Connecticut,Black,All,250.58,2.8099999999999996
+2019,Connecticut,Hispanic,All,253.11,2.2
+2019,Connecticut,Black,Female,259.85,4.09
+2019,Connecticut,Hispanic,Female,257.35,2.57
+2019,Connecticut,Black,Male,241.25,3.79
+2019,Connecticut,Hispanic,Male,248.48,3.36
+2019,Delaware,Black,All,245.52,1.48
+2019,Delaware,Hispanic,All,248.61,2.3499999999999996
+2019,Delaware,Black,Female,252.18,2.12
+2019,Delaware,Hispanic,Female,256.88,3.3
+2019,Delaware,Black,Male,238.74,2
+2019,Delaware,Hispanic,Male,240.82,3.03
+2019,District of Columbia,Black,All,240.62,1.1300000000000001
+2019,District of Columbia,Hispanic,All,249.99,2.67
+2019,District of Columbia,Black,Female,247.62,1.41
+2019,District of Columbia,Hispanic,Female,255.55,3.13
+2019,District of Columbia,Black,Male,233.61,1.6700000000000002
+2019,District of Columbia,Hispanic,Male,244.67,4.28
+2019,DoDEA,Black,All,266.86,2.77
+2019,DoDEA,Hispanic,All,274.68,1.61
+2019,DoDEA,Black,Female,274.96,3.12
+2019,DoDEA,Hispanic,Female,278.68,1.98
+2019,DoDEA,Black,Male,258.83,3.96
+2019,DoDEA,Hispanic,Male,269.81,2.2600000000000002
+2019,Florida,Black,All,247.82,2.36
+2019,Florida,Hispanic,All,258.78,1.48
+2019,Florida,Black,Female,253.24,2.7800000000000002
+2019,Florida,Hispanic,Female,262.2,2.08
+2019,Florida,Black,Male,242.03,2.79
+2019,Florida,Hispanic,Male,255.63,2.02
+2019,Georgia,Black,All,249.47,1.47
+2019,Georgia,Hispanic,All,256.05,2.13
+2019,Georgia,Black,Female,257.39,2.4299999999999997
+2019,Georgia,Hispanic,Female,260.24,3.25
+2019,Georgia,Black,Male,242.06,1.98
+2019,Georgia,Hispanic,Male,252.33,2.4299999999999997
+2019,Hawaii,Black,All,NA,NA
+2019,Hawaii,Hispanic,All,255.33,2.8499999999999996
+2019,Hawaii,Black,Female,NA,NA
+2019,Hawaii,Hispanic,Female,257.74,3.92
+2019,Hawaii,Black,Male,NA,NA
+2019,Hawaii,Hispanic,Male,252.76,4.03
+2019,Idaho,Black,All,NA,NA
+2019,Idaho,Hispanic,All,249.38,2.19
+2019,Idaho,Black,Female,NA,NA
+2019,Idaho,Hispanic,Female,256.12,3.03
+2019,Idaho,Black,Male,NA,NA
+2019,Idaho,Hispanic,Male,243.75,2.56
+2019,Illinois,Black,All,245.54,1.77
+2019,Illinois,Hispanic,All,255.17,1.77
+2019,Illinois,Black,Female,250.93,2.29
+2019,Illinois,Hispanic,Female,260.58,2.44
+2019,Illinois,Black,Male,240.65,2.3499999999999996
+2019,Illinois,Hispanic,Male,250,2.2
+2019,Indiana,Black,All,245.4,2.9
+2019,Indiana,Hispanic,All,258.77,3.15
+2019,Indiana,Black,Female,253.68,3.9099999999999997
+2019,Indiana,Hispanic,Female,262.06,3.65
+2019,Indiana,Black,Male,237.95,3.8
+2019,Indiana,Hispanic,Male,255,4.24
+2019,Iowa,Black,All,236.46,3.72
+2019,Iowa,Hispanic,All,249.55,2.77
+2019,Iowa,Black,Female,243.56,5.25
+2019,Iowa,Hispanic,Female,252.65,3.51
+2019,Iowa,Black,Male,227.99,5.53
+2019,Iowa,Hispanic,Male,246.95,3.71
+2019,Kansas,Black,All,243.57,3.25
+2019,Kansas,Hispanic,All,254.87,1.97
+2019,Kansas,Black,Female,249.74,4.6499999999999995
+2019,Kansas,Hispanic,Female,260.57,2.9499999999999997
+2019,Kansas,Black,Male,238.08,4.37
+2019,Kansas,Hispanic,Male,249.52,2.8299999999999996
+2019,Kentucky,Black,All,239.4,2.3299999999999996
+2019,Kentucky,Hispanic,All,257.76,4.38
+2019,Kentucky,Black,Female,246.11,3.3
+2019,Kentucky,Hispanic,Female,258.68,5.99
+2019,Kentucky,Black,Male,231.96,3.66
+2019,Kentucky,Hispanic,Male,257.06,5.31
+2019,Louisiana,Black,All,242.24,1.97
+2019,Louisiana,Hispanic,All,257.55,3.98
+2019,Louisiana,Black,Female,247.71,2.17
+2019,Louisiana,Hispanic,Female,262.63,5.970000000000001
+2019,Louisiana,Black,Male,236.7,2.65
+2019,Louisiana,Hispanic,Male,252.91,4.930000000000001
+2019,Maine,Black,All,236.23,4.96
+2019,Maine,Hispanic,All,NA,NA
+2019,Maine,Black,Female,NA,NA
+2019,Maine,Hispanic,Female,NA,NA
+2019,Maine,Black,Male,NA,NA
+2019,Maine,Hispanic,Male,NA,NA
+2019,Maryland,Black,All,251.22,1.53
+2019,Maryland,Hispanic,All,247.6,2.29
+2019,Maryland,Black,Female,254.98,1.9
+2019,Maryland,Hispanic,Female,253.4,3.3299999999999996
+2019,Maryland,Black,Male,247.34,2.19
+2019,Maryland,Hispanic,Male,242.05,3.55
+2019,Massachusetts,Black,All,258.54,3.07
+2019,Massachusetts,Hispanic,All,250.78,2.67
+2019,Massachusetts,Black,Female,264.36,4.03
+2019,Massachusetts,Hispanic,Female,255.4,3.61
+2019,Massachusetts,Black,Male,251.36,3.3899999999999997
+2019,Massachusetts,Hispanic,Male,246.57,3.3699999999999997
+2019,Michigan,Black,All,242.99,2.54
+2019,Michigan,Hispanic,All,253.39,3
+2019,Michigan,Black,Female,245.46,3.82
+2019,Michigan,Hispanic,Female,262.04,3.7600000000000002
+2019,Michigan,Black,Male,240.65,2.61
+2019,Michigan,Hispanic,Male,245.08,4.1899999999999995
+2019,Minnesota,Black,All,235.75,3.32
+2019,Minnesota,Hispanic,All,246.88,3.55
+2019,Minnesota,Black,Female,240.39,4.13
+2019,Minnesota,Hispanic,Female,249.81,4.2
+2019,Minnesota,Black,Male,231.33,3.64
+2019,Minnesota,Hispanic,Male,243.57,4.859999999999999
+2019,Mississippi,Black,All,244.4,1.1500000000000001
+2019,Mississippi,Hispanic,All,258.56,4.109999999999999
+2019,Mississippi,Black,Female,248.77,1.94
+2019,Mississippi,Hispanic,Female,NA,NA
+2019,Mississippi,Black,Male,240.21,1.6900000000000002
+2019,Mississippi,Hispanic,Male,NA,NA
+2019,Missouri,Black,All,240.37,3.8699999999999997
+2019,Missouri,Hispanic,All,257.67,3.6
+2019,Missouri,Black,Female,249.51,3.84
+2019,Missouri,Hispanic,Female,264.89,5
+2019,Missouri,Black,Male,231.18,5.45
+2019,Missouri,Hispanic,Male,250.5,5.28
+2019,Montana,Black,All,NA,NA
+2019,Montana,Hispanic,All,256.64,4.06
+2019,Montana,Black,Female,NA,NA
+2019,Montana,Hispanic,Female,NA,NA
+2019,Montana,Black,Male,NA,NA
+2019,Montana,Hispanic,Male,NA,NA
+2019,National public,Black,All,243.82,0.46
+2019,National public,Hispanic,All,251.12,0.5700000000000001
+2019,National public,Black,Female,250.03,0.59
+2019,National public,Hispanic,Female,256.32,0.74
+2019,National public,Black,Male,237.65,0.63
+2019,National public,Hispanic,Male,246.02,0.74
+2019,Nebraska,Black,All,239.53,3.51
+2019,Nebraska,Hispanic,All,250.29,2.06
+2019,Nebraska,Black,Female,247.46,5.05
+2019,Nebraska,Hispanic,Female,252.4,2.9699999999999998
+2019,Nebraska,Black,Male,232.06,4.6
+2019,Nebraska,Hispanic,Male,248.16,3.11
+2019,Nevada,Black,All,242.8,2.84
+2019,Nevada,Hispanic,All,251.23,1.1500000000000001
+2019,Nevada,Black,Female,250.9,3.79
+2019,Nevada,Hispanic,Female,253.75,1.56
+2019,Nevada,Black,Male,235.08,3.61
+2019,Nevada,Hispanic,Male,248.79,1.6600000000000001
+2019,New Hampshire,Black,All,NA,NA
+2019,New Hampshire,Hispanic,All,251.43,3.72
+2019,New Hampshire,Black,Female,NA,NA
+2019,New Hampshire,Hispanic,Female,NA,NA
+2019,New Hampshire,Black,Male,NA,NA
+2019,New Hampshire,Hispanic,Male,NA,NA
+2019,New Jersey,Black,All,249.8,2.64
+2019,New Jersey,Hispanic,All,251.43,2.51
+2019,New Jersey,Black,Female,257.81,3.51
+2019,New Jersey,Hispanic,Female,254.34,3.4099999999999997
+2019,New Jersey,Black,Male,242.83,3.68
+2019,New Jersey,Hispanic,Male,248.39,2.74
+2019,New Mexico,Black,All,NA,NA
+2019,New Mexico,Hispanic,All,247.8,1.1600000000000001
+2019,New Mexico,Black,Female,NA,NA
+2019,New Mexico,Hispanic,Female,254.42,1.62
+2019,New Mexico,Black,Male,NA,NA
+2019,New Mexico,Hispanic,Male,241.26,1.78
+2019,New York,Black,All,247.62,2.4699999999999998
+2019,New York,Hispanic,All,248.83,1.87
+2019,New York,Black,Female,252.53,2.66
+2019,New York,Hispanic,Female,253.37,2.23
+2019,New York,Black,Male,242.38,3.3
+2019,New York,Hispanic,Male,244.95,2.6
+2019,North Carolina,Black,All,243.97,1.77
+2019,North Carolina,Hispanic,All,255.93,2.01
+2019,North Carolina,Black,Female,252.61,2.36
+2019,North Carolina,Hispanic,Female,263.49,2.96
+2019,North Carolina,Black,Male,235,2.05
+2019,North Carolina,Hispanic,Male,248.52,3.17
+2019,North Dakota,Black,All,246.42,3.9
+2019,North Dakota,Hispanic,All,249.81,3.94
+2019,North Dakota,Black,Female,NA,NA
+2019,North Dakota,Hispanic,Female,NA,NA
+2019,North Dakota,Black,Male,240.92,5.6
+2019,North Dakota,Hispanic,Male,NA,NA
+2019,Ohio,Black,All,240.76,1.95
+2019,Ohio,Hispanic,All,259.15,4.58
+2019,Ohio,Black,Female,246.68,2.25
+2019,Ohio,Hispanic,Female,264.34,5.68
+2019,Ohio,Black,Male,234.18,2.9699999999999998
+2019,Ohio,Hispanic,Male,254.54,6.33
+2019,Oklahoma,Black,All,244.39,2.9
+2019,Oklahoma,Hispanic,All,246.04,1.96
+2019,Oklahoma,Black,Female,257.12,4.05
+2019,Oklahoma,Hispanic,Female,255.06,3.06
+2019,Oklahoma,Black,Male,235.06,3.9099999999999997
+2019,Oklahoma,Hispanic,Male,237.43,2.69
+2019,Oregon,Black,All,NA,NA
+2019,Oregon,Hispanic,All,250.01,1.58
+2019,Oregon,Black,Female,NA,NA
+2019,Oregon,Hispanic,Female,254.54,2.3499999999999996
+2019,Oregon,Black,Male,NA,NA
+2019,Oregon,Hispanic,Male,244.91,2.4499999999999997
+2019,Pennsylvania,Black,All,241.96,2.61
+2019,Pennsylvania,Hispanic,All,243.23,2.9499999999999997
+2019,Pennsylvania,Black,Female,245.66,4.07
+2019,Pennsylvania,Hispanic,Female,251.84,4.88
+2019,Pennsylvania,Black,Male,238.39,2.4699999999999998
+2019,Pennsylvania,Hispanic,Male,235.15,3.61
+2019,Rhode Island,Black,All,246.56,3.54
+2019,Rhode Island,Hispanic,All,240.89,1.53
+2019,Rhode Island,Black,Female,256.07,3.59
+2019,Rhode Island,Hispanic,Female,245.79,2.3299999999999996
+2019,Rhode Island,Black,Male,236.66,5.37
+2019,Rhode Island,Hispanic,Male,235.75,2.51
+2019,South Carolina,Black,All,242.04,1.53
+2019,South Carolina,Hispanic,All,252.65,2.8099999999999996
+2019,South Carolina,Black,Female,247.6,1.96
+2019,South Carolina,Hispanic,Female,257.95,4.06
+2019,South Carolina,Black,Male,236.68,2.09
+2019,South Carolina,Hispanic,Male,246.98,4.1899999999999995
+2019,South Dakota,Black,All,NA,NA
+2019,South Dakota,Hispanic,All,251.91,3.84
+2019,South Dakota,Black,Female,NA,NA
+2019,South Dakota,Hispanic,Female,NA,NA
+2019,South Dakota,Black,Male,NA,NA
+2019,South Dakota,Hispanic,Male,242.42,4.49
+2019,Tennessee,Black,All,245.54,1.3
+2019,Tennessee,Hispanic,All,253.22,2.7800000000000002
+2019,Tennessee,Black,Female,251.01,2.16
+2019,Tennessee,Hispanic,Female,257.06,3.3699999999999997
+2019,Tennessee,Black,Male,240.02,1.99
+2019,Tennessee,Hispanic,Male,249.67,3.8099999999999996
+2019,Texas,Black,All,237.79,2.3099999999999996
+2019,Texas,Hispanic,All,250.41,1.4
+2019,Texas,Black,Female,242.63,3.13
+2019,Texas,Hispanic,Female,255.98,1.81
+2019,Texas,Black,Male,233.04,3.05
+2019,Texas,Hispanic,Male,244.83,1.6800000000000002
+2019,Utah,Black,All,NA,NA
+2019,Utah,Hispanic,All,250.71,2.27
+2019,Utah,Black,Female,NA,NA
+2019,Utah,Hispanic,Female,252.71,3.4299999999999997
+2019,Utah,Black,Male,NA,NA
+2019,Utah,Hispanic,Male,248.89,2.7800000000000002
+2019,Vermont,Black,All,NA,NA
+2019,Vermont,Hispanic,All,NA,NA
+2019,Vermont,Black,Female,NA,NA
+2019,Vermont,Hispanic,Female,NA,NA
+2019,Vermont,Black,Male,NA,NA
+2019,Vermont,Hispanic,Male,NA,NA
+2019,Virginia,Black,All,242.92,2.08
+2019,Virginia,Hispanic,All,247.03,2.86
+2019,Virginia,Black,Female,253.51,2.66
+2019,Virginia,Hispanic,Female,254.32,3.94
+2019,Virginia,Black,Male,232.74,2.63
+2019,Virginia,Hispanic,Male,240.03,4.01
+2019,Washington,Black,All,235.72,5.45
+2019,Washington,Hispanic,All,248.16,2.25
+2019,Washington,Black,Female,NA,NA
+2019,Washington,Hispanic,Female,254.06,3.14
+2019,Washington,Black,Male,NA,NA
+2019,Washington,Hispanic,Male,242.9,2.57
+2019,West Virginia,Black,All,238.7,4.470000000000001
+2019,West Virginia,Hispanic,All,NA,NA
+2019,West Virginia,Black,Female,NA,NA
+2019,West Virginia,Hispanic,Female,NA,NA
+2019,West Virginia,Black,Male,NA,NA
+2019,West Virginia,Hispanic,Male,NA,NA
+2019,Wisconsin,Black,All,234.7,2.88
+2019,Wisconsin,Hispanic,All,251.47,2.09
+2019,Wisconsin,Black,Female,242.11,3.25
+2019,Wisconsin,Hispanic,Female,260.21,3.07
+2019,Wisconsin,Black,Male,228.12,4.39
+2019,Wisconsin,Hispanic,Male,242.84,3.4699999999999998
+2019,Wyoming,Black,All,NA,NA
+2019,Wyoming,Hispanic,All,254.39,2.27
+2019,Wyoming,Black,Female,NA,NA
+2019,Wyoming,Hispanic,Female,256.83,2.9899999999999998
+2019,Wyoming,Black,Male,NA,NA
+2019,Wyoming,Hispanic,Male,251.67,3.05
+2022,Alabama,Black,All,234.34,1.94
+2022,Alabama,Hispanic,All,244.78,3.12
+2022,Alabama,Black,Female,242.49,2.36
+2022,Alabama,Hispanic,Female,247.29,4.52
+2022,Alabama,Black,Male,227.11,2.3899999999999997
+2022,Alabama,Hispanic,Male,241.75,3.4899999999999998
+2022,Alaska,Black,All,NA,NA
+2022,Alaska,Hispanic,All,254.4,3.75
+2022,Alaska,Black,Female,NA,NA
+2022,Alaska,Hispanic,Female,NA,NA
+2022,Alaska,Black,Male,NA,NA
+2022,Alaska,Hispanic,Male,NA,NA
+2022,Arizona,Black,All,243.98,4.17
+2022,Arizona,Hispanic,All,251.67,1.77
+2022,Arizona,Black,Female,NA,NA
+2022,Arizona,Hispanic,Female,254.88,1.99
+2022,Arizona,Black,Male,NA,NA
+2022,Arizona,Hispanic,Male,248.46,2.4
+2022,Arkansas,Black,All,234.8,2.46
+2022,Arkansas,Hispanic,All,251.88,2.6
+2022,Arkansas,Black,Female,242.82,3.4499999999999997
+2022,Arkansas,Hispanic,Female,256.06,3.46
+2022,Arkansas,Black,Male,226.25,2.73
+2022,Arkansas,Hispanic,Male,247.43,3.58
+2022,California,Black,All,245.41,4.930000000000001
+2022,California,Hispanic,All,249.31,1.6800000000000002
+2022,California,Black,Female,253.04,6.7
+2022,California,Hispanic,Female,252.42,1.97
+2022,California,Black,Male,238.76,5.78
+2022,California,Hispanic,Male,246.09,2.16
+2022,Colorado,Black,All,246.49,5.1499999999999995
+2022,Colorado,Hispanic,All,248.37,2.14
+2022,Colorado,Black,Female,251.41,7.39
+2022,Colorado,Hispanic,Female,255.32,2.36
+2022,Colorado,Black,Male,241.18,6.26
+2022,Colorado,Hispanic,Male,241.87,2.8699999999999997
+2022,Connecticut,Black,All,244.05,2.42
+2022,Connecticut,Hispanic,All,247.28,2.11
+2022,Connecticut,Black,Female,250.37,2.8
+2022,Connecticut,Hispanic,Female,254.99,3.16
+2022,Connecticut,Black,Male,235.66,3.38
+2022,Connecticut,Hispanic,Male,240.01,2.79
+2022,Delaware,Black,All,240.25,2.04
+2022,Delaware,Hispanic,All,244.04,1.86
+2022,Delaware,Black,Female,244.12,2.8499999999999996
+2022,Delaware,Hispanic,Female,253.89,2.72
+2022,Delaware,Black,Male,236.56,2.53
+2022,Delaware,Hispanic,Male,234.2,3.48
+2022,District of Columbia,Black,All,242.19,1.1
+2022,District of Columbia,Hispanic,All,245.93,2.72
+2022,District of Columbia,Black,Female,246.89,1.54
+2022,District of Columbia,Hispanic,Female,251.32,3.2800000000000002
+2022,District of Columbia,Black,Male,237.23,1.78
+2022,District of Columbia,Hispanic,Male,240.6,3.9899999999999998
+2022,DoDEA,Black,All,271.11,2.77
+2022,DoDEA,Hispanic,All,280.77,1.46
+2022,DoDEA,Black,Female,283.26,3.36
+2022,DoDEA,Hispanic,Female,284.21,1.8800000000000001
+2022,DoDEA,Black,Male,259.96,3.8499999999999996
+2022,DoDEA,Hispanic,Male,277.33,2.07
+2022,Florida,Black,All,246.9,2.09
+2022,Florida,Hispanic,All,259.98,1.81
+2022,Florida,Black,Female,253.31,2.96
+2022,Florida,Hispanic,Female,263.67,2.09
+2022,Florida,Black,Male,240.01,2.34
+2022,Florida,Hispanic,Male,256.63,2.09
+2022,Georgia,Black,All,246.74,2.04
+2022,Georgia,Hispanic,All,253.83,2.13
+2022,Georgia,Black,Female,254.32,2.08
+2022,Georgia,Hispanic,Female,257.48,2.71
+2022,Georgia,Black,Male,239.65,2.79
+2022,Georgia,Hispanic,Male,250.46,2.96
+2022,Hawaii,Black,All,NA,NA
+2022,Hawaii,Hispanic,All,256.35,2.8099999999999996
+2022,Hawaii,Black,Female,NA,NA
+2022,Hawaii,Hispanic,Female,265.35,3.9499999999999997
+2022,Hawaii,Black,Male,NA,NA
+2022,Hawaii,Hispanic,Male,248.48,3.64
+2022,Idaho,Black,All,NA,NA
+2022,Idaho,Hispanic,All,251.34,2.34
+2022,Idaho,Black,Female,NA,NA
+2022,Idaho,Hispanic,Female,253.83,3.15
+2022,Idaho,Black,Male,NA,NA
+2022,Idaho,Hispanic,Male,249.12,2.94
+2022,Illinois,Black,All,240.74,2.58
+2022,Illinois,Hispanic,All,253.87,1.54
+2022,Illinois,Black,Female,245.41,3.25
+2022,Illinois,Hispanic,Female,258.65,1.98
+2022,Illinois,Black,Male,236.54,2.94
+2022,Illinois,Hispanic,Male,249.53,2.14
+2022,Indiana,Black,All,239.87,4.09
+2022,Indiana,Hispanic,All,251.36,2.57
+2022,Indiana,Black,Female,243.99,5.31
+2022,Indiana,Hispanic,Female,253.94,3.8
+2022,Indiana,Black,Male,236.14,4.119999999999999
+2022,Indiana,Hispanic,Male,248.88,3.36
+2022,Iowa,Black,All,237.4,4.75
+2022,Iowa,Hispanic,All,247.78,2.96
+2022,Iowa,Black,Female,NA,NA
+2022,Iowa,Hispanic,Female,249.36,4.13
+2022,Iowa,Black,Male,NA,NA
+2022,Iowa,Hispanic,Male,246.5,4.22
+2022,Kansas,Black,All,238.04,4.18
+2022,Kansas,Hispanic,All,247.53,2.16
+2022,Kansas,Black,Female,249.44,5.29
+2022,Kansas,Hispanic,Female,249.81,3.2
+2022,Kansas,Black,Male,227.58,5.67
+2022,Kansas,Hispanic,Male,245.21,2.7
+2022,Kentucky,Black,All,238.88,2.54
+2022,Kentucky,Hispanic,All,253.87,3.59
+2022,Kentucky,Black,Female,244.25,3.66
+2022,Kentucky,Hispanic,Female,261.67,3.8699999999999997
+2022,Kentucky,Black,Male,233.86,3.3699999999999997
+2022,Kentucky,Hispanic,Male,245.61,5.119999999999999
+2022,Louisiana,Black,All,243.38,2.09
+2022,Louisiana,Hispanic,All,253.23,3.5
+2022,Louisiana,Black,Female,249.47,2.68
+2022,Louisiana,Hispanic,Female,257.6,5.02
+2022,Louisiana,Black,Male,237.32,2.4099999999999997
+2022,Louisiana,Hispanic,Male,248.77,5.57
+2022,Maine,Black,All,226.47,5.73
+2022,Maine,Hispanic,All,NA,NA
+2022,Maine,Black,Female,NA,NA
+2022,Maine,Hispanic,Female,NA,NA
+2022,Maine,Black,Male,NA,NA
+2022,Maine,Hispanic,Male,NA,NA
+2022,Maryland,Black,All,243.83,1.84
+2022,Maryland,Hispanic,All,245.97,2.3699999999999997
+2022,Maryland,Black,Female,251.76,2.6
+2022,Maryland,Hispanic,Female,253.74,3.68
+2022,Maryland,Black,Male,236.36,2.64
+2022,Maryland,Hispanic,Male,236.93,3.3499999999999996
+2022,Massachusetts,Black,All,254.02,3.16
+2022,Massachusetts,Hispanic,All,251.79,2.55
+2022,Massachusetts,Black,Female,262,3.9299999999999997
+2022,Massachusetts,Hispanic,Female,257.51,3.12
+2022,Massachusetts,Black,Male,245.94,4.31
+2022,Massachusetts,Hispanic,Male,246.33,3.8
+2022,Michigan,Black,All,237.16,2.2800000000000002
+2022,Michigan,Hispanic,All,249.73,3.4699999999999998
+2022,Michigan,Black,Female,240.52,3.03
+2022,Michigan,Hispanic,Female,256,3.8299999999999996
+2022,Michigan,Black,Male,234.26,2.94
+2022,Michigan,Hispanic,Male,242.36,5.18
+2022,Minnesota,Black,All,236.69,3.58
+2022,Minnesota,Hispanic,All,242.01,6.09
+2022,Minnesota,Black,Female,242.7,4.39
+2022,Minnesota,Hispanic,Female,248.13,6.58
+2022,Minnesota,Black,Male,230.32,4.38
+2022,Minnesota,Hispanic,Male,236.58,7.07
+2022,Mississippi,Black,All,240.36,1.5
+2022,Mississippi,Hispanic,All,247.41,4.46
+2022,Mississippi,Black,Female,244.96,1.8800000000000001
+2022,Mississippi,Hispanic,Female,NA,NA
+2022,Mississippi,Black,Male,236.06,1.87
+2022,Mississippi,Hispanic,Male,NA,NA
+2022,Missouri,Black,All,229.77,3.8899999999999997
+2022,Missouri,Hispanic,All,252.87,3.79
+2022,Missouri,Black,Female,235.52,4.7700000000000005
+2022,Missouri,Hispanic,Female,258.28,4.22
+2022,Missouri,Black,Male,223.94,4.67
+2022,Missouri,Hispanic,Male,247.29,5.319999999999999
+2022,Montana,Black,All,NA,NA
+2022,Montana,Hispanic,All,252.91,4.02
+2022,Montana,Black,Female,NA,NA
+2022,Montana,Hispanic,Female,NA,NA
+2022,Montana,Black,Male,NA,NA
+2022,Montana,Hispanic,Male,NA,NA
+2022,National public,Black,All,242.76,0.52
+2022,National public,Hispanic,All,249.8,0.55
+2022,National public,Black,Female,248.62,0.6799999999999999
+2022,National public,Hispanic,Female,253.31,0.71
+2022,National public,Black,Male,237.09,0.7
+2022,National public,Hispanic,Male,246.36,0.72
+2022,Nebraska,Black,All,236.11,3.62
+2022,Nebraska,Hispanic,All,244.61,2.16
+2022,Nebraska,Black,Female,246.3,5.03
+2022,Nebraska,Hispanic,Female,248.16,3
+2022,Nebraska,Black,Male,226.48,4.89
+2022,Nebraska,Hispanic,Male,241.12,2.8099999999999996
+2022,Nevada,Black,All,243.19,2.63
+2022,Nevada,Hispanic,All,251.02,1.4
+2022,Nevada,Black,Female,251.32,4.02
+2022,Nevada,Hispanic,Female,256.38,1.91
+2022,Nevada,Black,Male,235.95,4.2700000000000005
+2022,Nevada,Hispanic,Male,245.96,2.17
+2022,New Hampshire,Black,All,NA,NA
+2022,New Hampshire,Hispanic,All,245.41,3.8899999999999997
+2022,New Hampshire,Black,Female,NA,NA
+2022,New Hampshire,Hispanic,Female,NA,NA
+2022,New Hampshire,Black,Male,NA,NA
+2022,New Hampshire,Hispanic,Male,NA,NA
+2022,New Jersey,Black,All,249.48,4.819999999999999
+2022,New Jersey,Hispanic,All,253.74,2.5
+2022,New Jersey,Black,Female,253.52,4.51
+2022,New Jersey,Hispanic,Female,253.36,3.3699999999999997
+2022,New Jersey,Black,Male,246.32,6.7700000000000005
+2022,New Jersey,Hispanic,Male,254.11,2.5
+2022,New Mexico,Black,All,NA,NA
+2022,New Mexico,Hispanic,All,242.61,1.1
+2022,New Mexico,Black,Female,NA,NA
+2022,New Mexico,Hispanic,Female,249.54,1.6300000000000001
+2022,New Mexico,Black,Male,NA,NA
+2022,New Mexico,Hispanic,Male,236.15,1.29
+2022,New York,Black,All,246.4,3.27
+2022,New York,Hispanic,All,248.03,2.01
+2022,New York,Black,Female,251.14,3.7
+2022,New York,Hispanic,Female,252.99,3.42
+2022,New York,Black,Male,241.39,3.92
+2022,New York,Hispanic,Male,243.88,2.2800000000000002
+2022,North Carolina,Black,All,241.57,1.92
+2022,North Carolina,Hispanic,All,252.06,2.1
+2022,North Carolina,Black,Female,246.43,2.34
+2022,North Carolina,Hispanic,Female,257.77,2.14
+2022,North Carolina,Black,Male,236.73,2.22
+2022,North Carolina,Hispanic,Male,246.37,3.29
+2022,North Dakota,Black,All,236.85,4.52
+2022,North Dakota,Hispanic,All,248.68,4.92
+2022,North Dakota,Black,Female,NA,NA
+2022,North Dakota,Hispanic,Female,NA,NA
+2022,North Dakota,Black,Male,NA,NA
+2022,North Dakota,Hispanic,Male,244.65,5.92
+2022,Ohio,Black,All,241.15,3.01
+2022,Ohio,Hispanic,All,246.01,3.7800000000000002
+2022,Ohio,Black,Female,245.37,3.03
+2022,Ohio,Hispanic,Female,250.8,4.67
+2022,Ohio,Black,Male,236.57,4.970000000000001
+2022,Ohio,Hispanic,Male,242.04,5.31
+2022,Oklahoma,Black,All,241.56,3.4899999999999998
+2022,Oklahoma,Hispanic,All,242.57,2.6
+2022,Oklahoma,Black,Female,NA,NA
+2022,Oklahoma,Hispanic,Female,246.78,3.06
+2022,Oklahoma,Black,Male,238.31,4.57
+2022,Oklahoma,Hispanic,Male,238.34,3.58
+2022,Oregon,Black,All,NA,NA
+2022,Oregon,Hispanic,All,243.76,2.3299999999999996
+2022,Oregon,Black,Female,NA,NA
+2022,Oregon,Hispanic,Female,246.9,3.4899999999999998
+2022,Oregon,Black,Male,NA,NA
+2022,Oregon,Hispanic,Male,241,2.75
+2022,Pennsylvania,Black,All,239.62,2.74
+2022,Pennsylvania,Hispanic,All,240.76,2.86
+2022,Pennsylvania,Black,Female,242.57,3.44
+2022,Pennsylvania,Hispanic,Female,240.96,3.65
+2022,Pennsylvania,Black,Male,236.76,4.07
+2022,Pennsylvania,Hispanic,Male,240.6,3.21
+2022,Rhode Island,Black,All,240.43,2.9
+2022,Rhode Island,Hispanic,All,245.43,2.21
+2022,Rhode Island,Black,Female,246.04,4.55
+2022,Rhode Island,Hispanic,Female,249.25,3.14
+2022,Rhode Island,Black,Male,234.7,4.359999999999999
+2022,Rhode Island,Hispanic,Male,241.65,3.03
+2022,South Carolina,Black,All,239.76,1.81
+2022,South Carolina,Hispanic,All,243.73,3.38
+2022,South Carolina,Black,Female,244.21,2.57
+2022,South Carolina,Hispanic,Female,249.38,5.319999999999999
+2022,South Carolina,Black,Male,235.46,2.58
+2022,South Carolina,Hispanic,Male,237.75,4.55
+2022,South Dakota,Black,All,233.78,5.83
+2022,South Dakota,Hispanic,All,251.1,3.6
+2022,South Dakota,Black,Female,NA,NA
+2022,South Dakota,Hispanic,Female,256.16,4.51
+2022,South Dakota,Black,Male,NA,NA
+2022,South Dakota,Hispanic,Male,246.48,5.96
+2022,Tennessee,Black,All,241.42,2.53
+2022,Tennessee,Hispanic,All,246.22,3.11
+2022,Tennessee,Black,Female,247.88,2.52
+2022,Tennessee,Hispanic,Female,257.12,3.4499999999999997
+2022,Tennessee,Black,Male,235.48,3.38
+2022,Tennessee,Hispanic,Male,233.78,4.89
+2022,Texas,Black,All,246.71,2.36
+2022,Texas,Hispanic,All,248.21,1.6800000000000002
+2022,Texas,Black,Female,253.65,3.08
+2022,Texas,Hispanic,Female,250.04,2.04
+2022,Texas,Black,Male,239.65,3.03
+2022,Texas,Hispanic,Male,246.33,2.22
+2022,Utah,Black,All,NA,NA
+2022,Utah,Hispanic,All,246.99,2.4
+2022,Utah,Black,Female,NA,NA
+2022,Utah,Hispanic,Female,254.49,3.54
+2022,Utah,Black,Male,NA,NA
+2022,Utah,Hispanic,Male,239.68,2.84
+2022,Vermont,Black,All,254.58,4.81
+2022,Vermont,Hispanic,All,NA,NA
+2022,Vermont,Black,Female,NA,NA
+2022,Vermont,Hispanic,Female,NA,NA
+2022,Vermont,Black,Male,NA,NA
+2022,Vermont,Hispanic,Male,NA,NA
+2022,Virginia,Black,All,241.53,2.67
+2022,Virginia,Hispanic,All,245.72,3.11
+2022,Virginia,Black,Female,245.53,3.65
+2022,Virginia,Hispanic,Female,248.81,3.2800000000000002
+2022,Virginia,Black,Male,237.73,3.18
+2022,Virginia,Hispanic,Male,242.85,4.25
+2022,Washington,Black,All,240.26,4.79
+2022,Washington,Hispanic,All,248.76,1.93
+2022,Washington,Black,Female,NA,NA
+2022,Washington,Hispanic,Female,250.29,3.14
+2022,Washington,Black,Male,NA,NA
+2022,Washington,Hispanic,Male,247.3,2.4699999999999998
+2022,West Virginia,Black,All,232.38,5.1899999999999995
+2022,West Virginia,Hispanic,All,NA,NA
+2022,West Virginia,Black,Female,NA,NA
+2022,West Virginia,Hispanic,Female,NA,NA
+2022,West Virginia,Black,Male,NA,NA
+2022,West Virginia,Hispanic,Male,NA,NA
+2022,Wisconsin,Black,All,230.83,3.23
+2022,Wisconsin,Hispanic,All,249.59,2.11
+2022,Wisconsin,Black,Female,232.5,4.119999999999999
+2022,Wisconsin,Hispanic,Female,254.01,3.03
+2022,Wisconsin,Black,Male,229.37,3.9499999999999997
+2022,Wisconsin,Hispanic,Male,245.39,2.9
+2022,Wyoming,Black,All,NA,NA
+2022,Wyoming,Hispanic,All,251.79,2.34
+2022,Wyoming,Black,Female,NA,NA
+2022,Wyoming,Hispanic,Female,258.84,2.8299999999999996
+2022,Wyoming,Black,Male,NA,NA
+2022,Wyoming,Hispanic,Male,244.78,3.96
