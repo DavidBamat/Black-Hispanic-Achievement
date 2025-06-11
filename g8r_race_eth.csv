@@ -1,1061 +1,1167 @@
-Year,Jurisdiction,RaceEth,Gender,Mean,SE
-2003,National public,Black,All,243.60,0.51
-2003,National public,Hispanic,All,243.80,0.73
-2003,Alabama,Black,All,236.90,1.96
-2003,Alabama,Hispanic,All,‡,NA
-2003,Alaska,Black,All,248.92,3.58
-2003,Alaska,Hispanic,All,246.43,3.58
-2003,Arizona,Black,All,244.80,3.9699999999999998
-2003,Arizona,Hispanic,All,240.03,1.94
-2003,Arkansas,Black,All,232.28,2.11
-2003,Arkansas,Hispanic,All,256.80,4.76
-2003,California,Black,All,239.19,2.48
-2003,California,Hispanic,All,236.53,1.6400000000000001
-2003,Colorado,Black,All,248.56,3.16
-2003,Colorado,Hispanic,All,247.37,2.13
-2003,Connecticut,Black,All,244.21,2.25
-2003,Connecticut,Hispanic,All,243.80,3.1
-2003,Delaware,Black,All,248.44,1.74
-2003,Delaware,Hispanic,All,245.96,3.22
-2003,District of Columbia,Black,All,236.06,0.72
-2003,District of Columbia,Hispanic,All,239.72,2.72
-2003,DoDEA,Black,All,258.46,1.48
-2003,DoDEA,Hispanic,All,268.33,1.84
-2003,Florida,Black,All,239.16,2.13
-2003,Florida,Hispanic,All,251.09,2.34
-2003,Georgia,Black,All,243.75,1.71
-2003,Georgia,Hispanic,All,244.87,3.94
-2003,Hawaii,Black,All,‡,NA
-2003,Hawaii,Hispanic,All,248.79,7.6
-2003,Idaho,Black,All,‡,NA
-2003,Idaho,Hispanic,All,242.49,2.7600000000000002
-2003,Illinois,Black,All,246.79,1.6500000000000001
-2003,Illinois,Hispanic,All,249.76,1.6700000000000002
-2003,Indiana,Black,All,244.36,3.2600000000000002
-2003,Indiana,Hispanic,All,246.55,5.07
-2003,Iowa,Black,All,244.95,3.2800000000000002
-2003,Iowa,Hispanic,All,244.22,4.1
-2003,Kansas,Black,All,243.21,3.14
-2003,Kansas,Hispanic,All,244.77,3.77
-2003,Kentucky,Black,All,244.57,2.73
-2003,Kentucky,Hispanic,All,‡,NA
-2003,Louisiana,Black,All,238.36,2.01
-2003,Louisiana,Hispanic,All,‡,NA
-2003,Maine,Black,All,‡,NA
-2003,Maine,Hispanic,All,‡,NA
-2003,Maryland,Black,All,245.01,1.9
-2003,Maryland,Hispanic,All,250.91,3.8899999999999997
-2003,Massachusetts,Black,All,251.74,2.38
-2003,Massachusetts,Hispanic,All,246.26,2.84
-2003,Michigan,Black,All,241.67,4.54
-2003,Michigan,Hispanic,All,256.53,3.4099999999999997
-2003,Minnesota,Black,All,243.02,3.68
-2003,Minnesota,Hispanic,All,240.22,5.26
-2003,Mississippi,Black,All,242.51,1.47
-2003,Mississippi,Hispanic,All,‡,NA
-2003,Missouri,Black,All,243.45,1.75
-2003,Missouri,Hispanic,All,‡,NA
-2003,Montana,Black,All,‡,NA
-2003,Montana,Hispanic,All,‡,NA
-2003,Nebraska,Black,All,239.02,3.11
-2003,Nebraska,Hispanic,All,240.69,3.11
-2003,Nevada,Black,All,232.99,2.68
-2003,Nevada,Hispanic,All,236.97,1.22
-2003,New Hampshire,Black,All,‡,NA
-2003,New Hampshire,Hispanic,All,‡,NA
-2003,New Jersey,Black,All,247.65,2.06
-2003,New Jersey,Hispanic,All,248.43,2.4299999999999997
-2003,New Mexico,Black,All,246.32,3.3899999999999997
-2003,New Mexico,Hispanic,All,242.89,1.04
-2003,New York,Black,All,245.70,2.13
-2003,New York,Hispanic,All,249.64,2.44
-2003,North Carolina,Black,All,246.92,1.37
-2003,North Carolina,Hispanic,All,243.79,3.69
-2003,North Dakota,Black,All,‡,NA
-2003,North Dakota,Hispanic,All,‡,NA
-2003,Ohio,Black,All,248.85,1.6400000000000001
-2003,Ohio,Hispanic,All,267.98,5.14
-2003,Oklahoma,Black,All,240.33,4.02
-2003,Oklahoma,Hispanic,All,250.44,2.8
-2003,Oregon,Black,All,251.45,4.2
-2003,Oregon,Hispanic,All,249.25,2.74
-2003,Pennsylvania,Black,All,243.25,2.52
-2003,Pennsylvania,Hispanic,All,257.35,6.03
-2003,Rhode Island,Black,All,241.25,2.77
-2003,Rhode Island,Hispanic,All,237.87,1.94
-2003,South Carolina,Black,All,243.80,1.6500000000000001
-2003,South Carolina,Hispanic,All,‡,NA
-2003,South Dakota,Black,All,‡,NA
-2003,South Dakota,Hispanic,All,‡,NA
-2003,Tennessee,Black,All,238.82,2.02
-2003,Tennessee,Hispanic,All,‡,NA
-2003,Texas,Black,All,246.53,2.16
-2003,Texas,Hispanic,All,247.39,1.3
-2003,Utah,Black,All,‡,NA
-2003,Utah,Hispanic,All,241.03,2.92
-2003,Vermont,Black,All,‡,NA
-2003,Vermont,Hispanic,All,‡,NA
-2003,Virginia,Black,All,250.32,1.42
-2003,Virginia,Hispanic,All,265.56,3.19
-2003,Washington,Black,All,250.56,3.3299999999999996
-2003,Washington,Hispanic,All,246.09,2.59
-2003,West Virginia,Black,All,248.31,2.9099999999999997
-2003,West Virginia,Hispanic,All,‡,NA
-2003,Wisconsin,Black,All,233.84,4.38
-2003,Wisconsin,Hispanic,All,243.94,5.04
-2003,Wyoming,Black,All,‡,NA
-2003,Wyoming,Hispanic,All,254.98,2.71
-2005,National public,Black,All,242.03,0.44
-2005,National public,Hispanic,All,244.94,0.44
-2005,Alabama,Black,All,234.70,1.91
-2005,Alabama,Hispanic,All,‡,NA
-2005,Alaska,Black,All,248.85,3.7600000000000002
-2005,Alaska,Hispanic,All,253.82,4.13
-2005,Arizona,Black,All,242.27,4.05
-2005,Arizona,Hispanic,All,242.07,1.5
-2005,Arkansas,Black,All,236.24,1.95
-2005,Arkansas,Hispanic,All,249.96,3.7
-2005,California,Black,All,240.06,1.62
-2005,California,Hispanic,All,238.57,0.77
-2005,Colorado,Black,All,254.16,3.8699999999999997
-2005,Colorado,Hispanic,All,246.51,1.8800000000000001
-2005,Connecticut,Black,All,240.15,3.3099999999999996
-2005,Connecticut,Hispanic,All,244.60,3.86
-2005,Delaware,Black,All,252.39,1.1600000000000001
-2005,Delaware,Hispanic,All,253.43,2.7
-2005,District of Columbia,Black,All,234.94,0.9
-2005,District of Columbia,Hispanic,All,247.47,3.21
-2005,DoDEA,Black,All,258.18,1.58
-2005,DoDEA,Hispanic,All,267.53,2.25
-2005,Florida,Black,All,238.22,1.74
-2005,Florida,Hispanic,All,251.66,1.91
-2005,Georgia,Black,All,240.74,1.3
-2005,Georgia,Hispanic,All,247.46,3.42
-2005,Hawaii,Black,All,‡,NA
-2005,Hawaii,Hispanic,All,241.83,4.359999999999999
-2005,Idaho,Black,All,‡,NA
-2005,Idaho,Hispanic,All,246.47,2.06
-2005,Illinois,Black,All,243.85,2.01
-2005,Illinois,Hispanic,All,253.30,1.61
-2005,Indiana,Black,All,240.51,2.8099999999999996
-2005,Indiana,Hispanic,All,246.68,4.94
-2005,Iowa,Black,All,245.59,3.42
-2005,Iowa,Hispanic,All,255.60,3.92
-2005,Kansas,Black,All,246.91,2.23
-2005,Kansas,Hispanic,All,248.64,2.59
-2005,Kentucky,Black,All,247.65,3.07
-2005,Kentucky,Hispanic,All,‡,NA
-2005,Louisiana,Black,All,239.80,1.93
-2005,Louisiana,Hispanic,All,‡,NA
-2005,Maine,Black,All,‡,NA
-2005,Maine,Hispanic,All,‡,NA
-2005,Maryland,Black,All,243.82,1.78
-2005,Maryland,Hispanic,All,256.48,4.7700000000000005
-2005,Massachusetts,Black,All,253.06,1.99
-2005,Massachusetts,Hispanic,All,246.44,2.59
-2005,Michigan,Black,All,238.55,2.1
-2005,Michigan,Hispanic,All,249.84,4.1499999999999995
-2005,Minnesota,Black,All,239.14,4.05
-2005,Minnesota,Hispanic,All,244.06,5.119999999999999
-2005,Mississippi,Black,All,236.88,1.48
-2005,Mississippi,Hispanic,All,‡,NA
-2005,Missouri,Black,All,242.13,1.82
-2005,Missouri,Hispanic,All,257.57,6.01
-2005,Montana,Black,All,‡,NA
-2005,Montana,Hispanic,All,‡,NA
-2005,Nebraska,Black,All,243.03,2.4899999999999998
-2005,Nebraska,Hispanic,All,245.19,2.02
-2005,Nevada,Black,All,239.83,3.58
-2005,Nevada,Hispanic,All,241.26,1.1400000000000001
-2005,New Hampshire,Black,All,‡,NA
-2005,New Hampshire,Hispanic,All,‡,NA
-2005,New Jersey,Black,All,250.51,2.77
-2005,New Jersey,Hispanic,All,251.28,2.11
-2005,New Mexico,Black,All,‡,NA
-2005,New Mexico,Hispanic,All,244.68,1.1400000000000001
-2005,New York,Black,All,242.47,2.05
-2005,New York,Hispanic,All,250.48,1.76
-2005,North Carolina,Black,All,239.82,1.62
-2005,North Carolina,Hispanic,All,247.50,2.9499999999999997
-2005,North Dakota,Black,All,‡,NA
-2005,North Dakota,Hispanic,All,‡,NA
-2005,Ohio,Black,All,242.70,2.6
-2005,Ohio,Hispanic,All,245.20,4.49
-2005,Oklahoma,Black,All,242.97,2.71
-2005,Oklahoma,Hispanic,All,246.87,2.44
-2005,Oregon,Black,All,244.89,3.8
-2005,Oregon,Hispanic,All,244.65,3.09
-2005,Pennsylvania,Black,All,239.38,3.9
-2005,Pennsylvania,Hispanic,All,246.09,6.79
-2005,Rhode Island,Black,All,242.91,2.36
-2005,Rhode Island,Hispanic,All,236.57,2.58
-2005,South Carolina,Black,All,242.45,1.28
-2005,South Carolina,Hispanic,All,‡,NA
-2005,South Dakota,Black,All,‡,NA
-2005,South Dakota,Hispanic,All,‡,NA
-2005,Tennessee,Black,All,240.07,1.84
-2005,Tennessee,Hispanic,All,‡,NA
-2005,Texas,Black,All,246.13,1.71
-2005,Texas,Hispanic,All,248.08,0.88
-2005,Utah,Black,All,‡,NA
-2005,Utah,Hispanic,All,242.82,2.5
-2005,Vermont,Black,All,‡,NA
-2005,Vermont,Hispanic,All,‡,NA
-2005,Virginia,Black,All,251.41,1.85
-2005,Virginia,Hispanic,All,258.81,2.27
-2005,Washington,Black,All,255.04,4.06
-2005,Washington,Hispanic,All,245.26,3.34
-2005,West Virginia,Black,All,236.07,3.7
-2005,West Virginia,Hispanic,All,‡,NA
-2005,Wisconsin,Black,All,236.37,4.06
-2005,Wisconsin,Hispanic,All,247.46,5.119999999999999
-2005,Wyoming,Black,All,‡,NA
-2005,Wyoming,Hispanic,All,255.68,3.06
-2007,National public,Black,All,243.83,0.39
-2007,National public,Hispanic,All,245.77,0.43000000000000005
-2007,Alabama,Black,All,235.89,1.3900000000000001
-2007,Alabama,Hispanic,All,249.97,4.76
-2007,Alaska,Black,All,250.46,3.19
-2007,Alaska,Hispanic,All,257.18,3.4499999999999997
-2007,Arizona,Black,All,247.86,3.3899999999999997
-2007,Arizona,Hispanic,All,241.14,1.8
-2007,Arkansas,Black,All,235.76,2.04
-2007,Arkansas,Hispanic,All,248.73,3.57
-2007,California,Black,All,237.01,2
-2007,California,Hispanic,All,239.49,0.8
-2007,Colorado,Black,All,252.38,3.17
-2007,Colorado,Hispanic,All,249.40,1.9
-2007,Connecticut,Black,All,246.12,3.13
-2007,Connecticut,Hispanic,All,242.63,2.64
-2007,Delaware,Black,All,250.47,1.09
-2007,Delaware,Hispanic,All,256.74,2.24
-2007,District of Columbia,Black,All,237.91,0.8600000000000001
-2007,District of Columbia,Hispanic,All,249.06,3.21
-2007,DoDEA,Black,All,258.85,2.12
-2007,DoDEA,Hispanic,All,272.90,1.6800000000000002
-2007,Florida,Black,All,243.76,1.6900000000000002
-2007,Florida,Hispanic,All,255.85,1.82
-2007,Georgia,Black,All,245.95,1.54
-2007,Georgia,Hispanic,All,249.87,3.23
-2007,Hawaii,Black,All,254.72,5.6499999999999995
-2007,Hawaii,Hispanic,All,248.91,4.5
-2007,Idaho,Black,All,‡,NA
-2007,Idaho,Hispanic,All,243.20,2.3899999999999997
-2007,Illinois,Black,All,243.55,1.84
-2007,Illinois,Hispanic,All,250.20,1.94
-2007,Indiana,Black,All,242.29,1.94
-2007,Indiana,Hispanic,All,255.24,3.62
-2007,Iowa,Black,All,247.14,5.46
-2007,Iowa,Hispanic,All,250.41,3.09
-2007,Kansas,Black,All,245.69,3.14
-2007,Kansas,Hispanic,All,248.13,3.3699999999999997
-2007,Kentucky,Black,All,246.84,2.3299999999999996
-2007,Kentucky,Hispanic,All,‡,NA
-2007,Louisiana,Black,All,240.46,1.34
-2007,Louisiana,Hispanic,All,‡,NA
-2007,Maine,Black,All,‡,NA
-2007,Maine,Hispanic,All,‡,NA
-2007,Maryland,Black,All,249.02,1.6900000000000002
-2007,Maryland,Hispanic,All,257.57,4.430000000000001
-2007,Massachusetts,Black,All,253.07,2.23
-2007,Massachusetts,Hispanic,All,250.61,2.27
-2007,Michigan,Black,All,235.92,2.53
-2007,Michigan,Hispanic,All,240.54,4.72
-2007,Minnesota,Black,All,244.59,3.15
-2007,Minnesota,Hispanic,All,244.50,4.57
-2007,Mississippi,Black,All,238.41,1.1700000000000002
-2007,Mississippi,Hispanic,All,‡,NA
-2007,Missouri,Black,All,241.96,2.15
-2007,Missouri,Hispanic,All,247.74,5.1499999999999995
-2007,Montana,Black,All,‡,NA
-2007,Montana,Hispanic,All,‡,NA
-2007,Nebraska,Black,All,242.86,3.16
-2007,Nebraska,Hispanic,All,254.81,2.53
-2007,Nevada,Black,All,247.57,3.02
-2007,Nevada,Hispanic,All,238.48,1.3900000000000001
-2007,New Hampshire,Black,All,‡,NA
-2007,New Hampshire,Hispanic,All,251.65,5.2700000000000005
-2007,New Jersey,Black,All,249.12,2.4099999999999997
-2007,New Jersey,Hispanic,All,256.52,2.02
-2007,New Mexico,Black,All,248.24,4.18
-2007,New Mexico,Hispanic,All,245.53,1.06
-2007,New York,Black,All,245.56,2.24
-2007,New York,Hispanic,All,245.81,2.3
-2007,North Carolina,Black,All,240.92,1.87
-2007,North Carolina,Hispanic,All,245.89,3.3099999999999996
-2007,North Dakota,Black,All,‡,NA
-2007,North Dakota,Hispanic,All,‡,NA
-2007,Ohio,Black,All,246.35,1.72
-2007,Ohio,Hispanic,All,259.64,5.99
-2007,Oklahoma,Black,All,243.37,2.66
-2007,Oklahoma,Hispanic,All,241.11,2.8299999999999996
-2007,Oregon,Black,All,249.73,5.68
-2007,Oregon,Hispanic,All,243.49,2.36
-2007,Pennsylvania,Black,All,247.70,3.3099999999999996
-2007,Pennsylvania,Hispanic,All,244.39,5.04
-2007,Rhode Island,Black,All,238.74,3.23
-2007,Rhode Island,Hispanic,All,233.35,1.77
-2007,South Carolina,Black,All,241.76,1.48
-2007,South Carolina,Hispanic,All,243.68,4.55
-2007,South Dakota,Black,All,‡,NA
-2007,South Dakota,Hispanic,All,‡,NA
-2007,Tennessee,Black,All,239.78,1.85
-2007,Tennessee,Hispanic,All,251.96,5.24
-2007,Texas,Black,All,248.65,1.82
-2007,Texas,Hispanic,All,250.90,0.92
-2007,Utah,Black,All,‡,NA
-2007,Utah,Hispanic,All,241.88,2.63
-2007,Vermont,Black,All,‡,NA
-2007,Vermont,Hispanic,All,‡,NA
-2007,Virginia,Black,All,252.22,1.1
-2007,Virginia,Hispanic,All,258.42,3.3
-2007,Washington,Black,All,247.00,3.42
-2007,Washington,Hispanic,All,246.91,2.4899999999999998
-2007,West Virginia,Black,All,240.73,2.8299999999999996
-2007,West Virginia,Hispanic,All,‡,NA
-2007,Wisconsin,Black,All,231.32,4.41
-2007,Wisconsin,Hispanic,All,247.44,2.75
-2007,Wyoming,Black,All,‡,NA
-2007,Wyoming,Hispanic,All,248.26,2.9299999999999997
-2009,National public,Black,All,245.45,0.39
-2009,National public,Hispanic,All,247.83,0.61
-2009,Alabama,Black,All,237.79,1.74
-2009,Alabama,Hispanic,All,245.05,6.2
-2009,Alaska,Black,All,248.94,3.46
-2009,Alaska,Hispanic,All,260.33,3.03
-2009,Arizona,Black,All,248.91,4.49
-2009,Arizona,Hispanic,All,245.97,1.4
-2009,Arkansas,Black,All,233.76,2.3699999999999997
-2009,Arkansas,Hispanic,All,249.08,3.59
-2009,California,Black,All,242.62,3
-2009,California,Hispanic,All,241.42,1.1700000000000002
-2009,Colorado,Black,All,250.17,3.09
-2009,Colorado,Hispanic,All,249.65,1.41
-2009,Connecticut,Black,All,244.89,2.23
-2009,Connecticut,Hispanic,All,252.11,2.09
-2009,Delaware,Black,All,253.69,1.1800000000000002
-2009,Delaware,Hispanic,All,256.49,2.42
-2009,District of Columbia,Black,All,239.11,0.98
-2009,District of Columbia,Hispanic,All,248.74,2.96
-2009,DoDEA,Black,All,262.38,2.11
-2009,DoDEA,Hispanic,All,269.30,1.76
-2009,Florida,Black,All,250.37,1.98
-2009,Florida,Hispanic,All,260.14,1.41
-2009,Georgia,Black,All,248.93,1.09
-2009,Georgia,Hispanic,All,254.19,2.96
-2009,Hawaii,Black,All,255.77,5.07
-2009,Hawaii,Hispanic,All,251.84,4.88
-2009,Idaho,Black,All,‡,NA
-2009,Idaho,Hispanic,All,240.98,1.79
-2009,Illinois,Black,All,243.13,1.53
-2009,Illinois,Hispanic,All,252.31,1.62
-2009,Indiana,Black,All,249.78,2.36
-2009,Indiana,Hispanic,All,251.14,2.6
-2009,Iowa,Black,All,240.62,3.82
-2009,Iowa,Hispanic,All,249.27,3.8
-2009,Kansas,Black,All,248.11,2.5
-2009,Kansas,Hispanic,All,250.04,2.72
-2009,Kentucky,Black,All,249.04,2.06
-2009,Kentucky,Hispanic,All,265.48,4.04
-2009,Louisiana,Black,All,240.53,1.87
-2009,Louisiana,Hispanic,All,‡,NA
-2009,Maine,Black,All,253.79,5.470000000000001
-2009,Maine,Hispanic,All,‡,NA
-2009,Maryland,Black,All,250.41,1.93
-2009,Maryland,Hispanic,All,258.33,3.27
-2009,Massachusetts,Black,All,251.40,2.69
-2009,Massachusetts,Hispanic,All,250.40,2.7800000000000002
-2009,Michigan,Black,All,238.29,2.1
-2009,Michigan,Hispanic,All,253.08,4.73
-2009,Minnesota,Black,All,243.99,3.6
-2009,Minnesota,Hispanic,All,246.97,3.5
-2009,Mississippi,Black,All,238.72,1.04
-2009,Mississippi,Hispanic,All,‡,NA
-2009,Missouri,Black,All,245.94,2.53
-2009,Missouri,Hispanic,All,260.14,4.25
-2009,Montana,Black,All,‡,NA
-2009,Montana,Hispanic,All,‡,NA
-2009,Nebraska,Black,All,241.56,2.96
-2009,Nebraska,Hispanic,All,252.67,2.27
-2009,Nevada,Black,All,241.30,2.27
-2009,Nevada,Hispanic,All,242.45,1.3
-2009,New Hampshire,Black,All,‡,NA
-2009,New Hampshire,Hispanic,All,256.92,4.6
-2009,New Jersey,Black,All,249.76,3.08
-2009,New Jersey,Hispanic,All,256.09,2.22
-2009,New Mexico,Black,All,245.61,4.98
-2009,New Mexico,Hispanic,All,247.55,1.33
-2009,New York,Black,All,245.92,2.04
-2009,New York,Hispanic,All,247.35,1.81
-2009,North Carolina,Black,All,242.65,1.51
-2009,North Carolina,Hispanic,All,248.60,2.59
-2009,North Dakota,Black,All,‡,NA
-2009,North Dakota,Hispanic,All,‡,NA
-2009,Ohio,Black,All,247.04,2.03
-2009,Ohio,Hispanic,All,251.12,4.31
-2009,Oklahoma,Black,All,246.63,3.02
-2009,Oklahoma,Hispanic,All,245.85,2.68
-2009,Oregon,Black,All,‡,NA
-2009,Oregon,Hispanic,All,246.95,1.5
-2009,Pennsylvania,Black,All,249.49,1.71
-2009,Pennsylvania,Hispanic,All,247.47,2.4699999999999998
-2009,Rhode Island,Black,All,238.07,3.1
-2009,Rhode Island,Hispanic,All,240.86,1.81
-2009,South Carolina,Black,All,242.84,1.5
-2009,South Carolina,Hispanic,All,258.73,3.4499999999999997
-2009,South Dakota,Black,All,‡,NA
-2009,South Dakota,Hispanic,All,‡,NA
-2009,Tennessee,Black,All,243.11,2.06
-2009,Tennessee,Hispanic,All,251.84,4.39
-2009,Texas,Black,All,248.86,1.97
-2009,Texas,Hispanic,All,251.37,1.2
-2009,Utah,Black,All,‡,NA
-2009,Utah,Hispanic,All,245.98,1.8
-2009,Vermont,Black,All,‡,NA
-2009,Vermont,Hispanic,All,‡,NA
-2009,Virginia,Black,All,249.51,1.97
-2009,Virginia,Hispanic,All,256.09,2.75
-2009,Washington,Black,All,244.66,4.319999999999999
-2009,Washington,Hispanic,All,248.36,2.57
-2009,West Virginia,Black,All,250.02,3.4299999999999997
-2009,West Virginia,Hispanic,All,‡,NA
-2009,Wisconsin,Black,All,237.56,2.59
-2009,Wisconsin,Hispanic,All,250.13,2.02
-2009,Wyoming,Black,All,‡,NA
-2009,Wyoming,Hispanic,All,258.71,2.21
-2011,National public,Black,All,247.61,0.48000000000000004
-2011,National public,Hispanic,All,251.30,0.46
-2011,Alabama,Black,All,242.83,1.52
-2011,Alabama,Hispanic,All,246.46,3.84
-2011,Alaska,Black,All,251.69,3.32
-2011,Alaska,Hispanic,All,260.01,3.18
-2011,Arizona,Black,All,248.08,3.21
-2011,Arizona,Hispanic,All,251.08,1.56
-2011,Arkansas,Black,All,237.82,1.52
-2011,Arkansas,Hispanic,All,253.43,2.07
-2011,California,Black,All,242.83,3.3699999999999997
-2011,California,Hispanic,All,245.22,1.02
-2011,Colorado,Black,All,256.95,3.24
-2011,Colorado,Hispanic,All,254.25,2.22
-2011,Connecticut,Black,All,254.88,2.62
-2011,Connecticut,Hispanic,All,254.57,1.58
-2011,Delaware,Black,All,254.24,0.9400000000000001
-2011,Delaware,Hispanic,All,259.27,2.4499999999999997
-2011,District of Columbia,Black,All,238.53,0.8700000000000001
-2011,District of Columbia,Hispanic,All,239.05,2.86
-2011,DoDEA,Black,All,263.22,2.13
-2011,DoDEA,Hispanic,All,268.09,1.81
-2011,Florida,Black,All,247.59,1.58
-2011,Florida,Hispanic,All,259.05,1.35
-2011,Georgia,Black,All,250.53,1.55
-2011,Georgia,Hispanic,All,257.64,2.5
-2011,Hawaii,Black,All,261.04,4.56
-2011,Hawaii,Hispanic,All,246.41,4.06
-2011,Idaho,Black,All,‡,NA
-2011,Idaho,Hispanic,All,253.86,1.85
-2011,Illinois,Black,All,249.42,1.49
-2011,Illinois,Hispanic,All,257.09,1.44
-2011,Indiana,Black,All,246.52,3.18
-2011,Indiana,Hispanic,All,255.37,3.24
-2011,Iowa,Black,All,246.52,2.9899999999999998
-2011,Iowa,Hispanic,All,251.13,3.3
-2011,Kansas,Black,All,247.70,3.08
-2011,Kansas,Hispanic,All,254.19,2.02
-2011,Kentucky,Black,All,248.36,1.8900000000000001
-2011,Kentucky,Hispanic,All,263.59,3.69
-2011,Louisiana,Black,All,241.39,2.01
-2011,Louisiana,Hispanic,All,248.83,4.34
-2011,Maine,Black,All,247.97,5.8
-2011,Maine,Hispanic,All,‡,NA
-2011,Maryland,Black,All,255.35,1.62
-2011,Maryland,Hispanic,All,261.71,4.1499999999999995
-2011,Massachusetts,Black,All,254.65,2.7
-2011,Massachusetts,Hispanic,All,247.91,3.04
-2011,Michigan,Black,All,244.13,2.92
-2011,Michigan,Hispanic,All,260.32,3.52
-2011,Minnesota,Black,All,246.27,3.05
-2011,Minnesota,Hispanic,All,257.30,3.67
-2011,Mississippi,Black,All,240.40,1.29
-2011,Mississippi,Hispanic,All,‡,NA
-2011,Missouri,Black,All,243.79,2.79
-2011,Missouri,Hispanic,All,257.74,5.41
-2011,Montana,Black,All,‡,NA
-2011,Montana,Hispanic,All,262.23,4.71
-2011,Nebraska,Black,All,250.10,3.61
-2011,Nebraska,Hispanic,All,251.75,1.96
-2011,Nevada,Black,All,250.12,2.44
-2011,Nevada,Hispanic,All,247.19,1.31
-2011,New Hampshire,Black,All,‡,NA
-2011,New Hampshire,Hispanic,All,253.42,4.31
-2011,New Jersey,Black,All,255.68,2.53
-2011,New Jersey,Hispanic,All,257.24,2.2
-2011,New Mexico,Black,All,247.54,5.35
-2011,New Mexico,Hispanic,All,251.15,1.01
-2011,New York,Black,All,251.24,1.97
-2011,New York,Hispanic,All,250.59,2.04
-2011,North Carolina,Black,All,247.04,1.47
-2011,North Carolina,Hispanic,All,255.63,2.2800000000000002
-2011,North Dakota,Black,All,‡,NA
-2011,North Dakota,Hispanic,All,‡,NA
-2011,Ohio,Black,All,246.94,1.85
-2011,Ohio,Hispanic,All,251.51,4.109999999999999
-2011,Oklahoma,Black,All,246.87,2.94
-2011,Oklahoma,Hispanic,All,250.67,2.29
-2011,Oregon,Black,All,247.71,5.470000000000001
-2011,Oregon,Hispanic,All,249.84,1.55
-2011,Pennsylvania,Black,All,243.72,2.6
-2011,Pennsylvania,Hispanic,All,250.18,3.15
-2011,Rhode Island,Black,All,248.13,4.22
-2011,Rhode Island,Hispanic,All,247.60,1.95
-2011,South Carolina,Black,All,245.63,1.35
-2011,South Carolina,Hispanic,All,256.71,3.48
-2011,South Dakota,Black,All,256.37,3.58
-2011,South Dakota,Hispanic,All,256.49,3.7800000000000002
-2011,Tennessee,Black,All,240.28,1.6800000000000002
-2011,Tennessee,Hispanic,All,254.83,4.07
-2011,Texas,Black,All,252.10,1.81
-2011,Texas,Hispanic,All,254.18,1.11
-2011,Utah,Black,All,‡,NA
-2011,Utah,Hispanic,All,247.31,2.03
-2011,Vermont,Black,All,‡,NA
-2011,Vermont,Hispanic,All,‡,NA
-2011,Virginia,Black,All,251.00,1.6400000000000001
-2011,Virginia,Hispanic,All,258.99,2.77
-2011,Washington,Black,All,254.36,4.06
-2011,Washington,Hispanic,All,249.53,1.6
-2011,West Virginia,Black,All,248.76,3.3099999999999996
-2011,West Virginia,Hispanic,All,‡,NA
-2011,Wisconsin,Black,All,240.22,1.92
-2011,Wisconsin,Hispanic,All,248.35,2.59
-2011,Wyoming,Black,All,‡,NA
-2011,Wyoming,Hispanic,All,258.31,2.6
-2013,National public,Black,All,249.56,0.42000000000000004
-2013,National public,Hispanic,All,254.65,0.45
-2013,Alabama,Black,All,241.34,1.42
-2013,Alabama,Hispanic,All,248.88,3.96
-2013,Alaska,Black,All,253.07,3.66
-2013,Alaska,Hispanic,All,261.51,2.6
-2013,Arizona,Black,All,248.21,3.56
-2013,Arizona,Hispanic,All,252.06,1.2
-2013,Arkansas,Black,All,243.65,1.76
-2013,Arkansas,Hispanic,All,255.67,2.23
-2013,California,Black,All,247.00,2.3099999999999996
-2013,California,Hispanic,All,252.07,1.06
-2013,Colorado,Black,All,247.05,3.9099999999999997
-2013,Colorado,Hispanic,All,256.84,1.76
-2013,Connecticut,Black,All,256.35,2.9099999999999997
-2013,Connecticut,Hispanic,All,255.94,2.36
-2013,Delaware,Black,All,252.82,1.1900000000000002
-2013,Delaware,Hispanic,All,260.77,1.93
-2013,District of Columbia,Black,All,243.30,0.89
-2013,District of Columbia,Hispanic,All,248.30,2.8
-2013,DoDEA,Black,All,266.24,1.59
-2013,DoDEA,Hispanic,All,274.29,1.34
-2013,Florida,Black,All,253.78,1.8
-2013,Florida,Hispanic,All,260.43,1.28
-2013,Georgia,Black,All,252.41,1.76
-2013,Georgia,Hispanic,All,260.38,2.4699999999999998
-2013,Hawaii,Black,All,258.16,3.38
-2013,Hawaii,Hispanic,All,258.38,3.03
-2013,Idaho,Black,All,‡,NA
-2013,Idaho,Hispanic,All,253.71,1.83
-2013,Illinois,Black,All,246.31,1.85
-2013,Illinois,Hispanic,All,256.56,1.3900000000000001
-2013,Indiana,Black,All,246.16,2.51
-2013,Indiana,Hispanic,All,258.96,2.53
-2013,Iowa,Black,All,248.17,3.23
-2013,Iowa,Hispanic,All,255.88,2.51
-2013,Kansas,Black,All,243.93,3.9499999999999997
-2013,Kansas,Hispanic,All,254.13,1.92
-2013,Kentucky,Black,All,246.98,2.11
-2013,Kentucky,Hispanic,All,263.27,3.52
-2013,Louisiana,Black,All,245.38,1.33
-2013,Louisiana,Hispanic,All,259.83,3.56
-2013,Maine,Black,All,‡,NA
-2013,Maine,Hispanic,All,‡,NA
-2013,Maryland,Black,All,259.40,1.37
-2013,Maryland,Hispanic,All,265.63,3.01
-2013,Massachusetts,Black,All,254.65,2.5
-2013,Massachusetts,Hispanic,All,252.77,1.75
-2013,Michigan,Black,All,245.50,2.4699999999999998
-2013,Michigan,Hispanic,All,256.87,3.16
-2013,Minnesota,Black,All,247.89,3.09
-2013,Minnesota,Hispanic,All,250.96,3.36
-2013,Mississippi,Black,All,238.97,1.35
-2013,Mississippi,Hispanic,All,251.70,4.74
-2013,Missouri,Black,All,244.86,3.3
-2013,Missouri,Hispanic,All,266.48,3.77
-2013,Montana,Black,All,‡,NA
-2013,Montana,Hispanic,All,262.53,3.75
-2013,Nebraska,Black,All,250.65,2.73
-2013,Nebraska,Hispanic,All,253.95,1.71
-2013,Nevada,Black,All,247.81,2.4299999999999997
-2013,Nevada,Hispanic,All,251.91,1.21
-2013,New Hampshire,Black,All,‡,NA
-2013,New Hampshire,Hispanic,All,250.63,3.84
-2013,New Jersey,Black,All,259.55,2.15
-2013,New Jersey,Hispanic,All,264.41,2.3699999999999997
-2013,New Mexico,Black,All,245.21,4.89
-2013,New Mexico,Hispanic,All,251.67,0.76
-2013,New York,Black,All,251.87,1.94
-2013,New York,Hispanic,All,251.88,1.6800000000000002
-2013,North Carolina,Black,All,250.67,1.6600000000000001
-2013,North Carolina,Hispanic,All,257.86,2.06
-2013,North Dakota,Black,All,254.81,4.359999999999999
-2013,North Dakota,Hispanic,All,‡,NA
-2013,Ohio,Black,All,247.03,2.79
-2013,Ohio,Hispanic,All,265.79,3.86
-2013,Oklahoma,Black,All,245.33,2.88
-2013,Oklahoma,Hispanic,All,251.68,2.32
-2013,Oregon,Black,All,‡,NA
-2013,Oregon,Hispanic,All,252.72,1.59
-2013,Pennsylvania,Black,All,249.71,2.17
-2013,Pennsylvania,Hispanic,All,249.22,3.14
-2013,Rhode Island,Black,All,249.32,2.54
-2013,Rhode Island,Hispanic,All,248.73,1.55
-2013,South Carolina,Black,All,246.67,1.6500000000000001
-2013,South Carolina,Hispanic,All,256.91,3.42
-2013,South Dakota,Black,All,‡,NA
-2013,South Dakota,Hispanic,All,258.98,3.3299999999999996
-2013,Tennessee,Black,All,250.58,2.7
-2013,Tennessee,Hispanic,All,261.68,3.75
-2013,Texas,Black,All,252.80,2.4899999999999998
-2013,Texas,Hispanic,All,254.75,1.43
-2013,Utah,Black,All,‡,NA
-2013,Utah,Hispanic,All,255.87,2.2600000000000002
-2013,Vermont,Black,All,257.36,4.48
-2013,Vermont,Hispanic,All,‡,NA
-2013,Virginia,Black,All,249.12,2.14
-2013,Virginia,Hispanic,All,262.12,2.12
-2013,Washington,Black,All,257.57,3.86
-2013,Washington,Hispanic,All,253.26,2.3499999999999996
-2013,West Virginia,Black,All,254.69,3.13
-2013,West Virginia,Hispanic,All,‡,NA
-2013,Wisconsin,Black,All,237.33,1.6700000000000002
-2013,Wisconsin,Hispanic,All,257.64,1.87
-2013,Wyoming,Black,All,‡,NA
-2013,Wyoming,Hispanic,All,261.13,1.86
-2015,National public,Black,All,247.17,0.47000000000000003
-2015,National public,Hispanic,All,252.52,0.43000000000000005
-2015,Alabama,Black,All,243.24,2.03
-2015,Alabama,Hispanic,All,252.48,3.86
-2015,Alaska,Black,All,247.98,4.08
-2015,Alaska,Hispanic,All,262.72,3.03
-2015,Arizona,Black,All,249.47,3.98
-2015,Arizona,Hispanic,All,254.21,1.28
-2015,Arkansas,Black,All,238.35,1.8800000000000001
-2015,Arkansas,Hispanic,All,254.92,2.73
-2015,California,Black,All,248.19,2.59
-2015,California,Hispanic,All,248.55,1.1900000000000002
-2015,Colorado,Black,All,254.96,3.7800000000000002
-2015,Colorado,Hispanic,All,253.41,1.72
-2015,Connecticut,Black,All,250.86,2.53
-2015,Connecticut,Hispanic,All,255.65,2.63
-2015,Delaware,Black,All,248.88,1.36
-2015,Delaware,Hispanic,All,252.85,2.25
-2015,District of Columbia,Black,All,241.62,1.07
-2015,District of Columbia,Hispanic,All,248.61,2.9099999999999997
-2015,DoDEA,Black,All,272.69,1.93
-2015,DoDEA,Hispanic,All,273.42,1.77
-2015,Florida,Black,All,251.14,1.83
-2015,Florida,Hispanic,All,259.82,1.35
-2015,Georgia,Black,All,248.34,1.73
-2015,Georgia,Hispanic,All,256.50,2.13
-2015,Hawaii,Black,All,257.72,4.21
-2015,Hawaii,Hispanic,All,257.64,3.11
-2015,Idaho,Black,All,‡,NA
-2015,Idaho,Hispanic,All,253.02,2.2600000000000002
-2015,Illinois,Black,All,246.54,1.55
-2015,Illinois,Hispanic,All,256.52,1.8
-2015,Indiana,Black,All,252.18,2.53
-2015,Indiana,Hispanic,All,257.33,2.9499999999999997
-2015,Iowa,Black,All,245.20,3.1
-2015,Iowa,Hispanic,All,255.70,2.74
-2015,Kansas,Black,All,246.46,3.7800000000000002
-2015,Kansas,Hispanic,All,254.29,2.55
-2015,Kentucky,Black,All,246.82,2.01
-2015,Kentucky,Hispanic,All,266.28,3.05
-2015,Louisiana,Black,All,243.21,1.56
-2015,Louisiana,Hispanic,All,257.59,3.62
-2015,Maine,Black,All,246.29,4.71
-2015,Maine,Hispanic,All,‡,NA
-2015,Maryland,Black,All,251.18,1.51
-2015,Maryland,Hispanic,All,258.24,2.3
-2015,Massachusetts,Black,All,251.97,2.63
-2015,Massachusetts,Hispanic,All,248.98,2.32
-2015,Michigan,Black,All,243.02,1.83
-2015,Michigan,Hispanic,All,262.69,3.66
-2015,Minnesota,Black,All,246.82,3
-2015,Minnesota,Hispanic,All,259.98,3.3
-2015,Mississippi,Black,All,239.85,1.36
-2015,Mississippi,Hispanic,All,‡,NA
-2015,Missouri,Black,All,245.98,1.96
-2015,Missouri,Hispanic,All,258.32,4.79
-2015,Montana,Black,All,‡,NA
-2015,Montana,Hispanic,All,256.90,3.88
-2015,Nebraska,Black,All,245.38,3.46
-2015,Nebraska,Hispanic,All,256.77,1.86
-2015,Nevada,Black,All,248.59,2.3699999999999997
-2015,Nevada,Hispanic,All,250.00,1.08
-2015,New Hampshire,Black,All,‡,NA
-2015,New Hampshire,Hispanic,All,262.48,4.6499999999999995
-2015,New Jersey,Black,All,252.90,2.2800000000000002
-2015,New Jersey,Hispanic,All,254.44,2.05
-2015,New Mexico,Black,All,‡,NA
-2015,New Mexico,Hispanic,All,249.20,0.99
-2015,New York,Black,All,247.96,2.14
-2015,New York,Hispanic,All,253.65,2.04
-2015,North Carolina,Black,All,243.22,1.96
-2015,North Carolina,Hispanic,All,251.95,1.9
-2015,North Dakota,Black,All,254.64,2.86
-2015,North Dakota,Hispanic,All,260.68,3.3699999999999997
-2015,Ohio,Black,All,245.24,3.25
-2015,Ohio,Hispanic,All,255.49,6.02
-2015,Oklahoma,Black,All,244.31,3.16
-2015,Oklahoma,Hispanic,All,256.87,1.95
-2015,Oregon,Black,All,‡,NA
-2015,Oregon,Hispanic,All,252.10,1.8900000000000001
-2015,Pennsylvania,Black,All,244.72,2.71
-2015,Pennsylvania,Hispanic,All,249.59,4.24
-2015,Rhode Island,Black,All,247.51,2.9899999999999998
-2015,Rhode Island,Hispanic,All,244.87,1.48
-2015,South Carolina,Black,All,243.59,1.58
-2015,South Carolina,Hispanic,All,249.42,3.58
-2015,South Dakota,Black,All,259.26,3.68
-2015,South Dakota,Hispanic,All,260.12,3.15
-2015,Tennessee,Black,All,246.86,2.29
-2015,Tennessee,Hispanic,All,256.76,3.19
-2015,Texas,Black,All,251.26,2.24
-2015,Texas,Hispanic,All,252.49,1.1600000000000001
-2015,Utah,Black,All,‡,NA
-2015,Utah,Hispanic,All,251.67,2.3699999999999997
-2015,Vermont,Black,All,‡,NA
-2015,Vermont,Hispanic,All,‡,NA
-2015,Virginia,Black,All,249.30,2.08
-2015,Virginia,Hispanic,All,257.45,2.68
-2015,Washington,Black,All,250.00,4.57
-2015,Washington,Hispanic,All,250.02,2.13
-2015,West Virginia,Black,All,250.18,3.14
-2015,West Virginia,Hispanic,All,‡,NA
-2015,Wisconsin,Black,All,240.86,2.6
-2015,Wisconsin,Hispanic,All,254.83,2.44
-2015,Wyoming,Black,All,‡,NA
-2015,Wyoming,Hispanic,All,258.22,2.17
-2017,National public,Black,All,248.37,0.48000000000000004
-2017,National public,Hispanic,All,254.59,0.5
-2017,Alabama,Black,All,241.15,2.01
-2017,Alabama,Hispanic,All,243.22,4.14
-2017,Alaska,Black,All,245.62,4.22
-2017,Alaska,Hispanic,All,262.13,2.77
-2017,Arizona,Black,All,253.99,3.23
-2017,Arizona,Hispanic,All,253.70,1.36
-2017,Arkansas,Black,All,241.11,1.87
-2017,Arkansas,Hispanic,All,254.96,2.23
-2017,California,Black,All,249.95,3.2
-2017,California,Hispanic,All,251.24,0.99
-2017,Colorado,Black,All,250.43,3.66
-2017,Colorado,Hispanic,All,256.96,1.75
-2017,Connecticut,Black,All,249.47,3.02
-2017,Connecticut,Hispanic,All,252.89,2.1
-2017,Delaware,Black,All,248.36,1.3800000000000001
-2017,Delaware,Hispanic,All,253.66,2.11
-2017,District of Columbia,Black,All,239.61,1.21
-2017,District of Columbia,Hispanic,All,241.50,3.22
-2017,DoDEA,Black,All,267.74,2.1
-2017,DoDEA,Hispanic,All,277.41,1.78
-2017,Florida,Black,All,253.51,1.8900000000000001
-2017,Florida,Hispanic,All,262.41,1.49
-2017,Georgia,Black,All,254.55,1.45
-2017,Georgia,Hispanic,All,259.70,2.08
-2017,Hawaii,Black,All,‡,NA
-2017,Hawaii,Hispanic,All,264.63,2.4299999999999997
-2017,Idaho,Black,All,‡,NA
-2017,Idaho,Hispanic,All,254.66,1.52
-2017,Illinois,Black,All,245.64,1.49
-2017,Illinois,Hispanic,All,258.36,1.45
-2017,Indiana,Black,All,255.11,2.8699999999999997
-2017,Indiana,Hispanic,All,265.43,2.73
-2017,Iowa,Black,All,242.51,4.159999999999999
-2017,Iowa,Hispanic,All,258.30,2.4
-2017,Kansas,Black,All,245.73,3.69
-2017,Kansas,Hispanic,All,257.19,2.12
-2017,Kentucky,Black,All,246.35,2.7
-2017,Kentucky,Hispanic,All,261.34,3.4899999999999998
-2017,Louisiana,Black,All,242.27,1.93
-2017,Louisiana,Hispanic,All,253.35,4.51
-2017,Maine,Black,All,235.17,5.319999999999999
-2017,Maine,Hispanic,All,‡,NA
-2017,Maryland,Black,All,251.01,1.2
-2017,Maryland,Hispanic,All,254.74,2.72
-2017,Massachusetts,Black,All,258.01,2.65
-2017,Massachusetts,Hispanic,All,258.62,2.2800000000000002
-2017,Michigan,Black,All,245.35,2.12
-2017,Michigan,Hispanic,All,259.05,2.84
-2017,Minnesota,Black,All,244.89,3.21
-2017,Minnesota,Hispanic,All,252.23,3.38
-2017,Mississippi,Black,All,241.95,1.1800000000000002
-2017,Mississippi,Hispanic,All,252.90,5.13
-2017,Missouri,Black,All,249.65,3.09
-2017,Missouri,Hispanic,All,257.43,3.84
-2017,Montana,Black,All,‡,NA
-2017,Montana,Hispanic,All,259.39,4.25
-2017,Nebraska,Black,All,245.09,2.63
-2017,Nebraska,Hispanic,All,254.11,2.14
-2017,Nevada,Black,All,246.01,2.3699999999999997
-2017,Nevada,Hispanic,All,253.29,1.06
-2017,New Hampshire,Black,All,‡,NA
-2017,New Hampshire,Hispanic,All,261.05,3.92
-2017,New Jersey,Black,All,256.95,2.82
-2017,New Jersey,Hispanic,All,258.76,2.13
-2017,New Mexico,Black,All,‡,NA
-2017,New Mexico,Hispanic,All,251.26,0.93
-2017,New York,Black,All,251.26,2.32
-2017,New York,Hispanic,All,252.80,2.04
-2017,North Carolina,Black,All,247.87,1.59
-2017,North Carolina,Hispanic,All,254.98,2.2800000000000002
-2017,North Dakota,Black,All,251.75,4.39
-2017,North Dakota,Hispanic,All,259.31,3.8699999999999997
-2017,Ohio,Black,All,243.99,3.3
-2017,Ohio,Hispanic,All,259.60,4.1899999999999995
-2017,Oklahoma,Black,All,246.56,3.4299999999999997
-2017,Oklahoma,Hispanic,All,254.83,2.03
-2017,Oregon,Black,All,‡,NA
-2017,Oregon,Hispanic,All,249.95,1.6500000000000001
-2017,Pennsylvania,Black,All,249.57,2.15
-2017,Pennsylvania,Hispanic,All,244.80,2.63
-2017,Rhode Island,Black,All,247.91,2.4099999999999997
-2017,Rhode Island,Hispanic,All,247.16,1.6300000000000001
-2017,South Carolina,Black,All,240.89,1.31
-2017,South Carolina,Hispanic,All,255.98,3.46
-2017,South Dakota,Black,All,‡,NA
-2017,South Dakota,Hispanic,All,255.13,3.86
-2017,Tennessee,Black,All,242.98,1.3900000000000001
-2017,Tennessee,Hispanic,All,250.91,2.7600000000000002
-2017,Texas,Black,All,247.19,1.82
-2017,Texas,Hispanic,All,254.39,1.3800000000000001
-2017,Utah,Black,All,‡,NA
-2017,Utah,Hispanic,All,251.51,2.01
-2017,Vermont,Black,All,‡,NA
-2017,Vermont,Hispanic,All,‡,NA
-2017,Virginia,Black,All,250.61,2.23
-2017,Virginia,Hispanic,All,259.43,2.58
-2017,Washington,Black,All,255.17,3.9299999999999997
-2017,Washington,Hispanic,All,257.64,1.99
-2017,West Virginia,Black,All,245.34,4.109999999999999
-2017,West Virginia,Hispanic,All,‡,NA
-2017,Wisconsin,Black,All,238.64,2.04
-2017,Wisconsin,Hispanic,All,255.20,2.75
-2017,Wyoming,Black,All,‡,NA
-2017,Wyoming,Hispanic,All,260.70,1.79
-2019,National public,Black,All,243.82,0.46
-2019,National public,Hispanic,All,251.12,0.5700000000000001
-2019,Alabama,Black,All,239.32,2.4499999999999997
-2019,Alabama,Hispanic,All,246.19,5.159999999999999
-2019,Alaska,Black,All,243.08,4.76
-2019,Alaska,Hispanic,All,250.96,4.07
-2019,Arizona,Black,All,238.94,4.44
-2019,Arizona,Hispanic,All,251.16,1.56
-2019,Arkansas,Black,All,237.10,1.9
-2019,Arkansas,Hispanic,All,255.62,3.03
-2019,California,Black,All,235.53,4.03
-2019,California,Hispanic,All,249.16,1.6600000000000001
-2019,Colorado,Black,All,246.09,4.33
-2019,Colorado,Hispanic,All,251.45,1.5
-2019,Connecticut,Black,All,250.58,2.8099999999999996
-2019,Connecticut,Hispanic,All,253.11,2.2
-2019,Delaware,Black,All,245.52,1.48
-2019,Delaware,Hispanic,All,248.61,2.3499999999999996
-2019,District of Columbia,Black,All,240.62,1.1300000000000001
-2019,District of Columbia,Hispanic,All,249.99,2.67
-2019,DoDEA,Black,All,266.86,2.77
-2019,DoDEA,Hispanic,All,274.68,1.61
-2019,Florida,Black,All,247.82,2.36
-2019,Florida,Hispanic,All,258.78,1.48
-2019,Georgia,Black,All,249.47,1.47
-2019,Georgia,Hispanic,All,256.05,2.13
-2019,Hawaii,Black,All,‡,NA
-2019,Hawaii,Hispanic,All,255.33,2.8499999999999996
-2019,Idaho,Black,All,‡,NA
-2019,Idaho,Hispanic,All,249.38,2.19
-2019,Illinois,Black,All,245.54,1.77
-2019,Illinois,Hispanic,All,255.17,1.77
-2019,Indiana,Black,All,245.40,2.9
-2019,Indiana,Hispanic,All,258.77,3.15
-2019,Iowa,Black,All,236.46,3.72
-2019,Iowa,Hispanic,All,249.55,2.77
-2019,Kansas,Black,All,243.57,3.25
-2019,Kansas,Hispanic,All,254.87,1.97
-2019,Kentucky,Black,All,239.40,2.3299999999999996
-2019,Kentucky,Hispanic,All,257.76,4.38
-2019,Louisiana,Black,All,242.24,1.97
-2019,Louisiana,Hispanic,All,257.55,3.98
-2019,Maine,Black,All,236.23,4.96
-2019,Maine,Hispanic,All,‡,NA
-2019,Maryland,Black,All,251.22,1.53
-2019,Maryland,Hispanic,All,247.60,2.29
-2019,Massachusetts,Black,All,258.54,3.07
-2019,Massachusetts,Hispanic,All,250.78,2.67
-2019,Michigan,Black,All,242.99,2.54
-2019,Michigan,Hispanic,All,253.39,3
-2019,Minnesota,Black,All,235.75,3.32
-2019,Minnesota,Hispanic,All,246.88,3.55
-2019,Mississippi,Black,All,244.40,1.1500000000000001
-2019,Mississippi,Hispanic,All,258.56,4.109999999999999
-2019,Missouri,Black,All,240.37,3.8699999999999997
-2019,Missouri,Hispanic,All,257.67,3.6
-2019,Montana,Black,All,‡,NA
-2019,Montana,Hispanic,All,256.64,4.06
-2019,Nebraska,Black,All,239.53,3.51
-2019,Nebraska,Hispanic,All,250.29,2.06
-2019,Nevada,Black,All,242.80,2.84
-2019,Nevada,Hispanic,All,251.23,1.1500000000000001
-2019,New Hampshire,Black,All,‡,NA
-2019,New Hampshire,Hispanic,All,251.43,3.72
-2019,New Jersey,Black,All,249.80,2.64
-2019,New Jersey,Hispanic,All,251.43,2.51
-2019,New Mexico,Black,All,‡,NA
-2019,New Mexico,Hispanic,All,247.80,1.1600000000000001
-2019,New York,Black,All,247.62,2.4699999999999998
-2019,New York,Hispanic,All,248.83,1.87
-2019,North Carolina,Black,All,243.97,1.77
-2019,North Carolina,Hispanic,All,255.93,2.01
-2019,North Dakota,Black,All,246.42,3.9
-2019,North Dakota,Hispanic,All,249.81,3.94
-2019,Ohio,Black,All,240.76,1.95
-2019,Ohio,Hispanic,All,259.15,4.58
-2019,Oklahoma,Black,All,244.39,2.9
-2019,Oklahoma,Hispanic,All,246.04,1.96
-2019,Oregon,Black,All,‡,NA
-2019,Oregon,Hispanic,All,250.01,1.58
-2019,Pennsylvania,Black,All,241.96,2.61
-2019,Pennsylvania,Hispanic,All,243.23,2.9499999999999997
-2019,Rhode Island,Black,All,246.56,3.54
-2019,Rhode Island,Hispanic,All,240.89,1.53
-2019,South Carolina,Black,All,242.04,1.53
-2019,South Carolina,Hispanic,All,252.65,2.8099999999999996
-2019,South Dakota,Black,All,‡,NA
-2019,South Dakota,Hispanic,All,251.91,3.84
-2019,Tennessee,Black,All,245.54,1.3
-2019,Tennessee,Hispanic,All,253.22,2.7800000000000002
-2019,Texas,Black,All,237.79,2.3099999999999996
-2019,Texas,Hispanic,All,250.41,1.4
-2019,Utah,Black,All,‡,NA
-2019,Utah,Hispanic,All,250.71,2.27
-2019,Vermont,Black,All,‡,NA
-2019,Vermont,Hispanic,All,‡,NA
-2019,Virginia,Black,All,242.92,2.08
-2019,Virginia,Hispanic,All,247.03,2.86
-2019,Washington,Black,All,235.72,5.45
-2019,Washington,Hispanic,All,248.16,2.25
-2019,West Virginia,Black,All,238.70,4.470000000000001
-2019,West Virginia,Hispanic,All,‡,NA
-2019,Wisconsin,Black,All,234.70,2.88
-2019,Wisconsin,Hispanic,All,251.47,2.09
-2019,Wyoming,Black,All,‡,NA
-2019,Wyoming,Hispanic,All,254.39,2.27
-2022,National public,Black,All,242.76,0.52
-2022,National public,Hispanic,All,249.80,0.55
-2022,Alabama,Black,All,234.34,1.94
-2022,Alabama,Hispanic,All,244.78,3.12
-2022,Alaska,Black,All,‡,NA
-2022,Alaska,Hispanic,All,254.40,3.75
-2022,Arizona,Black,All,243.98,4.17
-2022,Arizona,Hispanic,All,251.67,1.77
-2022,Arkansas,Black,All,234.80,2.46
-2022,Arkansas,Hispanic,All,251.88,2.6
-2022,California,Black,All,245.41,4.930000000000001
-2022,California,Hispanic,All,249.31,1.6800000000000002
-2022,Colorado,Black,All,246.49,5.1499999999999995
-2022,Colorado,Hispanic,All,248.37,2.14
-2022,Connecticut,Black,All,244.05,2.42
-2022,Connecticut,Hispanic,All,247.28,2.11
-2022,Delaware,Black,All,240.25,2.04
-2022,Delaware,Hispanic,All,244.04,1.86
-2022,District of Columbia,Black,All,242.19,1.1
-2022,District of Columbia,Hispanic,All,245.93,2.72
-2022,DoDEA,Black,All,271.11,2.77
-2022,DoDEA,Hispanic,All,280.77,1.46
-2022,Florida,Black,All,246.90,2.09
-2022,Florida,Hispanic,All,259.98,1.81
-2022,Georgia,Black,All,246.74,2.04
-2022,Georgia,Hispanic,All,253.83,2.13
-2022,Hawaii,Black,All,‡,NA
-2022,Hawaii,Hispanic,All,256.35,2.8099999999999996
-2022,Idaho,Black,All,‡,NA
-2022,Idaho,Hispanic,All,251.34,2.34
-2022,Illinois,Black,All,240.74,2.58
-2022,Illinois,Hispanic,All,253.87,1.54
-2022,Indiana,Black,All,239.87,4.09
-2022,Indiana,Hispanic,All,251.36,2.57
-2022,Iowa,Black,All,237.40,4.75
-2022,Iowa,Hispanic,All,247.78,2.96
-2022,Kansas,Black,All,238.04,4.18
-2022,Kansas,Hispanic,All,247.53,2.16
-2022,Kentucky,Black,All,238.88,2.54
-2022,Kentucky,Hispanic,All,253.87,3.59
-2022,Louisiana,Black,All,243.38,2.09
-2022,Louisiana,Hispanic,All,253.23,3.5
-2022,Maine,Black,All,226.47,5.73
-2022,Maine,Hispanic,All,‡,NA
-2022,Maryland,Black,All,243.83,1.84
-2022,Maryland,Hispanic,All,245.97,2.3699999999999997
-2022,Massachusetts,Black,All,254.02,3.16
-2022,Massachusetts,Hispanic,All,251.79,2.55
-2022,Michigan,Black,All,237.16,2.2800000000000002
-2022,Michigan,Hispanic,All,249.73,3.4699999999999998
-2022,Minnesota,Black,All,236.69,3.58
-2022,Minnesota,Hispanic,All,242.01,6.09
-2022,Mississippi,Black,All,240.36,1.5
-2022,Mississippi,Hispanic,All,247.41,4.46
-2022,Missouri,Black,All,229.77,3.8899999999999997
-2022,Missouri,Hispanic,All,252.87,3.79
-2022,Montana,Black,All,‡,NA
-2022,Montana,Hispanic,All,252.91,4.02
-2022,Nebraska,Black,All,236.11,3.62
-2022,Nebraska,Hispanic,All,244.61,2.16
-2022,Nevada,Black,All,243.19,2.63
-2022,Nevada,Hispanic,All,251.02,1.4
-2022,New Hampshire,Black,All,‡,NA
-2022,New Hampshire,Hispanic,All,245.41,3.8899999999999997
-2022,New Jersey,Black,All,249.48,4.819999999999999
-2022,New Jersey,Hispanic,All,253.74,2.5
-2022,New Mexico,Black,All,‡,NA
-2022,New Mexico,Hispanic,All,242.61,1.1
-2022,New York,Black,All,246.40,3.27
-2022,New York,Hispanic,All,248.03,2.01
-2022,North Carolina,Black,All,241.57,1.92
-2022,North Carolina,Hispanic,All,252.06,2.1
-2022,North Dakota,Black,All,236.85,4.52
-2022,North Dakota,Hispanic,All,248.68,4.92
-2022,Ohio,Black,All,241.15,3.01
-2022,Ohio,Hispanic,All,246.01,3.7800000000000002
-2022,Oklahoma,Black,All,241.56,3.4899999999999998
-2022,Oklahoma,Hispanic,All,242.57,2.6
-2022,Oregon,Black,All,‡,NA
-2022,Oregon,Hispanic,All,243.76,2.3299999999999996
-2022,Pennsylvania,Black,All,239.62,2.74
-2022,Pennsylvania,Hispanic,All,240.76,2.86
-2022,Rhode Island,Black,All,240.43,2.9
-2022,Rhode Island,Hispanic,All,245.43,2.21
-2022,South Carolina,Black,All,239.76,1.81
-2022,South Carolina,Hispanic,All,243.73,3.38
-2022,South Dakota,Black,All,233.78,5.83
-2022,South Dakota,Hispanic,All,251.10,3.6
-2022,Tennessee,Black,All,241.42,2.53
-2022,Tennessee,Hispanic,All,246.22,3.11
-2022,Texas,Black,All,246.71,2.36
-2022,Texas,Hispanic,All,248.21,1.6800000000000002
-2022,Utah,Black,All,‡,NA
-2022,Utah,Hispanic,All,246.99,2.4
-2022,Vermont,Black,All,254.58,4.81
-2022,Vermont,Hispanic,All,‡,NA
-2022,Virginia,Black,All,241.53,2.67
-2022,Virginia,Hispanic,All,245.72,3.11
-2022,Washington,Black,All,240.26,4.79
-2022,Washington,Hispanic,All,248.76,1.93
-2022,West Virginia,Black,All,232.38,5.1899999999999995
-2022,West Virginia,Hispanic,All,‡,NA
-2022,Wisconsin,Black,All,230.83,3.23
-2022,Wisconsin,Hispanic,All,249.59,2.11
-2022,Wyoming,Black,All,‡,NA
-2022,Wyoming,Hispanic,All,251.79,2.34
+Year,Jurisdiction,RaceEth,Gender,Mean,SE,,,,,,
+2003,National public,Black,All,243.6,0.51,,,,,,
+2003,National public,Hispanic,All,243.8,0.73,,,,,,
+2003,Alabama,Black,All,236.9,1.96,,,,,,
+2003,Alabama,Hispanic,All,‡,NA,,,,,,
+2003,Alaska,Black,All,248.92,3.58,,,,,,
+2003,Alaska,Hispanic,All,246.43,3.58,,,,,,
+2003,Arizona,Black,All,244.8,3.9699999999999998,,,,,,
+2003,Arizona,Hispanic,All,240.03,1.94,,,,,,
+2003,Arkansas,Black,All,232.28,2.11,,,,,,
+2003,Arkansas,Hispanic,All,256.8,4.76,,,,,,
+2003,California,Black,All,239.19,2.48,,,,,,
+2003,California,Hispanic,All,236.53,1.6400000000000001,,,,,,
+2003,Colorado,Black,All,248.56,3.16,,,,,,
+2003,Colorado,Hispanic,All,247.37,2.13,,,,,,
+2003,Connecticut,Black,All,244.21,2.25,,,,,,
+2003,Connecticut,Hispanic,All,243.8,3.1,,,,,,
+2003,Delaware,Black,All,248.44,1.74,,,,,,
+2003,Delaware,Hispanic,All,245.96,3.22,,,,,,
+2003,District of Columbia,Black,All,236.06,0.72,,,,,,
+2003,District of Columbia,Hispanic,All,239.72,2.72,,,,,,
+2003,DoDEA,Black,All,258.46,1.48,,,,,,
+2003,DoDEA,Hispanic,All,268.33,1.84,,,,,,
+2003,Florida,Black,All,239.16,2.13,,,,,,
+2003,Florida,Hispanic,All,251.09,2.34,,,,,,
+2003,Georgia,Black,All,243.75,1.71,,,,,,
+2003,Georgia,Hispanic,All,244.87,3.94,,,,,,
+2003,Hawaii,Black,All,‡,NA,,,,,,
+2003,Hawaii,Hispanic,All,248.79,7.6,,,,,,
+2003,Idaho,Black,All,‡,NA,,,,,,
+2003,Idaho,Hispanic,All,242.49,2.7600000000000002,,,,,,
+2003,Illinois,Black,All,246.79,1.6500000000000001,,,,,,
+2003,Illinois,Hispanic,All,249.76,1.6700000000000002,,,,,,
+2003,Indiana,Black,All,244.36,3.2600000000000002,,,,,,
+2003,Indiana,Hispanic,All,246.55,5.07,,,,,,
+2003,Iowa,Black,All,244.95,3.2800000000000002,,,,,,
+2003,Iowa,Hispanic,All,244.22,4.1,,,,,,
+2003,Kansas,Black,All,243.21,3.14,,,,,,
+2003,Kansas,Hispanic,All,244.77,3.77,,,,,,
+2003,Kentucky,Black,All,244.57,2.73,,,,,,
+2003,Kentucky,Hispanic,All,‡,NA,,,,,,
+2003,Louisiana,Black,All,238.36,2.01,,,,,,
+2003,Louisiana,Hispanic,All,‡,NA,,,,,,
+2003,Maine,Black,All,‡,NA,,,,,,
+2003,Maine,Hispanic,All,‡,NA,,,,,,
+2003,Maryland,Black,All,245.01,1.9,,,,,,
+2003,Maryland,Hispanic,All,250.91,3.8899999999999997,,,,,,
+2003,Massachusetts,Black,All,251.74,2.38,,,,,,
+2003,Massachusetts,Hispanic,All,246.26,2.84,,,,,,
+2003,Michigan,Black,All,241.67,4.54,,,,,,
+2003,Michigan,Hispanic,All,256.53,3.4099999999999997,,,,,,
+2003,Minnesota,Black,All,243.02,3.68,,,,,,
+2003,Minnesota,Hispanic,All,240.22,5.26,,,,,,
+2003,Mississippi,Black,All,242.51,1.47,,,,,,
+2003,Mississippi,Hispanic,All,‡,NA,,,,,,
+2003,Missouri,Black,All,243.45,1.75,,,,,,
+2003,Missouri,Hispanic,All,‡,NA,,,,,,
+2003,Montana,Black,All,‡,NA,,,,,,
+2003,Montana,Hispanic,All,‡,NA,,,,,,
+2003,Nebraska,Black,All,239.02,3.11,,,,,,
+2003,Nebraska,Hispanic,All,240.69,3.11,,,,,,
+2003,Nevada,Black,All,232.99,2.68,,,,,,
+2003,Nevada,Hispanic,All,236.97,1.22,,,,,,
+2003,New Hampshire,Black,All,‡,NA,,,,,,
+2003,New Hampshire,Hispanic,All,‡,NA,,,,,,
+2003,New Jersey,Black,All,247.65,2.06,,,,,,
+2003,New Jersey,Hispanic,All,248.43,2.4299999999999997,,,,,,
+2003,New Mexico,Black,All,246.32,3.3899999999999997,,,,,,
+2003,New Mexico,Hispanic,All,242.89,1.04,,,,,,
+2003,New York,Black,All,245.7,2.13,,,,,,
+2003,New York,Hispanic,All,249.64,2.44,,,,,,
+2003,North Carolina,Black,All,246.92,1.37,,,,,,
+2003,North Carolina,Hispanic,All,243.79,3.69,,,,,,
+2003,North Dakota,Black,All,‡,NA,,,,,,
+2003,North Dakota,Hispanic,All,‡,NA,,,,,,
+2003,Ohio,Black,All,248.85,1.6400000000000001,,,,,,
+2003,Ohio,Hispanic,All,267.98,5.14,,,,,,
+2003,Oklahoma,Black,All,240.33,4.02,,,,,,
+2003,Oklahoma,Hispanic,All,250.44,2.8,,,,,,
+2003,Oregon,Black,All,251.45,4.2,,,,,,
+2003,Oregon,Hispanic,All,249.25,2.74,,,,,,
+2003,Pennsylvania,Black,All,243.25,2.52,,,,,,
+2003,Pennsylvania,Hispanic,All,257.35,6.03,,,,,,
+2003,Rhode Island,Black,All,241.25,2.77,,,,,,
+2003,Rhode Island,Hispanic,All,237.87,1.94,,,,,,
+2003,South Carolina,Black,All,243.8,1.6500000000000001,,,,,,
+2003,South Carolina,Hispanic,All,‡,NA,,,,,,
+2003,South Dakota,Black,All,‡,NA,,,,,,
+2003,South Dakota,Hispanic,All,‡,NA,,,,,,
+2003,Tennessee,Black,All,238.82,2.02,,,,,,
+2003,Tennessee,Hispanic,All,‡,NA,,,,,,
+2003,Texas,Black,All,246.53,2.16,,,,,,
+2003,Texas,Hispanic,All,247.39,1.3,,,,,,
+2003,Utah,Black,All,‡,NA,,,,,,
+2003,Utah,Hispanic,All,241.03,2.92,,,,,,
+2003,Vermont,Black,All,‡,NA,,,,,,
+2003,Vermont,Hispanic,All,‡,NA,,,,,,
+2003,Virginia,Black,All,250.32,1.42,,,,,,
+2003,Virginia,Hispanic,All,265.56,3.19,,,,,,
+2003,Washington,Black,All,250.56,3.3299999999999996,,,,,,
+2003,Washington,Hispanic,All,246.09,2.59,,,,,,
+2003,West Virginia,Black,All,248.31,2.9099999999999997,,,,,,
+2003,West Virginia,Hispanic,All,‡,NA,,,,,,
+2003,Wisconsin,Black,All,233.84,4.38,,,,,,
+2003,Wisconsin,Hispanic,All,243.94,5.04,,,,,,
+2003,Wyoming,Black,All,‡,NA,,,,,,
+2003,Wyoming,Hispanic,All,254.98,2.71,,,,,,
+2005,National public,Black,All,242.03,0.44,,,,,,
+2005,National public,Hispanic,All,244.94,0.44,,,,,,
+2005,Alabama,Black,All,234.7,1.91,,,,,,
+2005,Alabama,Hispanic,All,‡,NA,,,,,,
+2005,Alaska,Black,All,248.85,3.7600000000000002,,,,,,
+2005,Alaska,Hispanic,All,253.82,4.13,,,,,,
+2005,Arizona,Black,All,242.27,4.05,,,,,,
+2005,Arizona,Hispanic,All,242.07,1.5,,,,,,
+2005,Arkansas,Black,All,236.24,1.95,,,,,,
+2005,Arkansas,Hispanic,All,249.96,3.7,,,,,,
+2005,California,Black,All,240.06,1.62,,,,,,
+2005,California,Hispanic,All,238.57,0.77,,,,,,
+2005,Colorado,Black,All,254.16,3.8699999999999997,,,,,,
+2005,Colorado,Hispanic,All,246.51,1.8800000000000001,,,,,,
+2005,Connecticut,Black,All,240.15,3.3099999999999996,,,,,,
+2005,Connecticut,Hispanic,All,244.6,3.86,,,,,,
+2005,Delaware,Black,All,252.39,1.1600000000000001,,,,,,
+2005,Delaware,Hispanic,All,253.43,2.7,,,,,,
+2005,District of Columbia,Black,All,234.94,0.9,,,,,,
+2005,District of Columbia,Hispanic,All,247.47,3.21,,,,,,
+2005,DoDEA,Black,All,258.18,1.58,,,,,,
+2005,DoDEA,Hispanic,All,267.53,2.25,,,,,,
+2005,Florida,Black,All,238.22,1.74,,,,,,
+2005,Florida,Hispanic,All,251.66,1.91,,,,,,
+2005,Georgia,Black,All,240.74,1.3,,,,,,
+2005,Georgia,Hispanic,All,247.46,3.42,,,,,,
+2005,Hawaii,Black,All,‡,NA,,,,,,
+2005,Hawaii,Hispanic,All,241.83,4.359999999999999,,,,,,
+2005,Idaho,Black,All,‡,NA,,,,,,
+2005,Idaho,Hispanic,All,246.47,2.06,,,,,,
+2005,Illinois,Black,All,243.85,2.01,,,,,,
+2005,Illinois,Hispanic,All,253.3,1.61,,,,,,
+2005,Indiana,Black,All,240.51,2.8099999999999996,,,,,,
+2005,Indiana,Hispanic,All,246.68,4.94,,,,,,
+2005,Iowa,Black,All,245.59,3.42,,,,,,
+2005,Iowa,Hispanic,All,255.6,3.92,,,,,,
+2005,Kansas,Black,All,246.91,2.23,,,,,,
+2005,Kansas,Hispanic,All,248.64,2.59,,,,,,
+2005,Kentucky,Black,All,247.65,3.07,,,,,,
+2005,Kentucky,Hispanic,All,‡,NA,,,,,,
+2005,Louisiana,Black,All,239.8,1.93,,,,,,
+2005,Louisiana,Hispanic,All,‡,NA,,,,,,
+2005,Maine,Black,All,‡,NA,,,,,,
+2005,Maine,Hispanic,All,‡,NA,,,,,,
+2005,Maryland,Black,All,243.82,1.78,,,,,,
+2005,Maryland,Hispanic,All,256.48,4.7700000000000005,,,,,,
+2005,Massachusetts,Black,All,253.06,1.99,,,,,,
+2005,Massachusetts,Hispanic,All,246.44,2.59,,,,,,
+2005,Michigan,Black,All,238.55,2.1,,,,,,
+2005,Michigan,Hispanic,All,249.84,4.1499999999999995,,,,,,
+2005,Minnesota,Black,All,239.14,4.05,,,,,,
+2005,Minnesota,Hispanic,All,244.06,5.119999999999999,,,,,,
+2005,Mississippi,Black,All,236.88,1.48,,,,,,
+2005,Mississippi,Hispanic,All,‡,NA,,,,,,
+2005,Missouri,Black,All,242.13,1.82,,,,,,
+2005,Missouri,Hispanic,All,257.57,6.01,,,,,,
+2005,Montana,Black,All,‡,NA,,,,,,
+2005,Montana,Hispanic,All,‡,NA,,,,,,
+2005,Nebraska,Black,All,243.03,2.4899999999999998,,,,,,
+2005,Nebraska,Hispanic,All,245.19,2.02,,,,,,
+2005,Nevada,Black,All,239.83,3.58,,,,,,
+2005,Nevada,Hispanic,All,241.26,1.1400000000000001,,,,,,
+2005,New Hampshire,Black,All,‡,NA,,,,,,
+2005,New Hampshire,Hispanic,All,‡,NA,,,,,,
+2005,New Jersey,Black,All,250.51,2.77,,,,,,
+2005,New Jersey,Hispanic,All,251.28,2.11,,,,,,
+2005,New Mexico,Black,All,‡,NA,,,,,,
+2005,New Mexico,Hispanic,All,244.68,1.1400000000000001,,,,,,
+2005,New York,Black,All,242.47,2.05,,,,,,
+2005,New York,Hispanic,All,250.48,1.76,,,,,,
+2005,North Carolina,Black,All,239.82,1.62,,,,,,
+2005,North Carolina,Hispanic,All,247.5,2.9499999999999997,,,,,,
+2005,North Dakota,Black,All,‡,NA,,,,,,
+2005,North Dakota,Hispanic,All,‡,NA,,,,,,
+2005,Ohio,Black,All,242.7,2.6,,,,,,
+2005,Ohio,Hispanic,All,245.2,4.49,,,,,,
+2005,Oklahoma,Black,All,242.97,2.71,,,,,,
+2005,Oklahoma,Hispanic,All,246.87,2.44,,,,,,
+2005,Oregon,Black,All,244.89,3.8,,,,,,
+2005,Oregon,Hispanic,All,244.65,3.09,,,,,,
+2005,Pennsylvania,Black,All,239.38,3.9,,,,,,
+2005,Pennsylvania,Hispanic,All,246.09,6.79,,,,,,
+2005,Rhode Island,Black,All,242.91,2.36,,,,,,
+2005,Rhode Island,Hispanic,All,236.57,2.58,,,,,,
+2005,South Carolina,Black,All,242.45,1.28,,,,,,
+2005,South Carolina,Hispanic,All,‡,NA,,,,,,
+2005,South Dakota,Black,All,‡,NA,,,,,,
+2005,South Dakota,Hispanic,All,‡,NA,,,,,,
+2005,Tennessee,Black,All,240.07,1.84,,,,,,
+2005,Tennessee,Hispanic,All,‡,NA,,,,,,
+2005,Texas,Black,All,246.13,1.71,,,,,,
+2005,Texas,Hispanic,All,248.08,0.88,,,,,,
+2005,Utah,Black,All,‡,NA,,,,,,
+2005,Utah,Hispanic,All,242.82,2.5,,,,,,
+2005,Vermont,Black,All,‡,NA,,,,,,
+2005,Vermont,Hispanic,All,‡,NA,,,,,,
+2005,Virginia,Black,All,251.41,1.85,,,,,,
+2005,Virginia,Hispanic,All,258.81,2.27,,,,,,
+2005,Washington,Black,All,255.04,4.06,,,,,,
+2005,Washington,Hispanic,All,245.26,3.34,,,,,,
+2005,West Virginia,Black,All,236.07,3.7,,,,,,
+2005,West Virginia,Hispanic,All,‡,NA,,,,,,
+2005,Wisconsin,Black,All,236.37,4.06,,,,,,
+2005,Wisconsin,Hispanic,All,247.46,5.119999999999999,,,,,,
+2005,Wyoming,Black,All,‡,NA,,,,,,
+2005,Wyoming,Hispanic,All,255.68,3.06,,,,,,
+2007,National public,Black,All,243.83,0.39,,,,,,
+2007,National public,Hispanic,All,245.77,0.43000000000000005,,,,,,
+2007,Alabama,Black,All,235.89,1.3900000000000001,,,,,,
+2007,Alabama,Hispanic,All,249.97,4.76,,,,,,
+2007,Alaska,Black,All,250.46,3.19,,,,,,
+2007,Alaska,Hispanic,All,257.18,3.4499999999999997,,,,,,
+2007,Arizona,Black,All,247.86,3.3899999999999997,,,,,,
+2007,Arizona,Hispanic,All,241.14,1.8,,,,,,
+2007,Arkansas,Black,All,235.76,2.04,,,,,,
+2007,Arkansas,Hispanic,All,248.73,3.57,,,,,,
+2007,California,Black,All,237.01,2,,,,,,
+2007,California,Hispanic,All,239.49,0.8,,,,,,
+2007,Colorado,Black,All,252.38,3.17,,,,,,
+2007,Colorado,Hispanic,All,249.4,1.9,,,,,,
+2007,Connecticut,Black,All,246.12,3.13,,,,,,
+2007,Connecticut,Hispanic,All,242.63,2.64,,,,,,
+2007,Delaware,Black,All,250.47,1.09,,,,,,
+2007,Delaware,Hispanic,All,256.74,2.24,,,,,,
+2007,District of Columbia,Black,All,237.91,0.8600000000000001,,,,,,
+2007,District of Columbia,Hispanic,All,249.06,3.21,,,,,,
+2007,DoDEA,Black,All,258.85,2.12,,,,,,
+2007,DoDEA,Hispanic,All,272.9,1.6800000000000002,,,,,,
+2007,Florida,Black,All,243.76,1.6900000000000002,,,,,,
+2007,Florida,Hispanic,All,255.85,1.82,,,,,,
+2007,Georgia,Black,All,245.95,1.54,,,,,,
+2007,Georgia,Hispanic,All,249.87,3.23,,,,,,
+2007,Hawaii,Black,All,254.72,5.6499999999999995,,,,,,
+2007,Hawaii,Hispanic,All,248.91,4.5,,,,,,
+2007,Idaho,Black,All,‡,NA,,,,,,
+2007,Idaho,Hispanic,All,243.2,2.3899999999999997,,,,,,
+2007,Illinois,Black,All,243.55,1.84,,,,,,
+2007,Illinois,Hispanic,All,250.2,1.94,,,,,,
+2007,Indiana,Black,All,242.29,1.94,,,,,,
+2007,Indiana,Hispanic,All,255.24,3.62,,,,,,
+2007,Iowa,Black,All,247.14,5.46,,,,,,
+2007,Iowa,Hispanic,All,250.41,3.09,,,,,,
+2007,Kansas,Black,All,245.69,3.14,,,,,,
+2007,Kansas,Hispanic,All,248.13,3.3699999999999997,,,,,,
+2007,Kentucky,Black,All,246.84,2.3299999999999996,,,,,,
+2007,Kentucky,Hispanic,All,‡,NA,,,,,,
+2007,Louisiana,Black,All,240.46,1.34,,,,,,
+2007,Louisiana,Hispanic,All,‡,NA,,,,,,
+2007,Maine,Black,All,‡,NA,,,,,,
+2007,Maine,Hispanic,All,‡,NA,,,,,,
+2007,Maryland,Black,All,249.02,1.6900000000000002,,,,,,
+2007,Maryland,Hispanic,All,257.57,4.430000000000001,,,,,,
+2007,Massachusetts,Black,All,253.07,2.23,,,,,,
+2007,Massachusetts,Hispanic,All,250.61,2.27,,,,,,
+2007,Michigan,Black,All,235.92,2.53,,,,,,
+2007,Michigan,Hispanic,All,240.54,4.72,,,,,,
+2007,Minnesota,Black,All,244.59,3.15,,,,,,
+2007,Minnesota,Hispanic,All,244.5,4.57,,,,,,
+2007,Mississippi,Black,All,238.41,1.1700000000000002,,,,,,
+2007,Mississippi,Hispanic,All,‡,NA,,,,,,
+2007,Missouri,Black,All,241.96,2.15,,,,,,
+2007,Missouri,Hispanic,All,247.74,5.1499999999999995,,,,,,
+2007,Montana,Black,All,‡,NA,,,,,,
+2007,Montana,Hispanic,All,‡,NA,,,,,,
+2007,Nebraska,Black,All,242.86,3.16,,,,,,
+2007,Nebraska,Hispanic,All,254.81,2.53,,,,,,
+2007,Nevada,Black,All,247.57,3.02,,,,,,
+2007,Nevada,Hispanic,All,238.48,1.3900000000000001,,,,,,
+2007,New Hampshire,Black,All,‡,NA,,,,,,
+2007,New Hampshire,Hispanic,All,251.65,5.2700000000000005,,,,,,
+2007,New Jersey,Black,All,249.12,2.4099999999999997,,,,,,
+2007,New Jersey,Hispanic,All,256.52,2.02,,,,,,
+2007,New Mexico,Black,All,248.24,4.18,,,,,,
+2007,New Mexico,Hispanic,All,245.53,1.06,,,,,,
+2007,New York,Black,All,245.56,2.24,,,,,,
+2007,New York,Hispanic,All,245.81,2.3,,,,,,
+2007,North Carolina,Black,All,240.92,1.87,,,,,,
+2007,North Carolina,Hispanic,All,245.89,3.3099999999999996,,,,,,
+2007,North Dakota,Black,All,‡,NA,,,,,,
+2007,North Dakota,Hispanic,All,‡,NA,,,,,,
+2007,Ohio,Black,All,246.35,1.72,,,,,,
+2007,Ohio,Hispanic,All,259.64,5.99,,,,,,
+2007,Oklahoma,Black,All,243.37,2.66,,,,,,
+2007,Oklahoma,Hispanic,All,241.11,2.8299999999999996,,,,,,
+2007,Oregon,Black,All,249.73,5.68,,,,,,
+2007,Oregon,Hispanic,All,243.49,2.36,,,,,,
+2007,Pennsylvania,Black,All,247.7,3.3099999999999996,,,,,,
+2007,Pennsylvania,Hispanic,All,244.39,5.04,,,,,,
+2007,Rhode Island,Black,All,238.74,3.23,,,,,,
+2007,Rhode Island,Hispanic,All,233.35,1.77,,,,,,
+2007,South Carolina,Black,All,241.76,1.48,,,,,,
+2007,South Carolina,Hispanic,All,243.68,4.55,,,,,,
+2007,South Dakota,Black,All,‡,NA,,,,,,
+2007,South Dakota,Hispanic,All,‡,NA,,,,,,
+2007,Tennessee,Black,All,239.78,1.85,,,,,,
+2007,Tennessee,Hispanic,All,251.96,5.24,,,,,,
+2007,Texas,Black,All,248.65,1.82,,,,,,
+2007,Texas,Hispanic,All,250.9,0.92,,,,,,
+2007,Utah,Black,All,‡,NA,,,,,,
+2007,Utah,Hispanic,All,241.88,2.63,,,,,,
+2007,Vermont,Black,All,‡,NA,,,,,,
+2007,Vermont,Hispanic,All,‡,NA,,,,,,
+2007,Virginia,Black,All,252.22,1.1,,,,,,
+2007,Virginia,Hispanic,All,258.42,3.3,,,,,,
+2007,Washington,Black,All,247,3.42,,,,,,
+2007,Washington,Hispanic,All,246.91,2.4899999999999998,,,,,,
+2007,West Virginia,Black,All,240.73,2.8299999999999996,,,,,,
+2007,West Virginia,Hispanic,All,‡,NA,,,,,,
+2007,Wisconsin,Black,All,231.32,4.41,,,,,,
+2007,Wisconsin,Hispanic,All,247.44,2.75,,,,,,
+2007,Wyoming,Black,All,‡,NA,,,,,,
+2007,Wyoming,Hispanic,All,248.26,2.9299999999999997,,,,,,
+2009,National public,Black,All,245.45,0.39,,,,,,
+2009,National public,Hispanic,All,247.83,0.61,,,,,,
+2009,Alabama,Black,All,237.79,1.74,,,,,,
+2009,Alabama,Hispanic,All,245.05,6.2,,,,,,
+2009,Alaska,Black,All,248.94,3.46,,,,,,
+2009,Alaska,Hispanic,All,260.33,3.03,,,,,,
+2009,Arizona,Black,All,248.91,4.49,,,,,,
+2009,Arizona,Hispanic,All,245.97,1.4,,,,,,
+2009,Arkansas,Black,All,233.76,2.3699999999999997,,,,,,
+2009,Arkansas,Hispanic,All,249.08,3.59,,,,,,
+2009,California,Black,All,242.62,3,,,,,,
+2009,California,Hispanic,All,241.42,1.1700000000000002,,,,,,
+2009,Colorado,Black,All,250.17,3.09,,,,,,
+2009,Colorado,Hispanic,All,249.65,1.41,,,,,,
+2009,Connecticut,Black,All,244.89,2.23,,,,,,
+2009,Connecticut,Hispanic,All,252.11,2.09,,,,,,
+2009,Delaware,Black,All,253.69,1.1800000000000002,,,,,,
+2009,Delaware,Hispanic,All,256.49,2.42,,,,,,
+2009,District of Columbia,Black,All,239.11,0.98,,,,,,
+2009,District of Columbia,Hispanic,All,248.74,2.96,,,,,,
+2009,DoDEA,Black,All,262.38,2.11,,,,,,
+2009,DoDEA,Hispanic,All,269.3,1.76,,,,,,
+2009,Florida,Black,All,250.37,1.98,,,,,,
+2009,Florida,Hispanic,All,260.14,1.41,,,,,,
+2009,Georgia,Black,All,248.93,1.09,,,,,,
+2009,Georgia,Hispanic,All,254.19,2.96,,,,,,
+2009,Hawaii,Black,All,255.77,5.07,,,,,,
+2009,Hawaii,Hispanic,All,251.84,4.88,,,,,,
+2009,Idaho,Black,All,‡,NA,,,,,,
+2009,Idaho,Hispanic,All,240.98,1.79,,,,,,
+2009,Illinois,Black,All,243.13,1.53,,,,,,
+2009,Illinois,Hispanic,All,252.31,1.62,,,,,,
+2009,Indiana,Black,All,249.78,2.36,,,,,,
+2009,Indiana,Hispanic,All,251.14,2.6,,,,,,
+2009,Iowa,Black,All,240.62,3.82,,,,,,
+2009,Iowa,Hispanic,All,249.27,3.8,,,,,,
+2009,Kansas,Black,All,248.11,2.5,,,,,,
+2009,Kansas,Hispanic,All,250.04,2.72,,,,,,
+2009,Kentucky,Black,All,249.04,2.06,,,,,,
+2009,Kentucky,Hispanic,All,265.48,4.04,,,,,,
+2009,Louisiana,Black,All,240.53,1.87,,,,,,
+2009,Louisiana,Hispanic,All,‡,NA,,,,,,
+2009,Maine,Black,All,253.79,5.470000000000001,,,,,,
+2009,Maine,Hispanic,All,‡,NA,,,,,,
+2009,Maryland,Black,All,250.41,1.93,,,,,,
+2009,Maryland,Hispanic,All,258.33,3.27,,,,,,
+2009,Massachusetts,Black,All,251.4,2.69,,,,,,
+2009,Massachusetts,Hispanic,All,250.4,2.7800000000000002,,,,,,
+2009,Michigan,Black,All,238.29,2.1,,,,,,
+2009,Michigan,Hispanic,All,253.08,4.73,,,,,,
+2009,Minnesota,Black,All,243.99,3.6,,,,,,
+2009,Minnesota,Hispanic,All,246.97,3.5,,,,,,
+2009,Mississippi,Black,All,238.72,1.04,,,,,,
+2009,Mississippi,Hispanic,All,‡,NA,,,,,,
+2009,Missouri,Black,All,245.94,2.53,,,,,,
+2009,Missouri,Hispanic,All,260.14,4.25,,,,,,
+2009,Montana,Black,All,‡,NA,,,,,,
+2009,Montana,Hispanic,All,‡,NA,,,,,,
+2009,Nebraska,Black,All,241.56,2.96,,,,,,
+2009,Nebraska,Hispanic,All,252.67,2.27,,,,,,
+2009,Nevada,Black,All,241.3,2.27,,,,,,
+2009,Nevada,Hispanic,All,242.45,1.3,,,,,,
+2009,New Hampshire,Black,All,‡,NA,,,,,,
+2009,New Hampshire,Hispanic,All,256.92,4.6,,,,,,
+2009,New Jersey,Black,All,249.76,3.08,,,,,,
+2009,New Jersey,Hispanic,All,256.09,2.22,,,,,,
+2009,New Mexico,Black,All,245.61,4.98,,,,,,
+2009,New Mexico,Hispanic,All,247.55,1.33,,,,,,
+2009,New York,Black,All,245.92,2.04,,,,,,
+2009,New York,Hispanic,All,247.35,1.81,,,,,,
+2009,North Carolina,Black,All,242.65,1.51,,,,,,
+2009,North Carolina,Hispanic,All,248.6,2.59,,,,,,
+2009,North Dakota,Black,All,‡,NA,,,,,,
+2009,North Dakota,Hispanic,All,‡,NA,,,,,,
+2009,Ohio,Black,All,247.04,2.03,,,,,,
+2009,Ohio,Hispanic,All,251.12,4.31,,,,,,
+2009,Oklahoma,Black,All,246.63,3.02,,,,,,
+2009,Oklahoma,Hispanic,All,245.85,2.68,,,,,,
+2009,Oregon,Black,All,‡,NA,,,,,,
+2009,Oregon,Hispanic,All,246.95,1.5,,,,,,
+2009,Pennsylvania,Black,All,249.49,1.71,,,,,,
+2009,Pennsylvania,Hispanic,All,247.47,2.4699999999999998,,,,,,
+2009,Rhode Island,Black,All,238.07,3.1,,,,,,
+2009,Rhode Island,Hispanic,All,240.86,1.81,,,,,,
+2009,South Carolina,Black,All,242.84,1.5,,,,,,
+2009,South Carolina,Hispanic,All,258.73,3.4499999999999997,,,,,,
+2009,South Dakota,Black,All,‡,NA,,,,,,
+2009,South Dakota,Hispanic,All,‡,NA,,,,,,
+2009,Tennessee,Black,All,243.11,2.06,,,,,,
+2009,Tennessee,Hispanic,All,251.84,4.39,,,,,,
+2009,Texas,Black,All,248.86,1.97,,,,,,
+2009,Texas,Hispanic,All,251.37,1.2,,,,,,
+2009,Utah,Black,All,‡,NA,,,,,,
+2009,Utah,Hispanic,All,245.98,1.8,,,,,,
+2009,Vermont,Black,All,‡,NA,,,,,,
+2009,Vermont,Hispanic,All,‡,NA,,,,,,
+2009,Virginia,Black,All,249.51,1.97,,,,,,
+2009,Virginia,Hispanic,All,256.09,2.75,,,,,,
+2009,Washington,Black,All,244.66,4.319999999999999,,,,,,
+2009,Washington,Hispanic,All,248.36,2.57,,,,,,
+2009,West Virginia,Black,All,250.02,3.4299999999999997,,,,,,
+2009,West Virginia,Hispanic,All,‡,NA,,,,,,
+2009,Wisconsin,Black,All,237.56,2.59,,,,,,
+2009,Wisconsin,Hispanic,All,250.13,2.02,,,,,,
+2009,Wyoming,Black,All,‡,NA,,,,,,
+2009,Wyoming,Hispanic,All,258.71,2.21,,,,,,
+2011,National public,Black,All,247.61,0.48000000000000004,,,,,,
+2011,National public,Hispanic,All,251.3,0.46,,,,,,
+2011,Alabama,Black,All,242.83,1.52,,,,,,
+2011,Alabama,Hispanic,All,246.46,3.84,,,,,,
+2011,Alaska,Black,All,251.69,3.32,,,,,,
+2011,Alaska,Hispanic,All,260.01,3.18,,,,,,
+2011,Arizona,Black,All,248.08,3.21,,,,,,
+2011,Arizona,Hispanic,All,251.08,1.56,,,,,,
+2011,Arkansas,Black,All,237.82,1.52,,,,,,
+2011,Arkansas,Hispanic,All,253.43,2.07,,,,,,
+2011,California,Black,All,242.83,3.3699999999999997,,,,,,
+2011,California,Hispanic,All,245.22,1.02,,,,,,
+2011,Colorado,Black,All,256.95,3.24,,,,,,
+2011,Colorado,Hispanic,All,254.25,2.22,,,,,,
+2011,Connecticut,Black,All,254.88,2.62,,,,,,
+2011,Connecticut,Hispanic,All,254.57,1.58,,,,,,
+2011,Delaware,Black,All,254.24,0.9400000000000001,,,,,,
+2011,Delaware,Hispanic,All,259.27,2.4499999999999997,,,,,,
+2011,District of Columbia,Black,All,238.53,0.8700000000000001,,,,,,
+2011,District of Columbia,Hispanic,All,239.05,2.86,,,,,,
+2011,DoDEA,Black,All,263.22,2.13,,,,,,
+2011,DoDEA,Hispanic,All,268.09,1.81,,,,,,
+2011,Florida,Black,All,247.59,1.58,,,,,,
+2011,Florida,Hispanic,All,259.05,1.35,,,,,,
+2011,Georgia,Black,All,250.53,1.55,,,,,,
+2011,Georgia,Hispanic,All,257.64,2.5,,,,,,
+2011,Hawaii,Black,All,261.04,4.56,,,,,,
+2011,Hawaii,Hispanic,All,246.41,4.06,,,,,,
+2011,Idaho,Black,All,‡,NA,,,,,,
+2011,Idaho,Hispanic,All,253.86,1.85,,,,,,
+2011,Illinois,Black,All,249.42,1.49,,,,,,
+2011,Illinois,Hispanic,All,257.09,1.44,,,,,,
+2011,Indiana,Black,All,246.52,3.18,,,,,,
+2011,Indiana,Hispanic,All,255.37,3.24,,,,,,
+2011,Iowa,Black,All,246.52,2.9899999999999998,,,,,,
+2011,Iowa,Hispanic,All,251.13,3.3,,,,,,
+2011,Kansas,Black,All,247.7,3.08,,,,,,
+2011,Kansas,Hispanic,All,254.19,2.02,,,,,,
+2011,Kentucky,Black,All,248.36,1.8900000000000001,,,,,,
+2011,Kentucky,Hispanic,All,263.59,3.69,,,,,,
+2011,Louisiana,Black,All,241.39,2.01,,,,,,
+2011,Louisiana,Hispanic,All,248.83,4.34,,,,,,
+2011,Maine,Black,All,247.97,5.8,,,,,,
+2011,Maine,Hispanic,All,‡,NA,,,,,,
+2011,Maryland,Black,All,255.35,1.62,,,,,,
+2011,Maryland,Hispanic,All,261.71,4.1499999999999995,,,,,,
+2011,Massachusetts,Black,All,254.65,2.7,,,,,,
+2011,Massachusetts,Hispanic,All,247.91,3.04,,,,,,
+2011,Michigan,Black,All,244.13,2.92,,,,,,
+2011,Michigan,Hispanic,All,260.32,3.52,,,,,,
+2011,Minnesota,Black,All,246.27,3.05,,,,,,
+2011,Minnesota,Hispanic,All,257.3,3.67,,,,,,
+2011,Mississippi,Black,All,240.4,1.29,,,,,,
+2011,Mississippi,Hispanic,All,‡,NA,,,,,,
+2011,Missouri,Black,All,243.79,2.79,,,,,,
+2011,Missouri,Hispanic,All,257.74,5.41,,,,,,
+2011,Montana,Black,All,‡,NA,,,,,,
+2011,Montana,Hispanic,All,262.23,4.71,,,,,,
+2011,Nebraska,Black,All,250.1,3.61,,,,,,
+2011,Nebraska,Hispanic,All,251.75,1.96,,,,,,
+2011,Nevada,Black,All,250.12,2.44,,,,,,
+2011,Nevada,Hispanic,All,247.19,1.31,,,,,,
+2011,New Hampshire,Black,All,‡,NA,,,,,,
+2011,New Hampshire,Hispanic,All,253.42,4.31,,,,,,
+2011,New Jersey,Black,All,255.68,2.53,,,,,,
+2011,New Jersey,Hispanic,All,257.24,2.2,,,,,,
+2011,New Mexico,Black,All,247.54,5.35,,,,,,
+2011,New Mexico,Hispanic,All,251.15,1.01,,,,,,
+2011,New York,Black,All,251.24,1.97,,,,,,
+2011,New York,Hispanic,All,250.59,2.04,,,,,,
+2011,North Carolina,Black,All,247.04,1.47,,,,,,
+2011,North Carolina,Hispanic,All,255.63,2.2800000000000002,,,,,,
+2011,North Dakota,Black,All,‡,NA,,,,,,
+2011,North Dakota,Hispanic,All,‡,NA,,,,,,
+2011,Ohio,Black,All,246.94,1.85,,,,,,
+2011,Ohio,Hispanic,All,251.51,4.109999999999999,,,,,,
+2011,Oklahoma,Black,All,246.87,2.94,,,,,,
+2011,Oklahoma,Hispanic,All,250.67,2.29,,,,,,
+2011,Oregon,Black,All,247.71,5.470000000000001,,,,,,
+2011,Oregon,Hispanic,All,249.84,1.55,,,,,,
+2011,Pennsylvania,Black,All,243.72,2.6,,,,,,
+2011,Pennsylvania,Hispanic,All,250.18,3.15,,,,,,
+2011,Rhode Island,Black,All,248.13,4.22,,,,,,
+2011,Rhode Island,Hispanic,All,247.6,1.95,,,,,,
+2011,South Carolina,Black,All,245.63,1.35,,,,,,
+2011,South Carolina,Hispanic,All,256.71,3.48,,,,,,
+2011,South Dakota,Black,All,256.37,3.58,,,,,,
+2011,South Dakota,Hispanic,All,256.49,3.7800000000000002,,,,,,
+2011,Tennessee,Black,All,240.28,1.6800000000000002,,,,,,
+2011,Tennessee,Hispanic,All,254.83,4.07,,,,,,
+2011,Texas,Black,All,252.1,1.81,,,,,,
+2011,Texas,Hispanic,All,254.18,1.11,,,,,,
+2011,Utah,Black,All,‡,NA,,,,,,
+2011,Utah,Hispanic,All,247.31,2.03,,,,,,
+2011,Vermont,Black,All,‡,NA,,,,,,
+2011,Vermont,Hispanic,All,‡,NA,,,,,,
+2011,Virginia,Black,All,251,1.6400000000000001,,,,,,
+2011,Virginia,Hispanic,All,258.99,2.77,,,,,,
+2011,Washington,Black,All,254.36,4.06,,,,,,
+2011,Washington,Hispanic,All,249.53,1.6,,,,,,
+2011,West Virginia,Black,All,248.76,3.3099999999999996,,,,,,
+2011,West Virginia,Hispanic,All,‡,NA,,,,,,
+2011,Wisconsin,Black,All,240.22,1.92,,,,,,
+2011,Wisconsin,Hispanic,All,248.35,2.59,,,,,,
+2011,Wyoming,Black,All,‡,NA,,,,,,
+2011,Wyoming,Hispanic,All,258.31,2.6,,,,,,
+2013,National public,Black,All,249.56,0.42000000000000004,,,,,,
+2013,National public,Hispanic,All,254.65,0.45,,,,,,
+2013,Alabama,Black,All,241.34,1.42,,,,,,
+2013,Alabama,Hispanic,All,248.88,3.96,,,,,,
+2013,Alaska,Black,All,253.07,3.66,,,,,,
+2013,Alaska,Hispanic,All,261.51,2.6,,,,,,
+2013,Arizona,Black,All,248.21,3.56,,,,,,
+2013,Arizona,Hispanic,All,252.06,1.2,,,,,,
+2013,Arkansas,Black,All,243.65,1.76,,,,,,
+2013,Arkansas,Hispanic,All,255.67,2.23,,,,,,
+2013,California,Black,All,247,2.3099999999999996,,,,,,
+2013,California,Hispanic,All,252.07,1.06,,,,,,
+2013,Colorado,Black,All,247.05,3.9099999999999997,,,,,,
+2013,Colorado,Hispanic,All,256.84,1.76,,,,,,
+2013,Connecticut,Black,All,256.35,2.9099999999999997,,,,,,
+2013,Connecticut,Hispanic,All,255.94,2.36,,,,,,
+2013,Delaware,Black,All,252.82,1.1900000000000002,,,,,,
+2013,Delaware,Hispanic,All,260.77,1.93,,,,,,
+2013,District of Columbia,Black,All,243.3,0.89,,,,,,
+2013,District of Columbia,Hispanic,All,248.3,2.8,,,,,,
+2013,DoDEA,Black,All,266.24,1.59,,,,,,
+2013,DoDEA,Hispanic,All,274.29,1.34,,,,,,
+2013,Florida,Black,All,253.78,1.8,,,,,,
+2013,Florida,Hispanic,All,260.43,1.28,,,,,,
+2013,Georgia,Black,All,252.41,1.76,,,,,,
+2013,Georgia,Hispanic,All,260.38,2.4699999999999998,,,,,,
+2013,Hawaii,Black,All,258.16,3.38,,,,,,
+2013,Hawaii,Hispanic,All,258.38,3.03,,,,,,
+2013,Idaho,Black,All,‡,NA,,,,,,
+2013,Idaho,Hispanic,All,253.71,1.83,,,,,,
+2013,Illinois,Black,All,246.31,1.85,,,,,,
+2013,Illinois,Hispanic,All,256.56,1.3900000000000001,,,,,,
+2013,Indiana,Black,All,246.16,2.51,,,,,,
+2013,Indiana,Hispanic,All,258.96,2.53,,,,,,
+2013,Iowa,Black,All,248.17,3.23,,,,,,
+2013,Iowa,Hispanic,All,255.88,2.51,,,,,,
+2013,Kansas,Black,All,243.93,3.9499999999999997,,,,,,
+2013,Kansas,Hispanic,All,254.13,1.92,,,,,,
+2013,Kentucky,Black,All,246.98,2.11,,,,,,
+2013,Kentucky,Hispanic,All,263.27,3.52,,,,,,
+2013,Louisiana,Black,All,245.38,1.33,,,,,,
+2013,Louisiana,Hispanic,All,259.83,3.56,,,,,,
+2013,Maine,Black,All,‡,NA,,,,,,
+2013,Maine,Hispanic,All,‡,NA,,,,,,
+2013,Maryland,Black,All,259.4,1.37,,,,,,
+2013,Maryland,Hispanic,All,265.63,3.01,,,,,,
+2013,Massachusetts,Black,All,254.65,2.5,,,,,,
+2013,Massachusetts,Hispanic,All,252.77,1.75,,,,,,
+2013,Michigan,Black,All,245.5,2.4699999999999998,,,,,,
+2013,Michigan,Hispanic,All,256.87,3.16,,,,,,
+2013,Minnesota,Black,All,247.89,3.09,,,,,,
+2013,Minnesota,Hispanic,All,250.96,3.36,,,,,,
+2013,Mississippi,Black,All,238.97,1.35,,,,,,
+2013,Mississippi,Hispanic,All,251.7,4.74,,,,,,
+2013,Missouri,Black,All,244.86,3.3,,,,,,
+2013,Missouri,Hispanic,All,266.48,3.77,,,,,,
+2013,Montana,Black,All,‡,NA,,,,,,
+2013,Montana,Hispanic,All,262.53,3.75,,,,,,
+2013,Nebraska,Black,All,250.65,2.73,,,,,,
+2013,Nebraska,Hispanic,All,253.95,1.71,,,,,,
+2013,Nevada,Black,All,247.81,2.4299999999999997,,,,,,
+2013,Nevada,Hispanic,All,251.91,1.21,,,,,,
+2013,New Hampshire,Black,All,‡,NA,,,,,,
+2013,New Hampshire,Hispanic,All,250.63,3.84,,,,,,
+2013,New Jersey,Black,All,259.55,2.15,,,,,,
+2013,New Jersey,Hispanic,All,264.41,2.3699999999999997,,,,,,
+2013,New Mexico,Black,All,245.21,4.89,,,,,,
+2013,New Mexico,Hispanic,All,251.67,0.76,,,,,,
+2013,New York,Black,All,251.87,1.94,,,,,,
+2013,New York,Hispanic,All,251.88,1.6800000000000002,,,,,,
+2013,North Carolina,Black,All,250.67,1.6600000000000001,,,,,,
+2013,North Carolina,Hispanic,All,257.86,2.06,,,,,,
+2013,North Dakota,Black,All,254.81,4.359999999999999,,,,,,
+2013,North Dakota,Hispanic,All,‡,NA,,,,,,
+2013,Ohio,Black,All,247.03,2.79,,,,,,
+2013,Ohio,Hispanic,All,265.79,3.86,,,,,,
+2013,Oklahoma,Black,All,245.33,2.88,,,,,,
+2013,Oklahoma,Hispanic,All,251.68,2.32,,,,,,
+2013,Oregon,Black,All,‡,NA,,,,,,
+2013,Oregon,Hispanic,All,252.72,1.59,,,,,,
+2013,Pennsylvania,Black,All,249.71,2.17,,,,,,
+2013,Pennsylvania,Hispanic,All,249.22,3.14,,,,,,
+2013,Rhode Island,Black,All,249.32,2.54,,,,,,
+2013,Rhode Island,Hispanic,All,248.73,1.55,,,,,,
+2013,South Carolina,Black,All,246.67,1.6500000000000001,,,,,,
+2013,South Carolina,Hispanic,All,256.91,3.42,,,,,,
+2013,South Dakota,Black,All,‡,NA,,,,,,
+2013,South Dakota,Hispanic,All,258.98,3.3299999999999996,,,,,,
+2013,Tennessee,Black,All,250.58,2.7,,,,,,
+2013,Tennessee,Hispanic,All,261.68,3.75,,,,,,
+2013,Texas,Black,All,252.8,2.4899999999999998,,,,,,
+2013,Texas,Hispanic,All,254.75,1.43,,,,,,
+2013,Utah,Black,All,‡,NA,,,,,,
+2013,Utah,Hispanic,All,255.87,2.2600000000000002,,,,,,
+2013,Vermont,Black,All,257.36,4.48,,,,,,
+2013,Vermont,Hispanic,All,‡,NA,,,,,,
+2013,Virginia,Black,All,249.12,2.14,,,,,,
+2013,Virginia,Hispanic,All,262.12,2.12,,,,,,
+2013,Washington,Black,All,257.57,3.86,,,,,,
+2013,Washington,Hispanic,All,253.26,2.3499999999999996,,,,,,
+2013,West Virginia,Black,All,254.69,3.13,,,,,,
+2013,West Virginia,Hispanic,All,‡,NA,,,,,,
+2013,Wisconsin,Black,All,237.33,1.6700000000000002,,,,,,
+2013,Wisconsin,Hispanic,All,257.64,1.87,,,,,,
+2013,Wyoming,Black,All,‡,NA,,,,,,
+2013,Wyoming,Hispanic,All,261.13,1.86,,,,,,
+2015,National public,Black,All,247.17,0.47000000000000003,,,,,,
+2015,National public,Hispanic,All,252.52,0.43000000000000005,,,,,,
+2015,Alabama,Black,All,243.24,2.03,,,,,,
+2015,Alabama,Hispanic,All,252.48,3.86,,,,,,
+2015,Alaska,Black,All,247.98,4.08,,,,,,
+2015,Alaska,Hispanic,All,262.72,3.03,,,,,,
+2015,Arizona,Black,All,249.47,3.98,,,,,,
+2015,Arizona,Hispanic,All,254.21,1.28,,,,,,
+2015,Arkansas,Black,All,238.35,1.8800000000000001,,,,,,
+2015,Arkansas,Hispanic,All,254.92,2.73,,,,,,
+2015,California,Black,All,248.19,2.59,,,,,,
+2015,California,Hispanic,All,248.55,1.1900000000000002,,,,,,
+2015,Colorado,Black,All,254.96,3.7800000000000002,,,,,,
+2015,Colorado,Hispanic,All,253.41,1.72,,,,,,
+2015,Connecticut,Black,All,250.86,2.53,,,,,,
+2015,Connecticut,Hispanic,All,255.65,2.63,,,,,,
+2015,Delaware,Black,All,248.88,1.36,,,,,,
+2015,Delaware,Hispanic,All,252.85,2.25,,,,,,
+2015,District of Columbia,Black,All,241.62,1.07,,,,,,
+2015,District of Columbia,Hispanic,All,248.61,2.9099999999999997,,,,,,
+2015,DoDEA,Black,All,272.69,1.93,,,,,,
+2015,DoDEA,Hispanic,All,273.42,1.77,,,,,,
+2015,Florida,Black,All,251.14,1.83,,,,,,
+2015,Florida,Hispanic,All,259.82,1.35,,,,,,
+2015,Georgia,Black,All,248.34,1.73,,,,,,
+2015,Georgia,Hispanic,All,256.5,2.13,,,,,,
+2015,Hawaii,Black,All,257.72,4.21,,,,,,
+2015,Hawaii,Hispanic,All,257.64,3.11,,,,,,
+2015,Idaho,Black,All,‡,NA,,,,,,
+2015,Idaho,Hispanic,All,253.02,2.2600000000000002,,,,,,
+2015,Illinois,Black,All,246.54,1.55,,,,,,
+2015,Illinois,Hispanic,All,256.52,1.8,,,,,,
+2015,Indiana,Black,All,252.18,2.53,,,,,,
+2015,Indiana,Hispanic,All,257.33,2.9499999999999997,,,,,,
+2015,Iowa,Black,All,245.2,3.1,,,,,,
+2015,Iowa,Hispanic,All,255.7,2.74,,,,,,
+2015,Kansas,Black,All,246.46,3.7800000000000002,,,,,,
+2015,Kansas,Hispanic,All,254.29,2.55,,,,,,
+2015,Kentucky,Black,All,246.82,2.01,,,,,,
+2015,Kentucky,Hispanic,All,266.28,3.05,,,,,,
+2015,Louisiana,Black,All,243.21,1.56,,,,,,
+2015,Louisiana,Hispanic,All,257.59,3.62,,,,,,
+2015,Maine,Black,All,246.29,4.71,,,,,,
+2015,Maine,Hispanic,All,‡,NA,,,,,,
+2015,Maryland,Black,All,251.18,1.51,,,,,,
+2015,Maryland,Hispanic,All,258.24,2.3,,,,,,
+2015,Massachusetts,Black,All,251.97,2.63,,,,,,
+2015,Massachusetts,Hispanic,All,248.98,2.32,,,,,,
+2015,Michigan,Black,All,243.02,1.83,,,,,,
+2015,Michigan,Hispanic,All,262.69,3.66,,,,,,
+2015,Minnesota,Black,All,246.82,3,,,,,,
+2015,Minnesota,Hispanic,All,259.98,3.3,,,,,,
+2015,Mississippi,Black,All,239.85,1.36,,,,,,
+2015,Mississippi,Hispanic,All,‡,NA,,,,,,
+2015,Missouri,Black,All,245.98,1.96,,,,,,
+2015,Missouri,Hispanic,All,258.32,4.79,,,,,,
+2015,Montana,Black,All,‡,NA,,,,,,
+2015,Montana,Hispanic,All,256.9,3.88,,,,,,
+2015,Nebraska,Black,All,245.38,3.46,,,,,,
+2015,Nebraska,Hispanic,All,256.77,1.86,,,,,,
+2015,Nevada,Black,All,248.59,2.3699999999999997,,,,,,
+2015,Nevada,Hispanic,All,250,1.08,,,,,,
+2015,New Hampshire,Black,All,‡,NA,,,,,,
+2015,New Hampshire,Hispanic,All,262.48,4.6499999999999995,,,,,,
+2015,New Jersey,Black,All,252.9,2.2800000000000002,,,,,,
+2015,New Jersey,Hispanic,All,254.44,2.05,,,,,,
+2015,New Mexico,Black,All,‡,NA,,,,,,
+2015,New Mexico,Hispanic,All,249.2,0.99,,,,,,
+2015,New York,Black,All,247.96,2.14,,,,,,
+2015,New York,Hispanic,All,253.65,2.04,,,,,,
+2015,North Carolina,Black,All,243.22,1.96,,,,,,
+2015,North Carolina,Hispanic,All,251.95,1.9,,,,,,
+2015,North Dakota,Black,All,254.64,2.86,,,,,,
+2015,North Dakota,Hispanic,All,260.68,3.3699999999999997,,,,,,
+2015,Ohio,Black,All,245.24,3.25,,,,,,
+2015,Ohio,Hispanic,All,255.49,6.02,,,,,,
+2015,Oklahoma,Black,All,244.31,3.16,,,,,,
+2015,Oklahoma,Hispanic,All,256.87,1.95,,,,,,
+2015,Oregon,Black,All,‡,NA,,,,,,
+2015,Oregon,Hispanic,All,252.1,1.8900000000000001,,,,,,
+2015,Pennsylvania,Black,All,244.72,2.71,,,,,,
+2015,Pennsylvania,Hispanic,All,249.59,4.24,,,,,,
+2015,Rhode Island,Black,All,247.51,2.9899999999999998,,,,,,
+2015,Rhode Island,Hispanic,All,244.87,1.48,,,,,,
+2015,South Carolina,Black,All,243.59,1.58,,,,,,
+2015,South Carolina,Hispanic,All,249.42,3.58,,,,,,
+2015,South Dakota,Black,All,259.26,3.68,,,,,,
+2015,South Dakota,Hispanic,All,260.12,3.15,,,,,,
+2015,Tennessee,Black,All,246.86,2.29,,,,,,
+2015,Tennessee,Hispanic,All,256.76,3.19,,,,,,
+2015,Texas,Black,All,251.26,2.24,,,,,,
+2015,Texas,Hispanic,All,252.49,1.1600000000000001,,,,,,
+2015,Utah,Black,All,‡,NA,,,,,,
+2015,Utah,Hispanic,All,251.67,2.3699999999999997,,,,,,
+2015,Vermont,Black,All,‡,NA,,,,,,
+2015,Vermont,Hispanic,All,‡,NA,,,,,,
+2015,Virginia,Black,All,249.3,2.08,,,,,,
+2015,Virginia,Hispanic,All,257.45,2.68,,,,,,
+2015,Washington,Black,All,250,4.57,,,,,,
+2015,Washington,Hispanic,All,250.02,2.13,,,,,,
+2015,West Virginia,Black,All,250.18,3.14,,,,,,
+2015,West Virginia,Hispanic,All,‡,NA,,,,,,
+2015,Wisconsin,Black,All,240.86,2.6,,,,,,
+2015,Wisconsin,Hispanic,All,254.83,2.44,,,,,,
+2015,Wyoming,Black,All,‡,NA,,,,,,
+2015,Wyoming,Hispanic,All,258.22,2.17,,,,,,
+2017,National public,Black,All,248.37,0.48000000000000004,,,,,,
+2017,National public,Hispanic,All,254.59,0.5,,,,,,
+2017,Alabama,Black,All,241.15,2.01,,,,,,
+2017,Alabama,Hispanic,All,243.22,4.14,,,,,,
+2017,Alaska,Black,All,245.62,4.22,,,,,,
+2017,Alaska,Hispanic,All,262.13,2.77,,,,,,
+2017,Arizona,Black,All,253.99,3.23,,,,,,
+2017,Arizona,Hispanic,All,253.7,1.36,,,,,,
+2017,Arkansas,Black,All,241.11,1.87,,,,,,
+2017,Arkansas,Hispanic,All,254.96,2.23,,,,,,
+2017,California,Black,All,249.95,3.2,,,,,,
+2017,California,Hispanic,All,251.24,0.99,,,,,,
+2017,Colorado,Black,All,250.43,3.66,,,,,,
+2017,Colorado,Hispanic,All,256.96,1.75,,,,,,
+2017,Connecticut,Black,All,249.47,3.02,,,,,,
+2017,Connecticut,Hispanic,All,252.89,2.1,,,,,,
+2017,Delaware,Black,All,248.36,1.3800000000000001,,,,,,
+2017,Delaware,Hispanic,All,253.66,2.11,,,,,,
+2017,District of Columbia,Black,All,239.61,1.21,,,,,,
+2017,District of Columbia,Hispanic,All,241.5,3.22,,,,,,
+2017,DoDEA,Black,All,267.74,2.1,,,,,,
+2017,DoDEA,Hispanic,All,277.41,1.78,,,,,,
+2017,Florida,Black,All,253.51,1.8900000000000001,,,,,,
+2017,Florida,Hispanic,All,262.41,1.49,,,,,,
+2017,Georgia,Black,All,254.55,1.45,,,,,,
+2017,Georgia,Hispanic,All,259.7,2.08,,,,,,
+2017,Hawaii,Black,All,‡,NA,,,,,,
+2017,Hawaii,Hispanic,All,264.63,2.4299999999999997,,,,,,
+2017,Idaho,Black,All,‡,NA,,,,,,
+2017,Idaho,Hispanic,All,254.66,1.52,,,,,,
+2017,Illinois,Black,All,245.64,1.49,,,,,,
+2017,Illinois,Hispanic,All,258.36,1.45,,,,,,
+2017,Indiana,Black,All,255.11,2.8699999999999997,,,,,,
+2017,Indiana,Hispanic,All,265.43,2.73,,,,,,
+2017,Iowa,Black,All,242.51,4.159999999999999,,,,,,
+2017,Iowa,Hispanic,All,258.3,2.4,,,,,,
+2017,Kansas,Black,All,245.73,3.69,,,,,,
+2017,Kansas,Hispanic,All,257.19,2.12,,,,,,
+2017,Kentucky,Black,All,246.35,2.7,,,,,,
+2017,Kentucky,Hispanic,All,261.34,3.4899999999999998,,,,,,
+2017,Louisiana,Black,All,242.27,1.93,,,,,,
+2017,Louisiana,Hispanic,All,253.35,4.51,,,,,,
+2017,Maine,Black,All,235.17,5.319999999999999,,,,,,
+2017,Maine,Hispanic,All,‡,NA,,,,,,
+2017,Maryland,Black,All,251.01,1.2,,,,,,
+2017,Maryland,Hispanic,All,254.74,2.72,,,,,,
+2017,Massachusetts,Black,All,258.01,2.65,,,,,,
+2017,Massachusetts,Hispanic,All,258.62,2.2800000000000002,,,,,,
+2017,Michigan,Black,All,245.35,2.12,,,,,,
+2017,Michigan,Hispanic,All,259.05,2.84,,,,,,
+2017,Minnesota,Black,All,244.89,3.21,,,,,,
+2017,Minnesota,Hispanic,All,252.23,3.38,,,,,,
+2017,Mississippi,Black,All,241.95,1.1800000000000002,,,,,,
+2017,Mississippi,Hispanic,All,252.9,5.13,,,,,,
+2017,Missouri,Black,All,249.65,3.09,,,,,,
+2017,Missouri,Hispanic,All,257.43,3.84,,,,,,
+2017,Montana,Black,All,‡,NA,,,,,,
+2017,Montana,Hispanic,All,259.39,4.25,,,,,,
+2017,Nebraska,Black,All,245.09,2.63,,,,,,
+2017,Nebraska,Hispanic,All,254.11,2.14,,,,,,
+2017,Nevada,Black,All,246.01,2.3699999999999997,,,,,,
+2017,Nevada,Hispanic,All,253.29,1.06,,,,,,
+2017,New Hampshire,Black,All,‡,NA,,,,,,
+2017,New Hampshire,Hispanic,All,261.05,3.92,,,,,,
+2017,New Jersey,Black,All,256.95,2.82,,,,,,
+2017,New Jersey,Hispanic,All,258.76,2.13,,,,,,
+2017,New Mexico,Black,All,‡,NA,,,,,,
+2017,New Mexico,Hispanic,All,251.26,0.93,,,,,,
+2017,New York,Black,All,251.26,2.32,,,,,,
+2017,New York,Hispanic,All,252.8,2.04,,,,,,
+2017,North Carolina,Black,All,247.87,1.59,,,,,,
+2017,North Carolina,Hispanic,All,254.98,2.2800000000000002,,,,,,
+2017,North Dakota,Black,All,251.75,4.39,,,,,,
+2017,North Dakota,Hispanic,All,259.31,3.8699999999999997,,,,,,
+2017,Ohio,Black,All,243.99,3.3,,,,,,
+2017,Ohio,Hispanic,All,259.6,4.1899999999999995,,,,,,
+2017,Oklahoma,Black,All,246.56,3.4299999999999997,,,,,,
+2017,Oklahoma,Hispanic,All,254.83,2.03,,,,,,
+2017,Oregon,Black,All,‡,NA,,,,,,
+2017,Oregon,Hispanic,All,249.95,1.6500000000000001,,,,,,
+2017,Pennsylvania,Black,All,249.57,2.15,,,,,,
+2017,Pennsylvania,Hispanic,All,244.8,2.63,,,,,,
+2017,Rhode Island,Black,All,247.91,2.4099999999999997,,,,,,
+2017,Rhode Island,Hispanic,All,247.16,1.6300000000000001,,,,,,
+2017,South Carolina,Black,All,240.89,1.31,,,,,,
+2017,South Carolina,Hispanic,All,255.98,3.46,,,,,,
+2017,South Dakota,Black,All,‡,NA,,,,,,
+2017,South Dakota,Hispanic,All,255.13,3.86,,,,,,
+2017,Tennessee,Black,All,242.98,1.3900000000000001,,,,,,
+2017,Tennessee,Hispanic,All,250.91,2.7600000000000002,,,,,,
+2017,Texas,Black,All,247.19,1.82,,,,,,
+2017,Texas,Hispanic,All,254.39,1.3800000000000001,,,,,,
+2017,Utah,Black,All,‡,NA,,,,,,
+2017,Utah,Hispanic,All,251.51,2.01,,,,,,
+2017,Vermont,Black,All,‡,NA,,,,,,
+2017,Vermont,Hispanic,All,‡,NA,,,,,,
+2017,Virginia,Black,All,250.61,2.23,,,,,,
+2017,Virginia,Hispanic,All,259.43,2.58,,,,,,
+2017,Washington,Black,All,255.17,3.9299999999999997,,,,,,
+2017,Washington,Hispanic,All,257.64,1.99,,,,,,
+2017,West Virginia,Black,All,245.34,4.109999999999999,,,,,,
+2017,West Virginia,Hispanic,All,‡,NA,,,,,,
+2017,Wisconsin,Black,All,238.64,2.04,,,,,,
+2017,Wisconsin,Hispanic,All,255.2,2.75,,,,,,
+2017,Wyoming,Black,All,‡,NA,,,,,,
+2017,Wyoming,Hispanic,All,260.7,1.79,,,,,,
+2019,National public,Black,All,243.82,0.46,,,,,,
+2019,National public,Hispanic,All,251.12,0.5700000000000001,,,,,,
+2019,Alabama,Black,All,239.32,2.4499999999999997,,,,,,
+2019,Alabama,Hispanic,All,246.19,5.159999999999999,,,,,,
+2019,Alaska,Black,All,243.08,4.76,,,,,,
+2019,Alaska,Hispanic,All,250.96,4.07,,,,,,
+2019,Arizona,Black,All,238.94,4.44,,,,,,
+2019,Arizona,Hispanic,All,251.16,1.56,,,,,,
+2019,Arkansas,Black,All,237.1,1.9,,,,,,
+2019,Arkansas,Hispanic,All,255.62,3.03,,,,,,
+2019,California,Black,All,235.53,4.03,,,,,,
+2019,California,Hispanic,All,249.16,1.6600000000000001,,,,,,
+2019,Colorado,Black,All,246.09,4.33,,,,,,
+2019,Colorado,Hispanic,All,251.45,1.5,,,,,,
+2019,Connecticut,Black,All,250.58,2.8099999999999996,,,,,,
+2019,Connecticut,Hispanic,All,253.11,2.2,,,,,,
+2019,Delaware,Black,All,245.52,1.48,,,,,,
+2019,Delaware,Hispanic,All,248.61,2.3499999999999996,,,,,,
+2019,District of Columbia,Black,All,240.62,1.1300000000000001,,,,,,
+2019,District of Columbia,Hispanic,All,249.99,2.67,,,,,,
+2019,DoDEA,Black,All,266.86,2.77,,,,,,
+2019,DoDEA,Hispanic,All,274.68,1.61,,,,,,
+2019,Florida,Black,All,247.82,2.36,,,,,,
+2019,Florida,Hispanic,All,258.78,1.48,,,,,,
+2019,Georgia,Black,All,249.47,1.47,,,,,,
+2019,Georgia,Hispanic,All,256.05,2.13,,,,,,
+2019,Hawaii,Black,All,‡,NA,,,,,,
+2019,Hawaii,Hispanic,All,255.33,2.8499999999999996,,,,,,
+2019,Idaho,Black,All,‡,NA,,,,,,
+2019,Idaho,Hispanic,All,249.38,2.19,,,,,,
+2019,Illinois,Black,All,245.54,1.77,,,,,,
+2019,Illinois,Hispanic,All,255.17,1.77,,,,,,
+2019,Indiana,Black,All,245.4,2.9,,,,,,
+2019,Indiana,Hispanic,All,258.77,3.15,,,,,,
+2019,Iowa,Black,All,236.46,3.72,,,,,,
+2019,Iowa,Hispanic,All,249.55,2.77,,,,,,
+2019,Kansas,Black,All,243.57,3.25,,,,,,
+2019,Kansas,Hispanic,All,254.87,1.97,,,,,,
+2019,Kentucky,Black,All,239.4,2.3299999999999996,,,,,,
+2019,Kentucky,Hispanic,All,257.76,4.38,,,,,,
+2019,Louisiana,Black,All,242.24,1.97,,,,,,
+2019,Louisiana,Hispanic,All,257.55,3.98,,,,,,
+2019,Maine,Black,All,236.23,4.96,,,,,,
+2019,Maine,Hispanic,All,‡,NA,,,,,,
+2019,Maryland,Black,All,251.22,1.53,,,,,,
+2019,Maryland,Hispanic,All,247.6,2.29,,,,,,
+2019,Massachusetts,Black,All,258.54,3.07,,,,,,
+2019,Massachusetts,Hispanic,All,250.78,2.67,,,,,,
+2019,Michigan,Black,All,242.99,2.54,,,,,,
+2019,Michigan,Hispanic,All,253.39,3,,,,,,
+2019,Minnesota,Black,All,235.75,3.32,,,,,,
+2019,Minnesota,Hispanic,All,246.88,3.55,,,,,,
+2019,Mississippi,Black,All,244.4,1.1500000000000001,,,,,,
+2019,Mississippi,Hispanic,All,258.56,4.109999999999999,,,,,,
+2019,Missouri,Black,All,240.37,3.8699999999999997,,,,,,
+2019,Missouri,Hispanic,All,257.67,3.6,,,,,,
+2019,Montana,Black,All,‡,NA,,,,,,
+2019,Montana,Hispanic,All,256.64,4.06,,,,,,
+2019,Nebraska,Black,All,239.53,3.51,,,,,,
+2019,Nebraska,Hispanic,All,250.29,2.06,,,,,,
+2019,Nevada,Black,All,242.8,2.84,,,,,,
+2019,Nevada,Hispanic,All,251.23,1.1500000000000001,,,,,,
+2019,New Hampshire,Black,All,‡,NA,,,,,,
+2019,New Hampshire,Hispanic,All,251.43,3.72,,,,,,
+2019,New Jersey,Black,All,249.8,2.64,,,,,,
+2019,New Jersey,Hispanic,All,251.43,2.51,,,,,,
+2019,New Mexico,Black,All,‡,NA,,,,,,
+2019,New Mexico,Hispanic,All,247.8,1.1600000000000001,,,,,,
+2019,New York,Black,All,247.62,2.4699999999999998,,,,,,
+2019,New York,Hispanic,All,248.83,1.87,,,,,,
+2019,North Carolina,Black,All,243.97,1.77,,,,,,
+2019,North Carolina,Hispanic,All,255.93,2.01,,,,,,
+2019,North Dakota,Black,All,246.42,3.9,,,,,,
+2019,North Dakota,Hispanic,All,249.81,3.94,,,,,,
+2019,Ohio,Black,All,240.76,1.95,,,,,,
+2019,Ohio,Hispanic,All,259.15,4.58,,,,,,
+2019,Oklahoma,Black,All,244.39,2.9,,,,,,
+2019,Oklahoma,Hispanic,All,246.04,1.96,,,,,,
+2019,Oregon,Black,All,‡,NA,,,,,,
+2019,Oregon,Hispanic,All,250.01,1.58,,,,,,
+2019,Pennsylvania,Black,All,241.96,2.61,,,,,,
+2019,Pennsylvania,Hispanic,All,243.23,2.9499999999999997,,,,,,
+2019,Rhode Island,Black,All,246.56,3.54,,,,,,
+2019,Rhode Island,Hispanic,All,240.89,1.53,,,,,,
+2019,South Carolina,Black,All,242.04,1.53,,,,,,
+2019,South Carolina,Hispanic,All,252.65,2.8099999999999996,,,,,,
+2019,South Dakota,Black,All,‡,NA,,,,,,
+2019,South Dakota,Hispanic,All,251.91,3.84,,,,,,
+2019,Tennessee,Black,All,245.54,1.3,,,,,,
+2019,Tennessee,Hispanic,All,253.22,2.7800000000000002,,,,,,
+2019,Texas,Black,All,237.79,2.3099999999999996,,,,,,
+2019,Texas,Hispanic,All,250.41,1.4,,,,,,
+2019,Utah,Black,All,‡,NA,,,,,,
+2019,Utah,Hispanic,All,250.71,2.27,,,,,,
+2019,Vermont,Black,All,‡,NA,,,,,,
+2019,Vermont,Hispanic,All,‡,NA,,,,,,
+2019,Virginia,Black,All,242.92,2.08,,,,,,
+2019,Virginia,Hispanic,All,247.03,2.86,,,,,,
+2019,Washington,Black,All,235.72,5.45,,,,,,
+2019,Washington,Hispanic,All,248.16,2.25,,,,,,
+2019,West Virginia,Black,All,238.7,4.470000000000001,,,,,,
+2019,West Virginia,Hispanic,All,‡,NA,,,,,,
+2019,Wisconsin,Black,All,234.7,2.88,,,,,,
+2019,Wisconsin,Hispanic,All,251.47,2.09,,,,,,
+2019,Wyoming,Black,All,‡,NA,,,,,,
+2019,Wyoming,Hispanic,All,254.39,2.27,,,,,,
+2022,National public,Black,All,242.76,0.52,,,,,,
+2022,National public,Hispanic,All,249.8,0.55,,,,,,
+2022,Alabama,Black,All,234.34,1.94,,,,,,
+2022,Alabama,Hispanic,All,244.78,3.12,,,,,,
+2022,Alaska,Black,All,‡,NA,,,,,,
+2022,Alaska,Hispanic,All,254.4,3.75,,,,,,
+2022,Arizona,Black,All,243.98,4.17,,,,,,
+2022,Arizona,Hispanic,All,251.67,1.77,,,,,,
+2022,Arkansas,Black,All,234.8,2.46,,,,,,
+2022,Arkansas,Hispanic,All,251.88,2.6,,,,,,
+2022,California,Black,All,245.41,4.930000000000001,,,,,,
+2022,California,Hispanic,All,249.31,1.6800000000000002,,,,,,
+2022,Colorado,Black,All,246.49,5.1499999999999995,,,,,,
+2022,Colorado,Hispanic,All,248.37,2.14,,,,,,
+2022,Connecticut,Black,All,244.05,2.42,,,,,,
+2022,Connecticut,Hispanic,All,247.28,2.11,,,,,,
+2022,Delaware,Black,All,240.25,2.04,,,,,,
+2022,Delaware,Hispanic,All,244.04,1.86,,,,,,
+2022,District of Columbia,Black,All,242.19,1.1,,,,,,
+2022,District of Columbia,Hispanic,All,245.93,2.72,,,,,,
+2022,DoDEA,Black,All,271.11,2.77,,,,,,
+2022,DoDEA,Hispanic,All,280.77,1.46,,,,,,
+2022,Florida,Black,All,246.9,2.09,,,,,,
+2022,Florida,Hispanic,All,259.98,1.81,,,,,,
+2022,Georgia,Black,All,246.74,2.04,,,,,,
+2022,Georgia,Hispanic,All,253.83,2.13,,,,,,
+2022,Hawaii,Black,All,‡,NA,,,,,,
+2022,Hawaii,Hispanic,All,256.35,2.8099999999999996,,,,,,
+2022,Idaho,Black,All,‡,NA,,,,,,
+2022,Idaho,Hispanic,All,251.34,2.34,,,,,,
+2022,Illinois,Black,All,240.74,2.58,,,,,,
+2022,Illinois,Hispanic,All,253.87,1.54,,,,,,
+2022,Indiana,Black,All,239.87,4.09,,,,,,
+2022,Indiana,Hispanic,All,251.36,2.57,,,,,,
+2022,Iowa,Black,All,237.4,4.75,,,,,,
+2022,Iowa,Hispanic,All,247.78,2.96,,,,,,
+2022,Kansas,Black,All,238.04,4.18,,,,,,
+2022,Kansas,Hispanic,All,247.53,2.16,,,,,,
+2022,Kentucky,Black,All,238.88,2.54,,,,,,
+2022,Kentucky,Hispanic,All,253.87,3.59,,,,,,
+2022,Louisiana,Black,All,243.38,2.09,,,,,,
+2022,Louisiana,Hispanic,All,253.23,3.5,,,,,,
+2022,Maine,Black,All,226.47,5.73,,,,,,
+2022,Maine,Hispanic,All,‡,NA,,,,,,
+2022,Maryland,Black,All,243.83,1.84,,,,,,
+2022,Maryland,Hispanic,All,245.97,2.3699999999999997,,,,,,
+2022,Massachusetts,Black,All,254.02,3.16,,,,,,
+2022,Massachusetts,Hispanic,All,251.79,2.55,,,,,,
+2022,Michigan,Black,All,237.16,2.2800000000000002,,,,,,
+2022,Michigan,Hispanic,All,249.73,3.4699999999999998,,,,,,
+2022,Minnesota,Black,All,236.69,3.58,,,,,,
+2022,Minnesota,Hispanic,All,242.01,6.09,,,,,,
+2022,Mississippi,Black,All,240.36,1.5,,,,,,
+2022,Mississippi,Hispanic,All,247.41,4.46,,,,,,
+2022,Missouri,Black,All,229.77,3.8899999999999997,,,,,,
+2022,Missouri,Hispanic,All,252.87,3.79,,,,,,
+2022,Montana,Black,All,‡,NA,,,,,,
+2022,Montana,Hispanic,All,252.91,4.02,,,,,,
+2022,Nebraska,Black,All,236.11,3.62,,,,,,
+2022,Nebraska,Hispanic,All,244.61,2.16,,,,,,
+2022,Nevada,Black,All,243.19,2.63,,,,,,
+2022,Nevada,Hispanic,All,251.02,1.4,,,,,,
+2022,New Hampshire,Black,All,‡,NA,,,,,,
+2022,New Hampshire,Hispanic,All,245.41,3.8899999999999997,,,,,,
+2022,New Jersey,Black,All,249.48,4.819999999999999,,,,,,
+2022,New Jersey,Hispanic,All,253.74,2.5,,,,,,
+2022,New Mexico,Black,All,‡,NA,,,,,,
+2022,New Mexico,Hispanic,All,242.61,1.1,,,,,,
+2022,New York,Black,All,246.4,3.27,,,,,,
+2022,New York,Hispanic,All,248.03,2.01,,,,,,
+2022,North Carolina,Black,All,241.57,1.92,,,,,,
+2022,North Carolina,Hispanic,All,252.06,2.1,,,,,,
+2022,North Dakota,Black,All,236.85,4.52,,,,,,
+2022,North Dakota,Hispanic,All,248.68,4.92,,,,,,
+2022,Ohio,Black,All,241.15,3.01,,,,,,
+2022,Ohio,Hispanic,All,246.01,3.7800000000000002,,,,,,
+2022,Oklahoma,Black,All,241.56,3.4899999999999998,,,,,,
+2022,Oklahoma,Hispanic,All,242.57,2.6,,,,,,
+2022,Oregon,Black,All,‡,NA,,,,,,
+2022,Oregon,Hispanic,All,243.76,2.3299999999999996,,,,,,
+2022,Pennsylvania,Black,All,239.62,2.74,,,,,,
+2022,Pennsylvania,Hispanic,All,240.76,2.86,,,,,,
+2022,Rhode Island,Black,All,240.43,2.9,,,,,,
+2022,Rhode Island,Hispanic,All,245.43,2.21,,,,,,
+2022,South Carolina,Black,All,239.76,1.81,,,,,,
+2022,South Carolina,Hispanic,All,243.73,3.38,,,,,,
+2022,South Dakota,Black,All,233.78,5.83,,,,,,
+2022,South Dakota,Hispanic,All,251.1,3.6,,,,,,
+2022,Tennessee,Black,All,241.42,2.53,,,,,,
+2022,Tennessee,Hispanic,All,246.22,3.11,,,,,,
+2022,Texas,Black,All,246.71,2.36,,,,,,
+2022,Texas,Hispanic,All,248.21,1.6800000000000002,,,,,,
+2022,Utah,Black,All,‡,NA,,,,,,
+2022,Utah,Hispanic,All,246.99,2.4,,,,,,
+2022,Vermont,Black,All,254.58,4.81,,,,,,
+2022,Vermont,Hispanic,All,‡,NA,,,,,,
+2022,Virginia,Black,All,241.53,2.67,,,,,,
+2022,Virginia,Hispanic,All,245.72,3.11,,,,,,
+2022,Washington,Black,All,240.26,4.79,,,,,,
+2022,Washington,Hispanic,All,248.76,1.93,,,,,,
+2022,West Virginia,Black,All,232.38,5.1899999999999995,,,,,,
+2022,West Virginia,Hispanic,All,‡,NA,,,,,,
+2022,Wisconsin,Black,All,230.83,3.23,,,,,,
+2022,Wisconsin,Hispanic,All,249.59,2.11,,,,,,
+2022,Wyoming,Black,All,‡,NA,,,,,,
+2022,Wyoming,Hispanic,All,251.79,2.34,,,,,,
+2024,National public,Black,All,243,0.6,,,,,,
+2024,National public,Hispanic,All,245,0.6,,,,,,
+2024,Alabama,Black,All,234,2.7,,,,,,
+2024,Alabama,Hispanic,All,243,5.1,,,,,,
+2024,Alaska,Black,All,�,�,,,,,,
+2024,Alaska,Hispanic,All,252,3.8,,,,,,
+2024,Arizona,Black,All,238,3.4,,,,,,
+2024,Arizona,Hispanic,All,246,1.9,,,,,,
+2024,Arkansas,Black,All,237,2.8,,,,,,
+2024,Arkansas,Hispanic,All,247,2,,,,,,
+2024,California,Black,All,247,4.7,,,,,,
+2024,California,Hispanic,All,242,2.2,,,,,,
+2024,Colorado,Black,All,262,3.1,,,,,,
+2024,Colorado,Hispanic,All,248,2.1,,,,,,
+2024,Connecticut,Black,All,246,3.9,,,,,,
+2024,Connecticut,Hispanic,All,245,2.5,,,,,,
+2024,Delaware,Black,All,238,2,,,,,,
+2024,Delaware,Hispanic,All,242,2,,,,,,
+2024,District of Columbia,Black,All,242,1.1,,,,,,
+2024,District of Columbia,Hispanic,All,248,2.6,,,,,,
+2024,DoDEA,Black,All,270,2.5,,,,,,
+2024,DoDEA,Hispanic,All,277,1.2,,,,,,
+2024,Florida,Black,All,241,1.6,,,,,,
+2024,Florida,Hispanic,All,248,1.5,,,,,,
+2024,Georgia,Black,All,247,2.1,,,,,,
+2024,Georgia,Hispanic,All,253,2.8,,,,,,
+2024,Hawaii,Black,All,�,�,,,,,,
+2024,Hawaii,Hispanic,All,252,2.7,,,,,,
+2024,Idaho,Black,All,�,�,,,,,,
+2024,Idaho,Hispanic,All,245,2.7,,,,,,
+2024,Illinois,Black,All,242,3,,,,,,
+2024,Illinois,Hispanic,All,252,2.3,,,,,,
+2024,Indiana,Black,All,240,3,,,,,,
+2024,Indiana,Hispanic,All,249,2.3,,,,,,
+2024,Iowa,Black,All,232,4,,,,,,
+2024,Iowa,Hispanic,All,251,2.9,,,,,,
+2024,Kansas,Black,All,240,3.7,,,,,,
+2024,Kansas,Hispanic,All,244,2.5,,,,,,
+2024,Kentucky,Black,All,238,3.1,,,,,,
+2024,Kentucky,Hispanic,All,243,3.2,,,,,,
+2024,Louisiana,Black,All,246,2,,,,,,
+2024,Louisiana,Hispanic,All,249,3.2,,,,,,
+2024,Maine,Black,All,�,�,,,,,,
+2024,Maine,Hispanic,All,�,�,,,,,,
+2024,Maryland,Black,All,245,1.9,,,,,,
+2024,Maryland,Hispanic,All,244,2.5,,,,,,
+2024,Massachusetts,Black,All,252,2.3,,,,,,
+2024,Massachusetts,Hispanic,All,250,2.1,,,,,,
+2024,Michigan,Black,All,236,3.3,,,,,,
+2024,Michigan,Hispanic,All,246,3.2,,,,,,
+2024,Minnesota,Black,All,240,3.2,,,,,,
+2024,Minnesota,Hispanic,All,243,3,,,,,,
+2024,Mississippi,Black,All,243,1.6,,,,,,
+2024,Mississippi,Hispanic,All,246,5.4,,,,,,
+2024,Missouri,Black,All,237,3.8,,,,,,
+2024,Missouri,Hispanic,All,236,3.5,,,,,,
+2024,Montana,Black,All,�,�,,,,,,
+2024,Montana,Hispanic,All,249,4,,,,,,
+2024,Nebraska,Black,All,238,4.8,,,,,,
+2024,Nebraska,Hispanic,All,241,1.8,,,,,,
+2024,Nevada,Black,All,243,2.5,,,,,,
+2024,Nevada,Hispanic,All,246,2.1,,,,,,
+2024,New Hampshire,Black,All,�,�,,,,,,
+2024,New Hampshire,Hispanic,All,252,3.5,,,,,,
+2024,New Jersey,Black,All,253,3.1,,,,,,
+2024,New Jersey,Hispanic,All,247,2.6,,,,,,
+2024,New Mexico,Black,All,�,�,,,,,,
+2024,New Mexico,Hispanic,All,240,1.3,,,,,,
+2024,New York,Black,All,248,4.9,,,,,,
+2024,New York,Hispanic,All,243,3.8,,,,,,
+2024,North Carolina,Black,All,239,2,,,,,,
+2024,North Carolina,Hispanic,All,245,2.4,,,,,,
+2024,North Dakota,Black,All,246,4.4,,,,,,
+2024,North Dakota,Hispanic,All,253,3.3,,,,,,
+2024,Ohio,Black,All,237,3.4,,,,,,
+2024,Ohio,Hispanic,All,246,3.7,,,,,,
+2024,Oklahoma,Black,All,233,4.5,,,,,,
+2024,Oklahoma,Hispanic,All,239,2.8,,,,,,
+2024,Oregon,Black,All,�,�,,,,,,
+2024,Oregon,Hispanic,All,239,2.3,,,,,,
+2024,Pennsylvania,Black,All,241,3.4,,,,,,
+2024,Pennsylvania,Hispanic,All,239,2.6,,,,,,
+2024,Rhode Island,Black,All,241,4,,,,,,
+2024,Rhode Island,Hispanic,All,242,1.6,,,,,,
+2024,South Carolina,Black,All,238,2,,,,,,
+2024,South Carolina,Hispanic,All,247,3.2,,,,,,
+2024,South Dakota,Black,All,244,6.1,,,,,,
+2024,South Dakota,Hispanic,All,248,3,,,,,,
+2024,Tennessee,Black,All,247,4,,,,,,
+2024,Tennessee,Hispanic,All,247,3.7,,,,,,
+2024,Texas,Black,All,244,2.9,,,,,,
+2024,Texas,Hispanic,All,242,1.5,,,,,,
+2024,Utah,Black,All,�,�,,,,,,
+2024,Utah,Hispanic,All,245,2.7,,,,,,
+2024,Vermont,Black,All,�,�,,,,,,
+2024,Vermont,Hispanic,All,�,�,,,,,,
+2024,Virginia,Black,All,239,2.5,,,,,,
+2024,Virginia,Hispanic,All,241,2.8,,,,,,
+2024,Washington,Black,All,241,5,,,,,,
+2024,Washington,Hispanic,All,246,2.4,,,,,,
+2024,West Virginia,Black,All,�,�,,,,,,
+2024,West Virginia,Hispanic,All,�,�,,,,,,
+2024,Wisconsin,Black,All,228,3.8,,,,,,
+2024,Wisconsin,Hispanic,All,246,3.4,,,,,,
+2024,Wyoming,Black,All,�,�,,,,,,
+2024,Wyoming,Hispanic,All,248,2.2,,,,,,

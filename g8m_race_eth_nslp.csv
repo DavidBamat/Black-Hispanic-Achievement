@@ -3239,3 +3239,327 @@ Year,Jurisdiction,RaceEth,NSLP,Mean,SE
 2022,Wyoming,Hispanic,Eligible,263.24,4.08
 2022,Wyoming,Black,Not Eligible,NA,NA
 2022,Wyoming,Hispanic,Not Eligible,274.73,3.6
+2024,National public,Black,All,251,0.7
+2024,National public,Hispanic,All,257,0.6
+2024,Alabama,Black,All,241,2.4
+2024,Alabama,Hispanic,All,250,4.4
+2024,Alaska,Black,All,‡,†
+2024,Alaska,Hispanic,All,261,3.2
+2024,Arizona,Black,All,257,4.7
+2024,Arizona,Hispanic,All,256,1.7
+2024,Arkansas,Black,All,240,2
+2024,Arkansas,Hispanic,All,260,2.7
+2024,California,Black,All,252,4.3
+2024,California,Hispanic,All,253,1.7
+2024,Colorado,Black,All,253,5.6
+2024,Colorado,Hispanic,All,261,1.9
+2024,Connecticut,Black,All,256,3.7
+2024,Connecticut,Hispanic,All,255,2.7
+2024,Delaware,Black,All,245,2.2
+2024,Delaware,Hispanic,All,257,2
+2024,District of Columbia,Black,All,250,1.2
+2024,District of Columbia,Hispanic,All,255,1.9
+2024,DoDEA,Black,All,276,2.6
+2024,DoDEA,Hispanic,All,286,1.5
+2024,Florida,Black,All,250,1.5
+2024,Florida,Hispanic,All,260,1.8
+2024,Georgia,Black,All,250,1.7
+2024,Georgia,Hispanic,All,261,2.5
+2024,Hawaii,Black,All,‡,†
+2024,Hawaii,Hispanic,All,259,1.8
+2024,Idaho,Black,All,‡,†
+2024,Idaho,Hispanic,All,256,2.5
+2024,Illinois,Black,All,250,2.3
+2024,Illinois,Hispanic,All,262,1.8
+2024,Indiana,Black,All,248,2.6
+2024,Indiana,Hispanic,All,267,2.8
+2024,Iowa,Black,All,240,3.4
+2024,Iowa,Hispanic,All,257,2.6
+2024,Kansas,Black,All,245,4.4
+2024,Kansas,Hispanic,All,259,3
+2024,Kentucky,Black,All,247,2
+2024,Kentucky,Hispanic,All,258,2.9
+2024,Louisiana,Black,All,251,2.1
+2024,Louisiana,Hispanic,All,258,3.1
+2024,Maine,Black,All,255,4
+2024,Maine,Hispanic,All,‡,†
+2024,Maryland,Black,All,252,1.7
+2024,Maryland,Hispanic,All,253,2
+2024,Massachusetts,Black,All,257,2.9
+2024,Massachusetts,Hispanic,All,261,2.6
+2024,Michigan,Black,All,243,2.6
+2024,Michigan,Hispanic,All,256,4.2
+2024,Minnesota,Black,All,256,3
+2024,Minnesota,Hispanic,All,256,2.9
+2024,Mississippi,Black,All,255,1.6
+2024,Mississippi,Hispanic,All,261,3.6
+2024,Missouri,Black,All,245,2.7
+2024,Missouri,Hispanic,All,262,3.4
+2024,Montana,Black,All,‡,†
+2024,Montana,Hispanic,All,267,4
+2024,Nebraska,Black,All,244,4.6
+2024,Nebraska,Hispanic,All,261,2.2
+2024,Nevada,Black,All,247,2.2
+2024,Nevada,Hispanic,All,256,1.2
+2024,New Hampshire,Black,All,‡,†
+2024,New Hampshire,Hispanic,All,258,3.3
+2024,New Jersey,Black,All,256,3.7
+2024,New Jersey,Hispanic,All,261,2.3
+2024,New Mexico,Black,All,‡,†
+2024,New Mexico,Hispanic,All,250,1.3
+2024,New York,Black,All,257,4.9
+2024,New York,Hispanic,All,253,2.6
+2024,North Carolina,Black,All,251,2.2
+2024,North Carolina,Hispanic,All,264,1.8
+2024,North Dakota,Black,All,250,4.5
+2024,North Dakota,Hispanic,All,262,4.6
+2024,Ohio,Black,All,250,3.5
+2024,Ohio,Hispanic,All,264,4.3
+2024,Oklahoma,Black,All,243,4.1
+2024,Oklahoma,Hispanic,All,256,2.6
+2024,Oregon,Black,All,‡,†
+2024,Oregon,Hispanic,All,245,2.5
+2024,Pennsylvania,Black,All,246,2.3
+2024,Pennsylvania,Hispanic,All,252,4
+2024,Puerto Rico,Black,All,‡,†
+2024,Puerto Rico,Hispanic,All,216,0.6
+2024,Rhode Island,Black,All,251,3.4
+2024,Rhode Island,Hispanic,All,249,1.6
+2024,South Carolina,Black,All,248,1.8
+2024,South Carolina,Hispanic,All,259,2.8
+2024,South Dakota,Black,All,257,4.5
+2024,South Dakota,Hispanic,All,263,3.7
+2024,Tennessee,Black,All,259,4.6
+2024,Tennessee,Hispanic,All,255,3.3
+2024,Texas,Black,All,254,3.9
+2024,Texas,Hispanic,All,261,1.5
+2024,Utah,Black,All,‡,†
+2024,Utah,Hispanic,All,260,2.4
+2024,Vermont,Black,All,‡,†
+2024,Vermont,Hispanic,All,‡,†
+2024,Virginia,Black,All,250,2.4
+2024,Virginia,Hispanic,All,256,2.8
+2024,Washington,Black,All,258,4.8
+2024,Washington,Hispanic,All,249,2
+2024,West Virginia,Black,All,240,4.8
+2024,West Virginia,Hispanic,All,‡,†
+2024,Wisconsin,Black,All,242,3.1
+2024,Wisconsin,Hispanic,All,260,4.1
+2024,Wyoming,Black,All,‡,†
+2024,Wyoming,Hispanic,All,262,2
+2024,National public,Black,Eligible,246,0.7
+2024,National public,Black,Not Eligible,264,1.1
+2024,National public,Hispanic,Eligible,253,0.6
+2024,National public,Hispanic,Not Eligible,268,0.8
+2024,Alabama,Black,Eligible,237,2.3
+2024,Alabama,Black,Not Eligible,262,4.4
+2024,Alabama,Hispanic,Eligible,247,4.1
+2024,Alabama,Hispanic,Not Eligible,‡,†
+2024,Alaska,Black,Eligible,‡,†
+2024,Alaska,Black,Not Eligible,‡,†
+2024,Alaska,Hispanic,Eligible,255,4.5
+2024,Alaska,Hispanic,Not Eligible,270,3.6
+2024,Arizona,Black,Eligible,248,4.8
+2024,Arizona,Black,Not Eligible,‡,†
+2024,Arizona,Hispanic,Eligible,252,2
+2024,Arizona,Hispanic,Not Eligible,266,3.2
+2024,Arkansas,Black,Eligible,238,2.1
+2024,Arkansas,Black,Not Eligible,‡,†
+2024,Arkansas,Hispanic,Eligible,257,3
+2024,Arkansas,Hispanic,Not Eligible,‡,†
+2024,California,Black,Eligible,244,4.2
+2024,California,Black,Not Eligible,‡,†
+2024,California,Hispanic,Eligible,249,1.9
+2024,California,Hispanic,Not Eligible,271,2.2
+2024,Colorado,Black,Eligible,246,6.6
+2024,Colorado,Black,Not Eligible,‡,†
+2024,Colorado,Hispanic,Eligible,255,1.9
+2024,Colorado,Hispanic,Not Eligible,276,3.6
+2024,Connecticut,Black,Eligible,246,5
+2024,Connecticut,Black,Not Eligible,274,3.9
+2024,Connecticut,Hispanic,Eligible,247,2.6
+2024,Connecticut,Hispanic,Not Eligible,272,4.3
+2024,Delaware,Black,Eligible,237,2.3
+2024,Delaware,Black,Not Eligible,250,2.6
+2024,Delaware,Hispanic,Eligible,249,3.5
+2024,Delaware,Hispanic,Not Eligible,261,2.6
+2024,District of Columbia,Black,Eligible,243,1.5
+2024,District of Columbia,Black,Not Eligible,261,1.7
+2024,District of Columbia,Hispanic,Eligible,249,3.2
+2024,District of Columbia,Hispanic,Not Eligible,258,2.7
+2024,DoDEA,Black,Eligible,‡,†
+2024,DoDEA,Black,Not Eligible,‡,†
+2024,DoDEA,Hispanic,Eligible,‡,†
+2024,DoDEA,Hispanic,Not Eligible,‡,†
+2024,Florida,Black,Eligible,246,1.8
+2024,Florida,Black,Not Eligible,259,2.8
+2024,Florida,Hispanic,Eligible,257,1.7
+2024,Florida,Hispanic,Not Eligible,265,2.8
+2024,Georgia,Black,Eligible,247,2.1
+2024,Georgia,Black,Not Eligible,268,2.4
+2024,Georgia,Hispanic,Eligible,258,2.9
+2024,Georgia,Hispanic,Not Eligible,276,5.8
+2024,Hawaii,Black,Eligible,‡,†
+2024,Hawaii,Black,Not Eligible,‡,†
+2024,Hawaii,Hispanic,Eligible,252,3
+2024,Hawaii,Hispanic,Not Eligible,268,2.4
+2024,Idaho,Black,Eligible,‡,†
+2024,Idaho,Black,Not Eligible,‡,†
+2024,Idaho,Hispanic,Eligible,251,2.4
+2024,Idaho,Hispanic,Not Eligible,262,3.8
+2024,Illinois,Black,Eligible,246,2.3
+2024,Illinois,Black,Not Eligible,264,5.7
+2024,Illinois,Hispanic,Eligible,257,1.9
+2024,Illinois,Hispanic,Not Eligible,275,3.3
+2024,Indiana,Black,Eligible,245,2.8
+2024,Indiana,Black,Not Eligible,255,5.4
+2024,Indiana,Hispanic,Eligible,264,3.8
+2024,Indiana,Hispanic,Not Eligible,274,4.7
+2024,Iowa,Black,Eligible,237,3.3
+2024,Iowa,Black,Not Eligible,‡,†
+2024,Iowa,Hispanic,Eligible,250,2.8
+2024,Iowa,Hispanic,Not Eligible,‡,†
+2024,Kansas,Black,Eligible,236,5.2
+2024,Kansas,Black,Not Eligible,‡,†
+2024,Kansas,Hispanic,Eligible,252,3.1
+2024,Kansas,Hispanic,Not Eligible,270,4.2
+2024,Kentucky,Black,Eligible,244,2.4
+2024,Kentucky,Black,Not Eligible,260,4.7
+2024,Kentucky,Hispanic,Eligible,258,3.3
+2024,Kentucky,Hispanic,Not Eligible,256,7.6
+2024,Louisiana,Black,Eligible,248,2
+2024,Louisiana,Black,Not Eligible,272,4.5
+2024,Louisiana,Hispanic,Eligible,253,3.6
+2024,Louisiana,Hispanic,Not Eligible,‡,†
+2024,Maine,Black,Eligible,‡,†
+2024,Maine,Black,Not Eligible,‡,†
+2024,Maine,Hispanic,Eligible,‡,†
+2024,Maine,Hispanic,Not Eligible,‡,†
+2024,Maryland,Black,Eligible,243,1.9
+2024,Maryland,Black,Not Eligible,264,2.6
+2024,Maryland,Hispanic,Eligible,249,3
+2024,Maryland,Hispanic,Not Eligible,256,2.7
+2024,Massachusetts,Black,Eligible,252,3.4
+2024,Massachusetts,Black,Not Eligible,268,5.4
+2024,Massachusetts,Hispanic,Eligible,256,3
+2024,Massachusetts,Hispanic,Not Eligible,275,4
+2024,Michigan,Black,Eligible,240,2.4
+2024,Michigan,Black,Not Eligible,256,6.1
+2024,Michigan,Hispanic,Eligible,254,4.5
+2024,Michigan,Hispanic,Not Eligible,262,5.7
+2024,Minnesota,Black,Eligible,253,2.9
+2024,Minnesota,Black,Not Eligible,‡,†
+2024,Minnesota,Hispanic,Eligible,251,3.2
+2024,Minnesota,Hispanic,Not Eligible,‡,†
+2024,Mississippi,Black,Eligible,253,1.7
+2024,Mississippi,Black,Not Eligible,267,4.8
+2024,Mississippi,Hispanic,Eligible,261,3.9
+2024,Mississippi,Hispanic,Not Eligible,‡,†
+2024,Missouri,Black,Eligible,240,3.1
+2024,Missouri,Black,Not Eligible,‡,†
+2024,Missouri,Hispanic,Eligible,252,4.1
+2024,Missouri,Hispanic,Not Eligible,‡,†
+2024,Montana,Black,Eligible,‡,†
+2024,Montana,Black,Not Eligible,‡,†
+2024,Montana,Hispanic,Eligible,‡,†
+2024,Montana,Hispanic,Not Eligible,‡,†
+2024,Nebraska,Black,Eligible,240,4.7
+2024,Nebraska,Black,Not Eligible,‡,†
+2024,Nebraska,Hispanic,Eligible,257,2.2
+2024,Nebraska,Hispanic,Not Eligible,273,5
+2024,Nevada,Black,Eligible,246,2.3
+2024,Nevada,Black,Not Eligible,‡,†
+2024,Nevada,Hispanic,Eligible,254,1.1
+2024,Nevada,Hispanic,Not Eligible,270,5
+2024,New Hampshire,Black,Eligible,‡,†
+2024,New Hampshire,Black,Not Eligible,‡,†
+2024,New Hampshire,Hispanic,Eligible,‡,†
+2024,New Hampshire,Hispanic,Not Eligible,266,4
+2024,New Jersey,Black,Eligible,252,3.8
+2024,New Jersey,Black,Not Eligible,265,6.2
+2024,New Jersey,Hispanic,Eligible,256,3
+2024,New Jersey,Hispanic,Not Eligible,270,3
+2024,New Mexico,Black,Eligible,‡,†
+2024,New Mexico,Black,Not Eligible,‡,†
+2024,New Mexico,Hispanic,Eligible,242,1.6
+2024,New Mexico,Hispanic,Not Eligible,260,2
+2024,New York,Black,Eligible,255,5.4
+2024,New York,Black,Not Eligible,262,6.1
+2024,New York,Hispanic,Eligible,250,2.4
+2024,New York,Hispanic,Not Eligible,265,5.1
+2024,North Carolina,Black,Eligible,246,2.3
+2024,North Carolina,Black,Not Eligible,265,2.9
+2024,North Carolina,Hispanic,Eligible,260,1.9
+2024,North Carolina,Hispanic,Not Eligible,270,3.7
+2024,North Dakota,Black,Eligible,‡,†
+2024,North Dakota,Black,Not Eligible,‡,†
+2024,North Dakota,Hispanic,Eligible,‡,†
+2024,North Dakota,Hispanic,Not Eligible,‡,†
+2024,Ohio,Black,Eligible,246,4.3
+2024,Ohio,Black,Not Eligible,‡,†
+2024,Ohio,Hispanic,Eligible,261,4.8
+2024,Ohio,Hispanic,Not Eligible,‡,†
+2024,Oklahoma,Black,Eligible,237,4.4
+2024,Oklahoma,Black,Not Eligible,‡,†
+2024,Oklahoma,Hispanic,Eligible,253,3.1
+2024,Oklahoma,Hispanic,Not Eligible,269,4.7
+2024,Oregon,Black,Eligible,‡,†
+2024,Oregon,Black,Not Eligible,‡,†
+2024,Oregon,Hispanic,Eligible,240,3.7
+2024,Oregon,Hispanic,Not Eligible,249,2.9
+2024,Pennsylvania,Black,Eligible,243,2.3
+2024,Pennsylvania,Black,Not Eligible,260,6
+2024,Pennsylvania,Hispanic,Eligible,247,3.4
+2024,Pennsylvania,Hispanic,Not Eligible,262,7.4
+2024,Puerto Rico,Black,Eligible,‡,†
+2024,Puerto Rico,Black,Not Eligible,‡,†
+2024,Puerto Rico,Hispanic,Eligible,214,0.7
+2024,Puerto Rico,Hispanic,Not Eligible,226,1.1
+2024,Rhode Island,Black,Eligible,249,3.9
+2024,Rhode Island,Black,Not Eligible,256,5.1
+2024,Rhode Island,Hispanic,Eligible,243,2.1
+2024,Rhode Island,Hispanic,Not Eligible,260,2.7
+2024,South Carolina,Black,Eligible,245,2.1
+2024,South Carolina,Black,Not Eligible,260,3.7
+2024,South Carolina,Hispanic,Eligible,259,4.1
+2024,South Carolina,Hispanic,Not Eligible,258,6.3
+2024,South Dakota,Black,Eligible,‡,†
+2024,South Dakota,Black,Not Eligible,‡,†
+2024,South Dakota,Hispanic,Eligible,255,4.5
+2024,South Dakota,Hispanic,Not Eligible,274,4.9
+2024,Tennessee,Black,Eligible,251,4.9
+2024,Tennessee,Black,Not Eligible,267,4.6
+2024,Tennessee,Hispanic,Eligible,251,5.1
+2024,Tennessee,Hispanic,Not Eligible,256,4.1
+2024,Texas,Black,Eligible,249,3.2
+2024,Texas,Black,Not Eligible,267,6.8
+2024,Texas,Hispanic,Eligible,257,1.6
+2024,Texas,Hispanic,Not Eligible,271,2.3
+2024,Utah,Black,Eligible,‡,†
+2024,Utah,Black,Not Eligible,‡,†
+2024,Utah,Hispanic,Eligible,254,3
+2024,Utah,Hispanic,Not Eligible,268,3.3
+2024,Vermont,Black,Eligible,‡,†
+2024,Vermont,Black,Not Eligible,‡,†
+2024,Vermont,Hispanic,Eligible,‡,†
+2024,Vermont,Hispanic,Not Eligible,‡,†
+2024,Virginia,Black,Eligible,245,2.5
+2024,Virginia,Black,Not Eligible,261,4.2
+2024,Virginia,Hispanic,Eligible,252,3.2
+2024,Virginia,Hispanic,Not Eligible,262,4.4
+2024,Washington,Black,Eligible,252,6
+2024,Washington,Black,Not Eligible,‡,†
+2024,Washington,Hispanic,Eligible,246,2
+2024,Washington,Hispanic,Not Eligible,260,4.2
+2024,West Virginia,Black,Eligible,‡,†
+2024,West Virginia,Black,Not Eligible,‡,†
+2024,West Virginia,Hispanic,Eligible,‡,†
+2024,West Virginia,Hispanic,Not Eligible,‡,†
+2024,Wisconsin,Black,Eligible,237,3.4
+2024,Wisconsin,Black,Not Eligible,257,5.4
+2024,Wisconsin,Hispanic,Eligible,253,4.3
+2024,Wisconsin,Hispanic,Not Eligible,275,4.1
+2024,Wyoming,Black,Eligible,‡,†
+2024,Wyoming,Black,Not Eligible,‡,†
+2024,Wyoming,Hispanic,Eligible,251,2.7
+2024,Wyoming,Hispanic,Not Eligible,274,2.6
